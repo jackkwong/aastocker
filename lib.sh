@@ -34,3 +34,16 @@ function arithmeticMean {
     echo "$formula" >&2
     echo "scale=4; ($formula)" | bc
 }
+
+function reportField {
+    local fieldName="$1"
+    local html="$2"
+    local values="`getFiveYearsFiguresForField "$fieldName" "$html" 2>/dev/null`"
+
+    echo "last 5 historical $fieldName:"
+    echo "$values" | paste -s -
+
+    echo "5-years arithmetic mean of $fieldName:"
+    arithmeticMean "$values" 2>/dev/null
+    echo
+}
