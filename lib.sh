@@ -20,7 +20,7 @@ function inferCSSTagForField {
 function getFiveYearsFiguresForField {
     local fieldName="$1"
     local html="$2"
-    local tag="`inferCSSTagForField 'Return on Equity (%)' "$html"`"
+    local tag="`inferCSSTagForField "$fieldName" "$html"`"
     echo "inferred CSS tag: \"$tag\"" >&2
 
     local values="`echo "$html" | hxselect -s '\n' "tr[ref=$tag] td.cfvalue" | sed -E 's/<[^\>]*>//g'`"
