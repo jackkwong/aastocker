@@ -1,36 +1,36 @@
 function getNormalizedHTML {
-    url="$1"
-    html="`curl -sL "$url" | hxnormalize -x -e 2>/dev/null`"
+    local url="$1"
+    local html="`curl -sL "$url" | hxnormalize -x -e 2>/dev/null`"
     echo "$html"
 }
 
 function getUrlFinancialRatio {
-    symbol="$1"
-    url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/financial-ratios?symbol=$symbol"
+    local symbol="$1"
+    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/financial-ratios?symbol=$symbol"
     echo "$url"
 }
 
 function inferCSSTagForField {
-    fieldName="$1"
-    html="$2"
-    tag="`echo "$html" | grep "$fieldName" -B 2 | grep 'ref=' | sed -E 's/.*ref="([^"]*)".*/\1/' `"
+    local fieldName="$1"
+    local html="$2"
+    local tag="`echo "$html" | grep "$fieldName" -B 2 | grep 'ref=' | sed -E 's/.*ref="([^"]*)".*/\1/' `"
     echo "$tag"
 }
 
 function getFiveYearsFiguresForField {
-    fieldName="$1"
-    html="$2"
-    tag="`inferCSSTagForField 'Return on Equity (%)' "$html"`"
+    local fieldName="$1"
+    local html="$2"
+    local tag="`inferCSSTagForField 'Return on Equity (%)' "$html"`"
     echo "inferred CSS tag: \"$tag\"" >&2
 
-    values="`echo "$html" | hxselect -s '\n' "tr[ref=$tag] td.cfvalue" | sed -E 's/<[^\>]*>//g'`"
+    local values="`echo "$html" | hxselect -s '\n' "tr[ref=$tag] td.cfvalue" | sed -E 's/<[^\>]*>//g'`"
     echo "$values"
 }
 
 function arithmeticMean {
-    numbers="$1"
-    n="`echo "$numbers" | wc -l | sed 's/[ 	\s]//g'`"
-    formula="(`echo "$numbers" | paste -sd+ -`) / $n"
+    local numbers="$1"
+    local n="`echo "$numbers" | wc -l | sed 's/[ 	\s]//g'`"
+    local formula="(`echo "$numbers" | paste -sd+ -`) / $n"
     echo "$formula" >&2
     echo "scale=4; ($formula)" | bc
 }
