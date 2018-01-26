@@ -26,3 +26,11 @@ function getFiveYearsFiguresForField {
     values="`echo "$html" | hxselect -s '\n' "tr[ref=$tag] td.cfvalue" | sed -E 's/<[^\>]*>//g'`"
     echo "$values"
 }
+
+function arithmeticMean {
+    numbers="$1"
+    n="`echo "$numbers" | wc -l | sed 's/[ 	\s]//g'`"
+    formula="(`echo "$numbers" | paste -sd+ -`) / $n"
+    echo "$formula" >&2
+    echo "scale=4; ($formula)" | bc
+}
