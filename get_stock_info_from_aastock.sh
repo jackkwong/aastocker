@@ -4,7 +4,10 @@ url="`getUrlFinancialRatio "$symbol"`"
 echo "URL: \"$url\"" >&2
 echo
 html="`getNormalizedHTML "$url"`"
+title="`echo $html | hxselect title | sed -E 's/ *<[^>]*> *//g' | sed -E 's/ - .*//g'`"
 
+echo "@@@@ $title @@@@"
+echo
 echo "#### Liquidity Analysis ####"
 reportField 'Current Ratio (X)' "$html"
 reportField 'Quick Ratio (X)' "$html"
@@ -37,3 +40,5 @@ reportField 'Fiscal Year PER Range High (X)' "$html"
 reportField 'Fiscal Year PER Range Low (X)' "$html"
 reportField 'Fiscal Year Yield Range High (%)' "$html"
 reportField 'Fiscal Year Yield Range Low (%)' "$html"
+
+echo "@@@@@@@@@@@@@@@@"
