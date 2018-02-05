@@ -1,0 +1,24 @@
+{
+  "name": "aastock-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "read_basic_info.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackkwong/aastocker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackkwong/aastocker/issues"
+  },
+  "homepage": "https://github.com/jackkwong/aastocker#readme"
+}
