@@ -1,28 +1,10 @@
-const fs = require('fs')
-const cheerio = require('cheerio')
+const pipeTemplate = require('./pipe_script_template.js')
 
-process.on("SIGPIPE", process.exit)
-
-var data = ""
-
-process.stdin.setEncoding('utf8');
-process.stdin.resume();
-
-process.stdin.on('data', function(chunk) {
-    data += chunk;
-});
-
-process.stdin.on('end', function() {
-    parseHTML(data)
-});
-
-function parseHTML(html) {
-    const $ = cheerio.load(html)
-
+function parseBasicInfo($) {
     const reducer = function(accumulator, currentValue, currentIndex){
         const tds = $(currentValue).find('td')
-        const key = tds.eq(0).text().replace(/[\n \s]+/g, ' ')
-        const value = tds.eq(1).text()
+        const key = tds.eq(0).text().replace(/[\n \s]+/g, ' ').trim()
+        const value = tds.eq(1).text().trim()
         accumulator[key] = value
         return accumulator
     }
@@ -30,4 +12,6 @@ function parseHTML(html) {
 
     console.log(JSON.stringify(data, null, 2))
 }
+
+pipeTemplate.init(parseBasicInfo)
 
