@@ -38,7 +38,7 @@ function getUrlCashFlow {
 }
 function getUrlBalanceSheet {
     local symbol="$1"
-    local url="http://www.aastocks.com//en/stocks/analysis/company-fundamental/balance-sheet?symbol=$symbol"
+    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/balance-sheet?symbol=$symbol"
     echo "$url"
 }
 function getUrlEarningsSummary {
