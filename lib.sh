@@ -10,6 +10,12 @@ function getUrlFinancialRatio {
     echo "$url"
 }
 
+function getUrlBasicInformation {
+    local symbol="$1"
+    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/basic-information?symbol=$symbol"
+    echo "$url"
+}
+
 function inferCSSTagForField {
     local fieldName="$1"
     local html="$2"
