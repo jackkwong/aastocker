@@ -6,54 +6,71 @@ function getNormalizedHTML {
 
 function getUrlCompanyProfile {
     local symbol="$1"
-    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/company-profile?symbol=$symbol"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/company-profile?symbol=$symbol"
     echo "$url"
 }
 
 function getUrlCompanyInformation {
     local symbol="$1"
-    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/company-information?symbol=$symbol"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/company-information?symbol=$symbol"
     echo "$url"
 }
 
 function getUrlBasicInformation {
     local symbol="$1"
-    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/basic-information?symbol=$symbol"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/basic-information?symbol=$symbol"
     echo "$url"
 }
+
 function getUrlFinancialRatio {
     local symbol="$1"
-    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/financial-ratios?symbol=$symbol"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/financial-ratios?symbol=$symbol"
     echo "$url"
 }
+
 function getUrlProfitLoss {
     local symbol="$1"
-    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/profit-loss?symbol=$symbol"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/profit-loss?symbol=$symbol"
     echo "$url"
 }
+
 function getUrlCashFlow {
     local symbol="$1"
-    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/cash-flow?symbol=$symbol"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/cash-flow?symbol=$symbol"
     echo "$url"
 }
+
 function getUrlBalanceSheet {
     local symbol="$1"
-    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/balance-sheet?symbol=$symbol"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/balance-sheet?symbol=$symbol"
     echo "$url"
 }
+
 function getUrlEarningsSummary {
     local symbol="$1"
-    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/earnings-summary?symbol=$symbol"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/earnings-summary?symbol=$symbol"
     echo "$url"
 }
+
 function getUrlDividendHistory {
     local symbol="$1"
-    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/dividend-history?symbol=$symbol"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/dividend-history?symbol=$symbol"
     echo "$url"
 }
+
 function getUrlSecuritiesBuyback {
     local symbol="$1"
-    local url="http://www.aastocks.com/en/stocks/analysis/company-fundamental/securities-buyback?symbol=$symbol"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/securities-buyback?symbol=$symbol"
     echo "$url"
 }
 
