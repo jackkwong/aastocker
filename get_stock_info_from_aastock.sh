@@ -1,3 +1,4 @@
+#!/bin/bash
 symbol=$1
 source lib.sh
 url="`getUrlFinancialRatio "$symbol"`"
