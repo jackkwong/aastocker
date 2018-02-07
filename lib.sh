@@ -60,7 +60,7 @@ function getProfitLoss {
     local language="${2:-en}"
     local url="`getUrlProfitLoss "$1" "$2"`"
     local html="`getNormalizedHTML "$url"`"
-    echo "$html" | node read_profit_loss.js
+    echo "$html" | node read_financial_ratio.js
 }
 
 function getUrlCashFlow {
@@ -70,11 +70,27 @@ function getUrlCashFlow {
     echo "$url"
 }
 
+function getCashFlow {
+    local symbol="$1"
+    local language="${2:-en}"
+    local url="`getUrlCashFlow "$1" "$2"`"
+    local html="`getNormalizedHTML "$url"`"
+    echo "$html" | node read_financial_ratio.js
+}
+
 function getUrlBalanceSheet {
     local symbol="$1"
     local language="${2:-en}"
     local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/balance-sheet?symbol=$symbol"
     echo "$url"
+}
+
+function getBalanceSheet {
+    local symbol="$1"
+    local language="${2:-en}"
+    local url="`getUrlBalanceSheet "$1" "$2"`"
+    local html="`getNormalizedHTML "$url"`"
+    echo "$html" | node read_financial_ratio.js
 }
 
 function getUrlEarningsSummary {
