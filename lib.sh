@@ -83,6 +83,14 @@ function getUrlDividendHistory {
     echo "$url"
 }
 
+function getDividendHistory {
+    local symbol="$1"
+    local language="${2:-en}"
+    local url="`getUrlDividendHistory "$1" "$2"`"
+    local html="`getNormalizedHTML "$url"`"
+    echo "$html" | node read_dividend_history.js
+}
+
 function getUrlSecuritiesBuyback {
     local symbol="$1"
     local language="${2:-en}"
