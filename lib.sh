@@ -55,6 +55,14 @@ function getUrlProfitLoss {
     echo "$url"
 }
 
+function getProfitLoss {
+    local symbol="$1"
+    local language="${2:-en}"
+    local url="`getUrlProfitLoss "$1" "$2"`"
+    local html="`getNormalizedHTML "$url"`"
+    echo "$html" | node read_profit_loss.js
+}
+
 function getUrlCashFlow {
     local symbol="$1"
     local language="${2:-en}"
