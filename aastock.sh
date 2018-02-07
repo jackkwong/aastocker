@@ -6,7 +6,7 @@ language="${2:-en}"
 
 file_basic_info="`mktemp`"
 file_financial_ratio="`mktemp`"
-trap "rm -f '$file_basic_info' '$file_financial_ratio';exit 0" SIGINT EXIT
+trap "rm -f '$file_basic_info' '$file_financial_ratio';exit 0" EXIT
 
 echo fetching basic information... >&2
 getBasicInformation "$symbol" "$language" > "$file_basic_info" &
