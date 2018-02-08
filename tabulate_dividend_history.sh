@@ -1,0 +1,1 @@
+jq '.dividend_history as $dh | ([ $dh[0] | to_entries[].key ]), ($dh[] | [to_entries[].value]) | join("囧")'  | sed -E 's/(^"|"$)//g' | column -t -s'囧'
