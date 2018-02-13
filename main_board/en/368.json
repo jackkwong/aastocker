@@ -1,0 +1,983 @@
+{
+  "stock_code": "368",
+  "basic_information": {
+    "Name": "Sinotrans Shipping Ltd.",
+    "EPS Start Date": "2017/01/01",
+    "EPS End Date": "2017/12/31",
+    "Listing Date": "2007/11/23",
+    "Trade Currency": "HKD",
+    "Report Currency": "USD",
+    "Par Currency": "-",
+    "Par": "-",
+    "Authorized Capital(share)": "-",
+    "Issued Capital(share)": "3,992,100,000",
+    "Issue Cap-H(share)": "-",
+    "Board Lot": "500",
+    "NAV(HKD)": "3.4737",
+    "EPS(HKD)": "-0.4459",
+    "PE": "-4.73",
+    "DPS(HKD)": "0.0403",
+    "Yield": "1.91",
+    "Price/PNAV": "0.6074",
+    "Index Constituent": "HSCI\n                HSGCI\n                Index_Industrial Goods\n                HSHKSI"
+  },
+  "financial_ratio": {
+    "Closing Date": [
+      "2012/12",
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12"
+    ],
+    "Current Ratio (X)": [
+      "26.04",
+      "3.28",
+      "4.08",
+      "3.78",
+      "4.09"
+    ],
+    "Quick Ratio (X)": [
+      "25.91",
+      "3.21",
+      "3.96",
+      "3.71",
+      "4.01"
+    ],
+    "Long Term Debt/Equity (%)": [
+      "0.00",
+      "1.93",
+      "3.65",
+      "3.48",
+      "3.52"
+    ],
+    "Total Debt/Equity (%)": [
+      "0.00",
+      "2.22",
+      "4.01",
+      "3.86",
+      "3.96"
+    ],
+    "Total Debt/Capital Employed (%)": [
+      "0.00",
+      "2.16",
+      "3.80",
+      "3.69",
+      "3.80"
+    ],
+    "Return on Equity (%)": [
+      "0.92",
+      "-",
+      "0.09",
+      "-",
+      "-"
+    ],
+    "Return on Capital Employ (%)": [
+      "0.92",
+      "-",
+      "0.08",
+      "-",
+      "-"
+    ],
+    "Return on Total Assets (%)": [
+      "0.91",
+      "-",
+      "0.07",
+      "-",
+      "-"
+    ],
+    "Operating Profit Margin (%)": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Pre-tax Profit Margin (%)": [
+      "9.51",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Net Profit Margin (%)": [
+      "9.06",
+      "-",
+      "0.15",
+      "-",
+      "-"
+    ],
+    "Inventory Turnover (X)": [
+      "43.50",
+      "51.05",
+      "38.99",
+      "61.56",
+      "46.76"
+    ],
+    "Dividend Payout (%)": [
+      "25.80",
+      "0.00",
+      "2,060.00",
+      "0.00",
+      "-9.04"
+    ],
+    "Fiscal Year High": [
+      "2.250",
+      "2.930",
+      "2.920",
+      "2.430",
+      "1.730"
+    ],
+    "Fiscal Year Low": [
+      "1.530",
+      "1.800",
+      "1.750",
+      "1.380",
+      "1.100"
+    ],
+    "Fiscal Year PER Range High (X)": [
+      "58.06",
+      "-",
+      "753.01",
+      "-",
+      "-"
+    ],
+    "Fiscal Year PER Range Low (X)": [
+      "39.48",
+      "-",
+      "451.29",
+      "-",
+      "-"
+    ],
+    "Fiscal Year Yield Range High (%)": [
+      "0.65",
+      "0.00",
+      "4.56",
+      "0.00",
+      "3.67"
+    ],
+    "Fiscal Year Yield Range Low (%)": [
+      "0.44",
+      "0.00",
+      "2.74",
+      "0.00",
+      "2.33"
+    ]
+  },
+  "profit_loss": {
+    "Closing Date": [
+      "2012/12",
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12"
+    ],
+    "Total Turnover": [
+      "222,178",
+      "1,313,032",
+      "1,206,811",
+      "999,774",
+      "841,461"
+    ],
+    "Turnover": [
+      "222,178",
+      "1,313,032",
+      "1,206,811",
+      "999,774",
+      "841,461"
+    ],
+    "Other Turnover": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Cost of Sales": [
+      "209,712",
+      "1,308,842",
+      "1,210,353",
+      "1,030,329",
+      "888,555"
+    ],
+    "Gross Profit": [
+      "12,466",
+      "4,190",
+      "-3,542",
+      "-30,555",
+      "-47,094"
+    ],
+    "Profit Before Taxation": [
+      "21,133",
+      "-1,357",
+      "-10,826",
+      "-73,912",
+      "-240,790"
+    ],
+    "Operating Profit": [
+      "-7,512",
+      "-26,583",
+      "-27,568",
+      "-86,089",
+      "-245,818"
+    ],
+    "Exceptional Items": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Associates": [
+      "900",
+      "510",
+      "926",
+      "153",
+      "455"
+    ],
+    "Other Non-Operating Gains": [
+      "27,745",
+      "24,716",
+      "15,816",
+      "12,024",
+      "4,573"
+    ],
+    "Taxation": [
+      "1,012",
+      "2,603",
+      "1,912",
+      "7,625",
+      "1,324"
+    ],
+    "Minority Interests": [
+      "-",
+      "-3,322",
+      "-14,600",
+      "-15,203",
+      "-12,535"
+    ],
+    "Net Profit": [
+      "20,121",
+      "-638",
+      "1,862",
+      "-66,334",
+      "-229,579"
+    ],
+    "Unit": [
+      "Thousand",
+      "Thousand",
+      "Thousand",
+      "Thousand",
+      "Thousand"
+    ],
+    "Currency": [
+      "USD",
+      "USD",
+      "USD",
+      "USD",
+      "USD"
+    ],
+    "EBITDA": [
+      "48,534",
+      "36,287",
+      "45,286",
+      "-17,251",
+      "-179,183"
+    ],
+    "Depreciation": [
+      "56,046",
+      "62,200",
+      "66,735",
+      "62,074",
+      "60,378"
+    ],
+    "Total Dividends": [
+      "5,118",
+      "-",
+      "40,945",
+      "-",
+      "20,472"
+    ],
+    "Profit After Taxation And Dividends": [
+      "15,003",
+      "-638",
+      "-39,083",
+      "-66,334",
+      "-250,051"
+    ],
+    "Interest Paid": [
+      "-",
+      "670",
+      "6,119",
+      "6,764",
+      "6,257"
+    ],
+    "Interest Capitalized": [
+      "-",
+      "288",
+      "-",
+      "-",
+      "-"
+    ],
+    "Non-current Assets Revaluation / Disposal": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Turnover Growth (%)": [
+      "-21.06",
+      "490.98",
+      "-8.09",
+      "-17.16",
+      "-15.83"
+    ],
+    "Net Profit Growth (%)": [
+      "-78.06",
+      "-103.17",
+      "-391.85",
+      "-3662.51",
+      "246.10"
+    ],
+    "Auditor's Opinion": [
+      "Unqualified",
+      "Unqualified",
+      "Unqualified",
+      "Unqualified",
+      "Unqualified"
+    ]
+  },
+  "balance_sheet": {
+    "Closing Date": [
+      "2012/12",
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12"
+    ],
+    "Non Current Assets": [
+      "1,227,689",
+      "1,388,644",
+      "1,483,491",
+      "1,501,412",
+      "1,219,334"
+    ],
+    "Fixed Assets": [
+      "1,061,331",
+      "1,196,442",
+      "1,340,431",
+      "1,291,976",
+      "1,105,373"
+    ],
+    "Investments": [
+      "66,448",
+      "88,819",
+      "26,994",
+      "64,632",
+      "92,417"
+    ],
+    "Other Assets": [
+      "99,910",
+      "103,383",
+      "116,066",
+      "144,804",
+      "21,544"
+    ],
+    "Current Assets": [
+      "986,047",
+      "1,235,422",
+      "1,040,653",
+      "851,813",
+      "855,008"
+    ],
+    "Cash On Hand": [
+      "916,832",
+      "955,290",
+      "675,048",
+      "508,388",
+      "643,978"
+    ],
+    "Receivables": [
+      "8,166",
+      "117,333",
+      "119,662",
+      "103,270",
+      "78,502"
+    ],
+    "Inventory": [
+      "5,107",
+      "25,719",
+      "30,953",
+      "16,240",
+      "17,996"
+    ],
+    "Other Current Assets": [
+      "55,942",
+      "137,080",
+      "214,990",
+      "223,915",
+      "114,532"
+    ],
+    "Total Assets": [
+      "2,213,736",
+      "2,624,066",
+      "2,524,144",
+      "2,353,225",
+      "2,074,342"
+    ],
+    "Non Current Liabilities": [
+      "-",
+      "62,641",
+      "78,855",
+      "70,833",
+      "69,272"
+    ],
+    "Long Term Debt": [
+      "-",
+      "42,205",
+      "78,550",
+      "70,833",
+      "62,879"
+    ],
+    "Other Long Term Liabilities": [
+      "-",
+      "20,436",
+      "305",
+      "-",
+      "6,393"
+    ],
+    "Current Liabilities": [
+      "37,862",
+      "376,472",
+      "255,016",
+      "225,398",
+      "208,827"
+    ],
+    "Payables": [
+      "7,435",
+      "164,626",
+      "173,996",
+      "156,975",
+      "140,379"
+    ],
+    "Taxation": [
+      "2,034",
+      "661",
+      "1,015",
+      "690",
+      "1,804"
+    ],
+    "Short Term Debt": [
+      "-",
+      "6,346",
+      "7,658",
+      "7,784",
+      "8,009"
+    ],
+    "Other Current Liabilities": [
+      "28,393",
+      "204,839",
+      "72,347",
+      "59,949",
+      "58,635"
+    ],
+    "Total Liabilities": [
+      "37,862",
+      "439,113",
+      "333,871",
+      "296,231",
+      "278,099"
+    ],
+    "Owner's Equity": [
+      "2,175,874",
+      "2,185,778",
+      "2,151,547",
+      "2,035,380",
+      "1,788,437"
+    ],
+    "Share Capital": [
+      "51,239",
+      "1,878,209",
+      "1,878,209",
+      "1,878,209",
+      "1,878,209"
+    ],
+    "Reserves": [
+      "2,124,635",
+      "307,569",
+      "273,338",
+      "157,171",
+      "-89,772"
+    ],
+    "Perpetual Capital Securities": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Minority interests": [
+      "-",
+      "-825",
+      "38,726",
+      "21,614",
+      "7,806"
+    ],
+    "Total Equity": [
+      "2,175,874",
+      "2,184,953",
+      "2,190,273",
+      "2,056,994",
+      "1,796,243"
+    ],
+    "Unit": [
+      "Thousand",
+      "Thousand",
+      "Thousand",
+      "Thousand",
+      "Thousand"
+    ],
+    "Currency": [
+      "USD",
+      "USD",
+      "USD",
+      "USD",
+      "USD"
+    ],
+    "Total Debt": [
+      "-",
+      "48,551",
+      "86,208",
+      "78,617",
+      "70,888"
+    ],
+    "Net Assets": [
+      "2,175,874",
+      "2,185,778",
+      "2,151,547",
+      "2,035,380",
+      "1,788,437"
+    ],
+    "Intangible Assets": [
+      "-",
+      "-",
+      "658",
+      "1,349",
+      "2,502"
+    ],
+    "Auditor's Opinion": [
+      "Unqualified",
+      "Unqualified",
+      "Unqualified",
+      "Unqualified",
+      "Unqualified"
+    ]
+  },
+  "cashflow": {
+    "Closing Date": [
+      "2012/12",
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12"
+    ],
+    "Net Cash Flow from Operating Activities": [
+      "30,242",
+      "11,362",
+      "33,106",
+      "4,929",
+      "5,635"
+    ],
+    "Net Cash Flow from Return on Investments & Servicing of Finance": [
+      "9,784",
+      "22,516",
+      "21,135",
+      "-31,498",
+      "6,080"
+    ],
+    "Interest Received": [
+      "30,336",
+      "27,554",
+      "26,739",
+      "16,370",
+      "12,337"
+    ],
+    "Interest Paid": [
+      "-20,552",
+      "-275",
+      "-5,604",
+      "-6,764",
+      "-6,257"
+    ],
+    "Dividend Received": [
+      "-",
+      "372",
+      "-",
+      "-",
+      "-"
+    ],
+    "Dividend Paid": [
+      "-",
+      "-5,135",
+      "-",
+      "-41,104",
+      "-"
+    ],
+    "Others": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Taxes (Paid) / Refunded": [
+      "-71",
+      "-2,446",
+      "226",
+      "-524",
+      "-9"
+    ],
+    "Net Cash Flow from Investing Activities": [
+      "-28,756",
+      "-20,490",
+      "-123,625",
+      "-8,346",
+      "131,815"
+    ],
+    "Additions to Fixed Assets": [
+      "-22,805",
+      "-152,810",
+      "-182,143",
+      "-176,401",
+      "-96,495"
+    ],
+    "Disposal of Fixed Assets": [
+      "2,280",
+      "10,274",
+      "4,250",
+      "30,394",
+      "7,964"
+    ],
+    "Increase in Investments": [
+      "-",
+      "-52,389",
+      "-",
+      "-140,778",
+      "-62,701"
+    ],
+    "Decrease in Investments": [
+      "-",
+      "19,807",
+      "79,238",
+      "74,956",
+      "23,457"
+    ],
+    "Net Cash Flow with Related Parties": [
+      "-",
+      "-",
+      "13,205",
+      "-",
+      "-"
+    ],
+    "Net Cash Flow before Financing Activities": [
+      "11,199",
+      "10,942",
+      "-69,158",
+      "-35,439",
+      "143,521"
+    ],
+    "Net Cash Flow from Financing Activities": [
+      "-",
+      "56,728",
+      "6,039",
+      "-7,601",
+      "-7,728"
+    ],
+    "New Loans": [
+      "-",
+      "56,728",
+      "-",
+      "-",
+      "-"
+    ],
+    "Loans Repayment": [
+      "-",
+      "-",
+      "-7,166",
+      "-7,601",
+      "-7,728"
+    ],
+    "Fixed Income/Debt Instruments": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Repayment of Fixed Income/Debt Instruments": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Equity Financing": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Increase(Decrease) in Cash & Cash Equivalents": [
+      "11,199",
+      "67,670",
+      "-63,119",
+      "-43,040",
+      "135,793"
+    ],
+    "Cash & Cash Equivalents at Beginning of Year": [
+      "63,775",
+      "194,686",
+      "264,989",
+      "201,618",
+      "154,978"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "81",
+      "2,633",
+      "-252",
+      "-3,600",
+      "-7,528"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "75,055",
+      "264,989",
+      "201,618",
+      "154,978",
+      "283,243"
+    ],
+    "Unit": [
+      "Thousand",
+      "Thousand",
+      "Thousand",
+      "Thousand",
+      "Thousand"
+    ],
+    "Currency": [
+      "USD",
+      "USD",
+      "USD",
+      "USD",
+      "USD"
+    ],
+    "Auditor's Opinion": [
+      "Unqualified",
+      "Unqualified",
+      "Unqualified",
+      "Unqualified",
+      "Unqualified"
+    ]
+  },
+  "dividend_history": [
+    {
+      "Announce Date": "2017/08/10",
+      "Year Ended": "2017/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2017/03/09",
+      "Year Ended": "2016/12",
+      "Event": "Final",
+      "Particular": "D:HKD\n              0.0400(equivalent to USD 0.0051)",
+      "Type": "Cash",
+      "Ex-Date": "2017/05/31",
+      "Book Close Date": "2017/06/01",
+      "Payable Date": "2017/06/15"
+    },
+    {
+      "Announce Date": "2016/08/15",
+      "Year Ended": "2016/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2016/03/14",
+      "Year Ended": "2015/12",
+      "Event": "Final",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2015/08/13",
+      "Year Ended": "2015/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2015/03/16",
+      "Year Ended": "2014/12",
+      "Event": "Final",
+      "Particular": "D:HKD\n              0.0800(equivalent to USD 0.0103)",
+      "Type": "Cash",
+      "Ex-Date": "2015/05/22",
+      "Book Close Date": "2015/05/26",
+      "Payable Date": "2015/06/12"
+    },
+    {
+      "Announce Date": "2014/08/04",
+      "Year Ended": "2014/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2014/03/10",
+      "Year Ended": "2013/12",
+      "Event": "Final",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2013/08/08",
+      "Year Ended": "2013/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2013/03/07",
+      "Year Ended": "2012/12",
+      "Event": "Final",
+      "Particular": "D:HKD\n              0.0100(equivalent to USD 0.0013)",
+      "Type": "Cash",
+      "Ex-Date": "2013/05/29",
+      "Book Close Date": "2013/05/30",
+      "Payable Date": "2013/06/10"
+    },
+    {
+      "Announce Date": "2012/08/22",
+      "Year Ended": "2012/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2012/03/12",
+      "Year Ended": "2011/12",
+      "Event": "Final",
+      "Particular": "D:HKD 0.0400",
+      "Type": "Cash",
+      "Ex-Date": "2012/05/22",
+      "Book Close Date": "-",
+      "Payable Date": "2012/06/08"
+    },
+    {
+      "Announce Date": "2011/08/25",
+      "Year Ended": "2011/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0200",
+      "Type": "Cash",
+      "Ex-Date": "2011/09/09",
+      "Book Close Date": "2011/09/14-2011/09/16",
+      "Payable Date": "2011/09/20"
+    },
+    {
+      "Announce Date": "2011/03/10",
+      "Year Ended": "2010/12",
+      "Event": "Final",
+      "Particular": "D:HKD 0.0600",
+      "Type": "Cash",
+      "Ex-Date": "2011/04/20",
+      "Book Close Date": "2011/04/26-2011/04/29",
+      "Payable Date": "2011/06/10"
+    },
+    {
+      "Announce Date": "2010/08/09",
+      "Year Ended": "2010/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0200",
+      "Type": "Cash",
+      "Ex-Date": "2010/08/26",
+      "Book Close Date": "2010/08/30-2010/09/03",
+      "Payable Date": "2010/09/10"
+    },
+    {
+      "Announce Date": "2010/03/10",
+      "Year Ended": "2009/12",
+      "Event": "Final",
+      "Particular": "D:HKD 0.0500",
+      "Type": "Cash",
+      "Ex-Date": "2010/05/17",
+      "Book Close Date": "2010/05/19-2010/05/25",
+      "Payable Date": "2010/06/10"
+    },
+    {
+      "Announce Date": "2009/08/11",
+      "Year Ended": "2009/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0200",
+      "Type": "Cash",
+      "Ex-Date": "2009/08/27",
+      "Book Close Date": "2009/08/31-2009/09/04",
+      "Payable Date": "2009/09/11"
+    },
+    {
+      "Announce Date": "2009/03/09",
+      "Year Ended": "2008/12",
+      "Event": "Final",
+      "Particular": "D:HKD 0.1200",
+      "Type": "Cash",
+      "Ex-Date": "2009/05/15",
+      "Book Close Date": "2009/05/19-2009/05/25",
+      "Payable Date": "2009/06/30"
+    },
+    {
+      "Announce Date": "2008/07/29",
+      "Year Ended": "2008/12",
+      "Event": "Interim",
+      "Particular": "D: HKD 0.1000",
+      "Type": "Cash",
+      "Ex-Date": "2008/08/28",
+      "Book Close Date": "2008/09/01-2008/09/05",
+      "Payable Date": "2008/09/12"
+    },
+    {
+      "Announce Date": "2008/03/12",
+      "Year Ended": "2007/12",
+      "Event": "Final",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    }
+  ]
+}

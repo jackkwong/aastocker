@@ -1,0 +1,782 @@
+{
+  "stock_code": "8522",
+  "basic_information": {
+    "Name": "Gain Plus Holdings Limited",
+    "EPS Start Date": "2016/04/01",
+    "EPS End Date": "2017/03/31",
+    "Listing Date": "2018/02/13",
+    "Trade Currency": "HKD",
+    "Report Currency": "HKD",
+    "Par Currency": "HKD",
+    "Par": "0.01",
+    "Authorized Capital(share)": "780,000,000",
+    "Issued Capital(share)": "372,000,000",
+    "Issue Cap-H(share)": "-",
+    "Board Lot": "4,000",
+    "NAV(HKD)": "0.0000",
+    "EPS(HKD)": "0.0000",
+    "PE": "-",
+    "DPS(HKD)": "0.0000",
+    "Yield": "-",
+    "Price/PNAV": "-",
+    "Index Constituent": "-"
+  },
+  "financial_ratio": {
+    "Closing Date": [
+      "2016/03",
+      "2017/03",
+      "",
+      "",
+      ""
+    ],
+    "Current Ratio (X)": [
+      "1.35",
+      "1.73",
+      "",
+      "",
+      ""
+    ],
+    "Quick Ratio (X)": [
+      "1.35",
+      "1.73",
+      "",
+      "",
+      ""
+    ],
+    "Long Term Debt/Equity (%)": [
+      "3.05",
+      "2.72",
+      "",
+      "",
+      ""
+    ],
+    "Total Debt/Equity (%)": [
+      "5.01",
+      "4.29",
+      "",
+      "",
+      ""
+    ],
+    "Total Debt/Capital Employed (%)": [
+      "4.86",
+      "4.16",
+      "",
+      "",
+      ""
+    ],
+    "Return on Equity (%)": [
+      "39.32",
+      "52.96",
+      "",
+      "",
+      ""
+    ],
+    "Return on Capital Employ (%)": [
+      "38.11",
+      "51.46",
+      "",
+      "",
+      ""
+    ],
+    "Return on Total Assets (%)": [
+      "16.20",
+      "22.24",
+      "",
+      "",
+      ""
+    ],
+    "Operating Profit Margin (%)": [
+      "5.28",
+      "6.50",
+      "",
+      "",
+      ""
+    ],
+    "Pre-tax Profit Margin (%)": [
+      "5.28",
+      "6.50",
+      "",
+      "",
+      ""
+    ],
+    "Net Profit Margin (%)": [
+      "4.45",
+      "5.49",
+      "",
+      "",
+      ""
+    ],
+    "Inventory Turnover (X)": [
+      "0",
+      "0",
+      "",
+      "",
+      ""
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "0.00",
+      "",
+      "",
+      ""
+    ],
+    "Fiscal Year High": [
+      "0",
+      "0",
+      "",
+      "",
+      ""
+    ],
+    "Fiscal Year Low": [
+      "0",
+      "0",
+      "",
+      "",
+      ""
+    ],
+    "Fiscal Year PER Range High (X)": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Fiscal Year PER Range Low (X)": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Fiscal Year Yield Range High (%)": [
+      "0.00",
+      "0.00",
+      "",
+      "",
+      ""
+    ],
+    "Fiscal Year Yield Range Low (%)": [
+      "0.00",
+      "0.00",
+      "",
+      "",
+      ""
+    ]
+  },
+  "profit_loss": {
+    "Closing Date": [
+      "2016/03",
+      "2017/03",
+      "",
+      "",
+      ""
+    ],
+    "Total Turnover": [
+      "255,997",
+      "430,524",
+      "",
+      "",
+      ""
+    ],
+    "Turnover": [
+      "255,997",
+      "430,524",
+      "",
+      "",
+      ""
+    ],
+    "Other Turnover": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Cost of Sales": [
+      "239,553",
+      "398,509",
+      "",
+      "",
+      ""
+    ],
+    "Gross Profit": [
+      "16,444",
+      "32,015",
+      "",
+      "",
+      ""
+    ],
+    "Profit Before Taxation": [
+      "13,509",
+      "27,992",
+      "",
+      "",
+      ""
+    ],
+    "Operating Profit": [
+      "13,509",
+      "27,992",
+      "",
+      "",
+      ""
+    ],
+    "Exceptional Items": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Associates": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Other Non-Operating Gains": [
+      "0",
+      "0",
+      "",
+      "",
+      ""
+    ],
+    "Taxation": [
+      "2,129",
+      "4,366",
+      "",
+      "",
+      ""
+    ],
+    "Minority Interests": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Net Profit": [
+      "11,380",
+      "23,626",
+      "",
+      "",
+      ""
+    ],
+    "Unit": [
+      "Thousand",
+      "Thousand",
+      "",
+      "",
+      ""
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "",
+      "",
+      ""
+    ],
+    "EBITDA": [
+      "14,558",
+      "29,055",
+      "",
+      "",
+      ""
+    ],
+    "Depreciation": [
+      "966",
+      "987",
+      "",
+      "",
+      ""
+    ],
+    "Total Dividends": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Profit After Taxation And Dividends": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Interest Paid": [
+      "83",
+      "76",
+      "",
+      "",
+      ""
+    ],
+    "Interest Capitalized": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Non-current Assets Revaluation / Disposal": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Turnover Growth (%)": [
+      "-",
+      "68.18",
+      "",
+      "",
+      ""
+    ],
+    "Net Profit Growth (%)": [
+      "-",
+      "107.61",
+      "",
+      "",
+      ""
+    ],
+    "Auditor's Opinion": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ]
+  },
+  "balance_sheet": {
+    "Closing Date": [
+      "2016/03",
+      "2017/03",
+      "",
+      "",
+      ""
+    ],
+    "Non Current Assets": [
+      "15,554",
+      "1,891",
+      "",
+      "",
+      ""
+    ],
+    "Fixed Assets": [
+      "1,056",
+      "1,725",
+      "",
+      "",
+      ""
+    ],
+    "Investments": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Other Assets": [
+      "14,498",
+      "166",
+      "",
+      "",
+      ""
+    ],
+    "Current Assets": [
+      "54,702",
+      "104,333",
+      "",
+      "",
+      ""
+    ],
+    "Cash On Hand": [
+      "2,976",
+      "6,412",
+      "",
+      "",
+      ""
+    ],
+    "Receivables": [
+      "45,584",
+      "69,028",
+      "",
+      "",
+      ""
+    ],
+    "Inventory": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Other Current Assets": [
+      "6,142",
+      "28,893",
+      "",
+      "",
+      ""
+    ],
+    "Total Assets": [
+      "70,256",
+      "106,224",
+      "",
+      "",
+      ""
+    ],
+    "Non Current Liabilities": [
+      "914",
+      "1,302",
+      "",
+      "",
+      ""
+    ],
+    "Long Term Debt": [
+      "883",
+      "1,213",
+      "",
+      "",
+      ""
+    ],
+    "Other Long Term Liabilities": [
+      "31",
+      "89",
+      "",
+      "",
+      ""
+    ],
+    "Current Liabilities": [
+      "40,398",
+      "60,315",
+      "",
+      "",
+      ""
+    ],
+    "Payables": [
+      "26,660",
+      "41,852",
+      "",
+      "",
+      ""
+    ],
+    "Taxation": [
+      "4,680",
+      "3,732",
+      "",
+      "",
+      ""
+    ],
+    "Short Term Debt": [
+      "567",
+      "699",
+      "",
+      "",
+      ""
+    ],
+    "Other Current Liabilities": [
+      "8,491",
+      "14,032",
+      "",
+      "",
+      ""
+    ],
+    "Total Liabilities": [
+      "41,312",
+      "61,617",
+      "",
+      "",
+      ""
+    ],
+    "Owner's Equity": [
+      "28,944",
+      "44,607",
+      "",
+      "",
+      ""
+    ],
+    "Share Capital": [
+      "10",
+      "10",
+      "",
+      "",
+      ""
+    ],
+    "Reserves": [
+      "28,934",
+      "44,597",
+      "",
+      "",
+      ""
+    ],
+    "Perpetual Capital Securities": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Minority interests": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Total Equity": [
+      "28,944",
+      "44,607",
+      "",
+      "",
+      ""
+    ],
+    "Unit": [
+      "Thousand",
+      "Thousand",
+      "",
+      "",
+      ""
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "",
+      "",
+      ""
+    ],
+    "Total Debt": [
+      "1,450",
+      "1,912",
+      "",
+      "",
+      ""
+    ],
+    "Net Assets": [
+      "28,944",
+      "44,607",
+      "",
+      "",
+      ""
+    ],
+    "Intangible Assets": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Auditor's Opinion": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ]
+  },
+  "cashflow": {
+    "Closing Date": [
+      "2016/03",
+      "2017/03",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow from Operating Activities": [
+      "9,133",
+      "20,237",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow from Return on Investments & Servicing of Finance": [
+      "-6,310",
+      "-8,039",
+      "",
+      "",
+      ""
+    ],
+    "Interest Received": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Interest Paid": [
+      "-83",
+      "-76",
+      "",
+      "",
+      ""
+    ],
+    "Dividend Received": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Dividend Paid": [
+      "-6,227",
+      "-7,963",
+      "",
+      "",
+      ""
+    ],
+    "Others": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Taxes (Paid) / Refunded": [
+      "-1,742",
+      "-5,256",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow from Investing Activities": [
+      "-5,069",
+      "-2,735",
+      "",
+      "",
+      ""
+    ],
+    "Additions to Fixed Assets": [
+      "-142",
+      "-430",
+      "",
+      "",
+      ""
+    ],
+    "Disposal of Fixed Assets": [
+      "-",
+      "70",
+      "",
+      "",
+      ""
+    ],
+    "Increase in Investments": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Decrease in Investments": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow with Related Parties": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow before Financing Activities": [
+      "-3,988",
+      "4,207",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow from Financing Activities": [
+      "-709",
+      "-771",
+      "",
+      "",
+      ""
+    ],
+    "New Loans": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Loans Repayment": [
+      "-709",
+      "-771",
+      "",
+      "",
+      ""
+    ],
+    "Fixed Income/Debt Instruments": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Repayment of Fixed Income/Debt Instruments": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Equity Financing": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Increase(Decrease) in Cash & Cash Equivalents": [
+      "-4,697",
+      "3,436",
+      "",
+      "",
+      ""
+    ],
+    "Cash & Cash Equivalents at Beginning of Year": [
+      "7,673",
+      "2,976",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "2,976",
+      "6,412",
+      "",
+      "",
+      ""
+    ],
+    "Unit": [
+      "Thousand",
+      "Thousand",
+      "",
+      "",
+      ""
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "",
+      "",
+      ""
+    ],
+    "Auditor's Opinion": [
+      "-",
+      "-",
+      "",
+      "",
+      ""
+    ]
+  },
+  "dividend_history": []
+}
