@@ -33,13 +33,14 @@ $library
 
 map(
     select( .dividend_history | has_at_least_n_dividends(9; 2007; 2016) )
-    | {
-        "stock_code": .stock_code,
-        "name": .basic_information."公司名稱"
-    }
 )
 | sort_by(.stock_code | tonumber) 
-| map("\(.stock_code) - \(.name)") 
+| map("\(.stock_code) - \(.basic_information."公司名稱")
+PE: \(.basic_information."市盈率(倍)")
+PB: \(.basic_information."股價/每股淨資產值(倍)")
+Yield: \(.basic_information."周息率(%)")
+ROE: \( (.financial_ratio."股東權益回報率(%)" | join(" -> ")) )
+") 
 | .[]
 JQ_FILTER
 `"
