@@ -33,6 +33,8 @@ $library
 
 map(
     select( .dividend_history | has_at_least_n_dividends(9; 2007; 2016) )
+        | select((.financial_ratio."流動比率(倍)" | last | tonumber?) >= 1)
+        | select((.financial_ratio."速動比率(倍)" | last | tonumber?) >= 1)
 )
 | sort_by(.stock_code | tonumber) 
 | map("\(.stock_code) - \(.basic_information."公司名稱")
