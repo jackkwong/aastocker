@@ -1,6 +1,19 @@
 #!/bin/bash
 
 library="`cat <<-'JQ_LIBRARY'
+
+def percentile(n):
+    . as $array
+    | ((length - 1) * n / 100) as $middle_index
+    | ($middle_index | floor) as $floor_middle_index
+    | if ($middle_index == $floor_middle_index)
+        then
+            $array[$middle_index]
+        else
+            ($array[$floor_middle_index] + $array[$floor_middle_index+1])/2
+    end
+;
+
 def dividend_years_between(from; to):
     . as $dividend_history
     | $dividend_history
@@ -35,6 +48,14 @@ map(
     select( .dividend_history | has_at_least_n_dividends(9; 2007; 2016) )
         | select((.financial_ratio."流動比率(倍)" | last | tonumber?) >= 1)
         | select((.financial_ratio."速動比率(倍)" | last | tonumber?) >= 1)
+        | select(
+            .financial_ratio."股東權益回報率(%)"
+            | map(. | tonumber?)?
+            | (add / length)
+            | . > 10
+        )
+        | select((.basic_information."市盈率(倍)" | tonumber?) <= 10)
+        | select((.basic_information."股價/每股淨資產值(倍)" | tonumber?) <= 1.4)
 )
 | sort_by(.stock_code | tonumber) 
 | map("\(.stock_code) - \(.basic_information."公司名稱")
@@ -47,4 +68,20 @@ ROE: \( (.financial_ratio."股東權益回報率(%)" | join(" -> ")) )
 JQ_FILTER
 `"
 
+filter2="`cat <<-JQ_FILTER
+$library
+map(
+    select( .dividend_history | has_at_least_n_dividends(9; 2007; 2016) )
+        | select((.financial_ratio."流動比率(倍)" | last | tonumber?) >= 1)
+        | select((.financial_ratio."速動比率(倍)" | last | tonumber?) >= 1)
+    | .financial_ratio."股東權益回報率(%)"
+    | map(. | tonumber?)?
+    | (add / length)
+)
+| sort
+| {p10:percentile(10), p25: percentile(25), p50: percentile(50), p75:percentile(75), p90: percentile(90)}
+JQ_FILTER
+`"
+
 cat main_board/tc/*.json | jq -s -r "$filter"
+#cat main_board/tc/*.json | jq -s -r "$filter2"
