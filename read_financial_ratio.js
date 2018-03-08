@@ -8,7 +8,7 @@ function parseFinancialRatio($) {
         accumulator[key] = value
         return accumulator
     }
-    const data = $('#cp_repPLData_Panel5_0').parent('.grid_11').find('tr').filter(function(){
+    const data = $('#cp_repPLData_Panel5_0').parent().find('tr').filter(function(){
         return $(this).find("td").length >= 6
     }).toArray().reduce(reducer, {})
 
