@@ -2,8 +2,8 @@
   "stock_code": "26",
   "basic_information": {
     "Name": "China Motor Bus Co., Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "200",
     "NAV(HKD)": "178.3162",
     "EPS(HKD)": "13.8600",
-    "PE": "7.14",
+    "PE": "7.04",
     "DPS(HKD)": "3.0000",
-    "Yield": "3.03",
-    "Price/PNAV": "0.5552",
+    "Yield": "3.07",
+    "Price/PNAV": "0.5473",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "77,277",
-      "99,137",
-      "54,821",
-      "62,269",
-      "72,054"
-    ],
-    "Depreciation": [
-      "163",
-      "207",
-      "238",
-      "283",
-      "300"
-    ],
-    "Total Dividends": [
-      "104,867",
-      "127,664",
-      "104,208",
-      "108,739",
-      "135,924"
-    ],
-    "Profit After Taxation And Dividends": [
-      "338,598",
-      "538,777",
-      "360,886",
-      "240,644",
-      "491,928"
-    ],
-    "Interest Paid": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "195,675",
-      "375,737",
-      "297,000",
-      "73,103",
-      "219,914"
-    ],
-    "Turnover Growth (%)": [
-      "7.53",
-      "3.82",
-      "3.40",
-      "-5.21",
-      "-10.85"
-    ],
-    "Net Profit Growth (%)": [
-      "23.57",
-      "50.28",
-      "-30.21",
-      "-24.88",
-      "79.70"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "6,641,432",
-      "7,336,892",
-      "7,559,729",
-      "7,609,224",
-      "8,079,161"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,26 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1000",
+      "Type": "Cash",
+      "Ex-Date": "2018/04/06",
+      "Book Close Date": "2018/04/10-2018/04/11",
+      "Payable Date": "2018/06/22"
+    },
+    {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "SD:HKD 1.0000",
+      "Type": "Cash",
+      "Ex-Date": "2018/04/06",
+      "Book Close Date": "2018/04/10-2018/04/11",
+      "Payable Date": "2018/06/22"
+    },
     {
       "Announce Date": "2017/09/26",
       "Year Ended": "2017/06",

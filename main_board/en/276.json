@@ -15,10 +15,10 @@
     "Board Lot": "3,000",
     "NAV(HKD)": "-2.0898",
     "EPS(HKD)": "-0.1100",
-    "PE": "-1.71",
+    "PE": "-1.45",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "-0.0900",
+    "Price/PNAV": "-0.0766",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-394,476",
-      "-386,056",
-      "-530,720",
-      "-62,609",
-      "97,761"
-    ],
-    "Depreciation": [
-      "76,245",
-      "63,576",
-      "66,418",
-      "21,570",
-      "13,518"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-3,698,818",
-      "-1,038,124",
-      "-6,868,030",
-      "-553,455",
-      "-204,847"
-    ],
-    "Interest Paid": [
-      "388,743",
-      "372,027",
-      "247,253",
-      "433,362",
-      "524,984"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-2,749,126",
-      "-224,011",
-      "-6,037,959",
-      "-613,317",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "89.73",
-      "-95.78",
-      "2.36K",
-      "1.18K",
-      "105.42"
-    ],
-    "Net Profit Growth (%)": [
-      "-23.45",
-      "-71.93",
-      "561.58",
-      "-91.94",
-      "-62.99"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "3,469,480",
-      "4,040,738",
-      "4,097,509",
-      "3,970,676",
-      "4,382,811"
-    ],
-    "Net Assets": [
-      "4,646,102",
-      "3,628,047",
-      "-3,238,851",
-      "-3,752,884",
-      "-3,931,391"
-    ],
-    "Intangible Assets": [
-      "913,073",
-      "852,792",
-      "102,050",
-      "27,920",
-      "26,473"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -772,7 +674,7 @@
     ],
     "Auditor's Opinion": [
       "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
       "Unqualified",
       "Unqualified",
       "Unqualified"
@@ -1043,7 +945,7 @@
       "Announce Date": "2005/11/14",
       "Year Ended": "2006/03",
       "Event": "Special",
-      "Particular": "R: 2 - for - 1@HKD\n              0.1500",
+      "Particular": "R: 2 - for - 1@HKD\n                0.1500",
       "Type": "-",
       "Ex-Date": "2006/01/09",
       "Book Close Date": "2006/01/11-2006/01/13",
@@ -1063,7 +965,7 @@
       "Announce Date": "2005/01/10",
       "Year Ended": "2005/03",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.2000",
+      "Particular": "R: 1 - for - 2@HKD\n                0.2000",
       "Type": "-",
       "Ex-Date": "2005/01/26",
       "Book Close Date": "2005/01/28-2005/02/03",
@@ -1143,7 +1045,7 @@
       "Announce Date": "2002/02/20",
       "Year Ended": "2002/03",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.0500",
+      "Particular": "R: 1 - for - 2@HKD\n                0.0500",
       "Type": "-",
       "Ex-Date": "2002/03/12",
       "Book Close Date": "2002/03/14-2002/03/20",

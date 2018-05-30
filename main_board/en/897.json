@@ -1,7 +1,7 @@
 {
   "stock_code": "897",
   "basic_information": {
-    "Name": "Wai Yuen Tong Medicine Holdings Ltd.",
+    "Name": "Wai Yuen Tong Medicine Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1997/10/31",
@@ -15,10 +15,10 @@
     "Board Lot": "5,000",
     "NAV(HKD)": "2.0960",
     "EPS(HKD)": "-0.1057",
-    "PE": "-3.07",
+    "PE": "-3.31",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.1551",
+    "Price/PNAV": "0.1670",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "141,752",
-      "126,366",
-      "58,598",
-      "12,669",
-      "27,439"
-    ],
-    "Depreciation": [
-      "15,367",
-      "17,324",
-      "15,456",
-      "14,899",
-      "14,607"
-    ],
-    "Total Dividends": [
-      "8,793",
-      "8,793",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "139,640",
-      "154,581",
-      "120,979",
-      "25,387",
-      "-93,303"
-    ],
-    "Interest Paid": [
-      "2,503",
-      "7,748",
-      "10,362",
-      "14,854",
-      "16,555"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "72,000",
-      "25,663",
-      "26,868",
-      "-18,200",
-      "-31,800"
-    ],
-    "Turnover Growth (%)": [
-      "4.46",
-      "10.14",
-      "-3.95",
-      "-0.69",
-      "-10.53"
-    ],
-    "Net Profit Growth (%)": [
-      "-167.21",
-      "10.07",
-      "-25.95",
-      "-79.02",
-      "-467.52"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "262,779",
-      "391,215",
-      "550,096",
-      "738,686",
-      "759,307"
-    ],
-    "Net Assets": [
-      "1,677,284",
-      "1,833,547",
-      "2,038,729",
-      "2,322,490",
-      "2,651,791"
-    ],
-    "Intangible Assets": [
-      "15,882",
-      "15,770",
-      "15,743",
-      "15,625",
-      "15,548"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -813,7 +715,7 @@
       "Announce Date": "2016/07/08",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:3-for-1@HKD 0.4300",
+      "Particular": "R:3-for-1@HKD\n                0.4300",
       "Type": "-",
       "Ex-Date": "2016/08/31",
       "Book Close Date": "2016/09/02-2016/09/05",
@@ -863,7 +765,7 @@
       "Announce Date": "2015/03/27",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 1-for-2@HKD 0.1080",
+      "Particular": "R: 1-for-2@HKD\n                0.1080",
       "Type": "-",
       "Ex-Date": "2015/04/17",
       "Book Close Date": "2015/04/21-2015/04/23",
@@ -963,7 +865,7 @@
       "Announce Date": "2010/08/10",
       "Year Ended": "2011/03",
       "Event": "Special",
-      "Particular": "B: 1-for-5 rights\n              shares",
+      "Particular": "B: 1-for-5 rights\n                shares",
       "Type": "Scrip",
       "Ex-Date": "2010/09/28",
       "Book Close Date": "2010/09/30-2010/10/05",
@@ -983,7 +885,7 @@
       "Announce Date": "2010/08/10",
       "Year Ended": "2011/03",
       "Event": "Special",
-      "Particular": "R: 5 -for- 1\n              consolidated share@HKD 0.2070",
+      "Particular": "R: 5 -for- 1\n                consolidated share@HKD 0.2070",
       "Type": "-",
       "Ex-Date": "2010/09/28",
       "Book Close Date": "2010/09/30-2010/10/05",
@@ -1093,7 +995,7 @@
       "Announce Date": "2005/10/10",
       "Year Ended": "2006/03",
       "Event": "Special",
-      "Particular": "R: 3 - for - 1@HKD\n              0.1500",
+      "Particular": "R: 3 - for - 1@HKD\n                0.1500",
       "Type": "-",
       "Ex-Date": "2005/11/09",
       "Book Close Date": "2005/11/11-2005/11/16",
@@ -1143,7 +1045,7 @@
       "Announce Date": "2004/04/20",
       "Year Ended": "2004/03",
       "Event": "Special",
-      "Particular": "B: 1-for-3 rights\n              shares",
+      "Particular": "B: 1-for-3 rights\n                shares",
       "Type": "Scrip",
       "Ex-Date": "2004/05/28",
       "Book Close Date": "2004/06/01-2004/06/04",
@@ -1153,7 +1055,7 @@
       "Announce Date": "2004/04/20",
       "Year Ended": "2004/03",
       "Event": "Special",
-      "Particular": "R: 3 - for -1@HKD\n              0.1600",
+      "Particular": "R: 3 - for -1@HKD\n                0.1600",
       "Type": "-",
       "Ex-Date": "2004/05/28",
       "Book Close Date": "2004/06/01-2004/06/04",

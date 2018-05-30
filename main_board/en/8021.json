@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.01",
     "Authorized Capital(share)": "40,000,000,000",
-    "Issued Capital(share)": "12,767,101,072",
+    "Issued Capital(share)": "14,367,101,072",
     "Issue Cap-H(share)": "-",
     "Board Lot": "10,000",
     "NAV(HKD)": "0.0616",
     "EPS(HKD)": "-0.0013",
-    "PE": "-24.00",
+    "PE": "-49.60",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.4872",
+    "Price/PNAV": "1.0069",
     "Index Constituent": "GEM_Index"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-7,789",
-      "-59,405",
-      "1,752",
-      "-3,757",
-      "3,293"
-    ],
-    "Depreciation": [
-      "4,194",
-      "4,794",
-      "5,887",
-      "9,592",
-      "9,980"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-14,219",
-      "-61,275",
-      "-7,734",
-      "-18,197",
-      "-15,954"
-    ],
-    "Interest Paid": [
-      "1,622",
-      "2,141",
-      "5,575",
-      "2,230",
-      "5,232"
-    ],
-    "Interest Capitalized": [
-      "10",
-      "48",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "6,416",
-      "437",
-      "5,489",
-      "-9,799",
-      "5,203"
-    ],
-    "Turnover Growth (%)": [
-      "9.40",
-      "-11.11",
-      "22.04",
-      "13.77",
-      "19.42"
-    ],
-    "Net Profit Growth (%)": [
-      "-298.98",
-      "330.94",
-      "-84.24",
-      "88.47",
-      "-12.33"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "56,177",
-      "63,687",
-      "48,192",
-      "63,618",
-      "116,481"
-    ],
-    "Net Assets": [
-      "134,234",
-      "99,623",
-      "281,910",
-      "801,365",
-      "786,126"
-    ],
-    "Intangible Assets": [
-      "3,138",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/03/13",
+      "Year Ended": "2018/04",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/12/12",
       "Year Ended": "2018/04",
       "Event": "Interim",
@@ -893,7 +805,7 @@
       "Announce Date": "2015/05/15",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "B: 7-for-1 Adjusted\n              share",
+      "Particular": "B: 7-for-1 Adjusted\n                share",
       "Type": "Scrip",
       "Ex-Date": "2015/06/23",
       "Book Close Date": "2015/06/25-2015/06/26",

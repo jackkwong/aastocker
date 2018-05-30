@@ -47,21 +47,21 @@
       "0.00",
       "0.00",
       "0.00",
-      "11.92",
+      "0.00",
       "130.62"
     ],
     "Total Debt/Equity (%)": [
       "49.53",
       "-1,790.29",
       "-19.12",
-      "11.92",
+      "0.00",
       "130.62"
     ],
     "Total Debt/Capital Employed (%)": [
       "49.53",
       "-1,790.29",
       "-19.12",
-      "10.65",
+      "0.00",
       "56.64"
     ],
     "Return on Equity (%)": [
@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "EBITDA": [
-      "148,061",
-      "28,769",
-      "-73,232",
-      "-8,552",
-      "9,311"
-    ],
-    "Depreciation": [
-      "11,406",
-      "9,155",
-      "5,676",
-      "3,595",
-      "3,947"
-    ],
-    "Total Dividends": [
-      "30,540",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "51,201",
-      "-720,871",
-      "-355,285",
-      "406,195",
-      "-5,893"
-    ],
-    "Interest Paid": [
-      "17,155",
-      "18,718",
-      "6,684",
-      "-",
-      "3,027"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "19.28",
-      "-52.74",
-      "-93.32",
-      "-79.43",
-      "782.57"
-    ],
-    "Net Profit Growth (%)": [
-      "0.05",
-      "-981.90",
-      "-50.71",
-      "-214.33",
-      "-101.45"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -436,14 +366,14 @@
       "-",
       "-",
       "-",
-      "8,000",
+      "-",
       "80,000"
     ],
     "Other Long Term Liabilities": [
       "-",
       "-",
       "-",
-      "-",
+      "8,000",
       "-"
     ],
     "Current Liabilities": [
@@ -543,34 +473,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "Total Debt": [
-      "239,040",
-      "256,190",
-      "70,656",
-      "8,000",
-      "80,000"
-    ],
-    "Net Assets": [
-      "482,630",
-      "-14,310",
-      "-369,595",
-      "67,140",
-      "61,247"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "-"
     ]
   },
   "cashflow": {
@@ -772,10 +674,10 @@
     ],
     "Auditor's Opinion": [
       "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "-"
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in\n                    respect of fundamental uncertainly because of\n                    proper disclosure)"
     ]
   },
   "dividend_history": [
@@ -863,7 +765,7 @@
       "Announce Date": "2014/03/30",
       "Year Ended": "2013/12",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0500(equivalent to HKD 0.0630)",
+      "Particular": "D:RMB\n                0.0500(equivalent to HKD 0.0630)",
       "Type": "Cash",
       "Ex-Date": "2014/06/17",
       "Book Close Date": "2014/06/19-2014/06/24",

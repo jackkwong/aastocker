@@ -15,10 +15,10 @@
     "Board Lot": "20,000",
     "NAV(HKD)": "0.0470",
     "EPS(HKD)": "-0.0066",
-    "PE": "-8.03",
+    "PE": "-11.36",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.1283",
+    "Price/PNAV": "1.5966",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "44,339",
-      "-17,816",
-      "13,557",
-      "34,364",
-      "-9,806"
-    ],
-    "Depreciation": [
-      "25,582",
-      "4,665",
-      "16,997",
-      "25,960",
-      "8,175"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-27,611",
-      "-56,903",
-      "-33,443",
-      "-20,621",
-      "-16,574"
-    ],
-    "Interest Paid": [
-      "1,578",
-      "2,504",
-      "2,384",
-      "1,136",
-      "744"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-588",
-      "-1,782",
-      "200",
-      "-",
-      "-823"
-    ],
-    "Turnover Growth (%)": [
-      "694.52",
-      "-37.53",
-      "11.72",
-      "8.89",
-      "-58.31"
-    ],
-    "Net Profit Growth (%)": [
-      "149.87",
-      "106.09",
-      "-41.23",
-      "-38.34",
-      "-19.63"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "61,126",
-      "73,225",
-      "50,265",
-      "39,386",
-      "20,532"
-    ],
-    "Net Assets": [
-      "133,224",
-      "86,018",
-      "86,041",
-      "111,553",
-      "132,135"
-    ],
-    "Intangible Assets": [
-      "363,904",
-      "316,667",
-      "244,162",
-      "209,594",
-      "195,364"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -873,7 +775,7 @@
       "Announce Date": "2015/11/20",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1-for-5@HKD 0.1000",
+      "Particular": "O: 1-for-5@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2015/12/08",
       "Book Close Date": "2015/12/10-2015/12/14",

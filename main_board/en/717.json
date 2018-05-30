@@ -2,8 +2,8 @@
   "stock_code": "717",
   "basic_information": {
     "Name": "Emperor Capital Group Ltd.",
-    "EPS Start Date": "2016/10/01",
-    "EPS End Date": "2017/09/30",
+    "EPS Start Date": "2017/10/01",
+    "EPS End Date": "2018/09/30",
     "Listing Date": "2007/04/24",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,11 +15,11 @@
     "Board Lot": "6,000",
     "NAV(HKD)": "0.7616",
     "EPS(HKD)": "0.0996",
-    "PE": "6.02",
+    "PE": "6.12",
     "DPS(HKD)": "0.0290",
-    "Yield": "4.83",
-    "Price/PNAV": "0.7878",
-    "Index Constituent": "Index_Financials\n                HSGCI\n                HSCI\n                HSHKSI"
+    "Yield": "4.75",
+    "Price/PNAV": "0.8009",
+    "Index Constituent": "Index_Financials\n                    HSGCI\n                    HSCI\n                    HSHKSI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "192,712",
-      "308,599",
-      "571,301",
-      "703,952",
-      "890,432"
-    ],
-    "Depreciation": [
-      "2,244",
-      "2,017",
-      "2,144",
-      "2,052",
-      "1,738"
-    ],
-    "Total Dividends": [
-      "47,176",
-      "68,432",
-      "128,703",
-      "159,817",
-      "195,483"
-    ],
-    "Profit After Taxation And Dividends": [
-      "108,569",
-      "152,363",
-      "301,548",
-      "365,804",
-      "463,702"
-    ],
-    "Interest Paid": [
-      "7,259",
-      "40,402",
-      "51,279",
-      "64,122",
-      "95,552"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "94.28",
-      "25.67",
-      "52.83",
-      "18.10",
-      "25.83"
-    ],
-    "Net Profit Growth (%)": [
-      "145.61",
-      "41.77",
-      "94.86",
-      "22.17",
-      "25.41"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "446,000",
-      "1,325,699",
-      "1,095,865",
-      "2,120,245",
-      "1,917,625"
-    ],
-    "Net Assets": [
-      "1,385,081",
-      "1,570,134",
-      "3,638,904",
-      "4,249,716",
-      "5,134,110"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/05/29",
+      "Year Ended": "2018/09",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0221",
+      "Type": "Cash",
+      "Ex-Date": "2018/06/14",
+      "Book Close Date": "2018/06/19-2018/06/20",
+      "Payable Date": "2018/06/28"
+    },
+    {
       "Announce Date": "2017/12/07",
       "Year Ended": "2017/09",
       "Event": "Final",
@@ -843,7 +755,7 @@
       "Announce Date": "2015/03/26",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 1-for-2@HKD 0.5000",
+      "Particular": "R: 1-for-2@HKD\n                0.5000",
       "Type": "-",
       "Ex-Date": "2015/04/30",
       "Book Close Date": "2015/05/05-2015/05/06",
@@ -883,7 +795,7 @@
       "Announce Date": "2013/10/14",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1\n              bond-for-6000@HKD 700.0000",
+      "Particular": "O: 1\n                bond-for-6000@HKD 700.0000",
       "Type": "-",
       "Ex-Date": "2013/10/28",
       "Book Close Date": "2013/10/30-2013/11/04",
@@ -933,7 +845,7 @@
       "Announce Date": "2011/06/02",
       "Year Ended": "2011/09",
       "Event": "Special",
-      "Particular": "R:2 -for- 1@HKD\n              0.3380",
+      "Particular": "R:2 -for- 1@HKD\n                0.3380",
       "Type": "-",
       "Ex-Date": "2011/07/07",
       "Book Close Date": "2011/07/11-2011/07/13",

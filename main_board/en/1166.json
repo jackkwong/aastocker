@@ -1,24 +1,24 @@
 {
   "stock_code": "1166",
   "basic_information": {
-    "Name": "Solartech International Holdings\n                Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "Name": "Solartech International Holdings\n                    Ltd.",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1996/12/12",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.01",
     "Authorized Capital(share)": "50,000,000,000",
-    "Issued Capital(share)": "2,352,232,340",
+    "Issued Capital(share)": "2,364,732,340",
     "Issue Cap-H(share)": "-",
     "Board Lot": "20,000",
     "NAV(HKD)": "0.6287",
     "EPS(HKD)": "-0.0300",
-    "PE": "-22.67",
+    "PE": "-44.33",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.0816",
+    "Price/PNAV": "2.1154",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-37,232",
-      "-62,820",
-      "-88,528",
-      "-44,531",
-      "-112,678"
-    ],
-    "Depreciation": [
-      "26,673",
-      "28,957",
-      "25,138",
-      "19,026",
-      "20,822"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-415,071",
-      "-37,709",
-      "-370,292",
-      "-274,945",
-      "-70,197"
-    ],
-    "Interest Paid": [
-      "13,227",
-      "12,007",
-      "11,001",
-      "11,459",
-      "16,091"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "12,207",
-      "5,614",
-      "20,037",
-      "48,008",
-      "10,840"
-    ],
-    "Turnover Growth (%)": [
-      "-1.84",
-      "35.15",
-      "-3.80",
-      "-5.27",
-      "-40.28"
-    ],
-    "Net Profit Growth (%)": [
-      "291.09",
-      "-90.92",
-      "881.97",
-      "-25.75",
-      "-74.47"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "177,765",
-      "158,365",
-      "67,747",
-      "213,188",
-      "121,775"
-    ],
-    "Net Assets": [
-      "1,494,321",
-      "1,671,278",
-      "1,532,849",
-      "1,414,044",
-      "1,478,244"
-    ],
-    "Intangible Assets": [
-      "803,210",
-      "856,160",
-      "675,668",
-      "539,948",
-      "624,357"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/27",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/28",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -853,7 +765,7 @@
       "Announce Date": "2015/02/08",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 5-for-1\n              consolidated share@HKD 0.2000",
+      "Particular": "O: 5-for-1\n                consolidated share@HKD 0.2000",
       "Type": "-",
       "Ex-Date": "2015/04/08",
       "Book Close Date": "2015/04/10-2015/04/15",
@@ -883,7 +795,7 @@
       "Announce Date": "2014/01/21",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 5-for-1@HKD 0.1200",
+      "Particular": "O: 5-for-1@HKD\n                0.1200",
       "Type": "-",
       "Ex-Date": "2014/03/17",
       "Book Close Date": "2014/03/19-2014/03/25",
@@ -1023,7 +935,7 @@
       "Announce Date": "2008/12/10",
       "Year Ended": "2009/06",
       "Event": "Special",
-      "Particular": "O:4 -for- 1 @HKD\n              0.0270",
+      "Particular": "O:4 -for- 1 @HKD\n                0.0270",
       "Type": "-",
       "Ex-Date": "2009/01/09",
       "Book Close Date": "2009/01/13-2009/01/19",

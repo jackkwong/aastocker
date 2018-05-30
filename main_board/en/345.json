@@ -1,7 +1,7 @@
 {
   "stock_code": "345",
   "basic_information": {
-    "Name": "Vitasoy International Holdings Ltd.",
+    "Name": "Vitasoy International Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1994/03/30",
@@ -10,16 +10,16 @@
     "Par Currency": "HKD",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "1,058,559,500",
+    "Issued Capital(share)": "1,058,963,500",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "2.3499",
     "EPS(HKD)": "0.5890",
-    "PE": "32.26",
+    "PE": "40.49",
     "DPS(HKD)": "0.3510",
-    "Yield": "1.85",
-    "Price/PNAV": "8.0855",
-    "Index Constituent": "HSCI\n                HSHKMI\n                HSGCI\n                Index_Consumer Goods"
+    "Yield": "1.47",
+    "Price/PNAV": "10.1494",
+    "Index Constituent": "HSCI\n                    HSHKMI\n                    HSGCI\n                    Index_Consumer Goods"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "640,933",
-      "668,345",
-      "733,484",
-      "820,105",
-      "1,094,501"
-    ],
-    "Depreciation": [
-      "175,671",
-      "185,608",
-      "198,565",
-      "210,821",
-      "240,722"
-    ],
-    "Total Dividends": [
-      "203,394",
-      "208,796",
-      "253,678",
-      "317,591",
-      "369,531"
-    ],
-    "Profit After Taxation And Dividends": [
-      "97,710",
-      "97,897",
-      "118,401",
-      "213,025",
-      "618,372"
-    ],
-    "Interest Paid": [
-      "21,102",
-      "13,068",
-      "5,655",
-      "5,932",
-      "5,745"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "1,888",
-      "2,015"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "9.01",
-      "10.93",
-      "12.42",
-      "9.90",
-      "-2.63"
-    ],
-    "Net Profit Growth (%)": [
-      "7.15",
-      "1.86",
-      "21.32",
-      "42.61",
-      "16.54"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "251,925",
-      "126,237",
-      "157,943",
-      "350,262",
-      "209,459"
-    ],
-    "Net Assets": [
-      "1,622,875",
-      "1,749,661",
-      "1,919,085",
-      "2,199,735",
-      "2,471,369"
-    ],
-    "Intangible Assets": [
-      "49,322",
-      "46,435",
-      "40,622",
-      "41,077",
-      "39,303"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {

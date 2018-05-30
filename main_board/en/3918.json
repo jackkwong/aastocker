@@ -15,11 +15,11 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "2.4886",
     "EPS(HKD)": "0.6204",
-    "PE": "11.15",
+    "PE": "11.81",
     "DPS(HKD)": "0.2758",
-    "Yield": "3.99",
-    "Price/PNAV": "2.7806",
-    "Index Constituent": "HSFCCI\n                HSGCI"
+    "Yield": "3.76",
+    "Price/PNAV": "2.9454",
+    "Index Constituent": "HSFCCI\n                    HSGCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "USD",
       "USD",
       "USD"
-    ],
-    "EBITDA": [
-      "168,280",
-      "172,111",
-      "224,977",
-      "252,533",
-      "316,175"
-    ],
-    "Depreciation": [
-      "22,877",
-      "30,150",
-      "35,959",
-      "44,312",
-      "52,869"
-    ],
-    "Total Dividends": [
-      "98,203",
-      "95,259",
-      "103,574",
-      "82,989",
-      "153,111"
-    ],
-    "Profit After Taxation And Dividends": [
-      "42,087",
-      "40,827",
-      "69,049",
-      "101,170",
-      "102,075"
-    ],
-    "Interest Paid": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "23.74",
-      "17.21",
-      "24.58",
-      "5.54",
-      "79.91"
-    ],
-    "Net Profit Growth (%)": [
-      "24.00",
-      "-3.00",
-      "26.85",
-      "6.68",
-      "38.57"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,64 +473,36 @@
       "USD",
       "USD",
       "USD"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "599,959",
-      "625,500",
-      "686,576",
-      "1,250,981",
-      "1,382,545"
-    ],
-    "Intangible Assets": [
-      "76,842",
-      "73,295",
-      "69,748",
-      "66,201",
-      "62,654"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "cashflow": {
     "Closing Date": [
-      "2012/12",
       "2013/12",
       "2014/12",
       "2015/12",
-      "2016/12"
+      "2016/12",
+      "2017/12"
     ],
     "Net Cash Flow from Operating Activities": [
-      "148,333",
       "184,973",
       "163,525",
       "211,046",
-      "224,614"
+      "224,614",
+      "331,281"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-63,255",
       "-96,543",
       "-100,428",
       "-107,341",
-      "-117,447"
+      "-117,447",
+      "-125,551"
     ],
     "Interest Received": [
-      "463",
       "625",
       "1,113",
       "1,196",
-      "627"
+      "627",
+      "211"
     ],
     "Interest Paid": [
       "-",
@@ -617,53 +519,53 @@
       "-"
     ],
     "Dividend Paid": [
-      "-63,718",
       "-97,168",
       "-101,541",
       "-108,537",
-      "-118,074"
+      "-118,074",
+      "-125,762"
     ],
     "Others": [
       "-",
-      "-",
       "-9,004",
       "-494",
+      "-",
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-4,435",
       "-5,060",
       "-5,811",
       "-15,315",
-      "-22,923"
+      "-22,923",
+      "-9,048"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-72,179",
       "-59,403",
       "-122,174",
       "-123,053",
-      "-136,331"
+      "-136,331",
+      "-354,800"
     ],
     "Additions to Fixed Assets": [
-      "-72,185",
       "-59,403",
       "-97,051",
       "-140,239",
-      "-137,032"
+      "-137,032",
+      "-354,818"
     ],
     "Disposal of Fixed Assets": [
-      "6",
       "-",
       "2",
       "26,138",
-      "467"
+      "467",
+      "18"
     ],
     "Increase in Investments": [
       "-",
-      "-",
       "-25,125",
       "-",
-      "234"
+      "234",
+      "-"
     ],
     "Decrease in Investments": [
       "-",
@@ -680,18 +582,18 @@
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "8,464",
       "23,967",
       "-64,888",
       "-34,663",
-      "-52,087"
+      "-52,087",
+      "-158,118"
     ],
     "Net Cash Flow from Financing Activities": [
-      "-3",
       "154,938",
       "-9,004",
       "-494",
-      "119,918"
+      "119,918",
+      "-"
     ],
     "New Loans": [
       "-",
@@ -701,7 +603,7 @@
       "-"
     ],
     "Loans Repayment": [
-      "-3",
+      "-",
       "-",
       "-",
       "-",
@@ -722,25 +624,25 @@
       "-"
     ],
     "Equity Financing": [
-      "-",
       "154,938",
       "-",
       "-",
-      "119,918"
+      "119,918",
+      "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "8,461",
       "178,905",
       "-73,892",
       "-35,157",
-      "67,831"
+      "67,831",
+      "-158,118"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "64,764",
       "73,225",
       "252,130",
       "178,238",
-      "143,081"
+      "143,081",
+      "210,912"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
@@ -750,11 +652,11 @@
       "-"
     ],
     "Cash & Cash Equivalents at End of Year": [
-      "73,225",
       "252,130",
       "178,238",
       "143,081",
-      "210,912"
+      "210,912",
+      "52,794"
     ],
     "Unit": [
       "Thousand",
@@ -783,7 +685,7 @@
       "Announce Date": "2018/02/06",
       "Year Ended": "2017/12",
       "Event": "Final",
-      "Particular": "D:USD\n              0.0145(equivalent to HKD 0.1124)",
+      "Particular": "D:USD\n                0.0145(equivalent to HKD 0.1124)",
       "Type": "Cash",
       "Ex-Date": "2018/05/03",
       "Book Close Date": "2018/05/07-2018/05/07",
@@ -793,7 +695,7 @@
       "Announce Date": "2017/07/10",
       "Year Ended": "2017/12",
       "Event": "Interim",
-      "Particular": "D:USD\n              0.0208(equivalent to HKD 0.1612)",
+      "Particular": "D:USD\n                0.0208(equivalent to HKD 0.1612)",
       "Type": "Cash",
       "Ex-Date": "2017/08/08",
       "Book Close Date": "2017/08/10-2017/08/10",
@@ -803,7 +705,7 @@
       "Announce Date": "2017/02/08",
       "Year Ended": "2016/12",
       "Event": "Final",
-      "Particular": "D:USD\n              0.0082(equivalent to HKD 0.0636)",
+      "Particular": "D:USD\n                0.0082(equivalent to HKD 0.0636)",
       "Type": "Cash",
       "Ex-Date": "2017/04/27",
       "Book Close Date": "2017/05/02-2017/05/02",
@@ -813,7 +715,7 @@
       "Announce Date": "2016/08/08",
       "Year Ended": "2016/12",
       "Event": "Interim",
-      "Particular": "D:USD\n              0.0277(equivalent to HKD 0.2147)",
+      "Particular": "D:USD\n                0.0277(equivalent to HKD 0.2147)",
       "Type": "Cash",
       "Ex-Date": "2016/08/22",
       "Book Close Date": "2016/08/24-2016/08/24",
@@ -823,7 +725,7 @@
       "Announce Date": "2016/02/01",
       "Year Ended": "2015/12",
       "Event": "Final",
-      "Particular": "D:USD\n              0.0189(equivalent to HKD 0.1465)",
+      "Particular": "D:USD\n                0.0189(equivalent to HKD 0.1465)",
       "Type": "Cash",
       "Ex-Date": "2016/04/22",
       "Book Close Date": "2016/04/26-2016/04/26",
@@ -833,7 +735,7 @@
       "Announce Date": "2015/08/12",
       "Year Ended": "2015/12",
       "Event": "Interim",
-      "Particular": "D:USD\n              0.0267(equivalent to HKD 0.2069)",
+      "Particular": "D:USD\n                0.0267(equivalent to HKD 0.2069)",
       "Type": "Cash",
       "Ex-Date": "2015/08/26",
       "Book Close Date": "2015/08/28-2015/08/28",
@@ -843,7 +745,7 @@
       "Announce Date": "2015/02/04",
       "Year Ended": "2014/12",
       "Event": "Final",
-      "Particular": "D:USD\n              0.0211(equivalent to HKD 0.1635)",
+      "Particular": "D:USD\n                0.0211(equivalent to HKD 0.1635)",
       "Type": "Cash",
       "Ex-Date": "2015/04/17",
       "Book Close Date": "2015/04/21-2015/04/21",
@@ -853,7 +755,7 @@
       "Announce Date": "2014/08/06",
       "Year Ended": "2014/12",
       "Event": "Interim",
-      "Particular": "D:USD\n              0.0207(equivalent to HKD 0.1604)",
+      "Particular": "D:USD\n                0.0207(equivalent to HKD 0.1604)",
       "Type": "Cash",
       "Ex-Date": "2014/09/02",
       "Book Close Date": "2014/09/04-2014/09/04",
@@ -863,7 +765,7 @@
       "Announce Date": "2014/02/12",
       "Year Ended": "2013/12",
       "Event": "Final",
-      "Particular": "D:USD\n              0.0238(equivalent to HKD 0.1845)",
+      "Particular": "D:USD\n                0.0238(equivalent to HKD 0.1845)",
       "Type": "Cash",
       "Ex-Date": "2014/04/11",
       "Book Close Date": "2014/04/15-2014/04/15",
@@ -873,7 +775,7 @@
       "Announce Date": "2013/08/07",
       "Year Ended": "2013/12",
       "Event": "Interim",
-      "Particular": "D:USD\n              0.0193(equivalent to HKD 0.1496)",
+      "Particular": "D:USD\n                0.0193(equivalent to HKD 0.1496)",
       "Type": "Cash",
       "Ex-Date": "2013/08/22",
       "Book Close Date": "2013/08/26-2013/08/27",
@@ -883,7 +785,7 @@
       "Announce Date": "2013/02/06",
       "Year Ended": "2012/12",
       "Event": "Final",
-      "Particular": "D:USD\n              0.0233(equivalent to HKD 0.1806)",
+      "Particular": "D:USD\n                0.0233(equivalent to HKD 0.1806)",
       "Type": "Cash",
       "Ex-Date": "2013/05/29",
       "Book Close Date": "2013/05/31-2013/05/31",
@@ -983,7 +885,7 @@
       "Announce Date": "2008/02/24",
       "Year Ended": "2007/12",
       "Event": "Final",
-      "Particular": "D:USD\n              0.0077(equivalent to HKD 0.0600)",
+      "Particular": "D:USD\n                0.0077(equivalent to HKD 0.0600)",
       "Type": "Cash",
       "Ex-Date": "2008/05/07",
       "Book Close Date": "2008/05/09-2008/05/15",

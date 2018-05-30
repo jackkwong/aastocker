@@ -1,7 +1,7 @@
 {
   "stock_code": "162",
   "basic_information": {
-    "Name": "Century Ginwa Retail Holdings Ltd.",
+    "Name": "Century Ginwa Retail Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "2000/10/23",
@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "15,000,000,000",
-    "Issued Capital(share)": "1,138,694,715",
+    "Issued Capital(share)": "2,299,389,430",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "4.1325",
     "EPS(HKD)": "-0.1716",
-    "PE": "-2.27",
+    "PE": "-1.72",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.0944",
+    "Price/PNAV": "0.0714",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "RMB"
-    ],
-    "EBITDA": [
-      "804,675",
-      "757,675",
-      "572,877",
-      "773,760",
-      "108,455"
-    ],
-    "Depreciation": [
-      "113,422",
-      "169,115",
-      "139,214",
-      "199,503",
-      "141,137"
-    ],
-    "Total Dividends": [
-      "27,777",
-      "29,877",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "395,025",
-      "413,764",
-      "120,149",
-      "27,160",
-      "-352,337"
-    ],
-    "Interest Paid": [
-      "283,563",
-      "177,654",
-      "207,615",
-      "274,727",
-      "158,329"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "26,704"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "329,829",
-      "226,820",
-      "166,634",
-      "42,904",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "33.99",
-      "7.53",
-      "-7.97",
-      "-",
-      "-42.06"
-    ],
-    "Net Profit Growth (%)": [
-      "96.51",
-      "4.93",
-      "-72.92",
-      "-",
-      "-1397.26"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "RMB"
-    ],
-    "Total Debt": [
-      "2,061,009",
-      "1,788,037",
-      "2,390,383",
-      "2,862,556",
-      "2,456,874"
-    ],
-    "Net Assets": [
-      "4,281,605",
-      "4,928,213",
-      "5,403,655",
-      "5,272,972",
-      "4,168,492"
-    ],
-    "Intangible Assets": [
-      "1,840,584",
-      "1,840,584",
-      "1,894,719",
-      "1,787,526",
-      "1,312,963"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -783,11 +685,11 @@
       "Announce Date": "2018/02/09",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:1-for-1@HKD 0.3800",
+      "Particular": "R:1-for-1@HKD\n                0.3800(not approved as announced on 2018/05/15)",
       "Type": "-",
-      "Ex-Date": "2018/03/29",
-      "Book Close Date": "2018/04/04-2018/04/11",
-      "Payable Date": "2018/04/26"
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
     },
     {
       "Announce Date": "2017/11/29",
@@ -973,7 +875,7 @@
       "Announce Date": "2009/11/16",
       "Year Ended": "2009/12",
       "Event": "Special",
-      "Particular": "O: 1 -for- 2@HKD\n              0.1000",
+      "Particular": "O: 1 -for- 2@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2009/12/16",
       "Book Close Date": "2009/12/18-2009/12/22",
@@ -1093,7 +995,7 @@
       "Announce Date": "2004/07/15",
       "Year Ended": "2004/06",
       "Event": "Special",
-      "Particular": "FC FORMERLY:[I-Wood\n              International Holdings Limited]",
+      "Particular": "FC FORMERLY:[I-Wood\n                International Holdings Limited]",
       "Type": "-",
       "Ex-Date": "2004/06/15",
       "Book Close Date": "-",

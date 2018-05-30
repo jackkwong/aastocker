@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.01",
     "Authorized Capital(share)": "15,000,000,000",
-    "Issued Capital(share)": "7,550,723,821",
+    "Issued Capital(share)": "8,967,875,821",
     "Issue Cap-H(share)": "-",
     "Board Lot": "4,000",
     "NAV(HKD)": "0.0870",
     "EPS(HKD)": "0.0157",
-    "PE": "7.32",
+    "PE": "8.66",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.3225",
+    "Price/PNAV": "1.5640",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-71,569",
-      "-115,007",
-      "-106,177",
-      "-133,403",
-      "215,543"
-    ],
-    "Depreciation": [
-      "23,291",
-      "22,300",
-      "17,330",
-      "11,791",
-      "22,128"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-115,255",
-      "-151,155",
-      "-148,305",
-      "-227,059",
-      "117,760"
-    ],
-    "Interest Paid": [
-      "2,080",
-      "1,920",
-      "14,931",
-      "32,779",
-      "38,367"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "191.74",
-      "-0.96",
-      "-18.14",
-      "637.69",
-      "133.17"
-    ],
-    "Net Profit Growth (%)": [
-      "-34.83",
-      "31.15",
-      "-1.89",
-      "53.10",
-      "-151.86"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "37,488",
-      "101,551",
-      "309,953",
-      "366,830",
-      "472,045"
-    ],
-    "Net Assets": [
-      "685,728",
-      "577,809",
-      "465,683",
-      "384,432",
-      "656,581"
-    ],
-    "Intangible Assets": [
-      "256,956",
-      "255,250",
-      "247,806",
-      "141,501",
-      "129,273"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -973,7 +875,7 @@
       "Announce Date": "2008/07/28",
       "Year Ended": "2008/03",
       "Event": "Final",
-      "Particular": "BW: 1 '2010' wt - for\n              - 12",
+      "Particular": "BW: 1 '2010' wt -\n                for - 12",
       "Type": "Scrip",
       "Ex-Date": "2008/09/18",
       "Book Close Date": "2008/09/22-2008/09/26",
@@ -983,7 +885,7 @@
       "Announce Date": "2008/04/24",
       "Year Ended": "2008/03",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.2880",
+      "Particular": "R: 1 - for - 2@HKD\n                0.2880",
       "Type": "-",
       "Ex-Date": "2008/05/13",
       "Book Close Date": "2008/05/15-2008/05/20",
@@ -1063,7 +965,7 @@
       "Announce Date": "2004/09/08",
       "Year Ended": "2005/03",
       "Event": "Special",
-      "Particular": "FC FORMERLY:[Wing Shing\n              International Holdings Limited]",
+      "Particular": "FC FORMERLY:[Wing Shing\n                International Holdings Limited]",
       "Type": "-",
       "Ex-Date": "2004/09/13",
       "Book Close Date": "-",

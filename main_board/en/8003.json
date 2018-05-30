@@ -1,7 +1,7 @@
 {
   "stock_code": "8003",
   "basic_information": {
-    "Name": "Great World Company Holdings Ltd.",
+    "Name": "Great World Company Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1999/12/02",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.0552",
     "EPS(HKD)": "-0.0077",
-    "PE": "-6.49",
+    "PE": "-6.88",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.9056",
+    "Price/PNAV": "0.9599",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-4,594",
-      "-12,880",
-      "-10,257",
-      "-16,118",
-      "-14,793"
-    ],
-    "Depreciation": [
-      "586",
-      "588",
-      "585",
-      "461",
-      "374"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-7,501",
-      "-15,243",
-      "-15,511",
-      "-24,766",
-      "-17,822"
-    ],
-    "Interest Paid": [
-      "2,416",
-      "2,623",
-      "2,949",
-      "10,287",
-      "3,939"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "6,340",
-      "-5,152",
-      "1,243",
-      "-5,956",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-81.74",
-      "61.89",
-      "-3.66",
-      "1.11K",
-      "202.67"
-    ],
-    "Net Profit Growth (%)": [
-      "-77.72",
-      "103.21",
-      "1.76",
-      "59.67",
-      "-28.04"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "23,788",
-      "26,408",
-      "84,494",
-      "74,432",
-      "25,606"
-    ],
-    "Net Assets": [
-      "32,638",
-      "17,404",
-      "74,793",
-      "134,645",
-      "130,799"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "49,996",
-      "44,794"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/14",
+      "Year Ended": "2018/03",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2017/11/14",
       "Year Ended": "2018/03",
@@ -1083,7 +995,7 @@
       "Announce Date": "2010/07/06",
       "Year Ended": "2011/03",
       "Event": "Special",
-      "Particular": "R: 1 -for- 1@HKD\n              0.1000",
+      "Particular": "R: 1 -for- 1@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2010/08/13",
       "Book Close Date": "2010/08/17-2010/08/19",

@@ -1,25 +1,25 @@
 {
   "stock_code": "3331",
   "basic_information": {
-    "Name": "Vinda International Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "Name": "Vinda International Holdings\n                    Ltd.",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/07/10",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "80,000,000,000",
-    "Issued Capital(share)": "1,194,187,373",
+    "Issued Capital(share)": "1,194,392,373",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "7.3159",
     "EPS(HKD)": "0.5260",
-    "PE": "29.24",
+    "PE": "26.43",
     "DPS(HKD)": "0.1900",
-    "Yield": "1.24",
-    "Price/PNAV": "2.1023",
-    "Index Constituent": "HSCI\n                Index_Consumer Goods\n                HSGCI\n                HSHKMI"
+    "Yield": "1.37",
+    "Price/PNAV": "1.9000",
+    "Index Constituent": "-"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -47,21 +47,21 @@
       "36.53",
       "57.25",
       "70.45",
-      "42.47",
+      "55.98",
       "52.04"
     ],
     "Total Debt/Equity (%)": [
       "58.75",
       "87.87",
       "95.77",
-      "60.49",
+      "74.56",
       "60.37"
     ],
     "Total Debt/Capital Employed (%)": [
       "42.25",
       "54.56",
       "54.96",
-      "37.61",
+      "46.35",
       "38.53"
     ],
     "Return on Equity (%)": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "1,046,986",
-      "1,283,772",
-      "1,330,787",
-      "1,848,729",
-      "1,999,382"
-    ],
-    "Depreciation": [
-      "273,765",
-      "378,758",
-      "470,568",
-      "675,434",
-      "819,539"
-    ],
-    "Total Dividends": [
-      "155,745",
-      "159,744",
-      "99,909",
-      "193,325",
-      "226,891"
-    ],
-    "Profit After Taxation And Dividends": [
-      "387,163",
-      "433,723",
-      "214,532",
-      "460,209",
-      "394,066"
-    ],
-    "Interest Paid": [
-      "60,763",
-      "82,702",
-      "107,591",
-      "165,722",
-      "196,317"
-    ],
-    "Interest Capitalized": [
-      "11,430",
-      "17,545",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "12.85",
-      "17.46",
-      "21.42",
-      "24.35",
-      "11.86"
-    ],
-    "Net Profit Growth (%)": [
-      "1.18",
-      "9.31",
-      "-47.02",
-      "107.84",
-      "-4.98"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -401,7 +331,7 @@
       "912,578",
       "1,160,004",
       "1,100,736",
-      "1,661,664",
+      "1,666,636",
       "1,857,486"
     ],
     "Inventory": [
@@ -415,7 +345,7 @@
       "414,660",
       "425,352",
       "427,030",
-      "383,362",
+      "378,390",
       "481,326"
     ],
     "Total Assets": [
@@ -436,14 +366,14 @@
       "1,697,713",
       "2,908,806",
       "3,485,567",
-      "2,879,552",
+      "3,795,051",
       "4,546,533"
     ],
     "Other Long Term Liabilities": [
       "117,387",
       "193,514",
       "188,743",
-      "1,245,723",
+      "330,223",
       "405,175"
     ],
     "Current Liabilities": [
@@ -471,14 +401,14 @@
       "1,032,433",
       "1,555,999",
       "1,252,972",
-      "1,221,695",
+      "1,259,470",
       "727,429"
     ],
     "Other Current Liabilities": [
       "721,781",
       "921,210",
       "1,132,210",
-      "1,707,585",
+      "1,669,810",
       "1,812,213"
     ],
     "Total Liabilities": [
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "2,730,146",
-      "4,464,805",
-      "4,738,539",
-      "4,101,246",
-      "5,273,962"
-    ],
-    "Net Assets": [
-      "4,646,876",
-      "5,081,005",
-      "4,947,760",
-      "6,779,564",
-      "8,736,468"
-    ],
-    "Intangible Assets": [
-      "21,235",
-      "1,400,042",
-      "1,306,968",
-      "2,796,001",
-      "2,913,888"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "cashflow": {
@@ -775,7 +677,7 @@
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "-"
+      "Unqualified"
     ]
   },
   "dividend_history": [

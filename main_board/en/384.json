@@ -15,11 +15,11 @@
     "Board Lot": "200",
     "NAV(HKD)": "4.1361",
     "EPS(HKD)": "0.8451",
-    "PE": "27.16",
+    "PE": "37.16",
     "DPS(HKD)": "0.2500",
-    "Yield": "1.09",
-    "Price/PNAV": "5.5487",
-    "Index Constituent": "HSHKLI\n                HSCI\n                Index_Utilities\n                HSGCI\n                HSML100\n                FTSE Xinhua China25 Index"
+    "Yield": "0.80",
+    "Price/PNAV": "7.5917",
+    "Index Constituent": "HSCEI\n                    HSHKLI\n                    HSCI\n                    Index_Utilities\n                    HSGCI\n                    HSML100"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "3,496,144",
-      "4,960,280",
-      "6,172,205",
-      "5,494,291",
-      "7,532,348"
-    ],
-    "Depreciation": [
-      "574,825",
-      "711,351",
-      "883,418",
-      "913,521",
-      "959,797"
-    ],
-    "Total Dividends": [
-      "401,474",
-      "602,348",
-      "807,797",
-      "955,561",
-      "1,242,130"
-    ],
-    "Profit After Taxation And Dividends": [
-      "1,362,790",
-      "1,973,158",
-      "2,563,256",
-      "1,317,560",
-      "2,905,602"
-    ],
-    "Interest Paid": [
-      "818,046",
-      "818,770",
-      "788,108",
-      "1,048,532",
-      "963,409"
-    ],
-    "Interest Capitalized": [
-      "127,030",
-      "203,803",
-      "233,949",
-      "290,352",
-      "258,293"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-5.16",
-      "44.85",
-      "21.76",
-      "-6.85",
-      "8.46"
-    ],
-    "Net Profit Growth (%)": [
-      "84.95",
-      "45.98",
-      "30.89",
-      "-32.57",
-      "82.47"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "14,805,389",
-      "19,955,537",
-      "20,735,562",
-      "22,334,182",
-      "23,618,435"
-    ],
-    "Net Assets": [
-      "11,484,640",
-      "15,783,489",
-      "18,396,317",
-      "17,852,562",
-      "20,550,233"
-    ],
-    "Intangible Assets": [
-      "1,751,768",
-      "4,321,768",
-      "5,570,188",
-      "5,540,214",
-      "6,357,808"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {

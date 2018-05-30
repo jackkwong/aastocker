@@ -1,24 +1,24 @@
 {
   "stock_code": "8266",
   "basic_information": {
-    "Name": "Gold Tat Group International Ltd.",
+    "Name": "Zhuoxin International Holdings\n                    Limited",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "2003/05/09",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "USD",
-    "Par": "0.001",
-    "Authorized Capital(share)": "40,000,000,000",
-    "Issued Capital(share)": "4,120,899,946",
+    "Par": "0.01",
+    "Authorized Capital(share)": "4,000,000,000",
+    "Issued Capital(share)": "412,089,994",
     "Issue Cap-H(share)": "-",
-    "Board Lot": "16,000",
+    "Board Lot": "3,200",
     "NAV(HKD)": "0.0282",
     "EPS(HKD)": "-0.0234",
-    "PE": "-5.43",
+    "PE": "-76.92",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "4.5094",
+    "Price/PNAV": "63.9125",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-23,628",
-      "-21,952",
-      "23,292",
-      "-54,350",
-      "-84,338"
-    ],
-    "Depreciation": [
-      "1,219",
-      "1,678",
-      "2,535",
-      "1,919",
-      "1,093"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-71,503",
-      "-149,206",
-      "-4,108",
-      "-110,611",
-      "-90,745"
-    ],
-    "Interest Paid": [
-      "6,028",
-      "12,708",
-      "11,794",
-      "6,869",
-      "4,385"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-15,295",
-      "-11,717"
-    ],
-    "Turnover Growth (%)": [
-      "1.58K",
-      "77.02",
-      "26.52",
-      "-43.99",
-      "-14.92"
-    ],
-    "Net Profit Growth (%)": [
-      "168.18",
-      "108.67",
-      "-97.25",
-      "2.59K",
-      "-17.96"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "180,637",
-      "281,901",
-      "220,726",
-      "133,377",
-      "148,373"
-    ],
-    "Net Assets": [
-      "69,011",
-      "113,884",
-      "196,397",
-      "172,019",
-      "116,059"
-    ],
-    "Intangible Assets": [
-      "25,039",
-      "24,973",
-      "24,911",
-      "26,629",
-      "26,629"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,26 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "C:1-for-10",
+      "Type": "-",
+      "Ex-Date": "2018/03/27",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/02/14",
+      "Year Ended": "2018/03",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2017/11/14",
       "Year Ended": "2018/03",
@@ -1053,7 +975,7 @@
       "Announce Date": "2011/04/04",
       "Year Ended": "2011/03",
       "Event": "Special",
-      "Particular": "O: 1-for- 1@HKD\n              0.1000",
+      "Particular": "O: 1-for- 1@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2011/05/12",
       "Book Close Date": "2011/05/16-2011/05/20",

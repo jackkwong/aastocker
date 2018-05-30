@@ -2,8 +2,8 @@
   "stock_code": "8131",
   "basic_information": {
     "Name": "abc Multiactive Ltd.",
-    "EPS Start Date": "2016/12/01",
-    "EPS End Date": "2017/11/30",
+    "EPS Start Date": "2017/12/01",
+    "EPS End Date": "2018/11/30",
     "Listing Date": "2001/01/31",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "-0.1617",
     "EPS(HKD)": "-0.0207",
-    "PE": "-8.70",
+    "PE": "-7.63",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "-1.1129",
+    "Price/PNAV": "-0.9769",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "1,420",
-      "7,052",
-      "-9,378",
-      "875",
-      "464"
-    ],
-    "Depreciation": [
-      "131",
-      "65",
-      "61",
-      "146",
-      "228"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-3,527",
-      "2,057",
-      "-14,227",
-      "-4,295",
-      "-5,828"
-    ],
-    "Interest Paid": [
-      "2,408",
-      "2,465",
-      "2,394",
-      "2,512",
-      "3,032"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-13.15",
-      "59.38",
-      "-32.43",
-      "37.99",
-      "-20.09"
-    ],
-    "Net Profit Growth (%)": [
-      "8.69",
-      "-158.32",
-      "-791.64",
-      "-69.81",
-      "35.69"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,62 +473,34 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "49,002",
-      "47,534",
-      "-",
-      "52,351",
-      "45,700"
-    ],
-    "Net Assets": [
-      "-59,629",
-      "-49,311",
-      "-50,029",
-      "-54,333",
-      "-48,702"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "-"
     ]
   },
   "cashflow": {
     "Closing Date": [
-      "2012/11",
       "2013/11",
       "2014/11",
       "2015/11",
-      "2016/11"
+      "2016/11",
+      "2017/11"
     ],
     "Net Cash Flow from Operating Activities": [
-      "-1,135",
       "-6,040",
       "-3,641",
       "-2,713",
-      "-1,700"
+      "-1,700",
+      "-2,007"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "1",
       "-",
       "1",
+      "-",
       "-",
       "-"
     ],
     "Interest Received": [
-      "1",
       "-",
       "1",
+      "-",
       "-",
       "-"
     ],
@@ -628,7 +530,7 @@
       "-",
       "-",
       "-",
-      "-"
+      "11,279"
     ],
     "Taxes (Paid) / Refunded": [
       "-",
@@ -638,18 +540,18 @@
       "-"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-23",
       "-94",
       "-13",
       "-192",
-      "-723"
+      "-723",
+      "-64"
     ],
     "Additions to Fixed Assets": [
-      "-23",
       "-94",
       "-13",
       "-192",
-      "-723"
+      "-723",
+      "-64"
     ],
     "Disposal of Fixed Assets": [
       "-",
@@ -673,25 +575,25 @@
       "-"
     ],
     "Net Cash Flow with Related Parties": [
-      "4,217",
       "2,500",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-1,157",
       "-6,134",
       "-3,653",
       "-2,905",
-      "-2,423"
+      "-2,423",
+      "-2,071"
     ],
     "Net Cash Flow from Financing Activities": [
-      "4,217",
       "62",
       "7,733",
       "-",
-      "1,000"
+      "1,000",
+      "1,637"
     ],
     "New Loans": [
       "-",
@@ -711,50 +613,50 @@
       "-",
       "-",
       "-",
-      "-",
-      "1,000"
+      "1,000",
+      "-"
     ],
     "Repayment of Fixed Income/Debt Instruments": [
-      "-",
       "-2,438",
       "-",
       "-",
-      "-"
+      "-",
+      "-9,642"
     ],
     "Equity Financing": [
       "-",
-      "-",
       "7,733",
+      "-",
       "-",
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "3,060",
       "-6,072",
       "4,080",
       "-2,905",
-      "-1,423"
+      "-1,423",
+      "-434"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "5,418",
-      "8,167",
-      "2,296",
-      "6,536",
-      "3,526"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "-311",
-      "201",
-      "160",
-      "-105",
-      "-5"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "8,167",
       "2,296",
       "6,536",
       "3,526",
       "2,098"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "201",
+      "160",
+      "-105",
+      "-5",
+      "-4"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "2,296",
+      "6,536",
+      "3,526",
+      "2,098",
+      "1,660"
     ],
     "Unit": [
       "Thousand",
@@ -774,11 +676,21 @@
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified"
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/04/11",
+      "Year Ended": "2018/11",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/02/02",
       "Year Ended": "2017/11",
@@ -813,7 +725,7 @@
       "Announce Date": "2017/05/17",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:1-for-4@HKD 0.2000",
+      "Particular": "R:1-for-4@HKD\n                0.2000",
       "Type": "-",
       "Ex-Date": "2017/05/23",
       "Book Close Date": "2017/05/25-2017/06/01",
@@ -953,7 +865,7 @@
       "Announce Date": "2013/12/01",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 1-for-2@HKD 0.1000",
+      "Particular": "R: 1-for-2@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2013/12/23",
       "Book Close Date": "2013/12/30-2014/01/07",

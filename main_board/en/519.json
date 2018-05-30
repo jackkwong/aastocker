@@ -1,9 +1,9 @@
 {
   "stock_code": "519",
   "basic_information": {
-    "Name": "Applied Development Holdings Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "Name": "Applied Development Holdings\n                    Ltd.",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1986/03/24",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "5,000",
     "NAV(HKD)": "0.5974",
     "EPS(HKD)": "0.1394",
-    "PE": "5.02",
+    "PE": "4.81",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.1717",
+    "Price/PNAV": "1.1215",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "4,463",
-      "-89,799",
-      "14,984",
-      "58,546",
-      "116,714"
-    ],
-    "Depreciation": [
-      "1,215",
-      "1,242",
-      "1,370",
-      "617",
-      "21"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-2,274",
-      "-96,068",
-      "7,679",
-      "370,036",
-      "290,980"
-    ],
-    "Interest Paid": [
-      "6,668",
-      "3,708",
-      "1,633",
-      "1,819",
-      "409"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "18,103",
-      "-32,127",
-      "23,407",
-      "56,928",
-      "115,000"
-    ],
-    "Turnover Growth (%)": [
-      "-100.00",
-      "-",
-      "850.54",
-      "187.41",
-      "87.52"
-    ],
-    "Net Profit Growth (%)": [
-      "-94.93",
-      "4.12K",
-      "-107.99",
-      "4.72K",
-      "-21.36"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "143,719",
-      "99,372",
-      "75,181",
-      "-",
-      "392,968"
-    ],
-    "Net Assets": [
-      "419,956",
-      "388,740",
-      "477,538",
-      "956,173",
-      "1,247,146"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/18",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -853,7 +765,7 @@
       "Announce Date": "2014/07/03",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 1-for-2@HKD 0.1390",
+      "Particular": "R: 1-for-2@HKD\n                0.1390",
       "Type": "-",
       "Ex-Date": "2014/07/18",
       "Book Close Date": "2014/07/22-2014/07/24",

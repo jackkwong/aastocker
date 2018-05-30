@@ -15,10 +15,10 @@
     "Board Lot": "40,000",
     "NAV(HKD)": "0.3226",
     "EPS(HKD)": "-0.0004",
-    "PE": "-662.50",
+    "PE": "-650.00",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.8215",
+    "Price/PNAV": "0.8060",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "78,222",
-      "89,204",
-      "66,314",
-      "65,558",
-      "20,626"
-    ],
-    "Depreciation": [
-      "18,772",
-      "18,926",
-      "19,055",
-      "19,141",
-      "18,757"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "43,478",
-      "55,093",
-      "36,047",
-      "35,759",
-      "-516"
-    ],
-    "Interest Paid": [
-      "3,633",
-      "2,118",
-      "1,304",
-      "792",
-      "545"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "54.11",
-      "13.13",
-      "-18.47",
-      "-2.62",
-      "-36.75"
-    ],
-    "Net Profit Growth (%)": [
-      "157.68",
-      "26.71",
-      "-34.57",
-      "-0.80",
-      "-101.44"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "233,293",
-      "151,097",
-      "121,495",
-      "58,959",
-      "49,643"
-    ],
-    "Net Assets": [
-      "296,058",
-      "351,573",
-      "387,620",
-      "423,379",
-      "422,863"
-    ],
-    "Intangible Assets": [
-      "5,530",
-      "4,363",
-      "3,196",
-      "2,029",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -1103,7 +1005,7 @@
       "Announce Date": "2003/10/03",
       "Year Ended": "2004/03",
       "Event": "Special",
-      "Particular": "FC FORMERLY:[ASEAN RESOURCES]",
+      "Particular": "FC FORMERLY:[ASEAN\n                RESOURCES]",
       "Type": "-",
       "Ex-Date": "2003/10/07",
       "Book Close Date": "-",
@@ -1123,7 +1025,7 @@
       "Announce Date": "2003/02/21",
       "Year Ended": "2003/03",
       "Event": "Special",
-      "Particular": "Distribution in\n              specie: 1 Besteam Limited share for 1",
+      "Particular": "Distribution in\n                specie: 1 Besteam Limited share for 1",
       "Type": "Scrip",
       "Ex-Date": "2003/04/25",
       "Book Close Date": "2003/04/29-2003/05/05",

@@ -1,7 +1,7 @@
 {
   "stock_code": "8213",
   "basic_information": {
-    "Name": "New Wisdom Holding Company Limited",
+    "Name": "New Wisdom Holding Company\n                    Limited",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "2003/03/18",
@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "-0.0171",
     "EPS(HKD)": "-0.0141",
-    "PE": "-2.91",
+    "PE": "-4.54",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "-2.4036",
+    "Price/PNAV": "-3.7519",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "13,156",
-      "7,848",
-      "12,625",
-      "7,017",
-      "-18,273"
-    ],
-    "Depreciation": [
-      "16,596",
-      "25,794",
-      "36,501",
-      "33,133",
-      "24,688"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-17,922",
-      "-27,712",
-      "-36,643",
-      "-38,705",
-      "-47,333"
-    ],
-    "Interest Paid": [
-      "3,615",
-      "3,206",
-      "3,306",
-      "2,405",
-      "2,320"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-4,775",
-      "-1,670",
-      "-",
-      "-5,648",
-      "-2,861"
-    ],
-    "Turnover Growth (%)": [
-      "185.72",
-      "62.55",
-      "22.04",
-      "-12.47",
-      "-24.04"
-    ],
-    "Net Profit Growth (%)": [
-      "11.87",
-      "54.63",
-      "32.23",
-      "5.63",
-      "22.29"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "99,228",
-      "99,909",
-      "106,616",
-      "63,868",
-      "53,495"
-    ],
-    "Net Assets": [
-      "58,621",
-      "31,223",
-      "-5,078",
-      "372",
-      "-47,378"
-    ],
-    "Intangible Assets": [
-      "85,989",
-      "87,477",
-      "86,499",
-      "75,228",
-      "69,570"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -1053,7 +955,7 @@
       "Announce Date": "2011/10/07",
       "Year Ended": "2012/03",
       "Event": "Special",
-      "Particular": "R:1-for-2@HKD 0.0600",
+      "Particular": "R:1-for-2@HKD\n                0.0600",
       "Type": "-",
       "Ex-Date": "2011/10/21",
       "Book Close Date": "2011/10/25-2011/10/28",

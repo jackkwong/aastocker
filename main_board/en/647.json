@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.3259",
     "EPS(HKD)": "-0.0260",
-    "PE": "-11.92",
+    "PE": "-11.35",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.9512",
+    "Price/PNAV": "0.9052",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "125,319",
-      "122,048",
-      "85,399",
-      "-36,481",
-      "-13,203"
-    ],
-    "Depreciation": [
-      "47,393",
-      "49,946",
-      "41,347",
-      "42,367",
-      "25,627"
-    ],
-    "Total Dividends": [
-      "56,840",
-      "56,840",
-      "32,480",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "7,465",
-      "4,836",
-      "595",
-      "-78,015",
-      "-41,854"
-    ],
-    "Interest Paid": [
-      "29",
-      "28",
-      "14",
-      "12",
-      "9"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-4.44",
-      "5.87",
-      "-1.02",
-      "-11.05",
-      "-19.08"
-    ],
-    "Net Profit Growth (%)": [
-      "-57.45",
-      "-4.09",
-      "-46.37",
-      "-335.87",
-      "-46.35"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "698,575",
-      "708,885",
-      "677,833",
-      "572,747",
-      "529,257"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -833,7 +735,7 @@
       "Announce Date": "2015/06/19",
       "Year Ended": "2015/03",
       "Event": "Interim 2",
-      "Particular": "D:HKD 0.0200(instead\n              of Fin Div)",
+      "Particular": "D:HKD\n                0.0200(instead of Fin Div)",
       "Type": "Cash",
       "Ex-Date": "2015/08/13",
       "Book Close Date": "2015/08/17-2015/08/21",
@@ -853,7 +755,7 @@
       "Announce Date": "2014/06/20",
       "Year Ended": "2014/03",
       "Event": "Interim 2",
-      "Particular": "D:HKD 0.0350(instead\n              of Fin Div)",
+      "Particular": "D:HKD\n                0.0350(instead of Fin Div)",
       "Type": "Cash",
       "Ex-Date": "2014/08/21",
       "Book Close Date": "2014/08/25-2014/08/29",
@@ -873,7 +775,7 @@
       "Announce Date": "2013/06/21",
       "Year Ended": "2013/03",
       "Event": "Interim 2",
-      "Particular": "D:HKD 0.0350(instead\n              of Fin Div)",
+      "Particular": "D:HKD\n                0.0350(instead of Fin Div)",
       "Type": "Cash",
       "Ex-Date": "2013/08/22",
       "Book Close Date": "2013/08/26-2013/08/30",

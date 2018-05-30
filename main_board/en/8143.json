@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.01",
     "Authorized Capital(share)": "110,000,000,000",
-    "Issued Capital(share)": "2,358,249,944",
+    "Issued Capital(share)": "2,818,249,944",
     "Issue Cap-H(share)": "-",
     "Board Lot": "4,000",
     "NAV(HKD)": "0.1033",
     "EPS(HKD)": "0.0017",
-    "PE": "70.59",
+    "PE": "72.35",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.1616",
+    "Price/PNAV": "1.1907",
     "Index Constituent": "GEM_Index"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "103,804",
-      "98,207",
-      "-733,677",
-      "-10,422",
-      "-7,943"
-    ],
-    "Depreciation": [
-      "10,545",
-      "10,551",
-      "14,678",
-      "12,230",
-      "15,612"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "42,740",
-      "21,913",
-      "-505,581",
-      "-43,372",
-      "10,208"
-    ],
-    "Interest Paid": [
-      "10,288",
-      "10,493",
-      "11,520",
-      "3,099",
-      "3,115"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "10.07",
-      "11.02",
-      "-20.63",
-      "-85.80",
-      "6.59"
-    ],
-    "Net Profit Growth (%)": [
-      "-13.95",
-      "-48.73",
-      "-2407.22",
-      "-91.42",
-      "-123.54"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "247,934",
-      "164,461",
-      "199,598",
-      "207,677",
-      "52,546"
-    ],
-    "Net Assets": [
-      "945,065",
-      "724,253",
-      "221,810",
-      "181,965",
-      "243,613"
-    ],
-    "Intangible Assets": [
-      "788,420",
-      "788,420",
-      "31,939",
-      "30,068",
-      "147,086"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -833,7 +735,7 @@
       "Announce Date": "2016/11/10",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "Distribution in\n              specie:4 Wanjia Group Holdings Limited share for shares\n              25",
+      "Particular": "Distribution in\n                specie:4 Wanjia Group Holdings Limited share for shares\n                25",
       "Type": "Scrip",
       "Ex-Date": "2017/02/20",
       "Book Close Date": "2017/02/22-2017/02/22",
@@ -913,7 +815,7 @@
       "Announce Date": "2015/06/23",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 1-for-5@HKD\n              0.7200(lapsed as announced on 2015/07/08)",
+      "Particular": "R: 1-for-5@HKD\n                0.7200(lapsed as announced on 2015/07/08)",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -983,7 +885,7 @@
       "Announce Date": "2013/08/16",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "Special Interim Dividend: By\n              way of distribution in specie 1 Wanjia Group Holdings\n              Limited share for every 5 shares",
+      "Particular": "Special Interim Dividend:\n                By way of distribution in specie 1 Wanjia Group\n                Holdings Limited share for every 5 shares",
       "Type": "Scrip",
       "Ex-Date": "2013/09/30",
       "Book Close Date": "2013/10/03-2013/10/07",
@@ -1123,7 +1025,7 @@
       "Announce Date": "2010/09/27",
       "Year Ended": "2011/03",
       "Event": "Special",
-      "Particular": "R: 1 -for- 3@HKD\n              0.0620",
+      "Particular": "R: 1 -for- 3@HKD\n                0.0620",
       "Type": "-",
       "Ex-Date": "2010/10/12",
       "Book Close Date": "2010/10/14-2010/10/19",
@@ -1203,7 +1105,7 @@
       "Announce Date": "2008/12/31",
       "Year Ended": "2009/03",
       "Event": "Special",
-      "Particular": "B: 2-for-1 offer\n              share",
+      "Particular": "B: 2-for-1 offer\n                share",
       "Type": "-",
       "Ex-Date": "2009/02/10",
       "Book Close Date": "2009/02/12-2009/02/16",
@@ -1213,7 +1115,7 @@
       "Announce Date": "2008/12/30",
       "Year Ended": "2009/03",
       "Event": "Special",
-      "Particular": "O:1 -for- 2 @HKD\n              0.0500",
+      "Particular": "O:1 -for- 2 @HKD\n                0.0500",
       "Type": "-",
       "Ex-Date": "2009/02/10",
       "Book Close Date": "2009/02/12-2009/02/16",
@@ -1233,7 +1135,7 @@
       "Announce Date": "2008/09/08",
       "Year Ended": "2009/03",
       "Event": "Special",
-      "Particular": "R:1-for-2@HKD 0.0500",
+      "Particular": "R:1-for-2@HKD\n                0.0500",
       "Type": "-",
       "Ex-Date": "2008/09/22",
       "Book Close Date": "2008/09/24-2008/09/29",
@@ -1313,7 +1215,7 @@
       "Announce Date": "2006/12/14",
       "Year Ended": "2007/03",
       "Event": "Special",
-      "Particular": "O: 1- for - 2@HKD\n              0.0800",
+      "Particular": "O: 1- for - 2@HKD\n                0.0800",
       "Type": "-",
       "Ex-Date": "2007/01/17",
       "Book Close Date": "2007/01/19-2007/01/24",
@@ -1353,7 +1255,7 @@
       "Announce Date": "2006/03/02",
       "Year Ended": "2006/03",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.0600",
+      "Particular": "R: 1 - for - 2@HKD\n                0.0600",
       "Type": "-",
       "Ex-Date": "2006/03/21",
       "Book Close Date": "2006/03/23-2006/03/27",

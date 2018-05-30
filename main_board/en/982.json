@@ -1,7 +1,7 @@
 {
   "stock_code": "982",
   "basic_information": {
-    "Name": "HJ Capital (International) Holdings\n                Company Limited",
+    "Name": "HJ Capital (International)\n                    Holdings Company Limited",
     "EPS Start Date": "2017/01/01",
     "EPS End Date": "2017/12/31",
     "Listing Date": "2008/07/14",
@@ -13,12 +13,12 @@
     "Issued Capital(share)": "10,060,920,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "20,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "0.0194",
     "EPS(HKD)": "0.0000",
-    "PE": "4.23K",
+    "PE": "3.58K",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "-",
+    "Price/PNAV": "7.3859",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "22,517",
-      "21,398",
-      "19,487",
-      "-27,864",
-      "6,977"
-    ],
-    "Depreciation": [
-      "1,594",
-      "1,576",
-      "1,735",
-      "4,762",
-      "4,183"
-    ],
-    "Total Dividends": [
-      "-",
-      "216,016",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "19,902",
-      "-198,351",
-      "13,130",
-      "-28,985",
-      "344"
-    ],
-    "Interest Paid": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "3.60",
-      "27.08",
-      "10.86",
-      "-12.73",
-      "19.25"
-    ],
-    "Net Profit Growth (%)": [
-      "-37.59",
-      "-11.24",
-      "-25.67",
-      "-320.75",
-      "-101.19"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,83 +473,55 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "23,768",
-      "35,500"
-    ],
-    "Net Assets": [
-      "280,886",
-      "77,953",
-      "91,233",
-      "141,500",
-      "194,792"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "11,628",
-      "11,628"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "cashflow": {
     "Closing Date": [
-      "2012/12",
       "2013/12",
       "2014/12",
       "2015/12",
-      "2016/12"
+      "2016/12",
+      "2017/12"
     ],
     "Net Cash Flow from Operating Activities": [
-      "14,940",
       "15,581",
       "24,370",
       "36,917",
-      "14,922"
+      "-8,251",
+      "-13,641"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-4,527",
       "-4,303",
       "-214,159",
       "353",
-      "-268"
+      "6,912",
+      "-1,778"
     ],
     "Interest Received": [
-      "4,273",
       "4,421",
       "1,754",
       "167",
-      "273"
+      "7,453",
+      "198"
     ],
     "Interest Paid": [
       "-",
       "-",
       "-",
-      "-",
-      "-368"
+      "-368",
+      "-2,426"
     ],
     "Dividend Received": [
-      "1,320",
       "1,396",
       "103",
       "-",
-      "-"
+      "-",
+      "450"
     ],
     "Dividend Paid": [
       "-10,120",
-      "-10,120",
       "-216,016",
+      "-",
       "-",
       "-"
     ],
@@ -631,81 +533,81 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-319",
       "-4,735",
       "-5,727",
       "-1,728",
-      "-4,913"
+      "-5,071",
+      "-1,959"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-7,074",
       "7,886",
       "103,857",
       "-7,623",
-      "-1,737"
+      "-2,114",
+      "-138,168"
     ],
     "Additions to Fixed Assets": [
-      "-1,013",
       "-7,810",
       "-2,099",
       "-1,985",
-      "-407"
+      "-784",
+      "-517"
     ],
     "Disposal of Fixed Assets": [
       "-",
-      "-",
       "4",
+      "-",
       "-",
       "-"
     ],
     "Increase in Investments": [
-      "-48,108",
       "-",
       "-",
       "-5,638",
-      "-7,266"
+      "-7,266",
+      "-137,829"
     ],
     "Decrease in Investments": [
-      "-",
       "18,168",
       "71,087",
       "-",
-      "5,936"
+      "5,936",
+      "-"
     ],
     "Net Cash Flow with Related Parties": [
       "-",
       "-",
       "-",
-      "-",
-      "-"
+      "-11,837",
+      "-24,299"
     ],
     "Net Cash Flow before Financing Activities": [
-      "3,020",
       "14,429",
       "-91,659",
       "27,919",
-      "8,004"
+      "-8,524",
+      "-155,546"
     ],
     "Net Cash Flow from Financing Activities": [
       "-",
       "-",
       "-",
-      "-",
-      "23,768"
+      "11,931",
+      "116,839"
     ],
     "New Loans": [
       "-",
       "-",
       "-",
-      "-",
-      "101,768"
+      "101,768",
+      "139,079"
     ],
     "Loans Repayment": [
       "-",
       "-",
       "-",
-      "-",
-      "-78,000"
+      "-78,000",
+      "-127,347"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -726,21 +628,21 @@
       "-",
       "-",
       "-",
-      "-"
+      "129,406"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "3,020",
       "14,429",
       "-91,659",
       "27,919",
-      "31,772"
+      "3,407",
+      "-38,707"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "103,923",
       "106,943",
       "121,372",
       "29,713",
-      "57,632"
+      "135,146",
+      "138,553"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
@@ -750,11 +652,11 @@
       "-"
     ],
     "Cash & Cash Equivalents at End of Year": [
-      "106,943",
       "121,372",
       "29,713",
       "57,632",
-      "89,404"
+      "138,553",
+      "99,846"
     ],
     "Unit": [
       "Thousand",

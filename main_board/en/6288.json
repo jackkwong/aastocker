@@ -19,7 +19,7 @@
     "DPS(HKD)": "24.8045",
     "Yield": "-",
     "Price/PNAV": "-",
-    "Index Constituent": "HSGCI\n                HSFCCI"
+    "Index Constituent": "HSGCI\n                    HSFCCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "JPY",
       "JPY",
       "JPY"
-    ],
-    "EBITDA": [
-      "157,244,000",
-      "162,143,000",
-      "203,358,000",
-      "166,491,000",
-      "219,034,000"
-    ],
-    "Depreciation": [
-      "23,691,000",
-      "30,808,000",
-      "37,758,000",
-      "36,797,000",
-      "39,688,000"
-    ],
-    "Total Dividends": [
-      "-",
-      "30,573,000",
-      "35,678,000",
-      "35,685,000",
-      "35,693,000"
-    ],
-    "Profit After Taxation And Dividends": [
-      "90,378,000",
-      "43,974,000",
-      "74,349,000",
-      "12,369,000",
-      "83,587,000"
-    ],
-    "Interest Paid": [
-      "633,000",
-      "933,000",
-      "1,137,000",
-      "2,402,000",
-      "2,932,000"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "23.08",
-      "20.99",
-      "21.61",
-      "6.23",
-      "4.22"
-    ],
-    "Net Profit Growth (%)": [
-      "26.13",
-      "-17.52",
-      "47.60",
-      "-56.33",
-      "148.22"
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "JPY",
       "JPY",
       "JPY"
-    ],
-    "Total Debt": [
-      "27,420,000",
-      "37,561,000",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "560,566,000",
-      "618,382,000",
-      "750,938,000",
-      "574,502,000",
-      "731,771,000"
-    ],
-    "Intangible Assets": [
-      "78,115,000",
-      "73,683,000",
-      "68,156,000",
-      "52,113,000",
-      "52,780,000"
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/04/12",
+      "Year Ended": "2018/08",
+      "Event": "Interim",
+      "Particular": "D:JPY\n                2.0000(equivalent to HKD 0.143456)(Common share D:JPY\n                200.0000)",
+      "Type": "Cash",
+      "Ex-Date": "2018/02/27",
+      "Book Close Date": "2018/02/28",
+      "Payable Date": "2018/05/23"
+    },
+    {
       "Announce Date": "2018/01/11",
       "Year Ended": "2018/08",
       "Event": "Quarter 1",
@@ -793,7 +705,7 @@
       "Announce Date": "2017/10/12",
       "Year Ended": "2017/08",
       "Event": "Final",
-      "Particular": "D:JPY\n              1.7500(equivalent to HKD 0.120267) (Common share D:JPY\n              175.0000)",
+      "Particular": "D:JPY\n                1.7500(equivalent to HKD 0.120267) (Common share D:JPY\n                175.0000)",
       "Type": "Cash",
       "Ex-Date": "2017/08/30",
       "Book Close Date": "2017/08/31",
@@ -813,7 +725,7 @@
       "Announce Date": "2017/04/13",
       "Year Ended": "2017/08",
       "Event": "Interim",
-      "Particular": "D:JPY D:JPY\n              1.7500(equivalent to HKD 0.120174)(Common share D:JPY\n              175.0000)",
+      "Particular": "D:JPY D:JPY\n                1.7500(equivalent to HKD 0.120174)(Common share D:JPY\n                175.0000)",
       "Type": "Cash",
       "Ex-Date": "2017/02/27",
       "Book Close Date": "2017/02/28",
@@ -833,7 +745,7 @@
       "Announce Date": "2016/10/13",
       "Year Ended": "2016/08",
       "Event": "Final",
-      "Particular": "D:JPY\n              1.6500(equivalent to HKD 0.1238)(Common share D:JPY\n              165.0000)",
+      "Particular": "D:JPY\n                1.6500(equivalent to HKD 0.1238)(Common share D:JPY\n                165.0000)",
       "Type": "Cash",
       "Ex-Date": "2016/08/30",
       "Book Close Date": "2016/08/31",
@@ -853,7 +765,7 @@
       "Announce Date": "2016/04/07",
       "Year Ended": "2016/08",
       "Event": "Interim",
-      "Particular": "D:JPY\n              1.8500(equivalent to HKD 0.131929)(Common share D:JPY\n              185.0000)",
+      "Particular": "D:JPY\n                1.8500(equivalent to HKD 0.131929)(Common share D:JPY\n                185.0000)",
       "Type": "Cash",
       "Ex-Date": "2016/02/26",
       "Book Close Date": "2016/02/29",
@@ -873,7 +785,7 @@
       "Announce Date": "2015/10/08",
       "Year Ended": "2015/08",
       "Event": "Final",
-      "Particular": "D:JPY\n              1.7500(equivalent to HKD 0.1101275)(Common share D:JPY\n              175.0000)",
+      "Particular": "D:JPY\n                1.7500(equivalent to HKD 0.1101275)(Common share D:JPY\n                175.0000)",
       "Type": "Cash",
       "Ex-Date": "2015/08/24",
       "Book Close Date": "2015/08/25",
@@ -893,7 +805,7 @@
       "Announce Date": "2015/04/09",
       "Year Ended": "2015/08",
       "Event": "Interim",
-      "Particular": "D:JPY\n              1.7500(equivalent to HKD 0.1129258)(Common share D:JPY\n              175.0000)",
+      "Particular": "D:JPY\n                1.7500(equivalent to HKD 0.1129258)(Common share D:JPY\n                175.0000)",
       "Type": "Cash",
       "Ex-Date": "2015/02/27",
       "Book Close Date": "2015/02/28",
@@ -913,7 +825,7 @@
       "Announce Date": "2014/10/09",
       "Year Ended": "2014/08",
       "Event": "Final",
-      "Particular": "D:JPY\n              1.5000(equivalent to HKD 0.0985515)(Common share D:JPY\n              150.0000)",
+      "Particular": "D:JPY\n                1.5000(equivalent to HKD 0.0985515)(Common share D:JPY\n                150.0000)",
       "Type": "Cash",
       "Ex-Date": "2014/08/28",
       "Book Close Date": "2014/08/31",

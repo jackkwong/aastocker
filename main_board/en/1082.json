@@ -1,9 +1,9 @@
 {
   "stock_code": "1082",
   "basic_information": {
-    "Name": "Hong Kong Education (Int'l)\n                Investments Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "Name": "Hong Kong Education (Int'l)\n                    Investments Ltd.",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "2011/07/04",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "8,000",
     "NAV(HKD)": "0.5739",
     "EPS(HKD)": "-0.6400",
-    "PE": "-0.88",
+    "PE": "-0.86",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.9757",
+    "Price/PNAV": "0.9583",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-16,150",
-      "-60,025",
-      "-25,120",
-      "-131,080",
-      "-243,696"
-    ],
-    "Depreciation": [
-      "8,526",
-      "6,616",
-      "5,250",
-      "6,183",
-      "7,685"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-25,239",
-      "-66,517",
-      "33,028",
-      "-144,718",
-      "-333,326"
-    ],
-    "Interest Paid": [
-      "-",
-      "1,561",
-      "-",
-      "9,154",
-      "16,598"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "6,020",
-      "1,500",
-      "2,100",
-      "-5,225",
-      "7,800"
-    ],
-    "Turnover Growth (%)": [
-      "-22.06",
-      "-5.05",
-      "-11.61",
-      "-8.95",
-      "-18.93"
-    ],
-    "Net Profit Growth (%)": [
-      "-181.01",
-      "163.55",
-      "-149.65",
-      "-538.17",
-      "130.33"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "161,296",
-      "164,900"
-    ],
-    "Net Assets": [
-      "197,144",
-      "211,968",
-      "336,489",
-      "560,702",
-      "314,272"
-    ],
-    "Intangible Assets": [
-      "1,484",
-      "1,346",
-      "1,148",
-      "950",
-      "752"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/27",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -843,7 +755,7 @@
       "Announce Date": "2015/04/24",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 4-for-1\n              consolidated share@HKD 0.2950",
+      "Particular": "R: 4-for-1\n                consolidated share@HKD 0.2950",
       "Type": "-",
       "Ex-Date": "2015/07/07",
       "Book Close Date": "2015/07/09-2015/07/15",
@@ -853,7 +765,7 @@
       "Announce Date": "2015/04/24",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "B: 1-for-2 rights\n              shares",
+      "Particular": "B: 1-for-2 rights\n                shares",
       "Type": "Scrip",
       "Ex-Date": "2015/07/07",
       "Book Close Date": "2015/07/09-2015/07/15",

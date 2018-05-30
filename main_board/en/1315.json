@@ -1,7 +1,7 @@
 {
   "stock_code": "1315",
   "basic_information": {
-    "Name": "Vision Fame International Holding\n                Ltd.",
+    "Name": "Vision Fame International\n                    Holding Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "2012/01/18",
@@ -15,11 +15,11 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.0508",
     "EPS(HKD)": "0.0000",
-    "PE": "-17000.00",
+    "PE": "-10000.00",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "6.6959",
-    "Index Constituent": "HSCI\n                HSHKMI\n                HSGCI\n                Index_Properties & Construction"
+    "Price/PNAV": "3.9388",
+    "Index Constituent": "HSCI\n                    HSHKSI\n                    HSGCI\n                    Index_Properties & Construction"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "27,672",
-      "-40,353",
-      "-101,767",
-      "34,844",
-      "11,297"
-    ],
-    "Depreciation": [
-      "3,004",
-      "5,144",
-      "7,578",
-      "8,266",
-      "6,512"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "25,873",
-      "-48,318",
-      "-117,263",
-      "19,918",
-      "-145"
-    ],
-    "Interest Paid": [
-      "1,572",
-      "3,071",
-      "6,834",
-      "5,575",
-      "3,584"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "45.89",
-      "-10.51",
-      "105.60",
-      "40.90",
-      "-39.76"
-    ],
-    "Net Profit Growth (%)": [
-      "-21.51",
-      "-286.75",
-      "142.69",
-      "-116.99",
-      "-100.73"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "48,500",
-      "181,033",
-      "207,119",
-      "186,721",
-      "259,323"
-    ],
-    "Net Assets": [
-      "198,166",
-      "144,779",
-      "25,989",
-      "324,286",
-      "304,662"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -873,7 +775,7 @@
       "Announce Date": "2014/06/19",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "S: 8-for-1(terminated\n              as announced on 2014/10/21)",
+      "Particular": "S:\n                8-for-1(terminated as announced on 2014/10/21)",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -883,7 +785,7 @@
       "Announce Date": "2014/06/19",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 1-for-1 subdivided\n              share@HKD 0.1600(terminated as announced on 2014/10/21)",
+      "Particular": "R: 1-for-1\n                subdivided share@HKD 0.1600(terminated as announced on\n                2014/10/21)",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",

@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "0.8920",
     "EPS(HKD)": "0.0699",
-    "PE": "10.73",
+    "PE": "10.01",
     "DPS(HKD)": "0.0559",
-    "Yield": "7.46",
-    "Price/PNAV": "0.8408",
+    "Yield": "7.99",
+    "Price/PNAV": "0.7848",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "USD",
       "USD",
       "USD"
-    ],
-    "EBITDA": [
-      "95,721",
-      "96,581",
-      "74,261",
-      "58,284",
-      "39,685"
-    ],
-    "Depreciation": [
-      "11,651",
-      "11,321",
-      "11,528",
-      "10,315",
-      "9,721"
-    ],
-    "Total Dividends": [
-      "254,195",
-      "24,127",
-      "15,691",
-      "18,559",
-      "12,148"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-197,517",
-      "24,109",
-      "15,738",
-      "8,090",
-      "3,008"
-    ],
-    "Interest Paid": [
-      "3,417",
-      "8,150",
-      "6,595",
-      "5,328",
-      "4,812"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "1.19",
-      "-1.91",
-      "-8.45",
-      "-18.65",
-      "-13.33"
-    ],
-    "Net Profit Growth (%)": [
-      "-10.33",
-      "-14.89",
-      "-34.84",
-      "-15.21",
-      "-43.13"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "USD",
       "USD",
       "USD"
-    ],
-    "Total Debt": [
-      "170,602",
-      "150,530",
-      "131,091",
-      "116,116",
-      "53,376"
-    ],
-    "Net Assets": [
-      "207,006",
-      "217,812",
-      "209,744",
-      "213,024",
-      "193,694"
-    ],
-    "Intangible Assets": [
-      "77,908",
-      "72,920",
-      "59,004",
-      "53,516",
-      "43,231"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,10 +682,20 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/03",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/11/28",
       "Year Ended": "2018/03",
       "Event": "Interim",
-      "Particular": "D:USD\n              0.0025(equivalent to HKD 0.01953 or MYR 0.01074)",
+      "Particular": "D:USD\n                0.0025(equivalent to HKD 0.01953 or MYR 0.01074)",
       "Type": "Cash",
       "Ex-Date": "2017/12/11",
       "Book Close Date": "2017/12/13-2017/12/13",
@@ -803,7 +715,7 @@
       "Announce Date": "2017/05/29",
       "Year Ended": "2017/03",
       "Event": "Interim 2",
-      "Particular": "D:USD\n              0.0036(equivalent to HKD 0.02813 or MYR 0.01604)(instead\n              of Fin Div)",
+      "Particular": "D:USD\n                0.0036(equivalent to HKD 0.02813 or MYR\n                0.01604)(instead of Fin Div)",
       "Type": "Cash",
       "Ex-Date": "2017/06/16",
       "Book Close Date": "2017/06/20-2017/06/20",
@@ -823,7 +735,7 @@
       "Announce Date": "2016/11/30",
       "Year Ended": "2017/03",
       "Event": "Interim",
-      "Particular": "D:USD\n              0.0036(equivalent to HKD 0.02792or MYR 0.01448)",
+      "Particular": "D:USD\n                0.0036(equivalent to HKD 0.02792or MYR 0.01448)",
       "Type": "Cash",
       "Ex-Date": "2016/12/13",
       "Book Close Date": "2016/12/15-2016/12/15",
@@ -843,7 +755,7 @@
       "Announce Date": "2016/05/30",
       "Year Ended": "2016/03",
       "Event": "Interim 2",
-      "Particular": "D:USD\n              0.0060(equivalent to HKD 0.04642 or MYR 0.02430)",
+      "Particular": "D:USD\n                0.0060(equivalent to HKD 0.04642 or MYR 0.02430)",
       "Type": "Cash",
       "Ex-Date": "2016/06/21",
       "Book Close Date": "2016/06/23-2016/06/23",
@@ -863,7 +775,7 @@
       "Announce Date": "2015/11/25",
       "Year Ended": "2016/03",
       "Event": "Interim",
-      "Particular": "D:USD\n              0.0050(equivalent to HKD 0.03876or MYR 0.01931)",
+      "Particular": "D:USD\n                0.0050(equivalent to HKD 0.03876or MYR 0.01931)",
       "Type": "Cash",
       "Ex-Date": "2015/12/08",
       "Book Close Date": "2015/12/10-2015/12/10",
@@ -883,7 +795,7 @@
       "Announce Date": "2015/05/28",
       "Year Ended": "2015/03",
       "Event": "Interim 2",
-      "Particular": "D:USD\n              0.0050(equivalent to HKD 0.03877or MYR 0.01825)(instead\n              of Fin Div)",
+      "Particular": "D:USD\n                0.0050(equivalent to HKD 0.03877or MYR 0.01825)(instead\n                of Fin Div)",
       "Type": "Cash",
       "Ex-Date": "2015/07/08",
       "Book Close Date": "2015/07/10-2015/07/10",
@@ -903,7 +815,7 @@
       "Announce Date": "2014/11/26",
       "Year Ended": "2015/03",
       "Event": "Interim",
-      "Particular": "D:USD\n              0.0043(equivalent to HKD 0.03335 or MYR 0.01439)",
+      "Particular": "D:USD\n                0.0043(equivalent to HKD 0.03335 or MYR 0.01439)",
       "Type": "Cash",
       "Ex-Date": "2014/12/15",
       "Book Close Date": "2014/12/17-2014/12/17",
@@ -923,7 +835,7 @@
       "Announce Date": "2014/05/29",
       "Year Ended": "2014/03",
       "Event": "Interim 2",
-      "Particular": "D:USD\n              0.0068(equivalent to HKD 0.05272)",
+      "Particular": "D:USD\n                0.0068(equivalent to HKD 0.05272)",
       "Type": "Cash",
       "Ex-Date": "2014/07/09",
       "Book Close Date": "2014/07/11-2014/07/11",
@@ -943,7 +855,7 @@
       "Announce Date": "2013/11/27",
       "Year Ended": "2014/03",
       "Event": "Interim 1",
-      "Particular": "D:USD\n              0.0075(equivalent to HKD 0.05814)",
+      "Particular": "D:USD\n                0.0075(equivalent to HKD 0.05814)",
       "Type": "Cash",
       "Ex-Date": "2013/12/13",
       "Book Close Date": "2013/12/17-2013/12/17",
@@ -963,7 +875,7 @@
       "Announce Date": "2013/05/29",
       "Year Ended": "2013/03",
       "Event": "Interim 2",
-      "Particular": "D:USD\n              0.01015(equivalent to HKD 0.07880)",
+      "Particular": "D:USD\n                0.01015(equivalent to HKD 0.07880)",
       "Type": "Cash",
       "Ex-Date": "2013/07/10",
       "Book Close Date": "2013/07/12-2013/07/12",
@@ -1243,7 +1155,7 @@
       "Announce Date": "2005/09/09",
       "Year Ended": "2006/03",
       "Event": "Special",
-      "Particular": "PREFERENTIAL OFFER: TO\n              SUBSCRIBE1 RESERVED ONE MEDIA GROUP LIMITED SHARE FOR 20\n              SHARES (FINAL ASSURED ENTITLEMENT IS NOT YET KNOWN)",
+      "Particular": "PREFERENTIAL OFFER: TO\n                SUBSCRIBE1 RESERVED ONE MEDIA GROUP LIMITED SHARE FOR\n                20 SHARES (FINAL ASSURED ENTITLEMENT IS NOT YET KNOWN)",
       "Type": "-",
       "Ex-Date": "2005/09/22",
       "Book Close Date": "2005/09/26-2005/09/26",

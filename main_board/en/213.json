@@ -1,7 +1,7 @@
 {
   "stock_code": "213",
   "basic_information": {
-    "Name": "National Electronics Holdings Ltd.",
+    "Name": "National Electronics Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1985/02/04",
@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "1,500,000,000",
-    "Issued Capital(share)": "1,014,766,962",
+    "Issued Capital(share)": "1,026,764,962",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "1.9988",
     "EPS(HKD)": "0.1430",
-    "PE": "7.97",
+    "PE": "8.18",
     "DPS(HKD)": "0.0450",
-    "Yield": "3.95",
-    "Price/PNAV": "0.5704",
+    "Yield": "3.85",
+    "Price/PNAV": "0.5854",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "86,798",
-      "198,708",
-      "256,067",
-      "387,069",
-      "292,738"
-    ],
-    "Depreciation": [
-      "30,288",
-      "39,027",
-      "34,129",
-      "35,401",
-      "28,488"
-    ],
-    "Total Dividends": [
-      "57,706",
-      "47,020",
-      "32,750",
-      "45,895",
-      "45,774"
-    ],
-    "Profit After Taxation And Dividends": [
-      "238,760",
-      "181,456",
-      "100,324",
-      "198,836",
-      "99,385"
-    ],
-    "Interest Paid": [
-      "33,457",
-      "47,357",
-      "90,723",
-      "100,138",
-      "95,421"
-    ],
-    "Interest Capitalized": [
-      "9,244",
-      "18,273",
-      "31,193",
-      "32,948",
-      "19,627"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "30,841",
-      "194,936",
-      "56,369",
-      "2,215",
-      "191,237"
-    ],
-    "Turnover Growth (%)": [
-      "-9.80",
-      "0.30",
-      "22.27",
-      "-19.74",
-      "-12.22"
-    ],
-    "Net Profit Growth (%)": [
-      "73.06",
-      "-22.93",
-      "-41.76",
-      "83.91",
-      "-40.69"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "1,593,696",
-      "1,918,593",
-      "3,160,305",
-      "2,692,251",
-      "3,381,271"
-    ],
-    "Net Assets": [
-      "1,589,764",
-      "1,728,444",
-      "1,743,607",
-      "1,944,433",
-      "2,033,152"
-    ],
-    "Intangible Assets": [
-      "678",
-      "678",
-      "1,270",
-      "1,270",
-      "1,270"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {

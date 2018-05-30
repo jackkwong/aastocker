@@ -8,17 +8,17 @@
     "Trade Currency": "HKD",
     "Report Currency": "SGD",
     "Par Currency": "HKD",
-    "Par": "0.01",
-    "Authorized Capital(share)": "5,000,000,000",
-    "Issued Capital(share)": "250,000,000",
+    "Par": "0.002",
+    "Authorized Capital(share)": "25,000,000,000",
+    "Issued Capital(share)": "1,250,000,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "5,000",
     "NAV(HKD)": "0.2358",
     "EPS(HKD)": "-0.0144",
-    "PE": "-1501.17",
+    "PE": "-479.54",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "91.5916",
+    "Price/PNAV": "29.2584",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "SGD",
       "SGD",
       ""
-    ],
-    "EBITDA": [
-      "2,550",
-      "2,522",
-      "-1,028",
-      "-479",
-      ""
-    ],
-    "Depreciation": [
-      "117",
-      "201",
-      "288",
-      "413",
-      ""
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      ""
-    ],
-    "Profit After Taxation And Dividends": [
-      "2,249",
-      "2,119",
-      "-1,297",
-      "-618",
-      ""
-    ],
-    "Interest Paid": [
-      "81",
-      "83",
-      "47",
-      "6",
-      ""
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      ""
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      ""
-    ],
-    "Turnover Growth (%)": [
-      "-",
-      "38.47",
-      "7.83",
-      "-10.46",
-      ""
-    ],
-    "Net Profit Growth (%)": [
-      "-",
-      "-5.77",
-      "-161.22",
-      "-52.34",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "Unqualified",
-      "Unqualified",
-      ""
     ]
   },
   "balance_sheet": {
@@ -542,34 +472,6 @@
       "SGD",
       "SGD",
       "SGD",
-      ""
-    ],
-    "Total Debt": [
-      "828",
-      "982",
-      "296",
-      "-",
-      ""
-    ],
-    "Net Assets": [
-      "2,991",
-      "2,829",
-      "10,867",
-      "10,244",
-      ""
-    ],
-    "Intangible Assets": [
-      "-",
-      "886",
-      "886",
-      "905",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "Unqualified",
-      "Unqualified",
       ""
     ]
   },
@@ -779,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/03/15",
+      "Year Ended": "2018/07",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/01/29",
       "Year Ended": "-",

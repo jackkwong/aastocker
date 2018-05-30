@@ -1,16 +1,16 @@
 {
   "stock_code": "6068",
   "basic_information": {
-    "Name": "Wisdom Education International\n                Holdings Company Limited",
-    "EPS Start Date": "2016/09/01",
-    "EPS End Date": "2017/08/31",
+    "Name": "Wisdom Education International\n                    Holdings Company Limited",
+    "EPS Start Date": "2017/09/01",
+    "EPS End Date": "2018/08/31",
     "Listing Date": "2017/01/26",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "HKD",
     "Par": "0.01",
     "Authorized Capital(share)": "10,000,000,000",
-    "Issued Capital(share)": "2,041,954,000",
+    "Issued Capital(share)": "2,042,954,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "1.0150",
@@ -19,7 +19,7 @@
     "DPS(HKD)": "0.0593",
     "Yield": "-",
     "Price/PNAV": "-",
-    "Index Constituent": "HSHKSI\n                Index_Services\n                HSGCI\n                HSCI"
+    "Index Constituent": "HSHKSI\n                    Index_Services\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       ""
-    ],
-    "EBITDA": [
-      "220,616",
-      "363,255",
-      "323,956",
-      "362,203",
-      ""
-    ],
-    "Depreciation": [
-      "29,308",
-      "41,037",
-      "49,413",
-      "65,645",
-      ""
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "101,958",
-      ""
-    ],
-    "Profit After Taxation And Dividends": [
-      "90,917",
-      "182,305",
-      "154,367",
-      "98,275",
-      ""
-    ],
-    "Interest Paid": [
-      "79,039",
-      "109,876",
-      "80,008",
-      "26,251",
-      ""
-    ],
-    "Interest Capitalized": [
-      "5,052",
-      "3,126",
-      "10,368",
-      "8,035",
-      ""
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      ""
-    ],
-    "Turnover Growth (%)": [
-      "-",
-      "26.13",
-      "23.21",
-      "39.73",
-      ""
-    ],
-    "Net Profit Growth (%)": [
-      "-",
-      "100.52",
-      "-15.32",
-      "29.71",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "-",
-      "Unqualified",
-      ""
     ]
   },
   "balance_sheet": {
@@ -542,34 +472,6 @@
       "RMB",
       "RMB",
       "RMB",
-      ""
-    ],
-    "Total Debt": [
-      "1,270,000",
-      "1,275,500",
-      "607,700",
-      "621,800",
-      ""
-    ],
-    "Net Assets": [
-      "510,632",
-      "675,476",
-      "830,775",
-      "1,745,890",
-      ""
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "-",
-      "Unqualified",
       ""
     ]
   },
@@ -780,10 +682,20 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/04/26",
+      "Year Ended": "2018/08",
+      "Event": "Interim",
+      "Particular": "D:RMB\n                0.0320(equivalent to HKD 0.0400)",
+      "Type": "Cash",
+      "Ex-Date": "2018/05/15",
+      "Book Close Date": "2018/05/17-2018/05/18",
+      "Payable Date": "2018/05/31"
+    },
+    {
       "Announce Date": "2017/11/21",
       "Year Ended": "2017/08",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0260(equivalent to HKD 0.0300)",
+      "Particular": "D:RMB\n                0.0260(equivalent to HKD 0.0300)",
       "Type": "Cash",
       "Ex-Date": "2018/01/12",
       "Book Close Date": "2018/01/16-2018/01/18",
@@ -793,7 +705,7 @@
       "Announce Date": "2017/04/26",
       "Year Ended": "2017/08",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.0240(equivalent to HKD 0.0270)",
+      "Particular": "D:RMB\n                0.0240(equivalent to HKD 0.0270)",
       "Type": "Cash",
       "Ex-Date": "2017/05/11",
       "Book Close Date": "2017/05/15-2017/05/16",

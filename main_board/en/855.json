@@ -15,11 +15,11 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "3.7015",
     "EPS(HKD)": "0.5672",
-    "PE": "12.08",
+    "PE": "13.19",
     "DPS(HKD)": "0.2000",
-    "Yield": "2.92",
-    "Price/PNAV": "1.8506",
-    "Index Constituent": "HSCI\n                Index_Utilities\n                HSGCI\n                HSHKSI"
+    "Yield": "2.67",
+    "Price/PNAV": "2.0208",
+    "Index Constituent": "HSCI\n                    Index_Utilities\n                    HSGCI\n                    HSHKSI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "1,283,847",
-      "1,365,460",
-      "1,700,114",
-      "2,247,245",
-      "2,988,035"
-    ],
-    "Depreciation": [
-      "252,323",
-      "298,117",
-      "308,293",
-      "272,053",
-      "316,110"
-    ],
-    "Total Dividends": [
-      "72,320",
-      "70,246",
-      "101,003",
-      "121,589",
-      "302,517"
-    ],
-    "Profit After Taxation And Dividends": [
-      "213,489",
-      "211,049",
-      "269,855",
-      "486,523",
-      "551,117"
-    ],
-    "Interest Paid": [
-      "190,273",
-      "238,803",
-      "255,070",
-      "328,659",
-      "400,832"
-    ],
-    "Interest Capitalized": [
-      "103,753",
-      "131,901",
-      "137,667",
-      "157,835",
-      "149,678"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "149,880",
-      "48,701",
-      "-",
-      "52,900",
-      "316,457"
-    ],
-    "Turnover Growth (%)": [
-      "18.65",
-      "22.03",
-      "4.08",
-      "65.81",
-      "20.42"
-    ],
-    "Net Profit Growth (%)": [
-      "-9.35",
-      "-1.58",
-      "31.84",
-      "63.97",
-      "40.37"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "3,247,334",
-      "4,835,941",
-      "5,400,505",
-      "7,232,030",
-      "11,328,967"
-    ],
-    "Net Assets": [
-      "3,383,200",
-      "3,530,431",
-      "3,923,426",
-      "5,263,372",
-      "5,615,304"
-    ],
-    "Intangible Assets": [
-      "373,531",
-      "424,051",
-      "414,941",
-      "8,705,122",
-      "10,316,240"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -1053,7 +955,7 @@
       "Announce Date": "2004/12/24",
       "Year Ended": "2005/03",
       "Event": "Special",
-      "Particular": "FC FORMERLY:[China Silver\n              Dragon Group Limited]",
+      "Particular": "FC FORMERLY:[China Silver\n                Dragon Group Limited]",
       "Type": "-",
       "Ex-Date": "2004/12/10",
       "Book Close Date": "-",
@@ -1083,7 +985,7 @@
       "Announce Date": "2004/05/27",
       "Year Ended": "2004/03",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.2000",
+      "Particular": "R: 1 - for - 2@HKD\n                0.2000",
       "Type": "-",
       "Ex-Date": "2004/06/15",
       "Book Close Date": "2004/06/17-2004/06/21",
@@ -1113,7 +1015,7 @@
       "Announce Date": "2003/06/09",
       "Year Ended": "2003/03",
       "Event": "Special",
-      "Particular": "FC FORMERLY:[CEDAR BASE\n              ELECTRON (GROUP) LIMITED]",
+      "Particular": "FC FORMERLY:[CEDAR BASE\n                ELECTRON (GROUP) LIMITED]",
       "Type": "-",
       "Ex-Date": "2003/06/09",
       "Book Close Date": "-",

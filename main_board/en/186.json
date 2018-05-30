@@ -1,7 +1,7 @@
 {
   "stock_code": "186",
   "basic_information": {
-    "Name": "The Grande Holdings Ltd.",
+    "Name": "Nimble Holdings Company Limited",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1987/07/09",
@@ -15,10 +15,10 @@
     "Board Lot": "30,000",
     "NAV(HKD)": "0.0404",
     "EPS(HKD)": "0.7200",
-    "PE": "1.74",
+    "PE": "1.76",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "30.9247",
+    "Price/PNAV": "31.4195",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "77",
-      "70",
-      "32",
-      "19",
-      "40"
-    ],
-    "Depreciation": [
-      "1",
-      "1",
-      "1",
-      "-",
-      "-"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-672",
-      "-191",
-      "-93",
-      "-163",
-      "2,813"
-    ],
-    "Interest Paid": [
-      "268",
-      "192",
-      "-",
-      "-",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-24.87",
-      "-33.54",
-      "-10.53",
-      "-33.03",
-      "-"
-    ],
-    "Net Profit Growth (%)": [
-      "-49.17",
-      "-71.58",
-      "-51.31",
-      "75.27",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "2,268",
-      "2",
-      "2",
-      "2",
-      "-"
-    ],
-    "Net Assets": [
-      "-2,618",
-      "-2,813",
-      "-3,002",
-      "-3,185",
-      "222"
-    ],
-    "Intangible Assets": [
-      "784",
-      "751",
-      "676",
-      "450",
-      "299"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "cashflow": {
@@ -771,11 +673,11 @@
       "HKD"
     ],
     "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in\n                    respect of fundamental uncertainly because of\n                    proper disclosure)"
     ]
   },
   "dividend_history": [
@@ -823,7 +725,7 @@
       "Announce Date": "2016/03/08",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 5-for-2@HKD 0.0870",
+      "Particular": "O: 5-for-2@HKD\n                0.0870",
       "Type": "-",
       "Ex-Date": "2016/04/20",
       "Book Close Date": "2016/04/22-2016/04/22",
@@ -1073,7 +975,7 @@
       "Announce Date": "2004/04/26",
       "Year Ended": "2003/12",
       "Event": "Final",
-      "Particular": "SD: By way of\n              distribution in specie 1 Sansui Electric Company Limited\n              share for 2 shares",
+      "Particular": "SD: By way of\n                distribution in specie 1 Sansui Electric Company\n                Limited share for 2 shares",
       "Type": "Scrip",
       "Ex-Date": "2004/06/10",
       "Book Close Date": "2004/06/14-2004/06/16",
@@ -1113,7 +1015,7 @@
       "Announce Date": "2002/04/25",
       "Year Ended": "2001/12",
       "Event": "Final",
-      "Particular": "SD: By way of\n              distribution in specie 1 Sansui Electric Company Limited\n              share for 2 shares",
+      "Particular": "SD: By way of\n                distribution in specie 1 Sansui Electric Company\n                Limited share for 2 shares",
       "Type": "Scrip",
       "Ex-Date": "2002/06/10",
       "Book Close Date": "2002/06/12-2002/06/14",

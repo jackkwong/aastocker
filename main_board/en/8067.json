@@ -1,7 +1,7 @@
 {
   "stock_code": "8067",
   "basic_information": {
-    "Name": "Oriental University City Holdings\n                (H.K.) Limited",
+    "Name": "Oriental University City\n                    Holdings (H.K.) Limited",
     "EPS Start Date": "2017/07/01",
     "EPS End Date": "2018/06/30",
     "Listing Date": "2015/01/16",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "6.3749",
     "EPS(HKD)": "0.2651",
-    "PE": "14.71",
+    "PE": "11.88",
     "DPS(HKD)": "0.0800",
-    "Yield": "2.05",
-    "Price/PNAV": "0.6118",
+    "Yield": "2.54",
+    "Price/PNAV": "0.4941",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "EBITDA": [
-      "115,299",
-      "43,484",
-      "58,627",
-      "71,389",
-      "37,418"
-    ],
-    "Depreciation": [
-      "1,909",
-      "761",
-      "410",
-      "344",
-      "350"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "11,347",
-      "12,193",
-      "12,659"
-    ],
-    "Profit After Taxation And Dividends": [
-      "113,484",
-      "40,405",
-      "30,781",
-      "40,720",
-      "29,534"
-    ],
-    "Interest Paid": [
-      "4,008",
-      "-",
-      "-",
-      "-",
-      "879"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "13,730",
-      "9,561",
-      "34,935",
-      "28,867",
-      "22,996"
-    ],
-    "Turnover Growth (%)": [
-      "-",
-      "-12.99",
-      "3.26",
-      "11.42",
-      "-12.07"
-    ],
-    "Net Profit Growth (%)": [
-      "-",
-      "-64.40",
-      "4.26",
-      "25.60",
-      "-20.26"
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "48,986"
-    ],
-    "Net Assets": [
-      "762,859",
-      "803,264",
-      "925,431",
-      "962,801",
-      "995,516"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,10 +682,20 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/05/03",
+      "Year Ended": "2018/06",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/01/05",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "Withdrawal of Listing:Will be\n              listed on the Main Board",
+      "Particular": "Withdrawal of Listing:Will\n                be listed on the Main Board",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -803,7 +715,7 @@
       "Announce Date": "2017/08/15",
       "Year Ended": "2017/06",
       "Event": "Final",
-      "Particular": "D:HKD\n              0.0400(equivalent to RMB 0.0350)",
+      "Particular": "D:HKD\n                0.0400(equivalent to RMB 0.0350)",
       "Type": "Cash",
       "Ex-Date": "2017/10/23",
       "Book Close Date": "2017/10/25-2017/10/30",
@@ -823,7 +735,7 @@
       "Announce Date": "2017/01/24",
       "Year Ended": "2017/06",
       "Event": "Interim",
-      "Particular": "D:HKD\n              0.0400(equivalent to RMB 0.0350)",
+      "Particular": "D:HKD\n                0.0400(equivalent to RMB 0.0350)",
       "Type": "Cash",
       "Ex-Date": "2017/03/22",
       "Book Close Date": "2017/03/24-2017/03/24",
@@ -833,11 +745,11 @@
       "Announce Date": "2017/01/23",
       "Year Ended": "2018/06",
       "Event": "Interim",
-      "Particular": "D:HKD\n              0.0500(equivalent to RMB 0.0410)",
+      "Particular": "D:HKD\n                0.0500(equivalent to RMB 0.0410)",
       "Type": "Cash",
-      "Ex-Date": "2018/03/21",
-      "Book Close Date": "2018/03/23-2018/03/23",
-      "Payable Date": "2018/04/06"
+      "Ex-Date": "2018/07/18",
+      "Book Close Date": "2018/07/20-2018/07/20",
+      "Payable Date": "2018/07/31"
     },
     {
       "Announce Date": "2016/10/19",
@@ -853,7 +765,7 @@
       "Announce Date": "2016/08/16",
       "Year Ended": "2016/06",
       "Event": "Final",
-      "Particular": "D:HKD\n              0.0400(equivalent to RMB 0.0340)",
+      "Particular": "D:HKD\n                0.0400(equivalent to RMB 0.0340)",
       "Type": "Cash",
       "Ex-Date": "2016/10/21",
       "Book Close Date": "2016/10/25-2016/10/27",
@@ -863,7 +775,7 @@
       "Announce Date": "2016/01/27",
       "Year Ended": "2016/06",
       "Event": "Interim",
-      "Particular": "D:HKD\n              0.0400(equivalent to RMB 0.0330)",
+      "Particular": "D:HKD\n                0.0400(equivalent to RMB 0.0330)",
       "Type": "Cash",
       "Ex-Date": "2016/03/22",
       "Book Close Date": "2016/03/24-2016/03/24",
@@ -883,7 +795,7 @@
       "Announce Date": "2015/08/23",
       "Year Ended": "2015/06",
       "Event": "Final",
-      "Particular": "D:HKD\n              0.0800(equivalent to RMB 0.0630)",
+      "Particular": "D:HKD\n                0.0800(equivalent to RMB 0.0630)",
       "Type": "Cash",
       "Ex-Date": "2015/10/15",
       "Book Close Date": "2015/10/19-2015/10/22",

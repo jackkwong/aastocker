@@ -15,7 +15,7 @@
     "Board Lot": "4,000",
     "NAV(HKD)": "0.0000",
     "EPS(HKD)": "0.0580",
-    "PE": "14.14",
+    "PE": "12.59",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
     "Price/PNAV": "-",
@@ -275,76 +275,6 @@
       "",
       "",
       ""
-    ],
-    "EBITDA": [
-      "24,865",
-      "31,356",
-      "",
-      "",
-      ""
-    ],
-    "Depreciation": [
-      "3,470",
-      "5,191",
-      "",
-      "",
-      ""
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Profit After Taxation And Dividends": [
-      "12,001",
-      "14,214",
-      "",
-      "",
-      ""
-    ],
-    "Interest Paid": [
-      "110",
-      "311",
-      "",
-      "",
-      ""
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Turnover Growth (%)": [
-      "-",
-      "21.50",
-      "",
-      "",
-      ""
-    ],
-    "Net Profit Growth (%)": [
-      "-",
-      "18.44",
-      "",
-      "",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
     ]
   },
   "balance_sheet": {
@@ -540,34 +470,6 @@
     "Currency": [
       "HKD",
       "HKD",
-      "",
-      "",
-      ""
-    ],
-    "Total Debt": [
-      "5,586",
-      "13,532",
-      "",
-      "",
-      ""
-    ],
-    "Net Assets": [
-      "20,743",
-      "12,212",
-      "",
-      "",
-      ""
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
       "",
       "",
       ""
@@ -778,5 +680,16 @@
       ""
     ]
   },
-  "dividend_history": []
+  "dividend_history": [
+    {
+      "Announce Date": "2018/02/14",
+      "Year Ended": "2018/03",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    }
+  ]
 }

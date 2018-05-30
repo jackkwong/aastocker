@@ -1,7 +1,7 @@
 {
   "stock_code": "684",
   "basic_information": {
-    "Name": "Allan International Holdings Ltd.",
+    "Name": "Allan International Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1992/11/10",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "3.3336",
     "EPS(HKD)": "0.2170",
-    "PE": "9.86",
+    "PE": "9.63",
     "DPS(HKD)": "0.1250",
-    "Yield": "5.84",
-    "Price/PNAV": "0.6420",
+    "Yield": "5.98",
+    "Price/PNAV": "0.6270",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "179,699",
-      "154,749",
-      "158,913",
-      "212,156",
-      "144,542"
-    ],
-    "Depreciation": [
-      "74,746",
-      "78,548",
-      "71,552",
-      "68,185",
-      "59,641"
-    ],
-    "Total Dividends": [
-      "42,936",
-      "35,221",
-      "33,543",
-      "117,402",
-      "41,929"
-    ],
-    "Profit After Taxation And Dividends": [
-      "65,890",
-      "48,236",
-      "36,937",
-      "18,254",
-      "31,018"
-    ],
-    "Interest Paid": [
-      "2,934",
-      "2,048",
-      "1,428",
-      "959",
-      "676"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "31,111",
-      "31,166",
-      "30,000",
-      "-6,000",
-      "8,800"
-    ],
-    "Turnover Growth (%)": [
-      "-2.51",
-      "-14.47",
-      "-3.44",
-      "-19.56",
-      "-15.35"
-    ],
-    "Net Profit Growth (%)": [
-      "-14.40",
-      "-23.31",
-      "-15.55",
-      "92.47",
-      "-46.23"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "145,657",
-      "111,878",
-      "78,098",
-      "57,205",
-      "46,533"
-    ],
-    "Net Assets": [
-      "1,006,528",
-      "1,047,166",
-      "1,075,455",
-      "1,173,834",
-      "1,118,191"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {

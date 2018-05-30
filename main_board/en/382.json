@@ -19,7 +19,7 @@
     "DPS(HKD)": "0.0750",
     "Yield": "3.66",
     "Price/PNAV": "1.3002",
-    "Index Constituent": "HSGCI\n                HSCI\n                Index_Industrial Goods\n                HSHKSI"
+    "Index Constituent": "-"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "952,692",
-      "1,157,583",
-      "1,044,254",
-      "765,050",
-      "928,403"
-    ],
-    "Depreciation": [
-      "143,301",
-      "149,928",
-      "161,632",
-      "201,238",
-      "197,126"
-    ],
-    "Total Dividends": [
-      "135,442",
-      "242,183",
-      "214,652",
-      "186,135",
-      "214,808"
-    ],
-    "Profit After Taxation And Dividends": [
-      "504,814",
-      "543,316",
-      "463,720",
-      "338,895",
-      "381,766"
-    ],
-    "Interest Paid": [
-      "15,046",
-      "29,471",
-      "33,290",
-      "4,162",
-      "3,971"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-25.77",
-      "14.05",
-      "4.41",
-      "-13.30",
-      "-1.07"
-    ],
-    "Net Profit Growth (%)": [
-      "5.38",
-      "22.69",
-      "-13.64",
-      "-22.60",
-      "13.63"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "435,902",
-      "383,637",
-      "87,731",
-      "20,650",
-      "-"
-    ],
-    "Net Assets": [
-      "3,048,804",
-      "3,812,086",
-      "4,264,353",
-      "4,342,371",
-      "4,515,740"
-    ],
-    "Intangible Assets": [
-      "77,588",
-      "92,935",
-      "68,455",
-      "80,455",
-      "78,971"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -783,7 +685,7 @@
       "Announce Date": "2017/11/09",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "Withdrawal of Listing",
+      "Particular": "Privatization",
       "Type": "-",
       "Ex-Date": "2018/02/20",
       "Book Close Date": "-",
@@ -1043,7 +945,7 @@
       "Announce Date": "2005/06/08",
       "Year Ended": "2005/12",
       "Event": "Special",
-      "Particular": "R: 3 - for - 2@HKD\n              0.1000",
+      "Particular": "R: 3 - for - 2@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2005/06/21",
       "Book Close Date": "2005/06/23-2005/06/28",

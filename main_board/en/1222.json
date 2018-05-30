@@ -15,10 +15,10 @@
     "Board Lot": "20,000",
     "NAV(HKD)": "0.2392",
     "EPS(HKD)": "0.0222",
-    "PE": "4.77",
+    "PE": "5.14",
     "DPS(HKD)": "0.0060",
-    "Yield": "5.66",
-    "Price/PNAV": "0.4432",
+    "Yield": "5.26",
+    "Price/PNAV": "0.4767",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "299,763",
-      "633,596",
-      "546,589",
-      "520,145",
-      "631,283"
-    ],
-    "Depreciation": [
-      "5,248",
-      "4,677",
-      "5,998",
-      "7,229",
-      "35,750"
-    ],
-    "Total Dividends": [
-      "42,412",
-      "48,937",
-      "228,372",
-      "116,019",
-      "115,733"
-    ],
-    "Profit After Taxation And Dividends": [
-      "367,124",
-      "544,584",
-      "359,816",
-      "333,058",
-      "307,957"
-    ],
-    "Interest Paid": [
-      "22,951",
-      "32,578",
-      "48,222",
-      "70,138",
-      "82,324"
-    ],
-    "Interest Capitalized": [
-      "11,723",
-      "14,224",
-      "29,457",
-      "46,145",
-      "51,967"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "109,871",
-      "-11,580",
-      "219,630",
-      "5,098",
-      "50,118"
-    ],
-    "Turnover Growth (%)": [
-      "81.13",
-      "126.67",
-      "-11.06",
-      "-38.87",
-      "-5.19"
-    ],
-    "Net Profit Growth (%)": [
-      "3.62",
-      "44.93",
-      "-0.90",
-      "-23.65",
-      "-5.65"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "1,629,819",
-      "1,266,855",
-      "2,628,597",
-      "2,208,788",
-      "4,081,274"
-    ],
-    "Net Assets": [
-      "3,567,531",
-      "3,912,054",
-      "4,190,454",
-      "4,557,270",
-      "4,612,980"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "68,991"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -873,7 +775,7 @@
       "Announce Date": "2014/11/19",
       "Year Ended": "-",
       "Event": "Interim",
-      "Particular": "Special Interim Dividend: By\n              way of distribution in specie 3 PNG Resources Holdings\n              Limited shares for 125",
+      "Particular": "Special Interim Dividend:\n                By way of distribution in specie 3 PNG Resources\n                Holdings Limited shares for 125",
       "Type": "Scrip",
       "Ex-Date": "2014/12/08",
       "Book Close Date": "2014/12/10-2014/12/11",
@@ -963,7 +865,7 @@
       "Announce Date": "2010/12/13",
       "Year Ended": "2011/03",
       "Event": "Special",
-      "Particular": "R: 8 -for- 1\n              consolidated share@HKD 0.1000",
+      "Particular": "R: 8 -for- 1\n                consolidated share@HKD 0.1000",
       "Type": "-",
       "Ex-Date": "2011/01/18",
       "Book Close Date": "2011/01/20-2011/01/27",
@@ -973,7 +875,7 @@
       "Announce Date": "2010/12/13",
       "Year Ended": "2011/03",
       "Event": "Special",
-      "Particular": "B: 1-for-8 rights\n              shares",
+      "Particular": "B: 1-for-8 rights\n                shares",
       "Type": "Scrip",
       "Ex-Date": "2011/01/18",
       "Book Close Date": "2011/01/20-2011/01/27",
@@ -1003,7 +905,7 @@
       "Announce Date": "2010/01/15",
       "Year Ended": "2010/03",
       "Event": "Special",
-      "Particular": "B: 2-for-3 rights\n              shares",
+      "Particular": "B: 2-for-3 rights\n                shares",
       "Type": "Scrip",
       "Ex-Date": "2010/02/11",
       "Book Close Date": "2010/02/17-2010/02/23",
@@ -1023,7 +925,7 @@
       "Announce Date": "2010/01/15",
       "Year Ended": "2010/03",
       "Event": "Special",
-      "Particular": "R: 3 -for- 1\n              consolidated share@HKD 0.1850",
+      "Particular": "R: 3 -for- 1\n                consolidated share@HKD 0.1850",
       "Type": "-",
       "Ex-Date": "2010/02/11",
       "Book Close Date": "2010/02/17-2010/02/23",
@@ -1053,7 +955,7 @@
       "Announce Date": "2009/02/16",
       "Year Ended": "2009/03",
       "Event": "Special",
-      "Particular": "B: 2-for-3 offer\n              shares",
+      "Particular": "B: 2-for-3 offer\n                shares",
       "Type": "-",
       "Ex-Date": "2009/04/01",
       "Book Close Date": "2009/04/03-2009/04/07",
@@ -1073,7 +975,7 @@
       "Announce Date": "2009/02/13",
       "Year Ended": "2009/03",
       "Event": "Special",
-      "Particular": "O:3 -for- 1\n              consolidated share@HKD 0.1000",
+      "Particular": "O:3 -for- 1\n                consolidated share@HKD 0.1000",
       "Type": "-",
       "Ex-Date": "2009/04/01",
       "Book Close Date": "2009/04/03-2009/04/07",
@@ -1253,7 +1155,7 @@
       "Announce Date": "2002/02/05",
       "Year Ended": "2002/03",
       "Event": "Special",
-      "Particular": "B: 1-for-4 rights\n              shares",
+      "Particular": "B: 1-for-4 rights\n                shares",
       "Type": "Scrip",
       "Ex-Date": "2002/02/21",
       "Book Close Date": "2002/02/25-2002/02/28",
@@ -1263,7 +1165,7 @@
       "Announce Date": "2002/02/05",
       "Year Ended": "2002/03",
       "Event": "Special",
-      "Particular": "R: 4 - FOR -1 @HKD\n              0.030",
+      "Particular": "R: 4 - FOR -1 @HKD\n                0.030",
       "Type": "-",
       "Ex-Date": "2002/02/21",
       "Book Close Date": "2002/02/25-2002/02/28",

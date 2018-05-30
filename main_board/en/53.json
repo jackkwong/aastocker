@@ -2,8 +2,8 @@
   "stock_code": "53",
   "basic_information": {
     "Name": "Guoco Group Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1983/05/03",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "188.2419",
     "EPS(HKD)": "18.8149",
-    "PE": "5.58",
+    "PE": "5.75",
     "DPS(HKD)": "4.0000",
-    "Yield": "3.81",
-    "Price/PNAV": "0.5578",
+    "Yield": "3.70",
+    "Price/PNAV": "0.5844",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "USD",
       "USD",
       "USD"
-    ],
-    "EBITDA": [
-      "1,140,687",
-      "1,028,363",
-      "1,009,854",
-      "925,053",
-      "939,886"
-    ],
-    "Depreciation": [
-      "100,929",
-      "107,570",
-      "101,700",
-      "103,841",
-      "87,587"
-    ],
-    "Total Dividends": [
-      "63,632",
-      "169,260",
-      "169,251",
-      "169,144",
-      "168,321"
-    ],
-    "Profit After Taxation And Dividends": [
-      "748,093",
-      "572,891",
-      "427,339",
-      "228,823",
-      "616,318"
-    ],
-    "Interest Paid": [
-      "214,917",
-      "222,224",
-      "206,897",
-      "161,540",
-      "145,376"
-    ],
-    "Interest Capitalized": [
-      "86,397",
-      "78,079",
-      "90,716",
-      "74,845",
-      "47,103"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "28,594",
-      "102,243",
-      "55,277",
-      "14,799",
-      "214,539"
-    ],
-    "Turnover Growth (%)": [
-      "33.48",
-      "25.31",
-      "1.98",
-      "-20.71",
-      "-19.60"
-    ],
-    "Net Profit Growth (%)": [
-      "-586.62",
-      "-8.57",
-      "-19.61",
-      "-33.29",
-      "97.16"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "USD",
       "USD",
       "USD"
-    ],
-    "Total Debt": [
-      "6,454,623",
-      "6,265,565",
-      "5,690,229",
-      "4,446,752",
-      "4,760,642"
-    ],
-    "Net Assets": [
-      "6,517,923",
-      "7,256,604",
-      "7,538,536",
-      "7,239,547",
-      "7,934,057"
-    ],
-    "Intangible Assets": [
-      "1,328,465",
-      "1,449,283",
-      "1,332,466",
-      "1,160,545",
-      "1,129,456"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/28",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "D:HKD 1.0000",
+      "Type": "Cash",
+      "Ex-Date": "2018/03/14",
+      "Book Close Date": "2018/03/16-2018/03/16",
+      "Payable Date": "2018/03/26"
+    },
+    {
       "Announce Date": "2017/08/29",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -873,7 +785,7 @@
       "Announce Date": "2013/07/03",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "Special Interim Dividend: By\n              way of distribution in specie 0.27 The Rank Group Plc\n              share for 1",
+      "Particular": "Special Interim Dividend:\n                By way of distribution in specie 0.27 The Rank Group\n                Plc share for 1",
       "Type": "Scrip",
       "Ex-Date": "2013/07/16",
       "Book Close Date": "2013/07/18-2013/07/18",

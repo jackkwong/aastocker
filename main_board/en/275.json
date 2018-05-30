@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "0.4838",
     "EPS(HKD)": "0.1300",
-    "PE": "0.70",
+    "PE": "0.55",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.1881",
+    "Price/PNAV": "0.1467",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-92,240",
-      "590",
-      "43,556",
-      "-31,975",
-      "2,234,937"
-    ],
-    "Depreciation": [
-      "14,411",
-      "14,791",
-      "13,568",
-      "14,944",
-      "10,614"
-    ],
-    "Total Dividends": [
-      "22,426",
-      "22,426",
-      "56,186",
-      "16,855,716",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-149,146",
-      "-124,441",
-      "-131,511",
-      "-152,630",
-      "1,220,221"
-    ],
-    "Interest Paid": [
-      "27,839",
-      "96,457",
-      "108,088",
-      "119,036",
-      "278,784"
-    ],
-    "Interest Capitalized": [
-      "18,997",
-      "83,334",
-      "93,259",
-      "75,541",
-      "31,367"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-8,355",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "131.18",
-      "-85.21",
-      "349.28",
-      "-78.47",
-      "231.86"
-    ],
-    "Net Profit Growth (%)": [
-      "-33.30",
-      "-19.50",
-      "-26.16",
-      "80.25",
-      "-998.71"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "877,923",
-      "1,411,335",
-      "1,575,538",
-      "1,921,013",
-      "4,609,934"
-    ],
-    "Net Assets": [
-      "2,526,787",
-      "2,373,723",
-      "2,435,442",
-      "2,923,382",
-      "4,982,702"
-    ],
-    "Intangible Assets": [
-      "28,887",
-      "23,501",
-      "21,344",
-      "19,189",
-      "17,034"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -843,7 +745,7 @@
       "Announce Date": "2016/01/25",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 8-for-1\n              consolidated share@HKD 0.2500",
+      "Particular": "O: 8-for-1\n                consolidated share@HKD 0.2500",
       "Type": "-",
       "Ex-Date": "2016/03/31",
       "Book Close Date": "2016/04/05-2016/04/08",
@@ -883,7 +785,7 @@
       "Announce Date": "2015/04/09",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 6-for-1\n              consolidated share@HKD 0.1600",
+      "Particular": "O: 6-for-1\n                consolidated share@HKD 0.1600",
       "Type": "-",
       "Ex-Date": "2015/06/19",
       "Book Close Date": "2015/06/23-2015/06/25",
@@ -983,7 +885,7 @@
       "Announce Date": "2011/01/31",
       "Year Ended": "2011/03",
       "Event": "Special",
-      "Particular": "R: 8 -for- 1\n              consolidated share@HKD 0.3000",
+      "Particular": "R: 8 -for- 1\n                consolidated share@HKD 0.3000",
       "Type": "-",
       "Ex-Date": "2011/03/11",
       "Book Close Date": "2011/03/15-2011/03/21",
@@ -1033,7 +935,7 @@
       "Announce Date": "2009/01/07",
       "Year Ended": "2009/03",
       "Event": "Special",
-      "Particular": "BW:4'2010'wts -for-\n              15 rts shares",
+      "Particular": "BW:4'2010'wts -for-\n                15 rts shares",
       "Type": "-",
       "Ex-Date": "2009/02/11",
       "Book Close Date": "2009/02/13-2009/02/19",
@@ -1043,7 +945,7 @@
       "Announce Date": "2009/01/07",
       "Year Ended": "2009/03",
       "Event": "Special",
-      "Particular": "O:3 -for- 1@HKD\n              0.3500",
+      "Particular": "O:3 -for- 1@HKD\n                0.3500",
       "Type": "-",
       "Ex-Date": "2009/02/11",
       "Book Close Date": "2009/02/13-2009/02/19",

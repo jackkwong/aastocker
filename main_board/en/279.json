@@ -1,7 +1,7 @@
 {
   "stock_code": "279",
   "basic_information": {
-    "Name": "Freeman FinTech Corporation Limited",
+    "Name": "Freeman FinTech Corporation\n                    Limited",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1988/05/11",
@@ -10,16 +10,16 @@
     "Par Currency": "HKD",
     "Par": "0.001",
     "Authorized Capital(share)": "5,000,000,000,000",
-    "Issued Capital(share)": "15,645,048,940",
+    "Issued Capital(share)": "15,681,761,881",
     "Issue Cap-H(share)": "-",
     "Board Lot": "20,000",
     "NAV(HKD)": "0.2420",
     "EPS(HKD)": "0.0292",
-    "PE": "60.62",
+    "PE": "4.25",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "7.3155",
-    "Index Constituent": "Index_Financials\n                HSGCI\n                HSCI\n                HSHKSI"
+    "Price/PNAV": "0.5125",
+    "Index Constituent": "Index_Financials\n                    HSGCI\n                    HSCI\n                    HSHKSI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "288,023",
-      "587,148",
-      "-74,534",
-      "-319,319",
-      "273,005"
-    ],
-    "Depreciation": [
-      "1,258",
-      "1,188",
-      "1,120",
-      "4,936",
-      "945"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "327,502",
-      "477,336",
-      "533,025",
-      "-620,996",
-      "418,208"
-    ],
-    "Interest Paid": [
-      "9,251",
-      "7,685",
-      "7,705",
-      "9,085",
-      "29,920"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "764.27",
-      "200.76",
-      "-106.58",
-      "861.22",
-      "-175.22"
-    ],
-    "Net Profit Growth (%)": [
-      "-151.24",
-      "45.75",
-      "11.67",
-      "-216.50",
-      "-167.34"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "303,506",
-      "208,731",
-      "320,255",
-      "81,378",
-      "932,000"
-    ],
-    "Net Assets": [
-      "2,499,922",
-      "3,204,217",
-      "3,454,526",
-      "3,064,914",
-      "3,465,762"
-    ],
-    "Intangible Assets": [
-      "339",
-      "339",
-      "1,736",
-      "1,736",
-      "1,736"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -863,7 +765,7 @@
       "Announce Date": "2014/11/11",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "B: 1-for-2 subdivided\n              shares",
+      "Particular": "B: 1-for-2\n                subdivided shares",
       "Type": "Scrip",
       "Ex-Date": "2014/12/16",
       "Book Close Date": "2014/12/18-2014/12/19",
@@ -923,7 +825,7 @@
       "Announce Date": "2012/12/04",
       "Year Ended": "2013/03",
       "Event": "Special",
-      "Particular": "R: 2-for-1\n              consolidated share@HKD 0.8500",
+      "Particular": "R: 2-for-1\n                consolidated share@HKD 0.8500",
       "Type": "-",
       "Ex-Date": "2013/06/18",
       "Book Close Date": "2013/06/20-2013/06/24",
@@ -963,7 +865,7 @@
       "Announce Date": "2012/01/19",
       "Year Ended": "2012/03",
       "Event": "Special",
-      "Particular": "R:2-for-1@HKD 0.1000",
+      "Particular": "R:2-for-1@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2012/04/10",
       "Book Close Date": "2012/04/12-2012/04/18",
@@ -1053,7 +955,7 @@
       "Announce Date": "2009/01/11",
       "Year Ended": "2009/03",
       "Event": "Special",
-      "Particular": "R: 1 - for -1@HKD\n              0.1100",
+      "Particular": "R: 1 - for -1@HKD\n                0.1100",
       "Type": "-",
       "Ex-Date": "2009/02/19",
       "Book Close Date": "2009/02/23-2009/02/26",
@@ -1113,7 +1015,7 @@
       "Announce Date": "2007/12/04",
       "Year Ended": "2008/03",
       "Event": "Special",
-      "Particular": "R: 5-for-1\n              consolidated share@HKD 0.1200",
+      "Particular": "R: 5-for-1\n                consolidated share@HKD 0.1200",
       "Type": "-",
       "Ex-Date": "2008/06/10",
       "Book Close Date": "2008/06/12-2008/06/16",
@@ -1133,7 +1035,7 @@
       "Announce Date": "2007/03/26",
       "Year Ended": "2008/03",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.1200",
+      "Particular": "R: 1 - for - 2@HKD\n                0.1200",
       "Type": "-",
       "Ex-Date": "2007/04/18",
       "Book Close Date": "2007/04/20-2007/04/26",

@@ -1,7 +1,7 @@
 {
   "stock_code": "8173",
   "basic_information": {
-    "Name": "Union Asia Enterprise Holdings Ltd.",
+    "Name": "Union Asia Enterprise Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "2002/05/09",
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "62,488",
-      "52,982",
-      "-33,261",
-      "-177,608",
-      "108,979"
-    ],
-    "Depreciation": [
-      "1,529",
-      "6,956",
-      "9,559",
-      "4,342",
-      "2,016"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-127,691",
-      "-175,363",
-      "-887,338",
-      "-430,699",
-      "2,686"
-    ],
-    "Interest Paid": [
-      "94,465",
-      "110,479",
-      "130,782",
-      "74,670",
-      "50,580"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-17.15",
-      "48.93",
-      "-89.61",
-      "-66.59",
-      "496.90"
-    ],
-    "Net Profit Growth (%)": [
-      "-97.35",
-      "37.33",
-      "406.00",
-      "-51.46",
-      "-100.62"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "621,681",
-      "757,170",
-      "883,231",
-      "504,390",
-      "404,926"
-    ],
-    "Net Assets": [
-      "178,253",
-      "16,597",
-      "-673,114",
-      "-550,740",
-      "-338,335"
-    ],
-    "Intangible Assets": [
-      "6,343",
-      "40,683",
-      "4,139",
-      "313",
-      "10,137"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "cashflow": {
@@ -774,8 +676,8 @@
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in\n                    respect of fundamental uncertainly because of\n                    proper disclosure)"
     ]
   },
   "dividend_history": [
@@ -813,7 +715,7 @@
       "Announce Date": "2017/11/09",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 19-for-1\n              Consolidated share@HKD 0.1900",
+      "Particular": "O: 19-for-1\n                Consolidated share@HKD 0.1900",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -873,7 +775,7 @@
       "Announce Date": "2016/07/04",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "C:1-for-10 (not\n              approved as announced on 2017/11/14)",
+      "Particular": "C:1-for-10 (not\n                approved as announced on 2017/11/14)",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -903,7 +805,7 @@
       "Announce Date": "2016/02/15",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O:8-for-1consolidated\n              share@HKD 0.1120",
+      "Particular": "O:8-for-1consolidated share@HKD 0.1120",
       "Type": "-",
       "Ex-Date": "2016/04/12",
       "Book Close Date": "2016/04/14-2016/04/20",
@@ -963,7 +865,7 @@
       "Announce Date": "2014/11/23",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 3-for-10@HKD\n              0.5000",
+      "Particular": "R: 3-for-10@HKD\n                0.5000",
       "Type": "-",
       "Ex-Date": "2015/01/13",
       "Book Close Date": "2015/01/15-2015/01/16",
@@ -973,7 +875,7 @@
       "Announce Date": "2014/11/23",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "B: 2-for-3 rights\n              shares",
+      "Particular": "B: 2-for-3 rights\n                shares",
       "Type": "Scrip",
       "Ex-Date": "2015/01/13",
       "Book Close Date": "2015/01/15-2015/01/16",
@@ -1153,7 +1055,7 @@
       "Announce Date": "2010/12/23",
       "Year Ended": "2011/03",
       "Event": "Special",
-      "Particular": "R: 5 -for-\n              1consolidated share@HKD 0.5000",
+      "Particular": "R: 5 -for-\n                1consolidated share@HKD 0.5000",
       "Type": "-",
       "Ex-Date": "2011/02/11",
       "Book Close Date": "2011/02/15-2011/02/18",
@@ -1293,7 +1195,7 @@
       "Announce Date": "2007/09/20",
       "Year Ended": "2008/03",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.0500",
+      "Particular": "R: 1 - for - 2@HKD\n                0.0500",
       "Type": "-",
       "Ex-Date": "2007/10/09",
       "Book Close Date": "2007/10/11-2007/10/16",

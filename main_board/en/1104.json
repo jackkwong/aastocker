@@ -2,8 +2,8 @@
   "stock_code": "1104",
   "basic_information": {
     "Name": "APAC Resources Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1998/12/29",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "20,000",
     "NAV(HKD)": "3.1424",
     "EPS(HKD)": "0.5968",
-    "PE": "2.13",
+    "PE": "2.18",
     "DPS(HKD)": "0.0150",
-    "Yield": "1.18",
-    "Price/PNAV": "0.4042",
+    "Yield": "1.15",
+    "Price/PNAV": "0.4137",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-2,417,288",
-      "676,372",
-      "648,272",
-      "-122,459",
-      "570,941"
-    ],
-    "Depreciation": [
-      "701",
-      "949",
-      "564",
-      "421",
-      "431"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "13,787"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-2,079,687",
-      "907,260",
-      "-847,926",
-      "-16,845",
-      "534,808"
-    ],
-    "Interest Paid": [
-      "6,195",
-      "7,392",
-      "6,915",
-      "135",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "5.18",
-      "-29.88",
-      "-66.90",
-      "-51.98",
-      "-18.38"
-    ],
-    "Net Profit Growth (%)": [
-      "755.95",
-      "-143.62",
-      "-193.46",
-      "-98.01",
-      "-3356.72"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "242,500",
-      "126,217",
-      "56,688",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "2,258,633",
-      "3,129,201",
-      "1,927,713",
-      "2,208,366",
-      "2,888,350"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,10 +682,20 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/27",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/25",
       "Year Ended": "2017/06",
       "Event": "Final",
-      "Particular": "D:HKD 0.0150(instead\n              of Fin Div)",
+      "Particular": "D:HKD\n                0.0150(instead of Fin Div)",
       "Type": "Cash",
       "Ex-Date": "2017/11/10",
       "Book Close Date": "2017/11/14-2017/11/16",
@@ -843,7 +755,7 @@
       "Announce Date": "2015/05/27",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1-for-2@HKD 0.1000",
+      "Particular": "O: 1-for-2@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2015/06/09",
       "Book Close Date": "2015/06/11-2015/06/17",
@@ -1023,7 +935,7 @@
       "Announce Date": "2006/11/09",
       "Year Ended": "2006/12",
       "Event": "Special",
-      "Particular": "R: 1 - for - 1@HKD\n              0.3000",
+      "Particular": "R: 1 - for - 1@HKD\n                0.3000",
       "Type": "-",
       "Ex-Date": "2006/12/20",
       "Book Close Date": "2006/12/22-2007/01/04",
@@ -1033,7 +945,7 @@
       "Announce Date": "2006/11/09",
       "Year Ended": "2006/12",
       "Event": "Special",
-      "Particular": "BW: 1 '2009'wts - for\n              - 5 rts shares",
+      "Particular": "BW: 1 '2009'wts -\n                for - 5 rts shares",
       "Type": "Scrip",
       "Ex-Date": "2006/12/20",
       "Book Close Date": "2006/12/22-2007/01/04",
@@ -1053,7 +965,7 @@
       "Announce Date": "2006/05/11",
       "Year Ended": "2006/12",
       "Event": "Special",
-      "Particular": "R: 2 - for - 1@HKD\n              0.1000",
+      "Particular": "R: 2 - for - 1@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2006/06/14",
       "Book Close Date": "2006/06/16-2006/06/19",

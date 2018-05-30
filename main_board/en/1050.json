@@ -1,7 +1,7 @@
 {
   "stock_code": "1050",
   "basic_information": {
-    "Name": "Karrie International Holdings Ltd.",
+    "Name": "Karrie International Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1996/12/16",
@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "4,000,000,000",
-    "Issued Capital(share)": "1,996,375,200",
+    "Issued Capital(share)": "1,993,489,200",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "0.5403",
     "EPS(HKD)": "0.0840",
-    "PE": "14.76",
+    "PE": "14.05",
     "DPS(HKD)": "0.0650",
-    "Yield": "5.24",
-    "Price/PNAV": "2.2951",
+    "Yield": "5.51",
+    "Price/PNAV": "2.1841",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "130,672",
-      "103,647",
-      "189,176",
-      "254,443",
-      "279,926"
-    ],
-    "Depreciation": [
-      "56,051",
-      "49,199",
-      "82,010",
-      "88,033",
-      "62,317"
-    ],
-    "Total Dividends": [
-      "23,954",
-      "19,962",
-      "65,875",
-      "69,866",
-      "129,491"
-    ],
-    "Profit After Taxation And Dividends": [
-      "15,354",
-      "14,329",
-      "10,423",
-      "47,210",
-      "38,842"
-    ],
-    "Interest Paid": [
-      "7,536",
-      "7,265",
-      "13,188",
-      "16,039",
-      "18,485"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "3,778",
-      "-",
-      "-",
-      "6,905"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "804",
-      "2,984",
-      "-",
-      "-11,281",
-      "1,358"
-    ],
-    "Turnover Growth (%)": [
-      "0.05",
-      "-11.28",
-      "27.43",
-      "11.85",
-      "-6.27"
-    ],
-    "Net Profit Growth (%)": [
-      "56.87",
-      "-12.76",
-      "122.50",
-      "53.45",
-      "43.78"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "271,146",
-      "163,517",
-      "365,549",
-      "398,654",
-      "539,928"
-    ],
-    "Net Assets": [
-      "924,153",
-      "939,385",
-      "988,149",
-      "1,017,180",
-      "1,078,503"
-    ],
-    "Intangible Assets": [
-      "24,491",
-      "30,964",
-      "28,564",
-      "28,417",
-      "24,760"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -785,9 +687,9 @@
       "Event": "Special",
       "Particular": "SD:HKD 0.0255",
       "Type": "Cash",
-      "Ex-Date": "-",
-      "Book Close Date": "-",
-      "Payable Date": "-"
+      "Ex-Date": "2018/03/12",
+      "Book Close Date": "2018/03/14-2018/03/14",
+      "Payable Date": "2018/04/06"
     },
     {
       "Announce Date": "2017/11/27",

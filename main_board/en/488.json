@@ -2,8 +2,8 @@
   "stock_code": "488",
   "basic_information": {
     "Name": "Lai Sun Development Co. Ltd.",
-    "EPS Start Date": "2016/08/01",
-    "EPS End Date": "2017/07/31",
+    "EPS Start Date": "2017/08/01",
+    "EPS End Date": "2018/07/31",
     "Listing Date": "1988/03/11",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,11 +15,11 @@
     "Board Lot": "300",
     "NAV(HKD)": "0.8793",
     "EPS(HKD)": "3.4650",
-    "PE": "3.65",
+    "PE": "3.94",
     "DPS(HKD)": "0.1000",
-    "Yield": "0.79",
-    "Price/PNAV": "14.3752",
-    "Index Constituent": "HSGCI\n                HSCI\n                Index_Properties & Construction\n                HSHKSI"
+    "Yield": "0.73",
+    "Price/PNAV": "15.5124",
+    "Index Constituent": "HSGCI\n                    HSCI\n                    Index_Properties & Construction\n                    HSHKSI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "2,247,571",
-      "1,736,878",
-      "2,163,669",
-      "1,002,484",
-      "2,147,610"
-    ],
-    "Depreciation": [
-      "29,076",
-      "34,487",
-      "48,613",
-      "62,119",
-      "76,991"
-    ],
-    "Total Dividends": [
-      "-",
-      "50,157",
-      "50,236",
-      "57,302",
-      "60,509"
-    ],
-    "Profit After Taxation And Dividends": [
-      "2,564,114",
-      "1,428,573",
-      "1,968,026",
-      "1,091,088",
-      "2,033,063"
-    ],
-    "Interest Paid": [
-      "153,232",
-      "225,406",
-      "251,519",
-      "312,320",
-      "276,502"
-    ],
-    "Interest Capitalized": [
-      "10,102",
-      "1,227",
-      "94,230",
-      "134,030",
-      "156,296"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "2,076,072",
-      "928,755",
-      "1,289,257",
-      "51,539",
-      "1,238,092"
-    ],
-    "Turnover Growth (%)": [
-      "10.12",
-      "118.90",
-      "-26.92",
-      "21.19",
-      "-8.79"
-    ],
-    "Net Profit Growth (%)": [
-      "12.33",
-      "-42.33",
-      "36.49",
-      "-43.10",
-      "82.30"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "5,774,082",
-      "5,389,344",
-      "6,986,526",
-      "8,111,656",
-      "9,637,211"
-    ],
-    "Net Assets": [
-      "19,127,772",
-      "20,774,548",
-      "22,662,543",
-      "24,357,735",
-      "26,599,790"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "5,161",
-      "5,161"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/03/22",
+      "Year Ended": "2018/07",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/10/19",
       "Year Ended": "2017/07",
       "Event": "Final",
@@ -833,7 +745,7 @@
       "Announce Date": "2015/11/17",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:1-for-2@HKD 0.0920",
+      "Particular": "R:1-for-2@HKD\n                0.0920",
       "Type": "-",
       "Ex-Date": "2016/01/12",
       "Book Close Date": "2016/01/14-2016/01/15",
@@ -923,7 +835,7 @@
       "Announce Date": "2011/11/09",
       "Year Ended": "2012/07",
       "Event": "Special",
-      "Particular": "R:5-for-12@HKD 0.0900",
+      "Particular": "R:5-for-12@HKD\n                0.0900",
       "Type": "-",
       "Ex-Date": "2011/11/18",
       "Book Close Date": "2011/11/22-2011/11/23",

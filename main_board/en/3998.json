@@ -1,7 +1,7 @@
 {
   "stock_code": "3998",
   "basic_information": {
-    "Name": "Bosideng International Holdings Ltd.",
+    "Name": "Bosideng International Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "2007/10/11",
@@ -15,11 +15,11 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.9696",
     "EPS(HKD)": "0.0476",
-    "PE": "13.85",
+    "PE": "18.05",
     "DPS(HKD)": "0.0147",
-    "Yield": "2.22",
-    "Price/PNAV": "0.6807",
-    "Index Constituent": "HSCI\n                Index_Consumer Goods\n                HSGCI\n                HSHKSI"
+    "Yield": "1.71",
+    "Price/PNAV": "0.8869",
+    "Index Constituent": "HSCI\n                    Index_Consumer Goods\n                    HSGCI\n                    HSHKSI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "EBITDA": [
-      "1,531,533",
-      "1,077,681",
-      "478,759",
-      "569,605",
-      "932,083"
-    ],
-    "Depreciation": [
-      "158,457",
-      "146,469",
-      "179,671",
-      "145,257",
-      "173,916"
-    ],
-    "Total Dividends": [
-      "803,701",
-      "361,541",
-      "139,192",
-      "176,795",
-      "141,451"
-    ],
-    "Profit After Taxation And Dividends": [
-      "274,949",
-      "333,163",
-      "-6,995",
-      "104,147",
-      "250,393"
-    ],
-    "Interest Paid": [
-      "101,406",
-      "65,742",
-      "100,188",
-      "86,669",
-      "98,160"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "11.32",
-      "-11.65",
-      "-23.61",
-      "-8.03",
-      "17.79"
-    ],
-    "Net Profit Growth (%)": [
-      "-24.92",
-      "-35.60",
-      "-80.97",
-      "112.52",
-      "39.48"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "Total Debt": [
-      "2,656,086",
-      "3,259,152",
-      "3,537,629",
-      "3,393,915",
-      "2,984,882"
-    ],
-    "Net Assets": [
-      "7,098,387",
-      "7,154,889",
-      "7,185,216",
-      "7,242,377",
-      "9,175,742"
-    ],
-    "Intangible Assets": [
-      "1,098,672",
-      "1,007,800",
-      "874,219",
-      "759,638",
-      "1,480,817"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -783,7 +685,7 @@
       "Announce Date": "2017/11/28",
       "Year Ended": "2018/03",
       "Event": "Interim",
-      "Particular": "D:HKD\n              0.0150(equivalent to RMB 0.0130)",
+      "Particular": "D:HKD\n                0.0150(equivalent to RMB 0.0130)",
       "Type": "Cash",
       "Ex-Date": "2017/12/22",
       "Book Close Date": "2017/12/28-2018/01/02",
@@ -793,7 +695,7 @@
       "Announce Date": "2017/06/26",
       "Year Ended": "2017/03",
       "Event": "Final",
-      "Particular": "D:HKD\n              0.0050(equivalent to RMB 0.0040)",
+      "Particular": "D:HKD\n                0.0050(equivalent to RMB 0.0040)",
       "Type": "Cash",
       "Ex-Date": "2017/08/31",
       "Book Close Date": "2017/09/04-2017/09/06",
@@ -803,7 +705,7 @@
       "Announce Date": "2016/11/29",
       "Year Ended": "2017/03",
       "Event": "Interim",
-      "Particular": "D:HKD\n              0.0100(equivalent to RMB 0.0090)",
+      "Particular": "D:HKD\n                0.0100(equivalent to RMB 0.0090)",
       "Type": "Cash",
       "Ex-Date": "2017/01/24",
       "Book Close Date": "2017/01/26-2017/02/01",
@@ -813,7 +715,7 @@
       "Announce Date": "2016/06/29",
       "Year Ended": "2016/03",
       "Event": "Final",
-      "Particular": "D:HKD\n              0.0260(equivalent to RMB 0.0220)",
+      "Particular": "D:HKD\n                0.0260(equivalent to RMB 0.0220)",
       "Type": "Cash",
       "Ex-Date": "2016/09/01",
       "Book Close Date": "2016/09/05-2016/09/07",
@@ -833,7 +735,7 @@
       "Announce Date": "2015/06/29",
       "Year Ended": "2015/03",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0080(equivalent to HKD 0.0100)",
+      "Particular": "D:RMB\n                0.0080(equivalent to HKD 0.0100)",
       "Type": "Cash",
       "Ex-Date": "2015/09/01",
       "Book Close Date": "2015/09/03-2015/09/07",
@@ -843,7 +745,7 @@
       "Announce Date": "2014/11/27",
       "Year Ended": "2015/03",
       "Event": "Interim",
-      "Particular": "D:HKD\n              0.0120(equivalent to RMB 0.0100)",
+      "Particular": "D:HKD\n                0.0120(equivalent to RMB 0.0100)",
       "Type": "Cash",
       "Ex-Date": "2015/01/29",
       "Book Close Date": "2015/02/02-2015/02/04",
@@ -853,7 +755,7 @@
       "Announce Date": "2014/06/27",
       "Year Ended": "2014/03",
       "Event": "Final",
-      "Particular": "D:HKD\n              0.0200(equivalent to RMB 0.0160)",
+      "Particular": "D:HKD\n                0.0200(equivalent to RMB 0.0160)",
       "Type": "Cash",
       "Ex-Date": "2014/09/01",
       "Book Close Date": "2014/09/03-2014/09/05",
@@ -863,7 +765,7 @@
       "Announce Date": "2013/11/28",
       "Year Ended": "2014/03",
       "Event": "Interim",
-      "Particular": "D:HKD\n              0.0370(equivalent to RMB 0.0290)",
+      "Particular": "D:HKD\n                0.0370(equivalent to RMB 0.0290)",
       "Type": "Cash",
       "Ex-Date": "2014/02/04",
       "Book Close Date": "2014/02/06-2014/02/10",
@@ -873,7 +775,7 @@
       "Announce Date": "2013/06/26",
       "Year Ended": "2013/03",
       "Event": "Final",
-      "Particular": "D:HKD\n              0.0650(equivalent to RMB 0.0520)",
+      "Particular": "D:HKD\n                0.0650(equivalent to RMB 0.0520)",
       "Type": "Cash",
       "Ex-Date": "2013/08/30",
       "Book Close Date": "2013/09/03-2013/09/04",

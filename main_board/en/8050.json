@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.0514",
     "EPS(HKD)": "-0.0292",
-    "PE": "-39.04",
+    "PE": "-34.93",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "22.1829",
+    "Price/PNAV": "19.8478",
     "Index Constituent": "GEM_Index"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-11,708",
-      "-10,058",
-      "-917",
-      "-636",
-      "-65,252"
-    ],
-    "Depreciation": [
-      "62",
-      "348",
-      "583",
-      "922",
-      "1,035"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-11,860",
-      "-10,481",
-      "-2,819",
-      "-4,253",
-      "-39,606"
-    ],
-    "Interest Paid": [
-      "95",
-      "13",
-      "-",
-      "-",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "241.64",
-      "-31.93",
-      "348.03",
-      "93.29",
-      "-90.98"
-    ],
-    "Net Profit Growth (%)": [
-      "-290.28",
-      "-11.63",
-      "-73.10",
-      "50.87",
-      "831.25"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "10,000",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "31,343",
-      "122,448",
-      "119,864",
-      "112,629",
-      "69,699"
-    ],
-    "Intangible Assets": [
-      "-",
-      "1,025",
-      "4,716",
-      "4,686",
-      "394"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/14",
+      "Year Ended": "2018/03",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2017/11/14",
       "Year Ended": "2018/03",
@@ -993,7 +905,7 @@
       "Announce Date": "2012/10/31",
       "Year Ended": "2013/03",
       "Event": "Special",
-      "Particular": "O: 1-for-4@HKD 0.1000",
+      "Particular": "O: 1-for-4@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2012/11/14",
       "Book Close Date": "2012/11/16-2012/11/20",

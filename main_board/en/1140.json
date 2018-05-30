@@ -1,7 +1,7 @@
 {
   "stock_code": "1140",
   "basic_information": {
-    "Name": "OP Financial Investments Ltd.",
+    "Name": "OP Financial Limited",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "2003/03/20",
@@ -10,16 +10,16 @@
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "4,000,000,000",
-    "Issued Capital(share)": "2,637,396,000",
+    "Issued Capital(share)": "2,937,696,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "4,000",
     "NAV(HKD)": "1.5361",
     "EPS(HKD)": "0.1015",
-    "PE": "28.28",
+    "PE": "33.50",
     "DPS(HKD)": "0.0400",
-    "Yield": "1.39",
-    "Price/PNAV": "1.8684",
-    "Index Constituent": "-"
+    "Yield": "1.18",
+    "Price/PNAV": "2.2135",
+    "Index Constituent": "Index_Financials\n                    HSGCI\n                    HSHKSI\n                    HSCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-3,542",
-      "27,333",
-      "-87,746",
-      "21,652",
-      "16,185"
-    ],
-    "Depreciation": [
-      "19",
-      "16",
-      "11",
-      "17",
-      "107"
-    ],
-    "Total Dividends": [
-      "94,140",
-      "47,070",
-      "-",
-      "46,035",
-      "75,896"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-81,328",
-      "150",
-      "-2,951",
-      "-1,878",
-      "112,164"
-    ],
-    "Interest Paid": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-37.94",
-      "3.03",
-      "4.32",
-      "-7.27",
-      "244.52"
-    ],
-    "Net Profit Growth (%)": [
-      "-130.05",
-      "268.56",
-      "-106.25",
-      "-1596.34",
-      "325.89"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "1,273,661",
-      "1,326,619",
-      "1,266,856",
-      "2,638,343",
-      "2,914,500"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -771,7 +673,7 @@
       "HKD"
     ],
     "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
       "Unqualified",
       "Unqualified",
       "Unqualified",

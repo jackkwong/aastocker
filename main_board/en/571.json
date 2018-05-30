@@ -2,8 +2,8 @@
   "stock_code": "571",
   "basic_information": {
     "Name": "eSun Holdings Ltd.",
-    "EPS Start Date": "2016/08/01",
-    "EPS End Date": "2017/07/31",
+    "EPS Start Date": "2017/08/01",
+    "EPS End Date": "2018/07/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "6.1120",
     "EPS(HKD)": "0.3780",
-    "PE": "3.28",
+    "PE": "3.99",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.2029",
+    "Price/PNAV": "0.2471",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "1,188,077",
-      "1,832,594",
-      "1,931,772",
-      "1,412,814",
-      "1,502,160"
-    ],
-    "Depreciation": [
-      "147,854",
-      "167,138",
-      "164,500",
-      "165,140",
-      "179,656"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-17,208",
-      "268,618",
-      "258,231",
-      "80,825",
-      "514,233"
-    ],
-    "Interest Paid": [
-      "288,458",
-      "400,216",
-      "379,636",
-      "375,676",
-      "335,312"
-    ],
-    "Interest Capitalized": [
-      "87,597",
-      "95,374",
-      "143,946",
-      "185,424",
-      "183,357"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "660,708",
-      "1,138,045",
-      "964,632",
-      "522,043",
-      "832,118"
-    ],
-    "Turnover Growth (%)": [
-      "274.81",
-      "-10.90",
-      "42.00",
-      "1.19",
-      "-20.54"
-    ],
-    "Net Profit Growth (%)": [
-      "-101.48",
-      "-1661.01",
-      "-3.87",
-      "-68.70",
-      "536.23"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "6,407,343",
-      "5,581,511",
-      "6,821,263",
-      "6,425,253",
-      "6,471,186"
-    ],
-    "Net Assets": [
-      "8,306,920",
-      "8,926,185",
-      "9,164,680",
-      "8,599,258",
-      "9,118,200"
-    ],
-    "Intangible Assets": [
-      "142,343",
-      "177,171",
-      "163,469",
-      "190,645",
-      "131,395"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/03/22",
+      "Year Ended": "2018/07",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/10/19",
       "Year Ended": "2017/07",
       "Event": "Final",
@@ -983,7 +895,7 @@
       "Announce Date": "2008/03/07",
       "Year Ended": "2008/12",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              2.5000",
+      "Particular": "R: 1 - for - 2@HKD\n                2.5000",
       "Type": "-",
       "Ex-Date": "2008/04/21",
       "Book Close Date": "2008/04/23-2008/04/25",

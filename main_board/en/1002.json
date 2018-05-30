@@ -2,8 +2,8 @@
   "stock_code": "1002",
   "basic_information": {
     "Name": "V.S. International Group Ltd.",
-    "EPS Start Date": "2016/08/01",
-    "EPS End Date": "2017/07/31",
+    "EPS Start Date": "2017/08/01",
+    "EPS End Date": "2018/07/31",
     "Listing Date": "2002/02/08",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "4,000",
     "NAV(HKD)": "0.2670",
     "EPS(HKD)": "0.0082",
-    "PE": "32.38",
+    "PE": "20.65",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.9924",
+    "Price/PNAV": "0.6329",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "RMB",
       "RMB"
-    ],
-    "EBITDA": [
-      "100,205",
-      "94,968",
-      "75,564",
-      "47,118",
-      "113,581"
-    ],
-    "Depreciation": [
-      "83,472",
-      "68,749",
-      "57,099",
-      "49,110",
-      "55,073"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-38,197",
-      "-25,729",
-      "-28,338",
-      "-32,503",
-      "13,484"
-    ],
-    "Interest Paid": [
-      "19,750",
-      "18,778",
-      "13,912",
-      "9,880",
-      "12,689"
-    ],
-    "Interest Capitalized": [
-      "39",
-      "-",
-      "28",
-      "32",
-      "676"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-19.33",
-      "12.29",
-      "-14.51",
-      "-24.54",
-      "43.71"
-    ],
-    "Net Profit Growth (%)": [
-      "-48.23",
-      "-32.64",
-      "10.14",
-      "14.70",
-      "-141.49"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "RMB",
       "RMB"
-    ],
-    "Total Debt": [
-      "440,049",
-      "449,954",
-      "331,363",
-      "250,184",
-      "290,091"
-    ],
-    "Net Assets": [
-      "416,896",
-      "408,991",
-      "535,143",
-      "399,892",
-      "426,207"
-    ],
-    "Intangible Assets": [
-      "2,172",
-      "2,172",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/03/25",
+      "Year Ended": "2018/07",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/24",
       "Year Ended": "2017/07",
       "Event": "Final",
@@ -793,7 +705,7 @@
       "Announce Date": "2017/07/19",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:1-for-4@HKD 0.2300",
+      "Particular": "R:1-for-4@HKD\n                0.2300",
       "Type": "-",
       "Ex-Date": "2017/08/10",
       "Book Close Date": "2017/08/14-2017/08/18",
@@ -933,7 +845,7 @@
       "Announce Date": "2010/12/22",
       "Year Ended": "2011/07",
       "Event": "Special",
-      "Particular": "R: 1 -for- 3@HKD\n              0.1200",
+      "Particular": "R: 1 -for- 3@HKD\n                0.1200",
       "Type": "-",
       "Ex-Date": "2011/01/04",
       "Book Close Date": "2011/01/06-2011/01/10",
@@ -943,7 +855,7 @@
       "Announce Date": "2010/12/22",
       "Year Ended": "2011/07",
       "Event": "Special",
-      "Particular": "BW:1'2014'wt-for- 2\n              rights share",
+      "Particular": "BW:1'2014'wt-for- 2\n                rights share",
       "Type": "Scrip",
       "Ex-Date": "2011/01/04",
       "Book Close Date": "2011/01/06-2011/01/10",

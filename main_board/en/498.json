@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.8740",
     "EPS(HKD)": "-0.0070",
-    "PE": "-21.71",
+    "PE": "-22.00",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.1739",
+    "Price/PNAV": "0.1762",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "366,109",
-      "389,317",
-      "389,952",
-      "-415,554",
-      "16,375"
-    ],
-    "Depreciation": [
-      "73,231",
-      "91,345",
-      "72,165",
-      "91,717",
-      "56,750"
-    ],
-    "Total Dividends": [
-      "68,661",
-      "45,774",
-      "45,774",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "193,682",
-      "39,812",
-      "40,254",
-      "-297,902",
-      "-34,143"
-    ],
-    "Interest Paid": [
-      "129,057",
-      "101,837",
-      "109,070",
-      "101,484",
-      "83,466"
-    ],
-    "Interest Capitalized": [
-      "58,691",
-      "49,056",
-      "42,299",
-      "26,604",
-      "20,178"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "224,978",
-      "390,228",
-      "412,660",
-      "-383,847",
-      "1,697"
-    ],
-    "Turnover Growth (%)": [
-      "25.94",
-      "-84.63",
-      "-47.57",
-      "-6.78",
-      "13.51"
-    ],
-    "Net Profit Growth (%)": [
-      "-21.47",
-      "-67.38",
-      "0.52",
-      "-446.28",
-      "-88.54"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "2,554,588",
-      "2,274,210",
-      "2,292,038",
-      "2,139,603",
-      "1,866,279"
-    ],
-    "Net Assets": [
-      "4,841,175",
-      "4,922,674",
-      "4,844,034",
-      "4,299,576",
-      "4,009,174"
-    ],
-    "Intangible Assets": [
-      "74,680",
-      "65,581",
-      "59,932",
-      "51,935",
-      "43,146"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -973,7 +875,7 @@
       "Announce Date": "2009/05/03",
       "Year Ended": "2009/03",
       "Event": "Special",
-      "Particular": "R:2 -for- 1@HKD\n              0.1200",
+      "Particular": "R:2 -for- 1@HKD\n                0.1200",
       "Type": "-",
       "Ex-Date": "2009/06/03",
       "Book Close Date": "2009/06/05-2009/06/09",
@@ -993,7 +895,7 @@
       "Announce Date": "2008/07/18",
       "Year Ended": "2008/03",
       "Event": "Final",
-      "Particular": "BW: 1 '2009' wt - for\n              - 6 shares",
+      "Particular": "BW: 1 '2009' wt -\n                for - 6 shares",
       "Type": "Scrip",
       "Ex-Date": "2008/09/11",
       "Book Close Date": "2008/09/16-2008/09/18",
@@ -1043,7 +945,7 @@
       "Announce Date": "2006/05/08",
       "Year Ended": "2006/03",
       "Event": "Special",
-      "Particular": "OD: Special Dividend:\n              By way of distribution in specie of 40 GDI shares for 500\n              shares (Payable in 8 Hanny shares plus $ 14.4; or 8 Hanny\n              bonds)",
+      "Particular": "OD: Special\n                Dividend: By way of distribution in specie of 40 GDI\n                shares for 500 shares (Payable in 8 Hanny shares plus $\n                14.4; or 8 Hanny bonds)",
       "Type": "Scrip",
       "Ex-Date": "2006/05/22",
       "Book Close Date": "2006/05/24-2006/05/26",

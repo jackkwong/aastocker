@@ -2,8 +2,8 @@
   "stock_code": "70",
   "basic_information": {
     "Name": "Rich Goldman Holdings Limited",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "1.5192",
     "EPS(HKD)": "-0.0100",
-    "PE": "-34.50",
+    "PE": "-34.00",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.2271",
+    "Price/PNAV": "0.2238",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "556,709",
-      "506,508",
-      "-995,347",
-      "-276,679",
-      "208,725"
-    ],
-    "Depreciation": [
-      "2,110",
-      "1,569",
-      "322",
-      "205,656",
-      "109,361"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "288,300",
-      "148,762",
-      "-828,012",
-      "-202,108",
-      "-10,153"
-    ],
-    "Interest Paid": [
-      "606",
-      "633",
-      "524",
-      "507",
-      "437"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "33.26",
-      "23.01",
-      "-33.34",
-      "-41.16",
-      "6.51"
-    ],
-    "Net Profit Growth (%)": [
-      "1.90",
-      "-48.40",
-      "-656.60",
-      "-75.59",
-      "-94.98"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "23,172",
-      "20,931",
-      "18,817",
-      "16,448",
-      "14,009"
-    ],
-    "Net Assets": [
-      "1,838,235",
-      "1,992,919",
-      "1,164,907",
-      "1,062,119",
-      "1,051,966"
-    ],
-    "Intangible Assets": [
-      "2,102,793",
-      "2,102,793",
-      "1,227,571",
-      "571,285",
-      "76,482"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -774,11 +676,21 @@
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
       "Unqualified"
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/13",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2017/09/29",
       "Year Ended": "2017/06",
@@ -823,7 +735,7 @@
       "Announce Date": "2016/04/01",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1-for-2\n              consolidated share@HKD 0.4200",
+      "Particular": "O: 1-for-2\n                consolidated share@HKD 0.4200",
       "Type": "-",
       "Ex-Date": "2016/05/24",
       "Book Close Date": "2016/05/26-2016/06/01",
@@ -1033,7 +945,7 @@
       "Announce Date": "2007/02/09",
       "Year Ended": "2007/06",
       "Event": "Special",
-      "Particular": "O: 1 - for - 2\n              consolidated share@HKD 0.2000",
+      "Particular": "O: 1 - for - 2\n                consolidated share@HKD 0.2000",
       "Type": "-",
       "Ex-Date": "2007/06/05",
       "Book Close Date": "2007/06/07-2007/06/12",
@@ -1093,7 +1005,7 @@
       "Announce Date": "2004/04/29",
       "Year Ended": "2004/06",
       "Event": "Special",
-      "Particular": "O: 2-for-1@HKD 0.0200",
+      "Particular": "O: 2-for-1@HKD\n                0.0200",
       "Type": "-",
       "Ex-Date": "2004/05/20",
       "Book Close Date": "2004/05/22-2004/05/24",
@@ -1103,7 +1015,7 @@
       "Announce Date": "2004/04/29",
       "Year Ended": "2004/06",
       "Event": "Special",
-      "Particular": "B: 1-for-2 offer\n              shares",
+      "Particular": "B: 1-for-2 offer\n                shares",
       "Type": "Scrip",
       "Ex-Date": "2004/05/20",
       "Book Close Date": "2004/05/22-2004/05/24",
@@ -1163,7 +1075,7 @@
       "Announce Date": "2002/02/05",
       "Year Ended": "2002/06",
       "Event": "Special",
-      "Particular": "FC FORMERLY:[MANDARIN\n              RESOURCES CORPORATION LIMITED]",
+      "Particular": "FC FORMERLY:[MANDARIN\n                RESOURCES CORPORATION LIMITED]",
       "Type": "-",
       "Ex-Date": "2002/01/30",
       "Book Close Date": "-",

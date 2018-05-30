@@ -2,8 +2,8 @@
   "stock_code": "330",
   "basic_information": {
     "Name": "Esprit Holdings Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1993/12/09",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,11 +15,11 @@
     "Board Lot": "100",
     "NAV(HKD)": "5.9378",
     "EPS(HKD)": "0.0300",
-    "PE": "104.33",
+    "PE": "90.33",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.5271",
-    "Index Constituent": "HSCI\n                Index_Consumer Goods\n                HSGCI\n                HSHKMI"
+    "Price/PNAV": "0.4564",
+    "Index Constituent": "HSCI\n                    Index_Consumer Goods\n                    HSGCI\n                    HSHKMI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-3,210,000",
-      "1,297,000",
-      "-2,941,000",
-      "24,000",
-      "464,000"
-    ],
-    "Depreciation": [
-      "930,000",
-      "899,000",
-      "713,000",
-      "591,000",
-      "518,000"
-    ],
-    "Total Dividends": [
-      "-",
-      "136,000",
-      "29,000",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-4,388,000",
-      "74,000",
-      "-3,725,000",
-      "21,000",
-      "67,000"
-    ],
-    "Interest Paid": [
-      "30,000",
-      "37,000",
-      "29,000",
-      "29,000",
-      "48,000"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-346,000",
-      "-80,000",
-      "-171,000",
-      "-107,000",
-      "8,000"
-    ],
-    "Turnover Growth (%)": [
-      "-14.13",
-      "-6.47",
-      "-19.84",
-      "-8.41",
-      "-10.38"
-    ],
-    "Net Profit Growth (%)": [
-      "-602.63",
-      "-104.79",
-      "-1860.00",
-      "-100.57",
-      "219.05"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "520,000",
-      "260,000",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "16,596,000",
-      "16,911,000",
-      "11,898,000",
-      "11,397,000",
-      "11,543,000"
-    ],
-    "Intangible Assets": [
-      "5,763,000",
-      "5,670,000",
-      "3,031,000",
-      "2,902,000",
-      "2,851,000"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/28",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/20",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -883,7 +795,7 @@
       "Announce Date": "2012/10/22",
       "Year Ended": "2013/06",
       "Event": "Special",
-      "Particular": "R: 1-for-2@HKD 8.0000",
+      "Particular": "R: 1-for-2@HKD\n                8.0000",
       "Type": "-",
       "Ex-Date": "2012/10/29",
       "Book Close Date": "2012/10/31-2012/11/02",

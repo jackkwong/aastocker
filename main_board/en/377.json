@@ -8,17 +8,17 @@
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "HKD",
-    "Par": "0.01",
-    "Authorized Capital(share)": "40,000,000,000",
-    "Issued Capital(share)": "6,066,920,085",
+    "Par": "1",
+    "Authorized Capital(share)": "400,000,000",
+    "Issued Capital(share)": "60,669,200",
     "Issue Cap-H(share)": "-",
-    "Board Lot": "4,000",
+    "Board Lot": "80",
     "NAV(HKD)": "0.6311",
     "EPS(HKD)": "0.0043",
-    "PE": "132.88",
+    "PE": "9.73K",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.9032",
+    "Price/PNAV": "66.1520",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "RMB"
-    ],
-    "EBITDA": [
-      "38,962",
-      "189,644",
-      "403,013",
-      "61,997",
-      "412,758"
-    ],
-    "Depreciation": [
-      "39,134",
-      "38,834",
-      "40,709",
-      "47,830",
-      "90,310"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "79,319",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-8,952",
-      "123,843",
-      "162,871",
-      "32,654",
-      "22,717"
-    ],
-    "Interest Paid": [
-      "2,402",
-      "3,092",
-      "12,682",
-      "245,437",
-      "193,928"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "19,362",
-      "101,550"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-1,433",
-      "305,191",
-      "-",
-      "196,271"
-    ],
-    "Turnover Growth (%)": [
-      "3.31",
-      "3.36",
-      "10.45",
-      "73.22",
-      "155.79"
-    ],
-    "Net Profit Growth (%)": [
-      "-146.83",
-      "-1483.41",
-      "95.56",
-      "-86.52",
-      "-30.43"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "RMB"
-    ],
-    "Total Debt": [
-      "70,692",
-      "104,688",
-      "1,788,495",
-      "1,121,932",
-      "3,642,454"
-    ],
-    "Net Assets": [
-      "487,679",
-      "616,662",
-      "1,282,159",
-      "3,441,962",
-      "3,391,920"
-    ],
-    "Intangible Assets": [
-      "2,190",
-      "-",
-      "2,092",
-      "71,698",
-      "64,952"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {

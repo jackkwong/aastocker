@@ -3,7 +3,7 @@
   "basic_information": {
     "Name": "China Hanya Group Holdings Ltd.",
     "EPS Start Date": "2017/10/01",
-    "EPS End Date": "2018/09/30",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/11/25",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "0.0225",
     "EPS(HKD)": "-0.0302",
-    "PE": "-20.20",
+    "PE": "-10.93",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "27.1013",
+    "Price/PNAV": "14.6614",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-4,450",
-      "-2,835",
-      "-4,918",
-      "-10,503",
-      "-21,631"
-    ],
-    "Depreciation": [
-      "1,023",
-      "250",
-      "324",
-      "58",
-      "147"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-14,250",
-      "-2,910",
-      "-5,280",
-      "-10,587",
-      "-22,366"
-    ],
-    "Interest Paid": [
-      "152",
-      "182",
-      "176",
-      "26",
-      "20"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-",
-      "-4.87",
-      "-14.34",
-      "-57.46",
-      "38.48"
-    ],
-    "Net Profit Growth (%)": [
-      "-",
-      "-79.58",
-      "81.44",
-      "100.51",
-      "111.26"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "2,836",
-      "4,398",
-      "2,998",
-      "-",
-      "5,889"
-    ],
-    "Net Assets": [
-      "26,281",
-      "23,529",
-      "20,043",
-      "38,787",
-      "16,656"
-    ],
-    "Intangible Assets": [
-      "223",
-      "154",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/05/09",
+      "Year Ended": "2018/09",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/02/12",
       "Year Ended": "2018/09",
       "Event": "Quarter 1",
@@ -814,6 +726,16 @@
       "Year Ended": "2017/09",
       "Event": "Interim",
       "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2017/03/19",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "Withdrawal of Listing",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",

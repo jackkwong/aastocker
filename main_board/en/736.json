@@ -1,7 +1,7 @@
 {
   "stock_code": "736",
   "basic_information": {
-    "Name": "China Properties Investment Holdings\n                Ltd.",
+    "Name": "China Properties Investment\n                    Holdings Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1992/09/30",
@@ -15,10 +15,10 @@
     "Board Lot": "3,000",
     "NAV(HKD)": "0.2840",
     "EPS(HKD)": "-0.0045",
-    "PE": "-8.00",
+    "PE": "-8.67",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.1268",
+    "Price/PNAV": "0.1373",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       "HKD"
-    ],
-    "EBITDA": [
-      "-120,200",
-      "-118,648",
-      "22,894",
-      "-67,090",
-      "-21,956"
-    ],
-    "Depreciation": [
-      "4,696",
-      "4,667",
-      "-",
-      "-",
-      "-"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-120,430",
-      "-123,403",
-      "-20,380",
-      "-104,673",
-      "-16,530"
-    ],
-    "Interest Paid": [
-      "3,825",
-      "4,073",
-      "8,588",
-      "8,752",
-      "5,999"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-18,034",
-      "-1,750",
-      "28,725",
-      "-16,401",
-      "20,015"
-    ],
-    "Turnover Growth (%)": [
-      "30.00",
-      "-51.19",
-      "130.20",
-      "170.97",
-      "120.95"
-    ],
-    "Net Profit Growth (%)": [
-      "-60.72",
-      "2.47",
-      "-83.49",
-      "413.61",
-      "-84.21"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "RMB",
       "RMB",
       "HKD"
-    ],
-    "Total Debt": [
-      "56,071",
-      "67,510",
-      "68,130",
-      "43,689",
-      "30,148"
-    ],
-    "Net Assets": [
-      "436,261",
-      "325,199",
-      "385,313",
-      "682,308",
-      "1,379,552"
-    ],
-    "Intangible Assets": [
-      "180,000",
-      "100,000",
-      "116,337",
-      "29,350",
-      "14,078"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -772,7 +674,7 @@
     ],
     "Auditor's Opinion": [
       "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
       "Unqualified",
       "Unqualified",
       "Unqualified"
@@ -823,7 +725,7 @@
       "Announce Date": "2016/05/24",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:4-for-1@HKD 0.1410",
+      "Particular": "R:4-for-1@HKD\n                0.1410",
       "Type": "-",
       "Ex-Date": "2016/07/08",
       "Book Close Date": "2016/07/12-2016/07/14",
@@ -913,7 +815,7 @@
       "Announce Date": "2012/07/25",
       "Year Ended": "2013/03",
       "Event": "Special",
-      "Particular": "R:1-for-2@HKD 0.0680",
+      "Particular": "R:1-for-2@HKD\n                0.0680",
       "Type": "-",
       "Ex-Date": "2012/08/23",
       "Book Close Date": "2012/08/27-2012/08/30",
@@ -963,7 +865,7 @@
       "Announce Date": "2011/02/16",
       "Year Ended": "2011/03",
       "Event": "Special",
-      "Particular": "R:30-for-1@HKD 0.0680",
+      "Particular": "R:30-for-1@HKD\n                0.0680",
       "Type": "-",
       "Ex-Date": "2011/03/29",
       "Book Close Date": "2011/03/31-2011/04/06",
@@ -1063,7 +965,7 @@
       "Announce Date": "2007/07/24",
       "Year Ended": "2008/03",
       "Event": "Special",
-      "Particular": "R: 3 - for - 1@HKD\n              0.1700",
+      "Particular": "R: 3 - for - 1@HKD\n                0.1700",
       "Type": "-",
       "Ex-Date": "2007/08/24",
       "Book Close Date": "2007/08/28-2007/08/31",

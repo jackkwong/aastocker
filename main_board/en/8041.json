@@ -1,7 +1,7 @@
 {
   "stock_code": "8041",
   "basic_information": {
-    "Name": "Luxey International (Holdings) Ltd.",
+    "Name": "Luxey International (Holdings)\n                    Ltd.",
     "EPS Start Date": "2017/07/01",
     "EPS End Date": "2018/06/30",
     "Listing Date": "2000/07/07",
@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.01",
     "Authorized Capital(share)": "70,000,000,000",
-    "Issued Capital(share)": "6,403,772,313",
+    "Issued Capital(share)": "6,803,772,313",
     "Issue Cap-H(share)": "-",
     "Board Lot": "20,000",
     "NAV(HKD)": "0.0287",
     "EPS(HKD)": "-0.0083",
-    "PE": "-10.68",
+    "PE": "-11.88",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "3.0981",
+    "Price/PNAV": "3.4462",
     "Index Constituent": "GEM_Index"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-60,623",
-      "-82,116",
-      "-285,128",
-      "-42,038",
-      "-40,178"
-    ],
-    "Depreciation": [
-      "10,061",
-      "2,487",
-      "2,944",
-      "7,987",
-      "9,732"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-84,992",
-      "-104,391",
-      "-245,444",
-      "-47,251",
-      "-46,075"
-    ],
-    "Interest Paid": [
-      "7,888",
-      "2,348",
-      "4,296",
-      "525",
-      "976"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-",
-      "-37.47",
-      "25.46",
-      "15.45",
-      "9.08"
-    ],
-    "Net Profit Growth (%)": [
-      "-",
-      "22.82",
-      "135.12",
-      "-80.75",
-      "-2.49"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "81,675",
-      "45,703",
-      "10,000",
-      "19,500",
-      "30,000"
-    ],
-    "Net Assets": [
-      "509,225",
-      "405,494",
-      "195,439",
-      "148,254",
-      "163,856"
-    ],
-    "Intangible Assets": [
-      "434,980",
-      "359,811",
-      "138,964",
-      "101,064",
-      "78,064"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/05/09",
+      "Year Ended": "2018/06",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/02/09",
       "Year Ended": "2018/06",
@@ -1043,7 +955,7 @@
       "Announce Date": "2012/05/23",
       "Year Ended": "2013/06",
       "Event": "Special",
-      "Particular": "R: 1-for-2@HKD 0.0500",
+      "Particular": "R: 1-for-2@HKD\n                0.0500",
       "Type": "-",
       "Ex-Date": "2012/06/05",
       "Book Close Date": "2012/06/07-2012/06/07",
@@ -1243,7 +1155,7 @@
       "Announce Date": "2007/12/18",
       "Year Ended": "2007/12",
       "Event": "Special",
-      "Particular": "R: 1 - for - 1@HKD\n              0.0100",
+      "Particular": "R: 1 - for - 1@HKD\n                0.0100",
       "Type": "-",
       "Ex-Date": "2008/03/11",
       "Book Close Date": "2008/03/13-2008/03/18",
@@ -1463,7 +1375,7 @@
       "Announce Date": "2002/03/28",
       "Year Ended": "2002/12",
       "Event": "Special",
-      "Particular": "R: 1 - for -10@HKD\n              0.5000",
+      "Particular": "R: 1 - for -10@HKD\n                0.5000",
       "Type": "-",
       "Ex-Date": "2002/05/02",
       "Book Close Date": "2002/05/06-2002/05/10",
@@ -1473,7 +1385,7 @@
       "Announce Date": "2002/03/28",
       "Year Ended": "2002/12",
       "Event": "Special",
-      "Particular": "B: 4-for-1 rights\n              share",
+      "Particular": "B: 4-for-1 rights\n                share",
       "Type": "Scrip",
       "Ex-Date": "2002/05/02",
       "Book Close Date": "2002/05/06-2002/05/10",

@@ -15,11 +15,11 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "2.5832",
     "EPS(HKD)": "0.2915",
-    "PE": "15.20",
+    "PE": "15.57",
     "DPS(HKD)": "0.2975",
-    "Yield": "6.72",
-    "Price/PNAV": "1.7150",
-    "Index Constituent": "HSHKMI\n                HSCI\n                Index_Telecommunications\n                HSGCI"
+    "Yield": "6.55",
+    "Price/PNAV": "1.7575",
+    "Index Constituent": "HSHKMI\n                    HSCI\n                    Index_Telecommunications\n                    HSGCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "8,857",
-      "13,065",
-      "12,325",
-      "12,272",
-      "13,905"
-    ],
-    "Depreciation": [
-      "4,571",
-      "6,303",
-      "6,303",
-      "6,682",
-      "6,728"
-    ],
-    "Total Dividends": [
-      "1,467",
-      "1,500",
-      "1,898",
-      "2,185",
-      "2,296"
-    ],
-    "Profit After Taxation And Dividends": [
-      "418",
-      "1,810",
-      "397",
-      "-134",
-      "-50"
-    ],
-    "Interest Paid": [
-      "1,078",
-      "1,333",
-      "1,634",
-      "1,429",
-      "1,526"
-    ],
-    "Interest Capitalized": [
-      "60",
-      "69",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "7.90",
-      "21.82",
-      "18.14",
-      "-2.37",
-      "-3.48"
-    ],
-    "Net Profit Growth (%)": [
-      "13.49",
-      "75.60",
-      "-30.66",
-      "-10.63",
-      "9.51"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,57 +473,29 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "29,075",
-      "41,317",
-      "41,969",
-      "45,588",
-      "47,235"
-    ],
-    "Net Assets": [
-      "9,187",
-      "10,157",
-      "11,024",
-      "12,026",
-      "19,941"
-    ],
-    "Intangible Assets": [
-      "7,043",
-      "27,270",
-      "28,709",
-      "30,077",
-      "30,854"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "cashflow": {
     "Closing Date": [
-      "2012/12",
       "2013/12",
       "2014/12",
       "2015/12",
-      "2016/12"
+      "2016/12",
+      "2017/12"
     ],
     "Net Cash Flow from Operating Activities": [
-      "6,168",
       "7,312",
       "10,553",
       "12,518",
-      "9,953"
+      "9,953",
+      "11,863"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-2,595",
       "-3,344",
       "-3,102",
       "-3,323",
-      "-4,084"
+      "-4,084",
+      "-5,653"
     ],
     "Interest Received": [
       "-",
@@ -603,32 +505,32 @@
       "-"
     ],
     "Interest Paid": [
-      "-840",
       "-904",
       "-1,101",
       "-1,135",
-      "-1,025"
+      "-1,025",
+      "-1,163"
     ],
     "Dividend Received": [
-      "12",
       "13",
       "12",
       "8",
-      "5"
+      "5",
+      "44"
     ],
     "Dividend Paid": [
-      "-1,767",
       "-2,453",
       "-2,013",
       "-2,196",
-      "-3,064"
+      "-3,064",
+      "-4,534"
     ],
     "Others": [
-      "-135",
       "-",
       "2,823",
       "-",
-      "-1"
+      "-1",
+      "-"
     ],
     "Taxes (Paid) / Refunded": [
       "-",
@@ -638,81 +540,81 @@
       "-"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-7,031",
       "-6,330",
       "-19,383",
       "-10,199",
-      "-10,065"
+      "-10,065",
+      "-9,675"
     ],
     "Additions to Fixed Assets": [
-      "-2,255",
       "-3,996",
       "-3,776",
       "-3,517",
-      "-4,150"
+      "-4,150",
+      "-3,788"
     ],
     "Disposal of Fixed Assets": [
-      "9",
       "21",
       "7",
       "6",
-      "8"
+      "8",
+      "4"
     ],
     "Increase in Investments": [
-      "-129",
       "-30",
       "-133",
       "-117",
-      "-607"
+      "-607",
+      "-1,061"
     ],
     "Decrease in Investments": [
       "1",
-      "1",
       "6,888",
       "-359",
-      "221"
+      "221",
+      "2,552"
     ],
     "Net Cash Flow with Related Parties": [
-      "30",
       "11",
       "79",
       "11",
-      "-53"
+      "-53",
+      "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-3,458",
       "-2,362",
       "-11,932",
       "-1,004",
-      "-4,196"
+      "-4,196",
+      "-3,465"
     ],
     "Net Cash Flow from Financing Activities": [
-      "2,647",
       "3,319",
       "14,442",
       "588",
-      "1,471"
+      "1,471",
+      "10,374"
     ],
     "New Loans": [
-      "6,636",
       "18,995",
       "54,441",
       "20,233",
-      "18,991"
+      "18,991",
+      "10,312"
     ],
     "Loans Repayment": [
-      "-3,884",
       "-15,687",
       "-42,901",
       "-19,656",
-      "-17,466"
+      "-17,466",
+      "-9,158"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
       "-",
-      "-"
+      "859"
     ],
     "Repayment of Fixed Income/Debt Instruments": [
       "-",
@@ -726,35 +628,35 @@
       "-",
       "-",
       "-",
-      "-"
+      "8,361"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-811",
       "957",
       "2,510",
       "-416",
-      "-2,725"
+      "-2,725",
+      "6,909"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "5,365",
-      "4,553",
-      "5,509",
-      "7,943",
-      "7,503"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "-1",
-      "-1",
-      "-76",
-      "-24",
-      "-27"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "4,553",
       "5,509",
       "7,943",
       "7,503",
       "4,751"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "-1",
+      "-76",
+      "-24",
+      "-27",
+      "-22"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "5,509",
+      "7,943",
+      "7,503",
+      "4,751",
+      "11,638"
     ],
     "Unit": [
       "Million",
@@ -913,7 +815,7 @@
       "Announce Date": "2011/09/25",
       "Year Ended": "2011/12",
       "Event": "Special",
-      "Particular": "Distribution in\n              specie: 1 share stapled unit of HKT Trust and HKT Limited\n              for every whole multiple of 46(the 1st distribution)",
+      "Particular": "Distribution in\n                specie: 1 share stapled unit of HKT Trust and HKT\n                Limited for every whole multiple of 46(the 1st\n                distribution)",
       "Type": "Scrip",
       "Ex-Date": "2011/12/23",
       "Book Close Date": "2011/12/29-2011/12/30",
@@ -923,7 +825,7 @@
       "Announce Date": "2011/09/25",
       "Year Ended": "2011/12",
       "Event": "Special",
-      "Particular": "Preferential Offer: 1 share\n              stapled unit of HKT Trust and HKT Limited for 35 shares",
+      "Particular": "Preferential Offer: 1 share\n                stapled unit of HKT Trust and HKT Limited for 35 shares",
       "Type": "-",
       "Ex-Date": "2011/11/09",
       "Book Close Date": "2011/11/11-2011/11/11",
@@ -933,7 +835,7 @@
       "Announce Date": "2011/09/25",
       "Year Ended": "2011/12",
       "Event": "Special",
-      "Particular": "Distribution in\n              specie: 1 share stapled unit of HKT Trust and HKT Limited\n              for every whole multiple of 46(the 2nd distribution)",
+      "Particular": "Distribution in\n                specie: 1 share stapled unit of HKT Trust and HKT\n                Limited for every whole multiple of 46(the 2nd\n                distribution)",
       "Type": "Scrip",
       "Ex-Date": "2012/03/15",
       "Book Close Date": "2012/03/19-2012/03/20",
@@ -1163,7 +1065,7 @@
       "Announce Date": "2000/12/14",
       "Year Ended": "2000/12",
       "Event": "Special",
-      "Particular": "FC FORMERLY:[Pacific Century\n              CyberWorks Limited]",
+      "Particular": "FC FORMERLY:[Pacific\n                Century CyberWorks Limited]",
       "Type": "-",
       "Ex-Date": "2000/12/13",
       "Book Close Date": "-",

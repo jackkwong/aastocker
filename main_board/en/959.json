@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.4696",
     "EPS(HKD)": "-1.9578",
-    "PE": "-0.16",
+    "PE": "-0.14",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.6707",
+    "Price/PNAV": "0.5856",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-28,102",
-      "-31,214",
-      "-26,880",
-      "-32,915",
-      "-34,495"
-    ],
-    "Depreciation": [
-      "2,998",
-      "2,792",
-      "2,822",
-      "3,500",
-      "16,097"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-38,632",
-      "66,662",
-      "-40,240",
-      "-43,136",
-      "-983,869"
-    ],
-    "Interest Paid": [
-      "10,174",
-      "10,884",
-      "11,662",
-      "12,552",
-      "343"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "1,890",
-      "7,840",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "11.64",
-      "-9.63",
-      "3.08",
-      "104.88",
-      "8.73"
-    ],
-    "Net Profit Growth (%)": [
-      "-123.81",
-      "-272.56",
-      "-160.36",
-      "7.20",
-      "2.18K"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "155,803",
-      "177,533",
-      "179,274",
-      "45,467",
-      "4,579"
-    ],
-    "Net Assets": [
-      "1,027,417",
-      "1,120,616",
-      "1,162,191",
-      "1,151,027",
-      "281,691"
-    ],
-    "Intangible Assets": [
-      "14,319",
-      "12,273",
-      "163,715",
-      "161,670",
-      "139,227"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "cashflow": {
@@ -771,11 +673,11 @@
       "HKD"
     ],
     "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in\n                    respect of fundamental uncertainly because of\n                    proper disclosure)"
     ]
   },
   "dividend_history": [
@@ -823,7 +725,7 @@
       "Announce Date": "2016/03/28",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1-for-2@HKD 0.2000",
+      "Particular": "O: 1-for-2@HKD\n                0.2000",
       "Type": "-",
       "Ex-Date": "2016/04/08",
       "Book Close Date": "2016/04/12-2016/04/18",

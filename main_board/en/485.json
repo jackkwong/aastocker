@@ -1,7 +1,7 @@
 {
   "stock_code": "485",
   "basic_information": {
-    "Name": "China Sinostar Group Company Limited",
+    "Name": "China Sinostar Group Company\n                    Limited",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1988/04/12",
@@ -15,10 +15,10 @@
     "Board Lot": "20,000",
     "NAV(HKD)": "0.0782",
     "EPS(HKD)": "-0.0126",
-    "PE": "-11.03",
+    "PE": "-9.21",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.7784",
+    "Price/PNAV": "1.4841",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-107,194",
-      "-158,896",
-      "-84,801",
-      "-10,832",
-      "4,769"
-    ],
-    "Depreciation": [
-      "19,075",
-      "8,375",
-      "3,583",
-      "1,340",
-      "6,879"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-69,829",
-      "-193,036",
-      "-246,934",
-      "-22,243",
-      "-46,055"
-    ],
-    "Interest Paid": [
-      "8,186",
-      "10,315",
-      "9,014",
-      "12,781",
-      "12,248"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "68,904",
-      "-22,111",
-      "5,550",
-      "-5,863",
-      "-31,250"
-    ],
-    "Turnover Growth (%)": [
-      "-18.43",
-      "-28.80",
-      "4.06",
-      "11.43",
-      "48.53"
-    ],
-    "Net Profit Growth (%)": [
-      "-64.16",
-      "176.44",
-      "27.92",
-      "-90.99",
-      "107.05"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "124,588",
-      "70,774",
-      "85,536",
-      "184,302",
-      "171,674"
-    ],
-    "Net Assets": [
-      "472,893",
-      "321,716",
-      "82,044",
-      "357,136",
-      "285,344"
-    ],
-    "Intangible Assets": [
-      "17,665",
-      "17,665",
-      "17,665",
-      "17,665",
-      "8,512"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -843,7 +745,7 @@
       "Announce Date": "2015/10/07",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O:4-for-1 Adjusted\n              shares@HKD 0.0860",
+      "Particular": "O:4-for-1 Adjusted\n                shares@HKD 0.0860",
       "Type": "-",
       "Ex-Date": "2016/01/18",
       "Book Close Date": "2016/01/20-2016/01/26",
@@ -863,7 +765,7 @@
       "Announce Date": "2015/05/04",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "C: 1-for-10 (not\n              proceed as announced on 2015/06/17)",
+      "Particular": "C: 1-for-10 (not\n                proceed as announced on 2015/06/17)",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -873,7 +775,7 @@
       "Announce Date": "2015/05/04",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 2-for-1 Adjusted\n              share@HKD 0.6200 (lapsed as announced on 2015/06/17)",
+      "Particular": "R: 2-for-1 Adjusted\n                share@HKD 0.6200 (lapsed as announced on 2015/06/17)",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -883,7 +785,7 @@
       "Announce Date": "2015/05/04",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "B: 3-for-2 rights\n              shares(lapsed as announced on 2015/06/17)",
+      "Particular": "B: 3-for-2 rights\n                shares(lapsed as announced on 2015/06/17)",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -913,7 +815,7 @@
       "Announce Date": "2014/03/21",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "Distribution in\n              specie: 1 SIH Limited share for 1",
+      "Particular": "Distribution in\n                specie: 1 SIH Limited share for 1",
       "Type": "Scrip",
       "Ex-Date": "2014/06/23",
       "Book Close Date": "2014/06/25-2014/06/26",
@@ -1003,7 +905,7 @@
       "Announce Date": "2010/05/10",
       "Year Ended": "2010/03",
       "Event": "Special",
-      "Particular": "O:4-for-5 Adjusted\n              shares@HKD 0.1200",
+      "Particular": "O:4-for-5 Adjusted\n                shares@HKD 0.1200",
       "Type": "-",
       "Ex-Date": "2010/06/14",
       "Book Close Date": "2010/06/17-2010/06/23",

@@ -19,7 +19,7 @@
     "DPS(HKD)": "0.0000",
     "Yield": "-",
     "Price/PNAV": "-",
-    "Index Constituent": "HSCI\n                HSHKMI\n                Index_Consumer Goods\n                HSGCI"
+    "Index Constituent": "HSCI\n                    HSHKSI\n                    Index_Consumer Goods\n                    HSGCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "USD",
       "USD",
       "USD"
-    ],
-    "EBITDA": [
-      "220,523",
-      "397,423",
-      "449,156",
-      "461,014",
-      "564,285"
-    ],
-    "Depreciation": [
-      "193,379",
-      "208,363",
-      "235,078",
-      "308,859",
-      "287,687"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "27,684",
-      "113,528",
-      "104,215",
-      "17,211",
-      "89,742"
-    ],
-    "Interest Paid": [
-      "31,481",
-      "24,962",
-      "45,584",
-      "77,935",
-      "79,552"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "11.04",
-      "5.42",
-      "5.03",
-      "-",
-      "-5.51"
-    ],
-    "Net Profit Growth (%)": [
-      "-72.30",
-      "310.09",
-      "-8.20",
-      "-",
-      "421.42"
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "USD",
       "USD",
       "USD"
-    ],
-    "Total Debt": [
-      "13,639",
-      "30,122",
-      "667,203",
-      "996,047",
-      "1,118,000"
-    ],
-    "Net Assets": [
-      "2,129,277",
-      "2,392,426",
-      "2,474,583",
-      "2,454,650",
-      "2,502,812"
-    ],
-    "Intangible Assets": [
-      "3,006,527",
-      "3,276,000",
-      "3,287,184",
-      "3,681,792",
-      "3,713,745"
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {

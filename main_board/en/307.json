@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "45,892",
-      "250,432",
-      "226,673",
-      "313,782",
-      "263,959"
-    ],
-    "Depreciation": [
-      "1,329",
-      "11,459",
-      "9,674",
-      "43,591",
-      "55,657"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "944,488",
-      "-91,357",
-      "-47,786",
-      "-98,617",
-      "-495,698"
-    ],
-    "Interest Paid": [
-      "77,459",
-      "320,106",
-      "278,229",
-      "350,735",
-      "391,739"
-    ],
-    "Interest Capitalized": [
-      "68,279",
-      "300,847",
-      "278,229",
-      "298,612",
-      "79,822"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-100.00",
-      "-",
-      "-",
-      "-",
-      "60.51"
-    ],
-    "Net Profit Growth (%)": [
-      "12.37K",
-      "-109.67",
-      "-47.69",
-      "106.37",
-      "402.65"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "5,566,664",
-      "4,698,926",
-      "4,452,671",
-      "5,053,492",
-      "4,388,390"
-    ],
-    "Net Assets": [
-      "3,800,153",
-      "4,849,000",
-      "6,079,786",
-      "6,581,154",
-      "7,687,514"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "25,623",
-      "25,623"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -843,7 +745,7 @@
       "Announce Date": "2013/01/08",
       "Year Ended": "2013/03",
       "Event": "Special",
-      "Particular": "R: 1-for-2@HKD 0.5000",
+      "Particular": "R: 1-for-2@HKD\n                0.5000",
       "Type": "-",
       "Ex-Date": "2013/03/04",
       "Book Close Date": "2013/03/06-2013/03/07",
@@ -943,7 +845,7 @@
       "Announce Date": "2009/02/20",
       "Year Ended": "2009/03",
       "Event": "Special",
-      "Particular": "O:1 -for- 2@HKD\n              0.0650",
+      "Particular": "O:1 -for- 2@HKD\n                0.0650",
       "Type": "-",
       "Ex-Date": "2009/03/04",
       "Book Close Date": "2009/03/06-2009/03/11",
@@ -1073,7 +975,7 @@
       "Announce Date": "2003/10/22",
       "Year Ended": "2004/03",
       "Event": "Special Interim",
-      "Particular": "Special Int Div in specie:\n              Approximately 255 Leapership Publishing Group Limited\n              shares for 10,000 shares",
+      "Particular": "Special Int Div in specie:\n                Approximately 255 Leapership Publishing Group Limited\n                shares for 10,000 shares",
       "Type": "Scrip",
       "Ex-Date": "2003/12/01",
       "Book Close Date": "2003/12/03-2003/12/05",

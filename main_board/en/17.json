@@ -2,24 +2,24 @@
   "stock_code": "17",
   "basic_information": {
     "Name": "New World Development Co. Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1972/11/23",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "10,096,958,808",
+    "Issued Capital(share)": "10,101,146,967",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "0.0000",
     "EPS(HKD)": "0.8000",
-    "PE": "14.18",
+    "PE": "14.75",
     "DPS(HKD)": "0.4600",
-    "Yield": "4.06",
+    "Yield": "3.90",
     "Price/PNAV": "-",
-    "Index Constituent": "HSI\n                HSHK35\n                HSCI\n                HSHKLI\n                HSGCI\n                Index_Properties & Construction\n                PB-index"
+    "Index Constituent": "HSI\n                    HSHK35\n                    HSCI\n                    HSHKLI\n                    HSGCI\n                    Index_Properties & Construction\n                    PB-index"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "25,334",
-      "24,125",
-      "35,521",
-      "20,448",
-      "15,856"
-    ],
-    "Depreciation": [
-      "1,880",
-      "2,273",
-      "2,314",
-      "1,929",
-      "1,953"
-    ],
-    "Total Dividends": [
-      "2,645",
-      "3,373",
-      "3,766",
-      "4,117",
-      "4,504"
-    ],
-    "Profit After Taxation And Dividends": [
-      "11,504",
-      "6,353",
-      "15,346",
-      "4,550",
-      "3,172"
-    ],
-    "Interest Paid": [
-      "4,167",
-      "5,029",
-      "5,236",
-      "1,936",
-      "2,152"
-    ],
-    "Interest Capitalized": [
-      "2,464",
-      "3,102",
-      "3,614",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "7,461",
-      "1,426",
-      "3,166",
-      "307",
-      "1,364"
-    ],
-    "Turnover Growth (%)": [
-      "31.33",
-      "20.78",
-      "-2.22",
-      "7.83",
-      "-4.94"
-    ],
-    "Net Profit Growth (%)": [
-      "39.55",
-      "-31.26",
-      "96.52",
-      "-54.66",
-      "-11.43"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "104,686",
-      "118,938",
-      "117,157",
-      "134,932",
-      "147,120"
-    ],
-    "Net Assets": [
-      "139,131",
-      "159,808",
-      "178,919",
-      "179,573",
-      "186,091"
-    ],
-    "Intangible Assets": [
-      "20,681",
-      "20,247",
-      "17,662",
-      "15,609",
-      "15,266"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/27",
+      "Year Ended": "2017/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1400",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/03/16",
+      "Book Close Date": "2018/03/20-2018/03/26",
+      "Payable Date": "2018/05/31"
+    },
+    {
       "Announce Date": "2017/09/21",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -853,7 +765,7 @@
       "Announce Date": "2014/03/14",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 1-for-3@HKD 6.2000",
+      "Particular": "R: 1-for-3@HKD\n                6.2000",
       "Type": "-",
       "Ex-Date": "2014/03/26",
       "Book Close Date": "2014/03/28-2014/03/31",
@@ -883,7 +795,7 @@
       "Announce Date": "2013/05/02",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "Preferential Offer: 1 NW\n              Hotel Investments and NWHICL Share Stapled Unit for every\n              integral multiple of 80 Shares held",
+      "Particular": "Preferential Offer: 1 NW\n                Hotel Investments and NWHICL Share Stapled Unit for\n                every integral multiple of 80 Shares held",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -923,7 +835,7 @@
       "Announce Date": "2011/10/18",
       "Year Ended": "2012/06",
       "Event": "Special",
-      "Particular": "R:1-for-2@HKD 5.6800",
+      "Particular": "R:1-for-2@HKD\n                5.6800",
       "Type": "-",
       "Ex-Date": "2011/10/24",
       "Book Close Date": "2011/10/26-2011/10/28",
@@ -953,7 +865,7 @@
       "Announce Date": "2011/01/31",
       "Year Ended": "2011/06",
       "Event": "Special",
-      "Particular": "Preferential Offer: 1 Newton\n              Resources Limited share offer price HKD 1.7500 for 168\n              shares",
+      "Particular": "Preferential Offer: 1\n                Newton Resources Limited share offer price HKD 1.7500\n                for 168 shares",
       "Type": "-",
       "Ex-Date": "2011/06/15",
       "Book Close Date": "2011/06/17-2011/06/17",
@@ -1103,7 +1015,7 @@
       "Announce Date": "2004/02/13",
       "Year Ended": "2004/06",
       "Event": "Special",
-      "Particular": "R: 2 - for - 5@HKD\n              5.4000",
+      "Particular": "R: 2 - for - 5@HKD\n                5.4000",
       "Type": "-",
       "Ex-Date": "2004/03/11",
       "Book Close Date": "2004/03/15-2004/03/22",

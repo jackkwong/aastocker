@@ -2,23 +2,23 @@
   "stock_code": "1059",
   "basic_information": {
     "Name": "Kantone Holdings Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1997/01/23",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
-    "Par": "1",
-    "Authorized Capital(share)": "1,200,000,000",
-    "Issued Capital(share)": "986,537,533",
+    "Par": "0.1",
+    "Authorized Capital(share)": "5,000,000,000",
+    "Issued Capital(share)": "197,307,506",
     "Issue Cap-H(share)": "-",
     "Board Lot": "3,000",
     "NAV(HKD)": "1.7001",
     "EPS(HKD)": "-1.7805",
-    "PE": "-0.12",
+    "PE": "-0.56",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.1294",
+    "Price/PNAV": "0.5882",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "249,039",
-      "286,317",
-      "492,152",
-      "-18,336",
-      "-1,749,588"
-    ],
-    "Depreciation": [
-      "11,409",
-      "12,468",
-      "478,256",
-      "10,836",
-      "8,608"
-    ],
-    "Total Dividends": [
-      "22,537",
-      "15,133",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "54,680",
-      "-12,985",
-      "8,927",
-      "-11,764",
-      "-1,756,580"
-    ],
-    "Interest Paid": [
-      "1,837",
-      "615",
-      "1,023",
-      "350",
-      "146"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "36.67",
-      "39.26",
-      "-6.47",
-      "-17.83",
-      "-93.26"
-    ],
-    "Net Profit Growth (%)": [
-      "-4.05",
-      "-97.22",
-      "315.60",
-      "-231.78",
-      "14.83K"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "24,708",
-      "31,631",
-      "13,433",
-      "7,354",
-      "3,636"
-    ],
-    "Net Assets": [
-      "3,217,105",
-      "3,195,547",
-      "3,438,988",
-      "3,433,797",
-      "1,677,197"
-    ],
-    "Intangible Assets": [
-      "36,795",
-      "36,795",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "cashflow": {
@@ -775,17 +677,27 @@
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
+      "Unqualified ( not qualified in\n                    respect of fundamental uncertainly because of\n                    proper disclosure)"
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/27",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2017/10/16",
       "Year Ended": "-",
       "Event": "Special",
       "Particular": "C:1-for-5",
       "Type": "-",
-      "Ex-Date": "2018/03/28",
+      "Ex-Date": "2018/04/10",
       "Book Close Date": "-",
       "Payable Date": "-"
     },
@@ -853,7 +765,7 @@
       "Announce Date": "2014/11/28",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 3-for-10\n              consolidated shares@HKD 1.0000",
+      "Particular": "O: 3-for-10\n                consolidated shares@HKD 1.0000",
       "Type": "-",
       "Ex-Date": "2014/12/12",
       "Book Close Date": "2014/12/16-2014/12/17",
@@ -943,7 +855,7 @@
       "Announce Date": "2011/03/01",
       "Year Ended": "2011/06",
       "Event": "Special",
-      "Particular": "R:2-for-5@HKD 0.1000",
+      "Particular": "R:2-for-5@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2011/03/10",
       "Book Close Date": "2011/03/14-2011/03/17",
@@ -993,7 +905,7 @@
       "Announce Date": "2009/03/24",
       "Year Ended": "2009/06",
       "Event": "Special",
-      "Particular": "R: 1 -for- 4@HKD\n              0.1000",
+      "Particular": "R: 1 -for- 4@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2009/04/09",
       "Book Close Date": "2009/04/15-2009/04/16",

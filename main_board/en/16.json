@@ -2,24 +2,24 @@
   "stock_code": "16",
   "basic_information": {
     "Name": "Sun Hung Kai Properties Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1972/09/08",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "2,896,749,274",
+    "Issued Capital(share)": "2,896,981,274",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "172.0356",
     "EPS(HKD)": "14.4300",
-    "PE": "8.49",
+    "PE": "8.68",
     "DPS(HKD)": "4.1000",
-    "Yield": "3.35",
-    "Price/PNAV": "0.7121",
-    "Index Constituent": "HSI\n                HSHKLI\n                PB-index\n                HKMI_S&P\n                HSHK35\n                Index_Properties & Construction\n                HSGCI\n                HSCI"
+    "Yield": "3.27",
+    "Price/PNAV": "0.7283",
+    "Index Constituent": "HSI\n                    HSHKLI\n                    PB-index\n                    HKMI_S&P\n                    HSHK35\n                    Index_Properties & Construction\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "42,555",
-      "41,508",
-      "38,521",
-      "42,170",
-      "47,659"
-    ],
-    "Depreciation": [
-      "1,724",
-      "1,878",
-      "1,972",
-      "1,950",
-      "1,939"
-    ],
-    "Total Dividends": [
-      "8,934",
-      "9,110",
-      "9,635",
-      "11,146",
-      "11,874"
-    ],
-    "Profit After Taxation And Dividends": [
-      "31,395",
-      "24,410",
-      "21,447",
-      "21,520",
-      "29,908"
-    ],
-    "Interest Paid": [
-      "2,344",
-      "2,517",
-      "2,784",
-      "2,595",
-      "2,384"
-    ],
-    "Interest Capitalized": [
-      "416",
-      "290",
-      "339",
-      "306",
-      "397"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "19,187",
-      "12,131",
-      "10,987",
-      "8,769",
-      "13,810"
-    ],
-    "Turnover Growth (%)": [
-      "-21.36",
-      "39.61",
-      "-11.07",
-      "36.54",
-      "-14.23"
-    ],
-    "Net Profit Growth (%)": [
-      "-6.39",
-      "-16.88",
-      "-7.27",
-      "5.10",
-      "27.91"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "64,630",
-      "83,731",
-      "83,132",
-      "80,761",
-      "67,326"
-    ],
-    "Net Assets": [
-      "385,912",
-      "414,783",
-      "451,026",
-      "468,707",
-      "498,215"
-    ],
-    "Intangible Assets": [
-      "4,937",
-      "4,539",
-      "4,090",
-      "3,754",
-      "5,524"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/27",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "D:HKD 1.2000",
+      "Type": "Cash",
+      "Ex-Date": "2018/03/12",
+      "Book Close Date": "2018/03/14-2018/03/14",
+      "Payable Date": "2018/03/22"
+    },
+    {
       "Announce Date": "2017/09/14",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -863,7 +775,7 @@
       "Announce Date": "2014/02/28",
       "Year Ended": "-",
       "Event": "Interim",
-      "Particular": "BW: 1'2016'wt-for-12",
+      "Particular": "BW:\n                1'2016'wt-for-12",
       "Type": "Scrip",
       "Ex-Date": "2014/04/08",
       "Book Close Date": "2014/04/10-2014/04/14",
@@ -1023,7 +935,7 @@
       "Announce Date": "2006/05/23",
       "Year Ended": "2006/06",
       "Event": "Special",
-      "Particular": "OD: Preferential\n              Offer: Reserved units of Sun Millennium Real Estate\n              Investment Trust at the offer price",
+      "Particular": "OD: Preferential\n                Offer: Reserved units of Sun Millennium Real Estate\n                Investment Trust at the offer price",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",

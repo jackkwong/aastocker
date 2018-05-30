@@ -2,8 +2,8 @@
   "stock_code": "54",
   "basic_information": {
     "Name": "Hopewell Holdings Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1972/08/21",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "54.3159",
     "EPS(HKD)": "2.2500",
-    "PE": "13.51",
+    "PE": "11.91",
     "DPS(HKD)": "1.7500",
-    "Yield": "5.76",
-    "Price/PNAV": "0.5597",
+    "Yield": "6.53",
+    "Price/PNAV": "0.4934",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "12,930",
-      "2,126",
-      "3,514",
-      "3,353",
-      "2,710"
-    ],
-    "Depreciation": [
-      "70",
-      "69",
-      "74",
-      "68",
-      "70"
-    ],
-    "Total Dividends": [
-      "873",
-      "1,135",
-      "1,046",
-      "1,131",
-      "1,522"
-    ],
-    "Profit After Taxation And Dividends": [
-      "11,334",
-      "223",
-      "1,789",
-      "1,632",
-      "439"
-    ],
-    "Interest Paid": [
-      "102",
-      "114",
-      "96",
-      "56",
-      "33"
-    ],
-    "Interest Capitalized": [
-      "20",
-      "41",
-      "29",
-      "31",
-      "41"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "10,980",
-      "126",
-      "1,179",
-      "1,345",
-      "627"
-    ],
-    "Turnover Growth (%)": [
-      "-1.86",
-      "21.29",
-      "-10.86",
-      "-0.80",
-      "27.56"
-    ],
-    "Net Profit Growth (%)": [
-      "236.20",
-      "-88.87",
-      "108.72",
-      "-2.56",
-      "-28.99"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "7,177",
-      "6,122",
-      "4,656",
-      "2,550",
-      "2,350"
-    ],
-    "Net Assets": [
-      "43,243",
-      "43,775",
-      "45,530",
-      "46,512",
-      "47,246"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -795,9 +697,9 @@
       "Event": "Interim",
       "Particular": "SD:HKD 2.0000",
       "Type": "Cash",
-      "Ex-Date": "-",
-      "Book Close Date": "-",
-      "Payable Date": "-"
+      "Ex-Date": "2018/04/18",
+      "Book Close Date": "2018/04/20-2018/04/20",
+      "Payable Date": "2018/05/02"
     },
     {
       "Announce Date": "2017/08/16",
@@ -883,7 +785,7 @@
       "Announce Date": "2014/08/26",
       "Year Ended": "-",
       "Event": "Final",
-      "Particular": "Distribution in\n              specie: 1 Hopewell Highway Infrastructure Limited share\n              for 20",
+      "Particular": "Distribution in\n                specie: 1 Hopewell Highway Infrastructure Limited share\n                for 20",
       "Type": "Scrip",
       "Ex-Date": "2014/10/23",
       "Book Close Date": "2014/10/27-2014/10/27",
@@ -913,7 +815,7 @@
       "Announce Date": "2013/05/06",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "Preferential Offer: 1\n              Hopewell Hong Kong Properties Limited Share offer price\n              HKD 15.3000 to HKD 17.8000 for every integral multiple of\n              25 Shares held(not proceed as announced on 2013/06/13)",
+      "Particular": "Preferential Offer: 1\n                Hopewell Hong Kong Properties Limited Share offer price\n                HKD 15.3000 to HKD 17.8000 for every integral multiple\n                of 25 Shares held(not proceed as announced on\n                2013/06/13)",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -1033,7 +935,7 @@
       "Announce Date": "2009/02/26",
       "Year Ended": "2009/06",
       "Event": "Interim",
-      "Particular": "Distribution in\n              specie: 1 Hopewell Highway Infrastructure Limited share\n              for 10",
+      "Particular": "Distribution in\n                specie: 1 Hopewell Highway Infrastructure Limited share\n                for 10",
       "Type": "Scrip",
       "Ex-Date": "2009/03/12",
       "Book Close Date": "2009/03/16-2009/03/19",
@@ -1213,7 +1115,7 @@
       "Announce Date": "2003/06/30",
       "Year Ended": "2003/06",
       "Event": "Special Interim",
-      "Particular": "No Dividend Special Interim\n              Distribution: 1 Hopewell Highway Infrastructure Limited\n              warrant for 10 shares",
+      "Particular": "No Dividend Special Interim\n                Distribution: 1 Hopewell Highway Infrastructure Limited\n                warrant for 10 shares",
       "Type": "-",
       "Ex-Date": "2003/07/11",
       "Book Close Date": "-",

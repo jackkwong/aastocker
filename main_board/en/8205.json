@@ -1,9 +1,9 @@
 {
   "stock_code": "8205",
   "basic_information": {
-    "Name": "Shanghai Jiaoda Withub Information\n                Industrial Co Ltd. - H Shares",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "Name": "Shanghai Jiaoda Withub\n                    Information Industrial Co Ltd. - H Shares",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2002/07/31",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -13,35 +13,35 @@
     "Issued Capital(share)": "480,000,000",
     "Issue Cap-H(share)": "132,000,000",
     "Board Lot": "4,000",
-    "NAV(HKD)": "0.1651",
-    "EPS(HKD)": "-0.0008",
-    "PE": "-437.09",
+    "NAV(HKD)": "0.1528",
+    "EPS(HKD)": "-0.0252",
+    "PE": "-13.70",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "2.0588",
+    "Price/PNAV": "2.2575",
     "Index Constituent": "-"
   },
   "financial_ratio": {
     "Closing Date": [
-      "2012/12",
       "2013/12",
       "2014/12",
       "2015/12",
-      "2016/12"
+      "2016/12",
+      "2017/12"
     ],
     "Current Ratio (X)": [
-      "3.47",
       "3.11",
       "2.69",
       "2.63",
-      "2.58"
+      "2.58",
+      "2.78"
     ],
     "Quick Ratio (X)": [
-      "3.21",
       "2.88",
       "2.51",
       "2.42",
-      "2.34"
+      "2.34",
+      "2.72"
     ],
     "Long Term Debt/Equity (%)": [
       "0.00",
@@ -65,53 +65,53 @@
       "0.00"
     ],
     "Return on Equity (%)": [
-      "-",
       "1.06",
       "-",
       "3.67",
+      "-",
       "-"
     ],
     "Return on Capital Employ (%)": [
-      "-",
       "1.04",
       "-",
       "3.67",
+      "-",
       "-"
     ],
     "Return on Total Assets (%)": [
-      "-",
       "0.74",
       "-",
       "2.45",
+      "-",
       "-"
     ],
     "Operating Profit Margin (%)": [
       "-",
       "-",
-      "-",
       "1.74",
+      "-",
       "-"
     ],
     "Pre-tax Profit Margin (%)": [
-      "-",
       "0.68",
       "-",
       "2.33",
+      "-",
       "-"
     ],
     "Net Profit Margin (%)": [
-      "-",
       "0.69",
       "-",
       "2.33",
+      "-",
       "-"
     ],
     "Inventory Turnover (X)": [
-      "14.03",
       "17.15",
       "19.69",
       "15.48",
-      "10.97"
+      "10.97",
+      "34.78"
     ],
     "Dividend Payout (%)": [
       "0.00",
@@ -121,31 +121,31 @@
       "0.00"
     ],
     "Fiscal Year High": [
-      "0.235",
       "0.485",
       "0.910",
       "1.500",
-      "0.810"
+      "0.810",
+      "0.670"
     ],
     "Fiscal Year Low": [
-      "0.157",
       "0.156",
       "0.300",
       "0.400",
-      "0.500"
+      "0.500",
+      "0.310"
     ],
     "Fiscal Year PER Range High (X)": [
-      "-",
       "210.50",
       "-",
       "231.89",
+      "-",
       "-"
     ],
     "Fiscal Year PER Range Low (X)": [
-      "-",
       "67.71",
       "-",
       "61.84",
+      "-",
       "-"
     ],
     "Fiscal Year Yield Range High (%)": [
@@ -165,25 +165,25 @@
   },
   "profit_loss": {
     "Closing Date": [
-      "2012/12",
       "2013/12",
       "2014/12",
       "2015/12",
-      "2016/12"
+      "2016/12",
+      "2017/12"
     ],
     "Total Turnover": [
-      "100,336",
       "125,477",
       "111,946",
       "112,179",
-      "96,948"
+      "96,948",
+      "65,143"
     ],
     "Turnover": [
-      "100,336",
       "125,477",
       "111,946",
       "112,179",
-      "96,948"
+      "96,948",
+      "65,143"
     ],
     "Other Turnover": [
       "-",
@@ -193,32 +193,32 @@
       "-"
     ],
     "Cost of Sales": [
-      "85,509",
       "109,774",
       "104,269",
       "113,088",
-      "99,108"
+      "99,108",
+      "55,736"
     ],
     "Gross Profit": [
-      "14,827",
       "15,703",
       "7,677",
       "-910",
-      "-2,160"
+      "-2,160",
+      "9,408"
     ],
     "Profit Before Taxation": [
-      "-2,936",
       "859",
       "-13,235",
       "2,616",
-      "-336"
+      "-336",
+      "-10,096"
     ],
     "Operating Profit": [
-      "-858",
       "-114",
       "-14,935",
       "1,953",
-      "-717"
+      "-717",
+      "-10,154"
     ],
     "Exceptional Items": [
       "-",
@@ -228,18 +228,18 @@
       "-"
     ],
     "Associates": [
-      "-2,078",
       "973",
       "1,700",
+      "-",
       "-",
       "-"
     ],
     "Other Non-Operating Gains": [
       "0",
       "0",
-      "0",
       "663",
-      "382"
+      "382",
+      "58"
     ],
     "Taxation": [
       "-",
@@ -252,15 +252,15 @@
       "-3",
       "-3",
       "-3",
-      "-3",
-      "-5"
+      "-5",
+      "-3"
     ],
     "Net Profit": [
-      "-2,933",
       "862",
       "-13,232",
       "2,619",
-      "-331"
+      "-331",
+      "-10,094"
     ],
     "Unit": [
       "Thousand",
@@ -275,159 +275,89 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "EBITDA": [
-      "-88",
-      "1,025",
-      "-11,874",
-      "3,741",
-      "588"
-    ],
-    "Depreciation": [
-      "770",
-      "1,139",
-      "3,061",
-      "579",
-      "545"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-2,933",
-      "862",
-      "-13,232",
-      "2,954",
-      "-331"
-    ],
-    "Interest Paid": [
-      "-",
-      "-",
-      "-",
-      "1,209",
-      "761"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "2.29",
-      "25.06",
-      "-10.78",
-      "0.21",
-      "-13.58"
-    ],
-    "Net Profit Growth (%)": [
-      "-328.60",
-      "-129.39",
-      "-1635.03",
-      "-119.79",
-      "-112.64"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
     "Closing Date": [
-      "2012/12",
       "2013/12",
       "2014/12",
       "2015/12",
-      "2016/12"
+      "2016/12",
+      "2017/12"
     ],
     "Non Current Assets": [
-      "15,731",
       "14,710",
       "13,757",
       "13,830",
-      "13,979"
+      "13,979",
+      "12,233"
     ],
     "Fixed Assets": [
-      "269",
       "440",
       "991",
       "856",
-      "621"
+      "621",
+      "397"
     ],
     "Investments": [
-      "10,043",
       "10,336",
       "11,716",
       "12,224",
-      "12,908"
+      "12,908",
+      "11,686"
     ],
     "Other Assets": [
-      "5,419",
       "3,934",
       "1,050",
       "750",
-      "450"
+      "450",
+      "150"
     ],
     "Current Assets": [
-      "94,219",
       "101,021",
       "87,014",
       "92,896",
-      "93,651"
+      "93,651",
+      "76,359"
     ],
     "Cash On Hand": [
-      "58,450",
       "63,543",
       "49,882",
       "62,884",
-      "60,673"
+      "60,673",
+      "55,903"
     ],
     "Receivables": [
-      "19,810",
       "22,511",
       "19,335",
       "13,226",
-      "16,652"
+      "16,652",
+      "14,082"
     ],
     "Inventory": [
-      "7,152",
       "7,316",
       "5,685",
       "7,245",
-      "8,834"
+      "8,834",
+      "1,873"
     ],
     "Other Current Assets": [
-      "8,807",
       "7,651",
       "12,112",
       "9,541",
-      "7,491"
+      "7,491",
+      "4,502"
     ],
     "Total Assets": [
-      "109,950",
       "115,731",
       "100,771",
       "106,726",
-      "107,630"
+      "107,630",
+      "88,593"
     ],
     "Non Current Liabilities": [
-      "2,160",
       "1,620",
+      "-",
       "-",
       "-",
       "-"
@@ -440,32 +370,32 @@
       "-"
     ],
     "Other Long Term Liabilities": [
-      "2,160",
       "1,620",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Current Liabilities": [
-      "27,141",
       "32,482",
       "32,381",
       "35,384",
-      "36,317"
+      "36,317",
+      "27,432"
     ],
     "Payables": [
-      "6,714",
       "8,839",
       "12,167",
       "26,322",
-      "18,834"
+      "18,834",
+      "17,412"
     ],
     "Taxation": [
       "-",
       "-",
-      "-",
       "485",
-      "314"
+      "314",
+      "1,428"
     ],
     "Short Term Debt": [
       "-",
@@ -475,25 +405,25 @@
       "-"
     ],
     "Other Current Liabilities": [
-      "20,427",
       "23,643",
       "20,214",
       "8,577",
-      "17,169"
+      "17,169",
+      "8,592"
     ],
     "Total Liabilities": [
-      "29,301",
       "34,102",
       "32,381",
       "35,384",
-      "36,317"
+      "36,317",
+      "27,432"
     ],
     "Owner's Equity": [
-      "80,658",
       "81,641",
       "68,405",
       "71,359",
-      "71,335"
+      "71,335",
+      "61,185"
     ],
     "Share Capital": [
       "48,000",
@@ -503,11 +433,11 @@
       "48,000"
     ],
     "Reserves": [
-      "32,658",
       "33,641",
       "20,405",
       "23,359",
-      "23,335"
+      "23,335",
+      "13,185"
     ],
     "Perpetual Capital Securities": [
       "-",
@@ -517,18 +447,18 @@
       "-"
     ],
     "Minority interests": [
-      "-9",
       "-12",
       "-15",
       "-17",
-      "-22"
+      "-22",
+      "-25"
     ],
     "Total Equity": [
-      "80,649",
       "81,629",
       "68,390",
       "71,342",
-      "71,313"
+      "71,313",
+      "61,160"
     ],
     "Unit": [
       "Thousand",
@@ -543,62 +473,34 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "80,658",
-      "81,641",
-      "68,405",
-      "71,359",
-      "71,335"
-    ],
-    "Intangible Assets": [
-      "4,969",
-      "3,934",
-      "1,050",
-      "750",
-      "450"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
     "Closing Date": [
-      "2012/12",
       "2013/12",
       "2014/12",
       "2015/12",
-      "2016/12"
+      "2016/12",
+      "2017/12"
     ],
     "Net Cash Flow from Operating Activities": [
-      "-3,923",
       "2,523",
       "-12,941",
       "8,278",
-      "-5,337"
+      "-5,337",
+      "-7,449"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "2,230",
       "2,392",
       "870",
+      "-",
       "-",
       "-"
     ],
     "Interest Received": [
-      "1,520",
       "1,562",
       "340",
+      "-",
       "-",
       "-"
     ],
@@ -610,9 +512,9 @@
       "-"
     ],
     "Dividend Received": [
-      "710",
       "830",
       "530",
+      "-",
       "-",
       "-"
     ],
@@ -638,25 +540,25 @@
       "-"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-10,411",
       "720",
       "-3,324",
       "5,820",
-      "7,038"
+      "7,038",
+      "-514"
     ],
     "Additions to Fixed Assets": [
-      "-22",
       "-281",
       "-750",
       "-188",
-      "-392"
+      "-392",
+      "-40"
     ],
     "Disposal of Fixed Assets": [
-      "1",
       "4",
       "-",
       "14",
-      "672"
+      "672",
+      "3"
     ],
     "Increase in Investments": [
       "-",
@@ -668,28 +570,28 @@
     "Decrease in Investments": [
       "-",
       "-",
-      "-",
       "2,203",
-      "760"
+      "760",
+      "2,650"
     ],
     "Net Cash Flow with Related Parties": [
-      "847",
       "-",
       "-836",
+      "-",
       "-",
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-12,104",
       "5,635",
       "-15,395",
       "14,098",
-      "1,700"
+      "1,700",
+      "-7,963"
     ],
     "Net Cash Flow from Financing Activities": [
-      "847",
       "-",
       "-836",
+      "-",
       "-",
       "-"
     ],
@@ -729,32 +631,32 @@
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-11,257",
       "5,635",
       "-16,231",
       "14,098",
-      "1,700"
+      "1,700",
+      "-7,963"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "32,878",
-      "21,753",
-      "27,393",
-      "11,158",
-      "25,579"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "132",
-      "5",
-      "-4",
-      "323",
-      "281"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "21,753",
       "27,393",
       "11,158",
       "25,579",
       "27,560"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "5",
+      "-4",
+      "323",
+      "281",
+      "-221"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "27,393",
+      "11,158",
+      "25,579",
+      "27,560",
+      "19,376"
     ],
     "Unit": [
       "Thousand",
@@ -779,6 +681,26 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/05/14",
+      "Year Ended": "2018/12",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/03/21",
+      "Year Ended": "2017/12",
+      "Event": "Final",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2017/11/10",
       "Year Ended": "2017/12",

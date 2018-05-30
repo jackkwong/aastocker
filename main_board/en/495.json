@@ -2,8 +2,8 @@
   "stock_code": "495",
   "basic_information": {
     "Name": "Paladin Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1988/07/20",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "5,000",
     "NAV(HKD)": "0.7620",
     "EPS(HKD)": "0.0728",
-    "PE": "3.08",
+    "PE": "2.97",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.2940",
+    "Price/PNAV": "0.2835",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "63,029",
-      "221,218",
-      "-95,542",
-      "-147,906",
-      "103,771"
-    ],
-    "Depreciation": [
-      "3,549",
-      "2,538",
-      "395",
-      "24",
-      "2,077"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "30,909",
-      "195,495",
-      "-120,713",
-      "733,569",
-      "96,899"
-    ],
-    "Interest Paid": [
-      "28,561",
-      "23,185",
-      "24,776",
-      "13,066",
-      "2,879"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "6,000",
-      "-4,360",
-      "-45,640",
-      "-110,815",
-      "135,470"
-    ],
-    "Turnover Growth (%)": [
-      "12.66K",
-      "-99.80",
-      "-100.00",
-      "-",
-      "26.35"
-    ],
-    "Net Profit Growth (%)": [
-      "-168.91",
-      "532.49",
-      "-161.75",
-      "-707.70",
-      "-86.79"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "939,480",
-      "800,677",
-      "76",
-      "113,343",
-      "114,660"
-    ],
-    "Net Assets": [
-      "-71,120",
-      "151,275",
-      "142,545",
-      "897,102",
-      "1,023,178"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,10 +682,20 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/28",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/10/31",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1 Convertible Note\n              or 1 Ordinary Share-for-5@HKD 0.2500",
+      "Particular": "O: 1 Convertible\n                Note or 1 Ordinary Share-for-5@HKD 0.2500",
       "Type": "-",
       "Ex-Date": "2017/11/13",
       "Book Close Date": "2017/11/15-2017/11/21",
@@ -863,7 +775,7 @@
       "Announce Date": "2014/09/26",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1 Convertible Note\n              or 1 Ordinary Share-for-2@HKD 0.2500",
+      "Particular": "O: 1 Convertible\n                Note or 1 Ordinary Share-for-2@HKD 0.2500",
       "Type": "-",
       "Ex-Date": "2014/10/13",
       "Book Close Date": "2014/10/15-2014/10/17",
@@ -913,7 +825,7 @@
       "Announce Date": "2012/04/10",
       "Year Ended": "2012/06",
       "Event": "Special",
-      "Particular": "O: 2-for-5@HKD 0.1550",
+      "Particular": "O: 2-for-5@HKD\n                0.1550",
       "Type": "-",
       "Ex-Date": "2012/04/24",
       "Book Close Date": "-",
@@ -1043,7 +955,7 @@
       "Announce Date": "2006/06/08",
       "Year Ended": "2006/06",
       "Event": "Special",
-      "Particular": "O: 1 convertible\n              redeemable preference share-for-2@HKD 0.2500",
+      "Particular": "O: 1 convertible\n                redeemable preference share-for-2@HKD 0.2500",
       "Type": "-",
       "Ex-Date": "2006/08/14",
       "Book Close Date": "2006/08/16-2006/08/21",

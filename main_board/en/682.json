@@ -1,24 +1,24 @@
 {
   "stock_code": "682",
   "basic_information": {
-    "Name": "Chaoda Modern Agriculture (Holdings)\n                Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "Name": "Chaoda Modern Agriculture\n                    (Holdings) Ltd.",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "2000/12/15",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "5,000,000,000",
-    "Issued Capital(share)": "3,292,902,491",
+    "Issued Capital(share)": "3,295,582,491",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "0.3611",
     "EPS(HKD)": "-1.1411",
-    "PE": "-0.22",
+    "PE": "-0.15",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.6896",
+    "Price/PNAV": "0.4875",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "EBITDA": [
-      "-2,423,576",
-      "-1,251,183",
-      "-6,124,985",
-      "-3,843,810",
-      "-2,973,385"
-    ],
-    "Depreciation": [
-      "717,858",
-      "627,059",
-      "571,555",
-      "403,213",
-      "270,570"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-3,220,015",
-      "-1,940,728",
-      "-6,627,411",
-      "-4,247,970",
-      "-3,246,234"
-    ],
-    "Interest Paid": [
-      "-",
-      "679",
-      "354",
-      "89",
-      "59"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-27.79",
-      "-36.05",
-      "-9.76",
-      "-14.98",
-      "-26.20"
-    ],
-    "Net Profit Growth (%)": [
-      "-34.74",
-      "-39.73",
-      "241.49",
-      "-35.90",
-      "-23.58"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "Total Debt": [
-      "-",
-      "29,404",
-      "4,170",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "17,056,324",
-      "15,117,457",
-      "8,487,589",
-      "4,256,950",
-      "1,031,462"
-    ],
-    "Intangible Assets": [
-      "466,141",
-      "467,700",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -771,14 +673,24 @@
       "RMB"
     ],
     "Auditor's Opinion": [
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
       "-",
       "Unqualified",
       "Unqualified"
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/28",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2017/09/22",
       "Year Ended": "2017/06",
@@ -923,7 +835,7 @@
       "Announce Date": "2010/10/18",
       "Year Ended": "2010/06",
       "Event": "Final",
-      "Particular": "D:HKD\n              0.0600(equivalent to RMB 0.0520)",
+      "Particular": "D:HKD\n                0.0600(equivalent to RMB 0.0520)",
       "Type": "Cash",
       "Ex-Date": "2010/11/24",
       "Book Close Date": "2010/11/26-2010/11/30",

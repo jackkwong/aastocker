@@ -13,12 +13,12 @@
     "Issued Capital(share)": "1,097,917,618",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "6.9416",
     "EPS(HKD)": "0.4590",
-    "PE": "7.25",
+    "PE": "7.39",
     "DPS(HKD)": "0.2100",
-    "Yield": "6.31",
-    "Price/PNAV": "-",
+    "Yield": "6.19",
+    "Price/PNAV": "0.4884",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -34,7 +34,7 @@
       "14.10",
       "14.30",
       "14.20",
-      "0.00"
+      "15.50"
     ],
     "Cost-to-Income (%)": [
       "49.68",
@@ -289,41 +289,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Dividends": [
-      "175,667",
-      "175,667",
-      "197,625",
-      "197,625",
-      "230,563"
-    ],
-    "Profit After Taxation And Dividends": [
-      "192,094",
-      "208,723",
-      "225,330",
-      "208,936",
-      "272,951"
-    ],
-    "Net Interest Growth (%)": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Profit Growth (%)": [
-      "-3.62",
-      "4.52",
-      "10.03",
-      "-3.88",
-      "23.85"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -515,57 +480,29 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Goodwill": [
-      "2,774,403",
-      "2,774,403",
-      "2,774,403",
-      "2,774,403",
-      "2,774,403"
-    ],
-    "Bill Receivable": [
-      "55,322",
-      "39,935",
-      "64,552",
-      "53,012",
-      "33,958"
-    ],
-    "Certificate of Deposits": [
-      "1,794,492",
-      "1,363,494",
-      "499,977",
-      "1,072,778",
-      "753,293"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "cashflow": {
     "Closing Date": [
-      "2012/12",
       "2013/12",
       "2014/12",
       "2015/12",
-      "2016/12"
+      "2016/12",
+      "2017/12"
     ],
     "Net Cash Flow from Operating Activities": [
-      "-2,032,246",
       "1,337,924",
       "-381,518",
       "-153,446",
-      "1,423,232"
+      "1,423,232",
+      "-533,997"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-174,644",
       "-152,769",
       "-174,815",
       "-174,800",
-      "-196,847"
+      "-196,847",
+      "-196,842"
     ],
     "Interest Received": [
       "-",
@@ -582,17 +519,17 @@
       "-"
     ],
     "Dividend Received": [
-      "1,023",
       "939",
       "852",
       "867",
-      "778"
+      "778",
+      "783"
     ],
     "Dividend Paid": [
-      "-175,667",
       "-153,708",
       "-175,667",
       "-175,667",
+      "-197,625",
       "-197,625"
     ],
     "Others": [
@@ -604,38 +541,38 @@
     ],
     "Taxes (Paid) / Refunded": [
       "-",
-      "-",
       "-75,309",
       "-82,201",
+      "-",
       "-"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-24,356",
       "-20,647",
       "-20,938",
       "-17,461",
-      "-88,481"
+      "-88,481",
+      "-24,428"
     ],
     "Additions to Fixed Assets": [
-      "-24,399",
       "-20,684",
       "-20,937",
       "-17,422",
-      "-88,482"
+      "-88,482",
+      "-26,136"
     ],
     "Disposal of Fixed Assets": [
-      "33",
       "1",
       "33",
       "25",
-      "10"
+      "10",
+      "-"
     ],
     "Increase in Investments": [
       "-",
       "-",
       "-",
       "-",
-      "-"
+      "1,708"
     ],
     "Decrease in Investments": [
       "-",
@@ -652,32 +589,32 @@
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-2,231,246",
       "1,164,508",
       "-652,580",
       "-427,908",
-      "1,137,904"
+      "1,137,904",
+      "-755,267"
     ],
     "Net Cash Flow from Financing Activities": [
-      "-297",
       "-1,296,732",
       "-60,436",
       "39,131",
-      "-36,257"
+      "-36,257",
+      "-24,291"
     ],
     "New Loans": [
-      "848,000",
       "-",
       "1,124,000",
       "520,000",
-      "-"
+      "-",
+      "25,000"
     ],
     "Loans Repayment": [
-      "-848,297",
       "-1,296,732",
       "-1,184,436",
       "-480,869",
-      "-36,257"
+      "-36,257",
+      "-49,291"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -701,18 +638,18 @@
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-2,231,543",
       "-132,224",
       "-713,016",
       "-388,777",
-      "1,101,647"
+      "1,101,647",
+      "-779,558"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "7,692,870",
       "5,461,327",
       "5,329,103",
       "4,616,087",
-      "4,227,310"
+      "4,227,310",
+      "5,328,957"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
@@ -722,11 +659,11 @@
       "-"
     ],
     "Cash & Cash Equivalents at End of Year": [
-      "5,461,327",
       "5,329,103",
       "4,616,087",
       "4,227,310",
-      "5,328,957"
+      "5,328,957",
+      "4,549,399"
     ],
     "Unit": [
       "Thousand",
@@ -1115,7 +1052,7 @@
       "Announce Date": "2006/02/17",
       "Year Ended": "2006/12",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              7.3000",
+      "Particular": "R: 1 - for - 2@HKD\n                7.3000",
       "Type": "-",
       "Ex-Date": "2006/03/10",
       "Book Close Date": "2006/03/14-2006/03/07",

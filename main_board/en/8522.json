@@ -275,76 +275,6 @@
       "",
       "",
       ""
-    ],
-    "EBITDA": [
-      "14,558",
-      "29,055",
-      "",
-      "",
-      ""
-    ],
-    "Depreciation": [
-      "966",
-      "987",
-      "",
-      "",
-      ""
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Profit After Taxation And Dividends": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Interest Paid": [
-      "83",
-      "76",
-      "",
-      "",
-      ""
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Turnover Growth (%)": [
-      "-",
-      "68.18",
-      "",
-      "",
-      ""
-    ],
-    "Net Profit Growth (%)": [
-      "-",
-      "107.61",
-      "",
-      "",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
     ]
   },
   "balance_sheet": {
@@ -540,34 +470,6 @@
     "Currency": [
       "HKD",
       "HKD",
-      "",
-      "",
-      ""
-    ],
-    "Total Debt": [
-      "1,450",
-      "1,912",
-      "",
-      "",
-      ""
-    ],
-    "Net Assets": [
-      "28,944",
-      "44,607",
-      "",
-      "",
-      ""
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
       "",
       "",
       ""
@@ -778,5 +680,16 @@
       ""
     ]
   },
-  "dividend_history": []
+  "dividend_history": [
+    {
+      "Announce Date": "2018/02/14",
+      "Year Ended": "2018/03",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    }
+  ]
 }

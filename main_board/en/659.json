@@ -2,24 +2,24 @@
   "stock_code": "659",
   "basic_information": {
     "Name": "NWS Holdings Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/31",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1997/04/25",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "1",
     "Authorized Capital(share)": "6,000,000,000",
-    "Issued Capital(share)": "3,894,684,775",
+    "Issued Capital(share)": "3,896,506,451",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "12.6166",
     "EPS(HKD)": "1.4600",
-    "PE": "9.77",
+    "PE": "9.86",
     "DPS(HKD)": "1.4500",
-    "Yield": "10.17",
-    "Price/PNAV": "1.1303",
-    "Index Constituent": "HSCI\n                HSGCI\n                Index_Conglomerates\n                HSHKLI"
+    "Yield": "10.07",
+    "Price/PNAV": "1.1414",
+    "Index Constituent": "HSCI\n                    HSGCI\n                    Index_Conglomerates\n                    HSHKLI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "5,241,100",
-      "37,135,000",
-      "5,546,200",
-      "5,595,100",
-      "5,104,400"
-    ],
-    "Depreciation": [
-      "853,300",
-      "907,300",
-      "998,000",
-      "1,023,900",
-      "1,202,800"
-    ],
-    "Total Dividends": [
-      "2,012,400",
-      "2,160,600",
-      "2,260,200",
-      "2,482,500",
-      "5,630,000"
-    ],
-    "Profit After Taxation And Dividends": [
-      "1,995,600",
-      "2,164,300",
-      "2,217,400",
-      "2,430,300",
-      "-1,100"
-    ],
-    "Interest Paid": [
-      "749,700",
-      "663,700",
-      "637,700",
-      "621,400",
-      "468,300"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "8.65",
-      "31.97",
-      "14.22",
-      "20.44",
-      "6.40"
-    ],
-    "Net Profit Growth (%)": [
-      "-23.67",
-      "7.91",
-      "3.53",
-      "9.72",
-      "14.58"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "17,679,500",
-      "17,667,500",
-      "16,811,400",
-      "15,064,800",
-      "9,682,700"
-    ],
-    "Net Assets": [
-      "40,183,100",
-      "42,216,400",
-      "45,413,400",
-      "45,618,900",
-      "49,057,100"
-    ],
-    "Intangible Assets": [
-      "17,146,700",
-      "16,152,100",
-      "15,327,900",
-      "13,393,600",
-      "12,722,800"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.3200",
+      "Type": "Cash",
+      "Ex-Date": "2018/03/21",
+      "Book Close Date": "2018/03/23-2018/03/23",
+      "Payable Date": "2018/04/27"
+    },
+    {
       "Announce Date": "2017/09/20",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -933,7 +845,7 @@
       "Announce Date": "2011/01/31",
       "Year Ended": "2011/06",
       "Event": "Special",
-      "Particular": "OD: Assured\n              entitlements: By way of preferential offering of 1 Newton\n              Resources Limited share for 85 shares, the offer price\n              was determined at HK$1.75",
+      "Particular": "OD: Assured\n                entitlements: By way of preferential offering of 1\n                Newton Resources Limited share for 85 shares, the offer\n                price was determined at HK$1.75",
       "Type": "-",
       "Ex-Date": "2011/06/15",
       "Book Close Date": "2011/06/17-2011/06/17",

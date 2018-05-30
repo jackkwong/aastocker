@@ -1,9 +1,9 @@
 {
   "stock_code": "1046",
   "basic_information": {
-    "Name": "Universe International Financial\n                Holdings Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "Name": "Universe International Financial\n                    Holdings Ltd.",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1999/07/20",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "5,000",
     "NAV(HKD)": "1.1876",
     "EPS(HKD)": "-0.2110",
-    "PE": "-2.84",
+    "PE": "-3.22",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.5052",
+    "Price/PNAV": "0.5726",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "40,750",
-      "102,306",
-      "221,277",
-      "-136,139",
-      "-78,888"
-    ],
-    "Depreciation": [
-      "37,169",
-      "163,311",
-      "16,961",
-      "3,239",
-      "3,099"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-4,677",
-      "-24,327",
-      "161,956",
-      "-140,790",
-      "-114,328"
-    ],
-    "Interest Paid": [
-      "1,090",
-      "-",
-      "170",
-      "2,263",
-      "6,091"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "4,228",
-      "2,344",
-      "500",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "4.25",
-      "159.41",
-      "46.29",
-      "-49.69",
-      "53.37"
-    ],
-    "Net Profit Growth (%)": [
-      "-73.07",
-      "420.14",
-      "-765.75",
-      "-186.93",
-      "-18.80"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "4",
-      "69",
-      "9,332",
-      "13,220",
-      "53,063"
-    ],
-    "Net Assets": [
-      "241,153",
-      "299,899",
-      "572,020",
-      "753,151",
-      "1,013,359"
-    ],
-    "Intangible Assets": [
-      "173,126",
-      "33,879",
-      "3,172",
-      "73,678",
-      "51,647"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/27",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/29",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -813,7 +725,7 @@
       "Announce Date": "2016/07/12",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:2-for-1@HKD 0.6000",
+      "Particular": "R:2-for-1@HKD\n                0.6000",
       "Type": "-",
       "Ex-Date": "2016/08/31",
       "Book Close Date": "2016/09/02-2016/09/08",
@@ -853,7 +765,7 @@
       "Announce Date": "2015/05/27",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 2-for-1@HKD 0.2020",
+      "Particular": "R: 2-for-1@HKD\n                0.2020",
       "Type": "-",
       "Ex-Date": "2015/07/16",
       "Book Close Date": "2015/07/20-2015/07/23",
@@ -1123,7 +1035,7 @@
       "Announce Date": "2003/07/29",
       "Year Ended": "2003/06",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.0800",
+      "Particular": "R: 1 - for - 2@HKD\n                0.0800",
       "Type": "-",
       "Ex-Date": "2003/08/13",
       "Book Close Date": "2003/08/15-2003/08/19",

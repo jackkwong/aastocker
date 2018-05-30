@@ -2,8 +2,8 @@
   "stock_code": "862",
   "basic_information": {
     "Name": "Vision Values Holdings Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1998/10/14",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "5,000",
     "NAV(HKD)": "0.1280",
     "EPS(HKD)": "-0.0142",
-    "PE": "-35.21",
+    "PE": "-34.86",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "3.9074",
+    "Price/PNAV": "3.8684",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "8,389",
-      "-13,726",
-      "-45,643",
-      "-28,151",
-      "-46,569"
-    ],
-    "Depreciation": [
-      "326",
-      "458",
-      "971",
-      "866",
-      "809"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "7,557",
-      "-14,080",
-      "-45,189",
-      "-26,803",
-      "-46,055"
-    ],
-    "Interest Paid": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "14,112",
-      "235",
-      "-2,925",
-      "1,008",
-      "5,248"
-    ],
-    "Turnover Growth (%)": [
-      "4.86",
-      "-40.22",
-      "-1.15",
-      "19.60",
-      "-15.71"
-    ],
-    "Net Profit Growth (%)": [
-      "-469.72",
-      "-286.32",
-      "220.94",
-      "-40.69",
-      "71.83"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "164,858",
-      "328,791",
-      "326,030",
-      "298,195",
-      "497,482"
-    ],
-    "Intangible Assets": [
-      "3,334",
-      "3,334",
-      "3,334",
-      "3,334",
-      "3,334"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/27",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -803,7 +715,7 @@
       "Announce Date": "2017/01/24",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:1-for-2@HKD 0.1800",
+      "Particular": "R:1-for-2@HKD\n                0.1800",
       "Type": "-",
       "Ex-Date": "2017/02/27",
       "Book Close Date": "2017/03/01-2017/03/03",
@@ -883,7 +795,7 @@
       "Announce Date": "2013/06/13",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 1-for-2@HKD 0.1000",
+      "Particular": "R: 1-for-2@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2013/06/27",
       "Book Close Date": "2013/07/02-2013/07/08",
@@ -1103,7 +1015,7 @@
       "Announce Date": "2004/06/02",
       "Year Ended": "2005/06",
       "Event": "Special",
-      "Particular": "Distribution in\n              specie: 426 New World Cyberbase Limited shares for 10\n              consolidated shares(or 1000 existing shares)",
+      "Particular": "Distribution in\n                specie: 426 New World Cyberbase Limited shares for 10\n                consolidated shares(or 1000 existing shares)",
       "Type": "-",
       "Ex-Date": "2004/06/18",
       "Book Close Date": "2004/06/23-2004/06/25",

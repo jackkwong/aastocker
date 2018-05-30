@@ -1,9 +1,9 @@
 {
   "stock_code": "383",
   "basic_information": {
-    "Name": "China Medical & HealthCare Group\n                Limited",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "Name": "China Medical & HealthCare Group\n                    Limited",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1991/08/01",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "0.1352",
     "EPS(HKD)": "-0.0050",
-    "PE": "-46.80",
+    "PE": "-56.00",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.7310",
+    "Price/PNAV": "2.0713",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "107,197",
-      "916,958",
-      "729,450",
-      "-529,871",
-      "202,284"
-    ],
-    "Depreciation": [
-      "60,716",
-      "89,894",
-      "91,256",
-      "103,422",
-      "99,853"
-    ],
-    "Total Dividends": [
-      "-",
-      "53,032",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-780,719",
-      "874,876",
-      "228,443",
-      "-783,160",
-      "-71,813"
-    ],
-    "Interest Paid": [
-      "137,025",
-      "183,128",
-      "144,137",
-      "136,495",
-      "118,564"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-26.76",
-      "3.11K",
-      "-34.79",
-      "235.62",
-      "-46.48"
-    ],
-    "Net Profit Growth (%)": [
-      "46.91",
-      "-218.85",
-      "-75.38",
-      "-442.83",
-      "-90.83"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "2,827,415",
-      "3,008,024",
-      "1,963,833",
-      "2,674,444",
-      "1,854,912"
-    ],
-    "Net Assets": [
-      "983,159",
-      "1,822,970",
-      "1,654,387",
-      "1,993,207",
-      "1,957,412"
-    ],
-    "Intangible Assets": [
-      "16,713",
-      "15,682",
-      "14,844",
-      "45,901",
-      "32,500"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/27",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/28",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -853,7 +765,7 @@
       "Announce Date": "2014/11/21",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "Special Interim Dividend: By\n              way of distribution in specie 3.75 APAC Resources Limited\n              shares for 1",
+      "Particular": "Special Interim Dividend:\n                By way of distribution in specie 3.75 APAC Resources\n                Limited shares for 1",
       "Type": "Scrip",
       "Ex-Date": "2014/12/05",
       "Book Close Date": "2014/12/09-2014/12/11",
@@ -993,7 +905,7 @@
       "Announce Date": "2008/12/01",
       "Year Ended": "2008/12",
       "Event": "Special",
-      "Particular": "R:1 -for- 1@HKD\n              0.4000",
+      "Particular": "R:1 -for- 1@HKD\n                0.4000",
       "Type": "-",
       "Ex-Date": "2009/01/09",
       "Book Close Date": "2009/01/13-2009/01/16",
@@ -1103,7 +1015,7 @@
       "Announce Date": "2004/06/25",
       "Year Ended": "2004/12",
       "Event": "Special",
-      "Particular": "FC FORMERLY:[CHINA ONLINE\n              (BERMUDA) LIMITED]",
+      "Particular": "FC FORMERLY:[CHINA ONLINE\n                (BERMUDA) LIMITED]",
       "Type": "-",
       "Ex-Date": "2004/06/09",
       "Book Close Date": "-",

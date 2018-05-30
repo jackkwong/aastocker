@@ -1,7 +1,7 @@
 {
   "stock_code": "8201",
   "basic_information": {
-    "Name": "PPS International (Holdings) Ltd.",
+    "Name": "PPS International (Holdings)\n                    Ltd.",
     "EPS Start Date": "2017/07/01",
     "EPS End Date": "2018/06/30",
     "Listing Date": "2013/06/17",
@@ -15,10 +15,10 @@
     "Board Lot": "20,000",
     "NAV(HKD)": "0.0561",
     "EPS(HKD)": "-0.0591",
-    "PE": "-6.01",
+    "PE": "-3.74",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "6.3266",
+    "Price/PNAV": "3.9386",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "11,318",
-      "22,009",
-      "-19,069",
-      "-40,063",
-      "-9,550"
-    ],
-    "Depreciation": [
-      "4,526",
-      "5,162",
-      "6,204",
-      "6,040",
-      "3,359"
-    ],
-    "Total Dividends": [
-      "2,000",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "1,099",
-      "13,094",
-      "-27,205",
-      "-51,058",
-      "-13,386"
-    ],
-    "Interest Paid": [
-      "577",
-      "356",
-      "590",
-      "837",
-      "843"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "18.92",
-      "-0.75",
-      "4.71",
-      "26.87",
-      "5.34"
-    ],
-    "Net Profit Growth (%)": [
-      "-80.82",
-      "322.52",
-      "-307.77",
-      "87.68",
-      "-73.78"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "6,940",
-      "4,841",
-      "10,338",
-      "14,449",
-      "10,463"
-    ],
-    "Net Assets": [
-      "53,373",
-      "64,467",
-      "76,739",
-      "118,683",
-      "151,502"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "1,691",
-      "44,962",
-      "4,104"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,26 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/05/14",
+      "Year Ended": "2018/06",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/04/11",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "R:1-for-1@HKD\n                0.1800",
+      "Type": "-",
+      "Ex-Date": "2018/06/01",
+      "Book Close Date": "2018/06/05-2018/06/11",
+      "Payable Date": "2018/06/27"
+    },
+    {
       "Announce Date": "2018/02/05",
       "Year Ended": "2018/06",
       "Event": "Interim",
@@ -843,7 +765,7 @@
       "Announce Date": "2016/12/21",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:1-for-2@HKD 0.0540",
+      "Particular": "R:1-for-2@HKD\n                0.0540",
       "Type": "-",
       "Ex-Date": "2017/01/11",
       "Book Close Date": "2017/01/13-2017/01/18",
@@ -903,7 +825,7 @@
       "Announce Date": "2015/11/06",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1-for-2@HKD 0.0130",
+      "Particular": "O: 1-for-2@HKD\n                0.0130",
       "Type": "-",
       "Ex-Date": "2015/11/18",
       "Book Close Date": "2015/11/20-2015/11/23",

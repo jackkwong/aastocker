@@ -1,9 +1,9 @@
 {
   "stock_code": "191",
   "basic_information": {
-    "Name": "Lai Sun Garment (International) Ltd.",
-    "EPS Start Date": "2016/08/01",
-    "EPS End Date": "2017/07/31",
+    "Name": "Lai Sun Garment (International)\n                    Ltd.",
+    "EPS Start Date": "2017/08/01",
+    "EPS End Date": "2018/07/31",
     "Listing Date": "1987/12/03",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "9.4445",
     "EPS(HKD)": "3.8240",
-    "PE": "3.30",
+    "PE": "3.26",
     "DPS(HKD)": "0.0685",
-    "Yield": "0.54",
-    "Price/PNAV": "1.3362",
+    "Yield": "0.55",
+    "Price/PNAV": "1.3193",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "2,775,344",
-      "1,949,254",
-      "2,581,102",
-      "1,202,621",
-      "2,490,396"
-    ],
-    "Depreciation": [
-      "39,359",
-      "44,833",
-      "58,968",
-      "72,498",
-      "87,387"
-    ],
-    "Total Dividends": [
-      "-",
-      "20,638",
-      "20,809",
-      "22,921",
-      "26,165"
-    ],
-    "Profit After Taxation And Dividends": [
-      "1,663,904",
-      "919,858",
-      "1,269,867",
-      "660,395",
-      "1,430,501"
-    ],
-    "Interest Paid": [
-      "171,051",
-      "245,607",
-      "336,971",
-      "356,834",
-      "365,916"
-    ],
-    "Interest Capitalized": [
-      "10,102",
-      "1,227",
-      "94,230",
-      "134,030",
-      "156,296"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "2,431,172",
-      "1,115,466",
-      "-",
-      "124,167",
-      "1,467,213"
-    ],
-    "Turnover Growth (%)": [
-      "10.75",
-      "110.17",
-      "-25.58",
-      "20.19",
-      "-8.32"
-    ],
-    "Net Profit Growth (%)": [
-      "20.06",
-      "-43.48",
-      "37.23",
-      "-47.06",
-      "113.18"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "6,337,098",
-      "6,736,782",
-      "8,092,288",
-      "9,747,499",
-      "11,155,840"
-    ],
-    "Net Assets": [
-      "11,035,260",
-      "12,575,691",
-      "13,796,295",
-      "16,453,344",
-      "18,037,436"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "5,161",
-      "5,161"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/03/22",
+      "Year Ended": "2018/07",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/10/19",
       "Year Ended": "2017/07",
       "Event": "Final",
@@ -873,7 +785,7 @@
       "Announce Date": "2013/12/13",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R: 4-for-25@HKD\n              0.8340",
+      "Particular": "R: 4-for-25@HKD\n                0.8340",
       "Type": "-",
       "Ex-Date": "2013/12/30",
       "Book Close Date": "2014/01/03-2014/01/08",
@@ -1053,7 +965,7 @@
       "Announce Date": "2005/05/18",
       "Year Ended": "2005/07",
       "Event": "Special",
-      "Particular": "R: 1 - for - 8@HKD\n              0.5000",
+      "Particular": "R: 1 - for - 8@HKD\n                0.5000",
       "Type": "-",
       "Ex-Date": "2005/05/31",
       "Book Close Date": "2005/06/02-2005/06/15",

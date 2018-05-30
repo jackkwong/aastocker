@@ -1,7 +1,7 @@
 {
   "stock_code": "919",
   "basic_information": {
-    "Name": "Modern Beauty Salon Holdings Ltd.",
+    "Name": "Modern Beauty Salon Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "2006/02/09",
@@ -15,10 +15,10 @@
     "Board Lot": "4,000",
     "NAV(HKD)": "0.1358",
     "EPS(HKD)": "0.0378",
-    "PE": "7.14",
+    "PE": "7.94",
     "DPS(HKD)": "0.0225",
-    "Yield": "8.33",
-    "Price/PNAV": "1.9884",
+    "Yield": "7.50",
+    "Price/PNAV": "2.2094",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-13,427",
-      "124,601",
-      "131,032",
-      "59,684",
-      "83,463"
-    ],
-    "Depreciation": [
-      "30,977",
-      "43,932",
-      "47,821",
-      "44,927",
-      "35,473"
-    ],
-    "Total Dividends": [
-      "70,793",
-      "39,330",
-      "48,070",
-      "8,740",
-      "20,046"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-124,224",
-      "15,514",
-      "20,779",
-      "1,627",
-      "13,216"
-    ],
-    "Interest Paid": [
-      "620",
-      "476",
-      "346",
-      "3,298",
-      "2,590"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-14,300",
-      "-",
-      "72",
-      "280",
-      "170"
-    ],
-    "Turnover Growth (%)": [
-      "-6.41",
-      "22.69",
-      "0.62",
-      "-11.31",
-      "-10.59"
-    ],
-    "Net Profit Growth (%)": [
-      "-165.04",
-      "-202.64",
-      "25.54",
-      "-84.94",
-      "220.84"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "7,014",
-      "5,628",
-      "4,134",
-      "91,405",
-      "-"
-    ],
-    "Net Assets": [
-      "145,381",
-      "145,246",
-      "170,963",
-      "72,460",
-      "122,815"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "5,450"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -772,7 +674,7 @@
     ],
     "Auditor's Opinion": [
       "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
       "Unqualified",
       "Unqualified",
       "Unqualified"

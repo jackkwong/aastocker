@@ -1,9 +1,9 @@
 {
   "stock_code": "737",
   "basic_information": {
-    "Name": "Hopewell Highway Infrastructure Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "Name": "Hopewell Highway Infrastructure\n                    Ltd.",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "2003/08/06",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,11 +15,11 @@
     "Board Lot": "500",
     "NAV(HKD)": "2.0659",
     "EPS(HKD)": "0.2305",
-    "PE": "20.61",
+    "PE": "20.74",
     "DPS(HKD)": "0.3490",
-    "Yield": "7.35",
-    "Price/PNAV": "2.2993",
-    "Index Constituent": "HSCI\n                HSHKMI\n                HSGCI\n                Index_Industrial Goods"
+    "Yield": "7.30",
+    "Price/PNAV": "2.3138",
+    "Index Constituent": "HSCI\n                    HSHKMI\n                    HSGCI\n                    Index_Industrial Goods"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "888,011",
-      "809,645",
-      "744,159",
-      "667,082",
-      "763,147"
-    ],
-    "Depreciation": [
-      "673",
-      "202",
-      "174",
-      "229",
-      "218"
-    ],
-    "Total Dividends": [
-      "1,116,210",
-      "697,683",
-      "1,312,477",
-      "2,036,988",
-      "1,075,491"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-368,780",
-      "157",
-      "-660,791",
-      "-1,421,286",
-      "-365,040"
-    ],
-    "Interest Paid": [
-      "67,702",
-      "40,219",
-      "26,858",
-      "2,693",
-      "22"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-100.00",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Profit Growth (%)": [
-      "-26.95",
-      "-6.63",
-      "-6.61",
-      "-5.52",
-      "15.39"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "1,517,900",
-      "872,400",
-      "295,700",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "9,561,839",
-      "9,037,799",
-      "9,059,121",
-      "7,786,948",
-      "6,366,338"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -793,7 +695,7 @@
       "Announce Date": "2017/08/16",
       "Year Ended": "2017/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.1160(equivalent to HKD 0.1358986)",
+      "Particular": "D:RMB\n                0.1160(equivalent to HKD 0.1358986)",
       "Type": "Cash",
       "Ex-Date": "2017/10/30",
       "Book Close Date": "2017/11/01-2017/11/01",
@@ -803,7 +705,7 @@
       "Announce Date": "2017/08/16",
       "Year Ended": "2017/06",
       "Event": "Final",
-      "Particular": "SD:RMB\n              0.1000(equivalent to HKD 0.1171540)",
+      "Particular": "SD:RMB\n                0.1000(equivalent to HKD 0.1171540)",
       "Type": "Cash",
       "Ex-Date": "2017/10/30",
       "Book Close Date": "2017/11/01-2017/11/01",
@@ -813,7 +715,7 @@
       "Announce Date": "2017/01/04",
       "Year Ended": "2017/06",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.0860(equivalent to HKD 0.0959416)",
+      "Particular": "D:RMB\n                0.0860(equivalent to HKD 0.0959416)",
       "Type": "Cash",
       "Ex-Date": "2017/01/17",
       "Book Close Date": "2017/01/19-2017/01/19",
@@ -823,7 +725,7 @@
       "Announce Date": "2016/08/23",
       "Year Ended": "2016/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0820(equivalent to HKD 0.095484)",
+      "Particular": "D:RMB\n                0.0820(equivalent to HKD 0.095484)",
       "Type": "Cash",
       "Ex-Date": "2016/10/28",
       "Book Close Date": "2016/11/01-2016/11/01",
@@ -833,7 +735,7 @@
       "Announce Date": "2016/08/23",
       "Year Ended": "2016/06",
       "Event": "Final",
-      "Particular": "SD:RMB\n              0.4000(equivalent to HKD 0.465776)",
+      "Particular": "SD:RMB\n                0.4000(equivalent to HKD 0.465776)",
       "Type": "Cash",
       "Ex-Date": "2016/10/28",
       "Book Close Date": "2016/11/01-2016/11/01",
@@ -843,7 +745,7 @@
       "Announce Date": "2016/02/02",
       "Year Ended": "2016/06",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.0840(equivalent to HKD 0.099737)",
+      "Particular": "D:RMB\n                0.0840(equivalent to HKD 0.099737)",
       "Type": "Cash",
       "Ex-Date": "2016/02/18",
       "Book Close Date": "2016/02/22-2016/02/22",
@@ -853,7 +755,7 @@
       "Announce Date": "2015/08/26",
       "Year Ended": "2015/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0840(equivalent to HKD 0.101665)",
+      "Particular": "D:RMB\n                0.0840(equivalent to HKD 0.101665)",
       "Type": "Cash",
       "Ex-Date": "2015/10/28",
       "Book Close Date": "2015/10/30-2015/10/30",
@@ -863,7 +765,7 @@
       "Announce Date": "2015/08/26",
       "Year Ended": "2015/06",
       "Event": "Final",
-      "Particular": "SD:RMB\n              0.1800(equivalent to HKD 0.217854)",
+      "Particular": "SD:RMB\n                0.1800(equivalent to HKD 0.217854)",
       "Type": "Cash",
       "Ex-Date": "2015/10/28",
       "Book Close Date": "2015/10/30-2015/10/30",
@@ -873,7 +775,7 @@
       "Announce Date": "2015/01/05",
       "Year Ended": "2015/06",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.0840(equivalent to HKD 0.106376)",
+      "Particular": "D:RMB\n                0.0840(equivalent to HKD 0.106376)",
       "Type": "Cash",
       "Ex-Date": "2015/01/16",
       "Book Close Date": "2015/01/20-2015/01/20",
@@ -883,7 +785,7 @@
       "Announce Date": "2014/08/26",
       "Year Ended": "2014/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0810(equivalent to HKD 0.101806)",
+      "Particular": "D:RMB\n                0.0810(equivalent to HKD 0.101806)",
       "Type": "Cash",
       "Ex-Date": "2014/10/23",
       "Book Close Date": "2014/10/27-2014/10/27",
@@ -893,7 +795,7 @@
       "Announce Date": "2014/01/02",
       "Year Ended": "2014/06",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.0980(equivalent to HKD 0.12459)",
+      "Particular": "D:RMB\n                0.0980(equivalent to HKD 0.12459)",
       "Type": "Cash",
       "Ex-Date": "2014/01/15",
       "Book Close Date": "2014/01/17-2014/01/17",
@@ -903,7 +805,7 @@
       "Announce Date": "2013/08/20",
       "Year Ended": "2013/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0900(equivalent to HKD 0.113122)",
+      "Particular": "D:RMB\n                0.0900(equivalent to HKD 0.113122)",
       "Type": "Cash",
       "Ex-Date": "2013/10/23",
       "Book Close Date": "2013/10/25-2013/10/25",
@@ -913,7 +815,7 @@
       "Announce Date": "2013/08/20",
       "Year Ended": "2013/06",
       "Event": "Final",
-      "Particular": "SD:RMB\n              0.1000(equivalent to HKD 0.125691)",
+      "Particular": "SD:RMB\n                0.1000(equivalent to HKD 0.125691)",
       "Type": "Cash",
       "Ex-Date": "2013/10/23",
       "Book Close Date": "2013/10/25-2013/10/25",
@@ -923,7 +825,7 @@
       "Announce Date": "2013/02/21",
       "Year Ended": "2013/06",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.1000(equivalent to HKD 0.123394)",
+      "Particular": "D:RMB\n                0.1000(equivalent to HKD 0.123394)",
       "Type": "Cash",
       "Ex-Date": "2013/03/06",
       "Book Close Date": "2013/03/08-2013/03/08",

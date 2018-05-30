@@ -1,9 +1,9 @@
 {
   "stock_code": "860",
   "basic_information": {
-    "Name": "O Luxe Holdings Ltd.",
-    "EPS Start Date": "2016/10/01",
-    "EPS End Date": "2017/09/30",
+    "Name": "WE Solutions Limited",
+    "EPS Start Date": "2017/10/01",
+    "EPS End Date": "2018/09/30",
     "Listing Date": "2002/09/03",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,11 +15,11 @@
     "Board Lot": "4,000",
     "NAV(HKD)": "0.5993",
     "EPS(HKD)": "-0.0279",
-    "PE": "-59.86",
+    "PE": "-55.20",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "2.7865",
-    "Index Constituent": "-"
+    "Price/PNAV": "2.5696",
+    "Index Constituent": "HSGCI\n                    Index_Consumer Goods\n                    HSCI\n                    HSHKSI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-945,885",
-      "-1,135,494",
-      "-132,578",
-      "27,236",
-      "-68,425"
-    ],
-    "Depreciation": [
-      "10,909",
-      "8,719",
-      "29,196",
-      "11,907",
-      "15,599"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-817,573",
-      "-1,052,066",
-      "-199,626",
-      "-32,673",
-      "-90,108"
-    ],
-    "Interest Paid": [
-      "4,549",
-      "3,117",
-      "4,270",
-      "3,875",
-      "4,118"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-23,660",
-      "-3,457",
-      "-",
-      "-",
-      "39,942"
-    ],
-    "Turnover Growth (%)": [
-      "-14.89",
-      "54.25",
-      "-70.77",
-      "11.26",
-      "38.99"
-    ],
-    "Net Profit Growth (%)": [
-      "-1083.16",
-      "28.68",
-      "-81.03",
-      "-83.63",
-      "175.79"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "55,607",
-      "63,095",
-      "61,060",
-      "40,621",
-      "140,136"
-    ],
-    "Net Assets": [
-      "1,986,763",
-      "1,094,164",
-      "1,490,847",
-      "1,433,405",
-      "3,393,286"
-    ],
-    "Intangible Assets": [
-      "276,795",
-      "140,673",
-      "145,426",
-      "154,674",
-      "1,389,837"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/05/13",
+      "Year Ended": "2018/09",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/12/29",
       "Year Ended": "2017/09",
       "Event": "Final",
@@ -853,7 +765,7 @@
       "Announce Date": "2015/02/04",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 2-for-1\n              consolidated share@HKD 0.3000",
+      "Particular": "O: 2-for-1\n                consolidated share@HKD 0.3000",
       "Type": "-",
       "Ex-Date": "2015/03/18",
       "Book Close Date": "2015/03/20-2015/03/24",
@@ -873,7 +785,7 @@
       "Announce Date": "2014/07/25",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "C: 1-for-10 (not\n              approved as announced on 2014/09/05)",
+      "Particular": "C: 1-for-10 (not\n                approved as announced on 2014/09/05)",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -893,7 +805,7 @@
       "Announce Date": "2014/02/26",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1-for-2@HKD 0.0800",
+      "Particular": "O: 1-for-2@HKD\n                0.0800",
       "Type": "-",
       "Ex-Date": "2014/03/11",
       "Book Close Date": "2014/03/13-2014/03/18",

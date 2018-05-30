@@ -1,7 +1,7 @@
 {
   "stock_code": "1270",
   "basic_information": {
-    "Name": "Langham Hospitality Inv and Langham\n                Hospitality Inv Ltd. -SS",
+    "Name": "Langham Hospitality Inv and\n                    Langham Hospitality Inv Ltd. -SS",
     "EPS Start Date": "2017/01/01",
     "EPS End Date": "2017/12/31",
     "Listing Date": "2013/05/30",
@@ -10,10 +10,10 @@
     "Par Currency": "HKD",
     "Par": "0.0005",
     "Authorized Capital(share)": "5,000,000,000",
-    "Issued Capital(share)": "2,088,423,083",
+    "Issued Capital(share)": "2,099,083,438",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "5.9428",
     "EPS(HKD)": "0.5500",
     "PE": "0.00",
     "DPS(HKD)": "0.2140",
@@ -117,7 +117,7 @@
       "69.89",
       "107.89",
       "34.76",
-      "128.33",
+      "127.50",
       "38.91"
     ],
     "Fiscal Year High": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "450,707",
-      "740,624",
-      "1,616,339",
-      "585,814",
-      "1,357,699"
-    ],
-    "Depreciation": [
-      "62,107",
-      "4",
-      "6",
-      "6",
-      "10"
-    ],
-    "Total Dividends": [
-      "348,753",
-      "558,825",
-      "477,534",
-      "527,143",
-      "436,818"
-    ],
-    "Profit After Taxation And Dividends": [
-      "96,522",
-      "-1,762",
-      "964,657",
-      "-117,534",
-      "709,241"
-    ],
-    "Interest Paid": [
-      "78,642",
-      "96,532",
-      "97,493",
-      "92,939",
-      "134,321"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "25,554",
-      "155,558",
-      "1,099,032",
-      "-3,613",
-      "808,384"
-    ],
-    "Turnover Growth (%)": [
-      "-70.94",
-      "59.35",
-      "-9.25",
-      "3.55",
-      "-1.73"
-    ],
-    "Net Profit Growth (%)": [
-      "12.02",
-      "25.11",
-      "158.89",
-      "-71.60",
-      "179.79"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,74 +473,46 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "6,718,016",
-      "6,752,016",
-      "6,786,016",
-      "6,738,597",
-      "6,756,597"
-    ],
-    "Net Assets": [
-      "10,670,246",
-      "10,682,506",
-      "11,681,997",
-      "11,676,543",
-      "12,411,068"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "cashflow": {
     "Closing Date": [
-      "2012/12",
       "2013/12",
       "2014/12",
       "2015/12",
-      "2016/12"
+      "2016/12",
+      "2017/12"
     ],
     "Net Cash Flow from Operating Activities": [
-      "588,090",
       "416,810",
       "767,475",
       "551,756",
-      "644,000"
+      "644,000",
+      "648,020"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-50,544",
       "-67,933",
       "-604,756",
       "-601,498",
-      "-572,036"
+      "-572,036",
+      "-611,402"
     ],
     "Interest Received": [
-      "13,098",
       "8,992",
       "18,739",
       "9,517",
-      "2,153"
+      "2,153",
+      "1,974"
     ],
     "Interest Paid": [
-      "-65,865",
       "-76,925",
       "-",
       "-97,496",
-      "-91,551"
+      "-91,551",
+      "-130,344"
     ],
     "Dividend Received": [
-      "2,223",
+      "-",
       "-",
       "-",
       "-",
@@ -618,43 +520,43 @@
     ],
     "Dividend Paid": [
       "-",
-      "-",
       "-623,495",
       "-513,519",
-      "-482,638"
+      "-482,638",
+      "-483,032"
     ],
     "Others": [
-      "-",
       "-10,397,814",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-38,869",
       "-38,386",
       "-121,046",
       "-14,975",
-      "-275"
+      "-275",
+      "-54,503"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-134,836",
       "-10,245",
       "-188,472",
       "-271,751",
-      "-5,349"
+      "-5,349",
+      "-119,512"
     ],
     "Additions to Fixed Assets": [
-      "-106,463",
       "-64,846",
       "-128,744",
       "-271,687",
-      "-65,413"
+      "-65,413",
+      "-119,512"
     ],
     "Disposal of Fixed Assets": [
-      "15",
       "-",
       "272",
+      "-",
       "-",
       "-"
     ],
@@ -666,46 +568,46 @@
       "-"
     ],
     "Decrease in Investments": [
-      "-",
       "54,601",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Net Cash Flow with Related Parties": [
-      "-342,509",
       "97,611",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "363,841",
       "300,246",
       "-146,799",
       "-336,468",
-      "66,340"
+      "66,340",
+      "-137,397"
     ],
     "Net Cash Flow from Financing Activities": [
-      "-372,509",
       "415,679",
       "-3,748",
       "-",
-      "-72,000"
+      "-72,000",
+      "-"
     ],
     "New Loans": [
-      "840,000",
       "6,800,000",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Loans Repayment": [
-      "-870,000",
       "-190,000",
       "-",
       "-",
-      "-72,000"
+      "-72,000",
+      "-"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -722,39 +624,39 @@
       "-"
     ],
     "Equity Financing": [
-      "-",
       "4,105,882",
       "-3,748",
+      "-",
       "-",
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-8,668",
       "715,925",
       "-150,547",
       "-336,468",
-      "-5,660"
+      "-5,660",
+      "-137,397"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "40,223",
-      "31,555",
-      "751,932",
-      "589,248",
-      "244,133"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "-",
-      "4,452",
-      "-12,137",
-      "-8,647",
-      "-"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "31,555",
       "751,932",
       "589,248",
       "244,133",
       "238,473"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "4,452",
+      "-12,137",
+      "-8,647",
+      "-",
+      "-"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "751,932",
+      "589,248",
+      "244,133",
+      "238,473",
+      "101,076"
     ],
     "Unit": [
       "Thousand",
@@ -771,7 +673,7 @@
       "HKD"
     ],
     "Auditor's Opinion": [
-      "-",
+      "Unqualified",
       "Unqualified",
       "Unqualified",
       "Unqualified",

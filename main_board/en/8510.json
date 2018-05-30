@@ -2,8 +2,8 @@
   "stock_code": "8510",
   "basic_information": {
     "Name": "Top Standard Corporation",
-    "EPS Start Date": "2016/04/01",
-    "EPS End Date": "2017/03/31",
+    "EPS Start Date": "2017/04/01",
+    "EPS End Date": "2018/03/31",
     "Listing Date": "2018/02/13",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -275,76 +275,6 @@
       "",
       "",
       ""
-    ],
-    "EBITDA": [
-      "14,504",
-      "13,658",
-      "",
-      "",
-      ""
-    ],
-    "Depreciation": [
-      "1,512",
-      "2,988",
-      "",
-      "",
-      ""
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Profit After Taxation And Dividends": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Interest Paid": [
-      "149",
-      "206",
-      "",
-      "",
-      ""
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Turnover Growth (%)": [
-      "-",
-      "9.68",
-      "",
-      "",
-      ""
-    ],
-    "Net Profit Growth (%)": [
-      "-",
-      "6.44",
-      "",
-      "",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
     ]
   },
   "balance_sheet": {
@@ -540,34 +470,6 @@
     "Currency": [
       "HKD",
       "HKD",
-      "",
-      "",
-      ""
-    ],
-    "Total Debt": [
-      "2,339",
-      "19,099",
-      "",
-      "",
-      ""
-    ],
-    "Net Assets": [
-      "3,963",
-      "11,502",
-      "",
-      "",
-      ""
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "",
-      "",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
       "",
       "",
       ""
@@ -778,5 +680,16 @@
       ""
     ]
   },
-  "dividend_history": []
+  "dividend_history": [
+    {
+      "Announce Date": "2018/02/14",
+      "Year Ended": "2018/03",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    }
+  ]
 }

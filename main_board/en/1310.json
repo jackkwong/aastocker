@@ -2,8 +2,8 @@
   "stock_code": "1310",
   "basic_information": {
     "Name": "HKBN Ltd.",
-    "EPS Start Date": "2016/09/30",
-    "EPS End Date": "2017/08/31",
+    "EPS Start Date": "2017/09/30",
+    "EPS End Date": "2018/08/31",
     "Listing Date": "2015/03/12",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -19,7 +19,7 @@
     "DPS(HKD)": "0.4500",
     "Yield": "-",
     "Price/PNAV": "-",
-    "Index Constituent": "HSCI\n                HSGCI\n                Index_Telecommunications\n                HSHKSI"
+    "Index Constituent": "HSCI\n                    HSGCI\n                    Index_Telecommunications\n                    HSHKSI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "621,058",
-      "840,362",
-      "804,306",
-      "966,967",
-      "951,913"
-    ],
-    "Depreciation": [
-      "549,901",
-      "552,387",
-      "475,680",
-      "506,427",
-      "578,008"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "201,133",
-      "402,266",
-      "452,550"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-138,998",
-      "53,550",
-      "-96,865",
-      "-157,587",
-      "-281,440"
-    ],
-    "Interest Paid": [
-      "181,117",
-      "182,937",
-      "138,776",
-      "125,971",
-      "120,169"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "251.96",
-      "9.34",
-      "9.83",
-      "18.92",
-      "16.10"
-    ],
-    "Net Profit Growth (%)": [
-      "345.12",
-      "-138.53",
-      "94.71",
-      "134.66",
-      "-30.07"
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "3,230,631",
-      "2,994,058",
-      "3,018,889",
-      "3,721,297",
-      "3,831,332"
-    ],
-    "Net Assets": [
-      "1,589,678",
-      "1,642,845",
-      "1,514,187",
-      "1,363,358",
-      "1,128,888"
-    ],
-    "Intangible Assets": [
-      "3,260,070",
-      "3,034,778",
-      "2,924,611",
-      "3,322,178",
-      "3,384,676"
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/04/19",
+      "Year Ended": "2018/08",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2600",
+      "Type": "Cash",
+      "Ex-Date": "2018/05/03",
+      "Book Close Date": "2018/05/07-2018/05/08",
+      "Payable Date": "2018/05/16"
+    },
     {
       "Announce Date": "2017/11/02",
       "Year Ended": "2017/08",

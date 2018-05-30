@@ -2,23 +2,23 @@
   "stock_code": "247",
   "basic_information": {
     "Name": "Tsim Sha Tsui Properties Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1972/07/20",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "1,772,633,939",
+    "Issued Capital(share)": "1,814,065,529",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "38.0202",
     "EPS(HKD)": "2.2300",
-    "PE": "11.12",
+    "PE": "11.39",
     "DPS(HKD)": "0.5300",
-    "Yield": "2.14",
-    "Price/PNAV": "0.6523",
+    "Yield": "2.09",
+    "Price/PNAV": "0.6681",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "8,250,782",
-      "9,292,591",
-      "9,816,774",
-      "6,189,399",
-      "9,404,873"
-    ],
-    "Depreciation": [
-      "78,542",
-      "78,043",
-      "89,742",
-      "82,640",
-      "98,741"
-    ],
-    "Total Dividends": [
-      "788,267",
-      "810,432",
-      "832,326",
-      "868,629",
-      "923,639"
-    ],
-    "Profit After Taxation And Dividends": [
-      "5,189,156",
-      "3,702,918",
-      "3,914,843",
-      "2,753,545",
-      "2,924,643"
-    ],
-    "Interest Paid": [
-      "346,276",
-      "324,275",
-      "276,508",
-      "235,396",
-      "225,533"
-    ],
-    "Interest Capitalized": [
-      "40,517",
-      "20,288",
-      "32,839",
-      "22,443",
-      "17,936"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "4,541,018",
-      "4,557,963",
-      "3,259,416",
-      "1,771,825",
-      "1,419,649"
-    ],
-    "Turnover Growth (%)": [
-      "-6.87",
-      "-4.69",
-      "191.53",
-      "-50.41",
-      "69.34"
-    ],
-    "Net Profit Growth (%)": [
-      "11.09",
-      "-24.49",
-      "5.18",
-      "-23.70",
-      "6.24"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "14,581,539",
-      "11,248,083",
-      "8,273,830",
-      "5,900,098",
-      "7,384,162"
-    ],
-    "Net Assets": [
-      "49,760,881",
-      "54,371,618",
-      "59,030,064",
-      "62,157,984",
-      "66,351,228"
-    ],
-    "Intangible Assets": [
-      "739,234",
-      "739,234",
-      "739,234",
-      "739,234",
-      "739,234"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,26 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/28",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1300",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/03/13",
+      "Book Close Date": "2018/03/15-2018/03/19",
+      "Payable Date": "2018/04/23"
+    },
+    {
+      "Announce Date": "2018/02/28",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "SD:HKD 0.4500",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/03/13",
+      "Book Close Date": "2018/03/15-2018/03/19",
+      "Payable Date": "2018/04/23"
+    },
     {
       "Announce Date": "2017/08/24",
       "Year Ended": "2017/06",

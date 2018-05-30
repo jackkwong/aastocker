@@ -2,8 +2,8 @@
   "stock_code": "1079",
   "basic_information": {
     "Name": "Pine Technology Holdings Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "1999/11/26",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.4595",
     "EPS(HKD)": "-0.0406",
-    "PE": "-28.82",
+    "PE": "-25.13",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "2.5461",
+    "Price/PNAV": "2.2197",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "USD",
       "USD",
       "USD"
-    ],
-    "EBITDA": [
-      "4,987",
-      "3,207",
-      "-4,131",
-      "-5,270",
-      "-3,849"
-    ],
-    "Depreciation": [
-      "1,875",
-      "1,223",
-      "761",
-      "964",
-      "527"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "2,058",
-      "809",
-      "-6,567",
-      "-6,362",
-      "-4,758"
-    ],
-    "Interest Paid": [
-      "958",
-      "956",
-      "874",
-      "741",
-      "888"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-7.67",
-      "9.12",
-      "-27.44",
-      "-8.31",
-      "48.51"
-    ],
-    "Net Profit Growth (%)": [
-      "-159.86",
-      "-60.69",
-      "-911.74",
-      "-3.12",
-      "-25.21"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "USD",
       "USD",
       "USD"
-    ],
-    "Total Debt": [
-      "31,251",
-      "30,421",
-      "28,258",
-      "25,569",
-      "16,677"
-    ],
-    "Net Assets": [
-      "71,675",
-      "72,659",
-      "65,490",
-      "58,493",
-      "54,245"
-    ],
-    "Intangible Assets": [
-      "294",
-      "290",
-      "278",
-      "159",
-      "150"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2017/09/19",
       "Year Ended": "2017/06",
@@ -1033,7 +945,7 @@
       "Announce Date": "2008/04/03",
       "Year Ended": "2008/06",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.2600",
+      "Particular": "R: 1 - for - 2@HKD\n                0.2600",
       "Type": "-",
       "Ex-Date": "2008/04/16",
       "Book Close Date": "2008/04/18-2008/04/21",

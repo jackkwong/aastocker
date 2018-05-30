@@ -2,8 +2,8 @@
   "stock_code": "1178",
   "basic_information": {
     "Name": "Huiyin Holdings Group Limited",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "2003/02/10",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "0.0599",
     "EPS(HKD)": "-0.0144",
-    "PE": "-3.40",
+    "PE": "-2.78",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.8185",
+    "Price/PNAV": "0.6682",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-13,934",
-      "-24,721",
-      "-27,734",
-      "-108,723",
-      "-65,896"
-    ],
-    "Depreciation": [
-      "654",
-      "433",
-      "413",
-      "3,613",
-      "5,784"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-14,404",
-      "-25,262",
-      "-30,386",
-      "-112,641",
-      "-70,505"
-    ],
-    "Interest Paid": [
-      "-",
-      "38",
-      "758",
-      "464",
-      "604"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-3.23",
-      "-27.26",
-      "92.36",
-      "281.75",
-      "-49.45"
-    ],
-    "Net Profit Growth (%)": [
-      "-27.47",
-      "75.38",
-      "20.28",
-      "270.70",
-      "-37.41"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "8,750",
-      "6,250",
-      "5,814",
-      "16,000"
-    ],
-    "Net Assets": [
-      "105,170",
-      "111,474",
-      "164,182",
-      "269,508",
-      "297,185"
-    ],
-    "Intangible Assets": [
-      "229",
-      "191",
-      "153",
-      "34,266",
-      "17,724"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "cashflow": {
@@ -775,10 +677,20 @@
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
+      "Unqualified ( not qualified in\n                    respect of fundamental uncertainly because of\n                    proper disclosure)"
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2017/09/28",
       "Year Ended": "2017/06",
@@ -843,7 +755,7 @@
       "Announce Date": "2014/11/17",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1-for-2@HKD 0.1000",
+      "Particular": "O: 1-for-2@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2014/11/27",
       "Book Close Date": "2014/12/01-2014/12/03",
@@ -923,7 +835,7 @@
       "Announce Date": "2011/06/01",
       "Year Ended": "2011/06",
       "Event": "Special",
-      "Particular": "R:1 -for- 3 @HKD\n              0.2500",
+      "Particular": "R:1 -for- 3 @HKD\n                0.2500",
       "Type": "-",
       "Ex-Date": "2011/06/16",
       "Book Close Date": "2011/06/20-2011/06/24",

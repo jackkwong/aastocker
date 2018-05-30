@@ -2,8 +2,8 @@
   "stock_code": "1125",
   "basic_information": {
     "Name": "Lai Fung Holdings Ltd.",
-    "EPS Start Date": "2016/08/01",
-    "EPS End Date": "2017/07/31",
+    "EPS Start Date": "2017/08/01",
+    "EPS End Date": "2018/07/31",
     "Listing Date": "1997/11/28",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "400",
     "NAV(HKD)": "0.8956",
     "EPS(HKD)": "4.5470",
-    "PE": "2.77",
+    "PE": "2.84",
     "DPS(HKD)": "0.2000",
-    "Yield": "1.59",
-    "Price/PNAV": "14.0696",
+    "Yield": "1.55",
+    "Price/PNAV": "14.4046",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "1,759,779",
-      "2,088,640",
-      "1,990,557",
-      "1,641,146",
-      "1,586,902"
-    ],
-    "Depreciation": [
-      "66,821",
-      "73,607",
-      "74,252",
-      "71,201",
-      "72,226"
-    ],
-    "Total Dividends": [
-      "48,288",
-      "49,916",
-      "53,228",
-      "58,312",
-      "65,148"
-    ],
-    "Profit After Taxation And Dividends": [
-      "708,757",
-      "1,049,811",
-      "951,673",
-      "815,215",
-      "1,412,304"
-    ],
-    "Interest Paid": [
-      "259,497",
-      "364,559",
-      "292,809",
-      "295,756",
-      "305,351"
-    ],
-    "Interest Capitalized": [
-      "87,597",
-      "95,374",
-      "141,671",
-      "178,684",
-      "179,157"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "660,708",
-      "1,138,045",
-      "948,654",
-      "528,015",
-      "800,104"
-    ],
-    "Turnover Growth (%)": [
-      "35.93",
-      "-36.29",
-      "57.49",
-      "7.48",
-      "-35.08"
-    ],
-    "Net Profit Growth (%)": [
-      "-6.85",
-      "45.27",
-      "-8.62",
-      "-13.07",
-      "69.14"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "6,050,988",
-      "4,545,978",
-      "5,844,202",
-      "5,701,017",
-      "5,818,969"
-    ],
-    "Net Assets": [
-      "11,418,834",
-      "12,663,434",
-      "13,466,353",
-      "13,314,767",
-      "14,584,111"
-    ],
-    "Intangible Assets": [
-      "1,032",
-      "426",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/03/22",
+      "Year Ended": "2018/07",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/10/19",
       "Year Ended": "2017/07",
       "Event": "Final",
@@ -913,7 +825,7 @@
       "Announce Date": "2012/02/27",
       "Year Ended": "2012/07",
       "Event": "Special",
-      "Particular": "O: 1-for-1@HKD 0.1250",
+      "Particular": "O: 1-for-1@HKD\n                0.1250",
       "Type": "-",
       "Ex-Date": "2012/05/15",
       "Book Close Date": "2012/05/17-2012/05/18",
@@ -1073,7 +985,7 @@
       "Announce Date": "2004/06/03",
       "Year Ended": "2004/07",
       "Event": "Special",
-      "Particular": "R: 1 - for - 4@HKD\n              0.1000",
+      "Particular": "R: 1 - for - 4@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2004/06/15",
       "Book Close Date": "2004/06/17-2004/06/23",
@@ -1133,7 +1045,7 @@
       "Announce Date": "2003/03/11",
       "Year Ended": "2003/07",
       "Event": "Special",
-      "Particular": "R: 1 - for - 5@HKD\n              0.1000",
+      "Particular": "R: 1 - for - 5@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2003/03/26",
       "Book Close Date": "2003/03/28-2003/03/31",
@@ -1153,7 +1065,7 @@
       "Announce Date": "2002/05/09",
       "Year Ended": "2002/07",
       "Event": "Special",
-      "Particular": "R: 1 - for - 4@HKD\n              0.1000",
+      "Particular": "R: 1 - for - 4@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2002/05/27",
       "Book Close Date": "2002/05/29-2002/05/31",

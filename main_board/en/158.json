@@ -2,8 +2,8 @@
   "stock_code": "158",
   "basic_information": {
     "Name": "Melbourne Enterprises Ltd.",
-    "EPS Start Date": "2016/10/01",
-    "EPS End Date": "2017/09/30",
+    "EPS Start Date": "2017/10/01",
+    "EPS End Date": "2018/09/30",
     "Listing Date": "1972/08/29",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "304.4652",
     "EPS(HKD)": "60.6200",
-    "PE": "3.04",
+    "PE": "3.19",
     "DPS(HKD)": "5.0000",
-    "Yield": "2.72",
-    "Price/PNAV": "0.6043",
+    "Yield": "2.58",
+    "Price/PNAV": "0.6355",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "601,048",
-      "37,082",
-      "590,410",
-      "312,560",
-      "1,546,356"
-    ],
-    "Depreciation": [
-      "660",
-      "656",
-      "657",
-      "656",
-      "644"
-    ],
-    "Total Dividends": [
-      "115,000",
-      "115,000",
-      "117,500",
-      "120,000",
-      "125,000"
-    ],
-    "Profit After Taxation And Dividends": [
-      "460,513",
-      "-103,276",
-      "443,144",
-      "161,485",
-      "1,390,427"
-    ],
-    "Interest Paid": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "448,500",
-      "-114,000",
-      "413,000",
-      "127,000",
-      "1,361,500"
-    ],
-    "Turnover Growth (%)": [
-      "7.89",
-      "5.18",
-      "5.44",
-      "3.89",
-      "0.09"
-    ],
-    "Net Profit Growth (%)": [
-      "7.01",
-      "-97.96",
-      "4.68K",
-      "-49.79",
-      "438.37"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "5,683,822",
-      "5,580,546",
-      "6,031,129",
-      "6,248,277",
-      "7,611,631"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/05/18",
+      "Year Ended": "2018/09",
+      "Event": "Interim",
+      "Particular": "D:HKD 2.3000",
+      "Type": "Cash",
+      "Ex-Date": "2018/06/04",
+      "Book Close Date": "2018/06/06-2018/06/08",
+      "Payable Date": "2018/06/14"
+    },
     {
       "Announce Date": "2017/12/15",
       "Year Ended": "2017/09",

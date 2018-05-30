@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "6.1686",
     "EPS(HKD)": "-0.0490",
-    "PE": "-62.45",
+    "PE": "-15.71",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.4961",
+    "Price/PNAV": "0.1248",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "76,816",
-      "121,808",
-      "89,201",
-      "16,493",
-      "283,841"
-    ],
-    "Depreciation": [
-      "32,870",
-      "38,627",
-      "49,558",
-      "55,863",
-      "52,547"
-    ],
-    "Total Dividends": [
-      "157,808",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-140,176",
-      "-50,586",
-      "-29,883",
-      "-197,361",
-      "-44,559"
-    ],
-    "Interest Paid": [
-      "24,392",
-      "58,012",
-      "11,415",
-      "169,431",
-      "261,578"
-    ],
-    "Interest Capitalized": [
-      "11,061",
-      "41,740",
-      "-",
-      "160,520",
-      "252,969"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "65.69",
-      "20.31",
-      "8.67",
-      "-26.94",
-      "-10.05"
-    ],
-    "Net Profit Growth (%)": [
-      "-41.81",
-      "-386.90",
-      "-40.93",
-      "560.45",
-      "-77.42"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "608,099",
-      "734,390",
-      "1,995,430",
-      "3,506,682",
-      "4,557,061"
-    ],
-    "Net Assets": [
-      "3,048,571",
-      "3,983,236",
-      "5,885,907",
-      "5,709,382",
-      "5,680,446"
-    ],
-    "Intangible Assets": [
-      "69,216",
-      "69,273",
-      "69,273",
-      "69,273",
-      "69,273"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -923,7 +825,7 @@
       "Announce Date": "2012/11/20",
       "Year Ended": "2013/03",
       "Event": "Special",
-      "Particular": "Distribution in\n              specie: 1 Paul Y. Engineering (BVI) Limited share for\n              1(with cash alternative $0.30 per PYE BVI share provided\n              by PYI Corporation Limited)",
+      "Particular": "Distribution in\n                specie: 1 Paul Y. Engineering (BVI) Limited share for\n                1(with cash alternative $0.30 per PYE BVI share\n                provided by PYI Corporation Limited)",
       "Type": "Scrip",
       "Ex-Date": "2013/01/30",
       "Book Close Date": "2013/02/01-2013/02/04",
@@ -963,7 +865,7 @@
       "Announce Date": "2011/08/21",
       "Year Ended": "2012/03",
       "Event": "Special",
-      "Particular": "SD:HKD 0.2500(not\n              proceed as announced on 2011/12/29)",
+      "Particular": "SD:HKD 0.2500(not\n                proceed as announced on 2011/12/29)",
       "Type": "Cash/Scrip",
       "Ex-Date": "2011/11/22",
       "Book Close Date": "2011/11/24-2011/12/25",
@@ -973,7 +875,7 @@
       "Announce Date": "2011/08/21",
       "Year Ended": "2012/03",
       "Event": "Special",
-      "Particular": "Distribution in\n              specie: 1 Paul Y. Engineering (BVI) Limited share for\n              1(with cash alternative $0.30 per PYE BVI share provided\n              by PYI Corporation Limited(not proceed as announced on\n              2011/12/29)",
+      "Particular": "Distribution in\n                specie: 1 Paul Y. Engineering (BVI) Limited share for\n                1(with cash alternative $0.30 per PYE BVI share\n                provided by PYI Corporation Limited(not proceed as\n                announced on 2011/12/29)",
       "Type": "Scrip",
       "Ex-Date": "2011/11/22",
       "Book Close Date": "2011/11/24-2011/12/25",
@@ -1113,7 +1015,7 @@
       "Announce Date": "2004/12/15",
       "Year Ended": "2005/03",
       "Event": "Special",
-      "Particular": "O: 5 - for - 2\n              consolidated shares@HKD 1.0000",
+      "Particular": "O: 5 - for - 2\n                consolidated shares@HKD 1.0000",
       "Type": "-",
       "Ex-Date": "2004/12/28",
       "Book Close Date": "2004/12/30-2004/12/30",

@@ -10,16 +10,16 @@
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "1,982,433,826",
+    "Issued Capital(share)": "1,983,188,651",
     "Issue Cap-H(share)": "-",
     "Board Lot": "100",
     "NAV(HKD)": "128.6574",
     "EPS(HKD)": "6.0927",
-    "PE": "25.33",
+    "PE": "23.98",
     "DPS(HKD)": "5.0979",
-    "Yield": "3.30",
-    "Price/PNAV": "1.1993",
-    "Index Constituent": "HSFCCI\n                HSGCI"
+    "Yield": "3.49",
+    "Price/PNAV": "1.1356",
+    "Index Constituent": "HSFCCI\n                    HSGCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "CAD",
       "CAD",
       "CAD"
-    ],
-    "EBITDA": [
-      "4,792",
-      "5,395",
-      "3,719",
-      "4,342",
-      "3,018"
-    ],
-    "Depreciation": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Total Dividends": [
-      "1,092",
-      "1,235",
-      "1,427",
-      "1,568",
-      "1,780"
-    ],
-    "Profit After Taxation And Dividends": [
-      "2,038",
-      "2,266",
-      "764",
-      "1,361",
-      "324"
-    ],
-    "Interest Paid": [
-      "1,045",
-      "1,131",
-      "1,101",
-      "1,013",
-      "517"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-35.97",
-      "192.52",
-      "-36.85",
-      "6.47",
-      "-0.81"
-    ],
-    "Net Profit Growth (%)": [
-      "72.93",
-      "11.85",
-      "-37.42",
-      "33.68",
-      "-28.17"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "CAD",
       "CAD",
       "CAD"
-    ],
-    "Total Debt": [
-      "4,775",
-      "3,885",
-      "1,853",
-      "5,696",
-      "4,785"
-    ],
-    "Net Assets": [
-      "28,523",
-      "33,306",
-      "41,159",
-      "41,832",
-      "41,013"
-    ],
-    "Intangible Assets": [
-      "5,298",
-      "5,461",
-      "9,384",
-      "10,107",
-      "9,840"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/05/03",
+      "Year Ended": "2018/12",
+      "Event": "Quarter 1",
+      "Particular": "D:CAD 0.2200",
+      "Type": "Cash",
+      "Ex-Date": "2018/05/14",
+      "Book Close Date": "2018/05/15",
+      "Payable Date": "2018/06/19"
+    },
     {
       "Announce Date": "2017/11/09",
       "Year Ended": "2017/12",
@@ -1263,7 +1175,7 @@
       "Announce Date": "2006/05/04",
       "Year Ended": "2006/12",
       "Event": "Special",
-      "Particular": "Stock Dividend: 1 additional\n              common share for 1 common share",
+      "Particular": "Stock Dividend: 1\n                additional common share for 1 common share",
       "Type": "Scrip",
       "Ex-Date": "2006/05/24",
       "Book Close Date": "2006/05/25-2006/05/25",

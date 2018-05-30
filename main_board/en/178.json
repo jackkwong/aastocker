@@ -1,7 +1,7 @@
 {
   "stock_code": "178",
   "basic_information": {
-    "Name": "Sa Sa International Holdings Ltd.",
+    "Name": "Sa Sa International Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1997/06/13",
@@ -10,16 +10,16 @@
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "8,000,000,000",
-    "Issued Capital(share)": "3,038,834,398",
+    "Issued Capital(share)": "3,038,854,398",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "0.7411",
     "EPS(HKD)": "0.1120",
-    "PE": "27.59",
+    "PE": "45.71",
     "DPS(HKD)": "0.1700",
-    "Yield": "5.50",
-    "Price/PNAV": "4.1695",
-    "Index Constituent": "HSCI\n                HSGCI\n                HSHKMI\n                Index_Consumer Goods"
+    "Yield": "3.32",
+    "Price/PNAV": "6.9087",
+    "Index Constituent": "HSCI\n                    HSGCI\n                    HSHKMI\n                    Index_Consumer Goods"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "1,159,807",
-      "1,301,791",
-      "1,154,779",
-      "584,366",
-      "498,270"
-    ],
-    "Depreciation": [
-      "172,638",
-      "187,980",
-      "162,533",
-      "123,291",
-      "102,977"
-    ],
-    "Total Dividends": [
-      "594,009",
-      "667,971",
-      "668,493",
-      "675,381",
-      "506,032"
-    ],
-    "Profit After Taxation And Dividends": [
-      "231,625",
-      "267,264",
-      "170,318",
-      "-291,911",
-      "-179,327"
-    ],
-    "Interest Paid": [
-      "-",
-      "305",
-      "458",
-      "-",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "19.74",
-      "14.16",
-      "2.70",
-      "-13.36",
-      "-0.58"
-    ],
-    "Net Profit Growth (%)": [
-      "19.71",
-      "13.27",
-      "-10.31",
-      "-54.28",
-      "-14.80"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "80,000",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "1,975,474",
-      "2,325,129",
-      "2,474,508",
-      "2,288,286",
-      "2,219,166"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {

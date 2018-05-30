@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "0.0516",
     "EPS(HKD)": "0.0145",
-    "PE": "4.21",
+    "PE": "4.62",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.1830",
+    "Price/PNAV": "1.2993",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       "HKD"
-    ],
-    "EBITDA": [
-      "33,736",
-      "27,556",
-      "-104,356",
-      "-81,140",
-      "40,540"
-    ],
-    "Depreciation": [
-      "9,345",
-      "8,891",
-      "8,167",
-      "5,948",
-      "219"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "19,143",
-      "13,008",
-      "-109,631",
-      "-71,764",
-      "53,095"
-    ],
-    "Interest Paid": [
-      "-",
-      "-",
-      "-",
-      "3,098",
-      "24,958"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-2.73",
-      "-6.49",
-      "-8.22",
-      "-5.62",
-      "-40.13"
-    ],
-    "Net Profit Growth (%)": [
-      "-165.41",
-      "-32.05",
-      "-942.80",
-      "-34.54",
-      "-173.99"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "RMB",
       "RMB",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "212,440",
-      "367,483"
-    ],
-    "Net Assets": [
-      "269,194",
-      "282,289",
-      "171,842",
-      "100,164",
-      "198,085"
-    ],
-    "Intangible Assets": [
-      "212,728",
-      "205,155",
-      "110,560",
-      "73,743",
-      "231,611"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,26 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/05/14",
+      "Year Ended": "2018/06",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/02/13",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/11/14",
       "Year Ended": "2018/06",
       "Event": "Quarter 1",
@@ -953,7 +875,7 @@
       "Announce Date": "2013/10/28",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "Withdrawal of Listing:Will be\n              listed on the Main Board (withdrew as announced on\n              2014/10/14)",
+      "Particular": "Withdrawal of Listing:Will\n                be listed on the Main Board (withdrew as announced on\n                2014/10/14)",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",

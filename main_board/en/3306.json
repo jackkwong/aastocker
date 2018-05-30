@@ -2,8 +2,8 @@
   "stock_code": "3306",
   "basic_information": {
     "Name": "JNBY Design Limited",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "2016/10/31",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       ""
-    ],
-    "EBITDA": [
-      "269,843",
-      "342,109",
-      "375,847",
-      "494,452",
-      ""
-    ],
-    "Depreciation": [
-      "26,275",
-      "29,331",
-      "30,308",
-      "33,800",
-      ""
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "248,689",
-      ""
-    ],
-    "Profit After Taxation And Dividends": [
-      "149,464",
-      "196,819",
-      "239,336",
-      "82,883",
-      ""
-    ],
-    "Interest Paid": [
-      "16,878",
-      "16,413",
-      "2,535",
-      "1,016",
-      ""
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      ""
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      ""
-    ],
-    "Turnover Growth (%)": [
-      "-",
-      "16.60",
-      "17.95",
-      "22.58",
-      ""
-    ],
-    "Net Profit Growth (%)": [
-      "-",
-      "31.68",
-      "21.60",
-      "38.54",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      ""
     ]
   },
   "balance_sheet": {
@@ -542,34 +472,6 @@
       "RMB",
       "RMB",
       "RMB",
-      ""
-    ],
-    "Total Debt": [
-      "279,089",
-      "127,260",
-      "-",
-      "-",
-      ""
-    ],
-    "Net Assets": [
-      "302,711",
-      "499,454",
-      "287,942",
-      "1,257,239",
-      ""
-    ],
-    "Intangible Assets": [
-      "4,358",
-      "4,399",
-      "5,003",
-      "6,643",
-      ""
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
       ""
     ]
   },
@@ -780,10 +682,20 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "D:RMB\n                0.2000(equivalent to HKD 0.2500)",
+      "Type": "Cash",
+      "Ex-Date": "2018/05/02",
+      "Book Close Date": "2018/05/04-2018/05/04",
+      "Payable Date": "2018/05/10"
+    },
+    {
       "Announce Date": "2017/08/30",
       "Year Ended": "2017/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.4794(equivalent to HKD 0.5595)",
+      "Particular": "D:RMB\n                0.4794(equivalent to HKD 0.5595)",
       "Type": "Cash",
       "Ex-Date": "2017/10/24",
       "Book Close Date": "2017/10/26-2017/10/27",

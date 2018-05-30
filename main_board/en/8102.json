@@ -2,8 +2,8 @@
   "stock_code": "8102",
   "basic_information": {
     "Name": "Li Bao Ge Group Limited",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2016/06/30",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "0.1705",
     "EPS(HKD)": "0.0290",
-    "PE": "14.83",
+    "PE": "14.48",
     "DPS(HKD)": "0.0150",
-    "Yield": "3.49",
-    "Price/PNAV": "2.5220",
+    "Yield": "3.57",
+    "Price/PNAV": "2.4634",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "13,520",
-      "36,549",
-      "32,104",
-      "38,560",
-      "43,348"
-    ],
-    "Depreciation": [
-      "8,622",
-      "12,226",
-      "11,221",
-      "13,327",
-      "12,107"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "6,800",
-      "12,000"
-    ],
-    "Profit After Taxation And Dividends": [
-      "4,202",
-      "16,432",
-      "3,652",
-      "4,548",
-      "11,188"
-    ],
-    "Interest Paid": [
-      "996",
-      "921",
-      "862",
-      "789",
-      "566"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-",
-      "40.82",
-      "4.46",
-      "8.39",
-      "10.26"
-    ],
-    "Net Profit Growth (%)": [
-      "-",
-      "291.05",
-      "-77.78",
-      "210.73",
-      "104.34"
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "-",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "29,166",
-      "29,770",
-      "25,218",
-      "19,919",
-      "14,230"
-    ],
-    "Net Assets": [
-      "6,229",
-      "20,841",
-      "38,474",
-      "118,791",
-      "136,398"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "-",
-      "-",
-      "-",
-      "Unqualified",
-      "-"
     ]
   },
   "cashflow": {
@@ -579,206 +481,226 @@
       "2014/12",
       "2015/12",
       "2016/12",
-      ""
+      "2017/12"
     ],
     "Net Cash Flow from Operating Activities": [
       "19,895",
       "33,425",
       "24,522",
       "7,010",
-      ""
+      "37,846"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
       "-3,392",
       "-3,407",
       "-3,037",
       "-729",
-      ""
+      "-7,024"
     ],
     "Interest Received": [
       "4",
       "14",
       "25",
       "60",
-      ""
+      "342"
     ],
     "Interest Paid": [
       "-996",
       "-921",
       "-862",
       "-789",
-      ""
+      "-566"
     ],
     "Dividend Received": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-"
     ],
     "Dividend Paid": [
       "-2,400",
       "-2,500",
       "-2,200",
       "-",
-      ""
+      "-6,800"
     ],
     "Others": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-"
     ],
     "Taxes (Paid) / Refunded": [
       "-3,053",
       "-3,635",
       "-6,700",
       "-3,929",
-      ""
+      "-6,653"
     ],
     "Net Cash Flow from Investing Activities": [
       "-39,524",
       "-8,637",
       "-21,678",
       "-3,068",
-      ""
+      "-34,878"
     ],
     "Additions to Fixed Assets": [
       "-37,946",
       "-2,810",
       "-19,896",
       "-2,973",
-      ""
+      "-34,675"
     ],
     "Disposal of Fixed Assets": [
       "-",
       "-",
       "399",
       "20",
-      ""
+      "-"
     ],
     "Increase in Investments": [
       "-9,024",
       "-86",
       "-17,193",
       "-",
-      ""
+      "-"
     ],
     "Decrease in Investments": [
       "7,615",
       "531",
       "15,712",
       "-",
-      ""
+      "-"
     ],
     "Net Cash Flow with Related Parties": [
       "20,501",
       "-8,386",
       "3,627",
       "-359",
-      ""
+      "-"
     ],
     "Net Cash Flow before Financing Activities": [
       "-26,074",
       "17,746",
       "-6,893",
       "-716",
-      ""
+      "-10,709"
     ],
     "Net Cash Flow from Financing Activities": [
       "30,623",
       "-7,782",
       "11,284",
       "57,476",
-      ""
+      "-5,689"
     ],
     "New Loans": [
       "16,980",
       "7,892",
       "15,000",
       "10,000",
-      ""
+      "-"
     ],
     "Loans Repayment": [
       "-6,858",
       "-7,288",
       "-7,343",
       "-15,299",
-      ""
+      "-5,689"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-"
     ],
     "Repayment of Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-"
     ],
     "Equity Financing": [
       "-",
       "-",
       "-",
       "63,134",
-      ""
+      "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
       "4,549",
       "9,964",
       "4,391",
       "56,760",
-      ""
+      "-16,398"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
       "9,167",
       "14,053",
       "23,908",
       "28,060",
-      ""
+      "83,587"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "337",
       "-109",
       "-239",
       "-1,233",
-      ""
+      "305"
     ],
     "Cash & Cash Equivalents at End of Year": [
       "14,053",
       "23,908",
       "28,060",
       "83,587",
-      ""
+      "67,494"
     ],
     "Unit": [
       "Thousand",
       "Thousand",
       "Thousand",
       "Thousand",
-      ""
+      "Thousand"
     ],
     "Currency": [
       "HKD",
       "HKD",
       "HKD",
       "HKD",
-      ""
+      "HKD"
     ],
     "Auditor's Opinion": [
       "-",
       "-",
       "-",
       "Unqualified",
-      ""
+      "Unqualified"
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/05/11",
+      "Year Ended": "2018/12",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/02/14",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "Withdrawal of Listing:Will\n                be listed on the Main Board",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/02/12",
       "Year Ended": "2017/12",

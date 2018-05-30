@@ -1,24 +1,24 @@
 {
   "stock_code": "2882",
   "basic_information": {
-    "Name": "Hong Kong Resources Holdings Co.\n                Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "Name": "Hong Kong Resources Holdings Co.\n                    Ltd.",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "2003/06/30",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.01",
     "Authorized Capital(share)": "20,000,000,000",
-    "Issued Capital(share)": "3,522,397,990",
+    "Issued Capital(share)": "3,822,424,049",
     "Issue Cap-H(share)": "-",
     "Board Lot": "4,000",
     "NAV(HKD)": "0.0440",
     "EPS(HKD)": "-0.0410",
-    "PE": "-2.05",
+    "PE": "-1.85",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.9072",
+    "Price/PNAV": "1.7256",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "64,110",
-      "-55,405",
-      "-16,104",
-      "-85,591",
-      "-66,510"
-    ],
-    "Depreciation": [
-      "23,699",
-      "24,294",
-      "25,201",
-      "20,045",
-      "19,654"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-115,802",
-      "-184,126",
-      "-93,862",
-      "-62,650",
-      "-143,703"
-    ],
-    "Interest Paid": [
-      "63,938",
-      "61,678",
-      "51,787",
-      "41,805",
-      "45,457"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-24.84",
-      "-45.90",
-      "-12.21",
-      "-15.69",
-      "-3.22"
-    ],
-    "Net Profit Growth (%)": [
-      "295.62",
-      "59.00",
-      "-49.02",
-      "-33.25",
-      "129.37"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "954,490",
-      "1,081,351",
-      "1,118,056",
-      "1,030,124",
-      "1,380,582"
-    ],
-    "Net Assets": [
-      "640,630",
-      "455,645",
-      "369,799",
-      "313,048",
-      "155,139"
-    ],
-    "Intangible Assets": [
-      "171,186",
-      "184,713",
-      "169,433",
-      "168,066",
-      "169,144"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/27",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/27",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -883,7 +795,7 @@
       "Announce Date": "2012/12/13",
       "Year Ended": "2013/06",
       "Event": "Special",
-      "Particular": "R: 2-for-5@HKD 0.1500",
+      "Particular": "R: 2-for-5@HKD\n                0.1500",
       "Type": "-",
       "Ex-Date": "2012/12/27",
       "Book Close Date": "2013/01/02-2013/01/08",
@@ -893,7 +805,7 @@
       "Announce Date": "2012/12/13",
       "Year Ended": "2013/06",
       "Event": "Special",
-      "Particular": "BW: 1'2017'wt-for-4\n              rights share",
+      "Particular": "BW: 1'2017'wt-for-4\n                rights share",
       "Type": "Scrip",
       "Ex-Date": "2012/12/27",
       "Book Close Date": "2013/01/02-2013/01/08",

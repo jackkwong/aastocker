@@ -1,7 +1,7 @@
 {
   "stock_code": "592",
   "basic_information": {
-    "Name": "Bossini International Holdings Ltd.",
+    "Name": "Bossini International Holdings\n                    Ltd.",
     "EPS Start Date": "2016/07/01",
     "EPS End Date": "2017/06/30",
     "Listing Date": "1993/11/02",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.5833",
     "EPS(HKD)": "0.0030",
-    "PE": "128.33",
+    "PE": "118.33",
     "DPS(HKD)": "0.0305",
-    "Yield": "7.92",
-    "Price/PNAV": "0.6600",
+    "Yield": "8.59",
+    "Price/PNAV": "0.6086",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "116,981",
-      "218,659",
-      "186,672",
-      "361,679",
-      "53,372"
-    ],
-    "Depreciation": [
-      "70,768",
-      "63,665",
-      "54,235",
-      "57,373",
-      "43,608"
-    ],
-    "Total Dividends": [
-      "46,679",
-      "114,297",
-      "115,367",
-      "39,928",
-      "49,950"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-24,470",
-      "12,799",
-      "-8",
-      "252,193",
-      "-45,064"
-    ],
-    "Interest Paid": [
-      "81",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-8.26",
-      "1.23",
-      "-0.97",
-      "-8.09",
-      "-12.91"
-    ],
-    "Net Profit Growth (%)": [
-      "38.81",
-      "472.27",
-      "-9.23",
-      "153.23",
-      "-98.33"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Assets": [
-      "728,604",
-      "802,249",
-      "802,216",
-      "991,738",
-      "955,368"
-    ],
-    "Intangible Assets": [
-      "1,164",
-      "1,164",
-      "1,164",
-      "1,164",
-      "1,164"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -779,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/02/21",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0122",
+      "Type": "Cash",
+      "Ex-Date": "2018/03/13",
+      "Book Close Date": "2018/03/15-2018/03/20",
+      "Payable Date": "2018/04/04"
+    },
     {
       "Announce Date": "2017/09/20",
       "Year Ended": "2017/06",
@@ -1163,7 +1075,7 @@
       "Announce Date": "2003/03/24",
       "Year Ended": "2003/03",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.2200",
+      "Particular": "R: 1 - for - 2@HKD\n                0.2200",
       "Type": "-",
       "Ex-Date": "2003/04/08",
       "Book Close Date": "2003/04/10-2003/04/15",
@@ -1193,7 +1105,7 @@
       "Announce Date": "2002/01/24",
       "Year Ended": "2002/03",
       "Event": "Special",
-      "Particular": "R: 1 - for - 2@HKD\n              0.4600",
+      "Particular": "R: 1 - for - 2@HKD\n                0.4600",
       "Type": "-",
       "Ex-Date": "2002/02/07",
       "Book Close Date": "2002/02/11-2002/02/18",

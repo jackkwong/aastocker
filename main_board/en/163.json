@@ -1,7 +1,7 @@
 {
   "stock_code": "163",
   "basic_information": {
-    "Name": "Emperor International Holdings Ltd.",
+    "Name": "Emperor International Holdings\n                    Ltd.",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1972/11/14",
@@ -15,11 +15,11 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "6.9466",
     "EPS(HKD)": "0.9500",
-    "PE": "2.53",
+    "PE": "2.56",
     "DPS(HKD)": "0.1030",
-    "Yield": "4.29",
-    "Price/PNAV": "0.3455",
-    "Index Constituent": "HSCI\n                HSHKSI\n                Index_Properties & Construction\n                HSGCI"
+    "Yield": "4.24",
+    "Price/PNAV": "0.3498",
+    "Index Constituent": "HSCI\n                    HSHKSI\n                    Index_Properties & Construction\n                    HSGCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "7,611,903",
-      "3,110,107",
-      "2,241,402",
-      "-1,095,013",
-      "5,443,724"
-    ],
-    "Depreciation": [
-      "135,887",
-      "160,549",
-      "184,452",
-      "204,482",
-      "184,035"
-    ],
-    "Total Dividends": [
-      "399,677",
-      "418,583",
-      "403,896",
-      "367,754",
-      "378,787"
-    ],
-    "Profit After Taxation And Dividends": [
-      "5,756,352",
-      "1,439,557",
-      "494,233",
-      "-2,758,945",
-      "3,104,363"
-    ],
-    "Interest Paid": [
-      "288,774",
-      "294,440",
-      "430,959",
-      "551,138",
-      "611,892"
-    ],
-    "Interest Capitalized": [
-      "81,906",
-      "86,470",
-      "139,723",
-      "138,566",
-      "186,768"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "4,599,033",
-      "1,385,251",
-      "737,708",
-      "-3,167,583",
-      "3,228,003"
-    ],
-    "Turnover Growth (%)": [
-      "92.71",
-      "-47.16",
-      "-6.38",
-      "98.58",
-      "-27.39"
-    ],
-    "Net Profit Growth (%)": [
-      "38.06",
-      "-69.82",
-      "-51.67",
-      "-366.24",
-      "-245.67"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "9,945,228",
-      "13,497,372",
-      "16,807,049",
-      "19,156,736",
-      "23,311,681"
-    ],
-    "Net Assets": [
-      "23,348,384",
-      "24,952,580",
-      "25,558,851",
-      "22,752,712",
-      "25,546,530"
-    ],
-    "Intangible Assets": [
-      "56,683",
-      "56,683",
-      "56,683",
-      "56,683",
-      "56,683"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -923,7 +825,7 @@
       "Announce Date": "2010/12/03",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "SD: By way of\n              distribution in specie 1 Emperor International Holdings\n              Limited share for 6 shares",
+      "Particular": "SD: By way of\n                distribution in specie 1 Emperor International Holdings\n                Limited share for 6 shares",
       "Type": "Scrip",
       "Ex-Date": "2011/01/19",
       "Book Close Date": "2011/01/21-2011/01/21",
@@ -1023,7 +925,7 @@
       "Announce Date": "2006/07/19",
       "Year Ended": "2007/03",
       "Event": "Special",
-      "Particular": "Special Int Div: Distribution\n              in specie of Emperor Capital Group Limited shares",
+      "Particular": "Special Int Div:\n                Distribution in specie of Emperor Capital Group Limited\n                shares",
       "Type": "Scrip",
       "Ex-Date": "2007/03/01",
       "Book Close Date": "2007/03/05-2007/03/06",

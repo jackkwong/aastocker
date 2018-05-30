@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "EBITDA": [
-      "5,191,263",
-      "4,834,420",
-      "4,366,508",
-      "-2,090,989",
-      "2,663,726"
-    ],
-    "Depreciation": [
-      "1,098,657",
-      "1,217,096",
-      "1,341,251",
-      "1,407,073",
-      "1,424,250"
-    ],
-    "Total Dividends": [
-      "531,428",
-      "204,347",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "987,101",
-      "812,360",
-      "347,650",
-      "-6,387,259",
-      "-738,281"
-    ],
-    "Interest Paid": [
-      "993,282",
-      "1,060,118",
-      "1,212,444",
-      "1,371,014",
-      "1,001,315"
-    ],
-    "Interest Capitalized": [
-      "113,544",
-      "163,798",
-      "167,498",
-      "28,478",
-      "1,799"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-4.16",
-      "2.32",
-      "-5.68",
-      "-28.41",
-      "1.06"
-    ],
-    "Net Profit Growth (%)": [
-      "-31.76",
-      "-33.05",
-      "-65.81",
-      "-1937.27",
-      "-88.44"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "Total Debt": [
-      "13,513,289",
-      "16,521,493",
-      "16,169,267",
-      "15,820,789",
-      "15,043,568"
-    ],
-    "Net Assets": [
-      "8,650,849",
-      "9,245,952",
-      "10,597,967",
-      "4,030,252",
-      "3,098,688"
-    ],
-    "Intangible Assets": [
-      "2,305,426",
-      "2,787,992",
-      "2,831,165",
-      "568,906",
-      "526,788"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
     ]
   },
   "cashflow": {
@@ -774,8 +676,8 @@
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)",
-      "Unqualified ( not qualified in respect of fundamental\n                uncertainly because of proper disclosure)"
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in\n                    respect of fundamental uncertainly because of\n                    proper disclosure)"
     ]
   },
   "dividend_history": [
@@ -785,7 +687,7 @@
       "Event": "Special",
       "Particular": "Withdrawal of Listing",
       "Type": "-",
-      "Ex-Date": "-",
+      "Ex-Date": "2018/10/31",
       "Book Close Date": "-",
       "Payable Date": "-"
     },

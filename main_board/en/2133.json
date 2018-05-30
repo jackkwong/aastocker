@@ -13,12 +13,12 @@
     "Issued Capital(share)": "3,579,777,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "0.5409",
     "EPS(HKD)": "-0.0192",
-    "PE": "-6.15",
+    "PE": "-4.74",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "-",
+    "Price/PNAV": "0.1682",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -218,7 +218,7 @@
       "21,196",
       "-53,920",
       "-146,249",
-      "-34,508"
+      "-104,745"
     ],
     "Exceptional Items": [
       "-",
@@ -239,7 +239,7 @@
       "0",
       "-73,526",
       "0",
-      "0"
+      "70,237"
     ],
     "Taxation": [
       "75,640",
@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "EBITDA": [
-      "282,998",
-      "104,069",
-      "36,775",
-      "-72,593",
-      "44,829"
-    ],
-    "Depreciation": [
-      "55,876",
-      "44,439",
-      "39,446",
-      "29,685",
-      "48,562"
-    ],
-    "Total Dividends": [
-      "28,042",
-      "5,577",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "110,445",
-      "6,687",
-      "-94,084",
-      "-126,865",
-      "-40,754"
-    ],
-    "Interest Paid": [
-      "11,587",
-      "38,434",
-      "51,249",
-      "43,971",
-      "30,775"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-6,205",
-      "-",
-      "44,468"
-    ],
-    "Turnover Growth (%)": [
-      "2.67",
-      "-61.73",
-      "-50.65",
-      "-75.35",
-      "396.88"
-    ],
-    "Net Profit Growth (%)": [
-      "-21.75",
-      "-91.14",
-      "-867.16",
-      "34.84",
-      "-67.88"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "Total Debt": [
-      "188,000",
-      "966,485",
-      "505,843",
-      "505,182",
-      "448,990"
-    ],
-    "Net Assets": [
-      "1,691,085",
-      "1,688,273",
-      "1,593,703",
-      "1,466,925",
-      "1,615,001"
-    ],
-    "Intangible Assets": [
-      "620,298",
-      "629,316",
-      "739,991",
-      "735,370",
-      "1,007,982"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "cashflow": {
@@ -600,7 +502,7 @@
       "2,073",
       "10,176",
       "1,960",
-      "947"
+      "1,082"
     ],
     "Interest Paid": [
       "-11,587",
@@ -614,7 +516,7 @@
       "-",
       "8,785",
       "-",
-      "135"
+      "-"
     ],
     "Dividend Paid": [
       "-15,734",
@@ -775,7 +677,7 @@
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "-"
+      "Unqualified"
     ]
   },
   "dividend_history": [
@@ -793,7 +695,7 @@
       "Announce Date": "2017/08/18",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:1-for-2@HKD 0.1200",
+      "Particular": "R:1-for-2@HKD\n                0.1200",
       "Type": "-",
       "Ex-Date": "2017/08/30",
       "Book Close Date": "2017/09/01-2017/09/07",
@@ -863,7 +765,7 @@
       "Announce Date": "2014/08/20",
       "Year Ended": "2014/12",
       "Event": "Interim",
-      "Particular": "D:HKD\n              0.0035(equivalent to RMB 0.0028)",
+      "Particular": "D:HKD\n                0.0035(equivalent to RMB 0.0028)",
       "Type": "Cash",
       "Ex-Date": "2014/10/15",
       "Book Close Date": "2014/10/17-2014/10/21",
@@ -873,7 +775,7 @@
       "Announce Date": "2014/03/13",
       "Year Ended": "2013/12",
       "Event": "Final",
-      "Particular": "D:HKD\n              0.0080(equivalent to RMB 0.0060)",
+      "Particular": "D:HKD\n                0.0080(equivalent to RMB 0.0060)",
       "Type": "Cash",
       "Ex-Date": "2014/07/03",
       "Book Close Date": "2014/07/07-2014/07/09",
@@ -883,7 +785,7 @@
       "Announce Date": "2013/08/28",
       "Year Ended": "2013/12",
       "Event": "Interim",
-      "Particular": "D:HKD\n              0.0100(equivalent to RMB 0.0080)",
+      "Particular": "D:HKD\n                0.0100(equivalent to RMB 0.0080)",
       "Type": "Cash",
       "Ex-Date": "2013/10/28",
       "Book Close Date": "2013/10/30-2013/11/01",

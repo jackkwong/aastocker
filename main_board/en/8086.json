@@ -1,7 +1,7 @@
 {
   "stock_code": "8086",
   "basic_information": {
-    "Name": "Sino Vision Worldwide Holdings\n                Limited",
+    "Name": "Sino Vision Worldwide Holdings\n                    Limited",
     "EPS Start Date": "2017/07/01",
     "EPS End Date": "2018/06/30",
     "Listing Date": "2000/08/02",
@@ -15,10 +15,10 @@
     "Board Lot": "8,000",
     "NAV(HKD)": "0.0869",
     "EPS(HKD)": "-0.0241",
-    "PE": "-11.41",
+    "PE": "-9.29",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "3.1662",
+    "Price/PNAV": "2.5790",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "86,657",
-      "-33,747",
-      "-53,196",
-      "-105,682",
-      "-49,332"
-    ],
-    "Depreciation": [
-      "3,021",
-      "3,167",
-      "2,202",
-      "1,787",
-      "1,127"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "37,105",
-      "-70,910",
-      "-87,003",
-      "-112,832",
-      "-50,892"
-    ],
-    "Interest Paid": [
-      "24",
-      "63",
-      "2,369",
-      "7,230",
-      "349"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-0.84",
-      "-16.95",
-      "-35.71",
-      "-46.68",
-      "-19.16"
-    ],
-    "Net Profit Growth (%)": [
-      "-71.78",
-      "-291.11",
-      "22.69",
-      "29.69",
-      "-54.90"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "-",
-      "10,000",
-      "91,700",
-      "10,000",
-      "-"
-    ],
-    "Net Assets": [
-      "218,662",
-      "151,872",
-      "115,520",
-      "131,941",
-      "241,127"
-    ],
-    "Intangible Assets": [
-      "47,567",
-      "3,900",
-      "3,900",
-      "5,615",
-      "21,309"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/05/11",
+      "Year Ended": "2018/06",
+      "Event": "Quarter 3",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/02/09",
       "Year Ended": "2018/06",
       "Event": "Interim",
@@ -863,7 +775,7 @@
       "Announce Date": "2016/03/01",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:1-for-1@HKD 0.1280",
+      "Particular": "R:1-for-1@HKD\n                0.1280",
       "Type": "-",
       "Ex-Date": "2016/04/14",
       "Book Close Date": "2016/04/18-2016/04/22",
@@ -963,7 +875,7 @@
       "Announce Date": "2014/05/07",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1-for-10@HKD\n              0.1000",
+      "Particular": "O: 1-for-10@HKD\n                0.1000",
       "Type": "-",
       "Ex-Date": "2014/06/04",
       "Book Close Date": "2014/06/06-2014/06/12",
@@ -1033,7 +945,7 @@
       "Announce Date": "2012/11/09",
       "Year Ended": "2013/06",
       "Event": "Special",
-      "Particular": "Withdrawal of Listing:Will be\n              listed on the Main Board",
+      "Particular": "Withdrawal of Listing:Will\n                be listed on the Main Board",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -1313,7 +1225,7 @@
       "Announce Date": "2005/11/17",
       "Year Ended": "2006/06",
       "Event": "Special",
-      "Particular": "O: 1 - for - 2\n              consolidated share@HKD 0.1300",
+      "Particular": "O: 1 - for - 2\n                consolidated share@HKD 0.1300",
       "Type": "-",
       "Ex-Date": "2005/12/23",
       "Book Close Date": "2005/12/29-2005/12/30",
@@ -1413,7 +1325,7 @@
       "Announce Date": "2003/12/05",
       "Year Ended": "2004/06",
       "Event": "Special",
-      "Particular": "R: 9 - for - 20@HKD\n              0.0110",
+      "Particular": "R: 9 - for - 20@HKD\n                0.0110",
       "Type": "-",
       "Ex-Date": "2003/12/19",
       "Book Close Date": "2003/12/23-2003/12/29",

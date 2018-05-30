@@ -1,9 +1,9 @@
 {
   "stock_code": "2689",
   "basic_information": {
-    "Name": "Nine Dragons Paper (Holdings) Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "Name": "Nine Dragons Paper (Holdings)\n                    Ltd.",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "2006/03/03",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,11 +15,11 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "7.3359",
     "EPS(HKD)": "1.0820",
-    "PE": "9.98",
+    "PE": "11.26",
     "DPS(HKD)": "0.3458",
-    "Yield": "3.20",
-    "Price/PNAV": "1.4722",
-    "Index Constituent": "Index_Materials\n                HSML100\n                HSGCI\n                HSHKMI\n                HSCI"
+    "Yield": "2.84",
+    "Price/PNAV": "1.6603",
+    "Index Constituent": "Index_Materials\n                    HSML100\n                    HSGCI\n                    HSHKMI\n                    HSCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "EBITDA": [
-      "6,463,300",
-      "6,834,171",
-      "6,279,758",
-      "7,242,247",
-      "9,552,930"
-    ],
-    "Depreciation": [
-      "1,612,669",
-      "1,739,653",
-      "1,804,394",
-      "1,925,101",
-      "2,024,137"
-    ],
-    "Total Dividends": [
-      "466,428",
-      "373,297",
-      "326,635",
-      "606,907",
-      "1,402,266"
-    ],
-    "Profit After Taxation And Dividends": [
-      "1,094,195",
-      "1,381,875",
-      "1,084,885",
-      "514,835",
-      "2,981,402"
-    ],
-    "Interest Paid": [
-      "1,508,399",
-      "1,471,645",
-      "1,234,975",
-      "986,079",
-      "968,111"
-    ],
-    "Interest Capitalized": [
-      "278,968",
-      "152,112",
-      "48,612",
-      "18,622",
-      "56,398"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "5.78",
-      "0.66",
-      "4.02",
-      "6.65",
-      "22.01"
-    ],
-    "Net Profit Growth (%)": [
-      "9.89",
-      "12.47",
-      "-19.58",
-      "-20.53",
-      "290.79"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "RMB",
       "RMB",
       "RMB"
-    ],
-    "Total Debt": [
-      "34,306,082",
-      "35,474,020",
-      "31,990,509",
-      "32,845,276",
-      "28,949,122"
-    ],
-    "Net Assets": [
-      "22,783,617",
-      "24,072,585",
-      "25,226,739",
-      "26,074,219",
-      "29,748,705"
-    ],
-    "Intangible Assets": [
-      "225,747",
-      "223,245",
-      "251,528",
-      "245,275",
-      "230,664"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,10 +682,20 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/26",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "D:RMB\n                0.1000(equivalent to HKD 0.1234)",
+      "Type": "Cash",
+      "Ex-Date": "2018/04/30",
+      "Book Close Date": "2018/05/03-2018/05/07",
+      "Payable Date": "2018/05/18"
+    },
+    {
       "Announce Date": "2017/09/21",
       "Year Ended": "2017/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.2500(equivalent to HKD 0.2960)",
+      "Particular": "D:RMB\n                0.2500(equivalent to HKD 0.2960)",
       "Type": "Cash",
       "Ex-Date": "2017/12/20",
       "Book Close Date": "2017/12/22-2017/12/28",
@@ -793,7 +705,7 @@
       "Announce Date": "2017/02/23",
       "Year Ended": "2017/06",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.0500(equivalent to HKD 0.0565)",
+      "Particular": "D:RMB\n                0.0500(equivalent to HKD 0.0565)",
       "Type": "Cash",
       "Ex-Date": "2017/07/03",
       "Book Close Date": "2017/07/05-2017/07/07",
@@ -803,7 +715,7 @@
       "Announce Date": "2016/09/21",
       "Year Ended": "2016/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0800(equivalent to HKD 0.0930)",
+      "Particular": "D:RMB\n                0.0800(equivalent to HKD 0.0930)",
       "Type": "Cash",
       "Ex-Date": "2016/12/20",
       "Book Close Date": "2016/12/22-2016/12/28",
@@ -813,7 +725,7 @@
       "Announce Date": "2016/09/21",
       "Year Ended": "2016/06",
       "Event": "Final",
-      "Particular": "SD:RMB\n              0.0300(equivalent to HKD 0.0350)",
+      "Particular": "SD:RMB\n                0.0300(equivalent to HKD 0.0350)",
       "Type": "Cash",
       "Ex-Date": "2016/12/20",
       "Book Close Date": "2016/12/22-2016/12/28",
@@ -823,7 +735,7 @@
       "Announce Date": "2016/02/24",
       "Year Ended": "2016/06",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.0200(equivalent to HKD 0.0238)",
+      "Particular": "D:RMB\n                0.0200(equivalent to HKD 0.0238)",
       "Type": "Cash",
       "Ex-Date": "2016/07/04",
       "Book Close Date": "2016/07/06-2016/07/08",
@@ -833,7 +745,7 @@
       "Announce Date": "2015/09/23",
       "Year Ended": "2015/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0500(equivalent to HKD 0.0610)",
+      "Particular": "D:RMB\n                0.0500(equivalent to HKD 0.0610)",
       "Type": "Cash",
       "Ex-Date": "2015/12/18",
       "Book Close Date": "2015/12/22-2015/12/28",
@@ -843,7 +755,7 @@
       "Announce Date": "2015/02/25",
       "Year Ended": "2015/06",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.0200(equivalent to HKD 0.0253)",
+      "Particular": "D:RMB\n                0.0200(equivalent to HKD 0.0253)",
       "Type": "Cash",
       "Ex-Date": "2015/06/29",
       "Book Close Date": "2015/07/02-2015/07/06",
@@ -853,7 +765,7 @@
       "Announce Date": "2014/09/24",
       "Year Ended": "2014/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0600(equivalent to HKD 0.0760)",
+      "Particular": "D:RMB\n                0.0600(equivalent to HKD 0.0760)",
       "Type": "Cash",
       "Ex-Date": "2014/12/19",
       "Book Close Date": "2014/12/23-2014/12/29",
@@ -863,7 +775,7 @@
       "Announce Date": "2014/02/24",
       "Year Ended": "2014/06",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.0200(equivalent to HKD 0.0254)",
+      "Particular": "D:RMB\n                0.0200(equivalent to HKD 0.0254)",
       "Type": "Cash",
       "Ex-Date": "2014/06/27",
       "Book Close Date": "2014/07/02-2014/07/04",
@@ -873,7 +785,7 @@
       "Announce Date": "2013/09/26",
       "Year Ended": "2013/06",
       "Event": "Final",
-      "Particular": "D:RMB\n              0.0800(equivalent to HKD 0.1010)",
+      "Particular": "D:RMB\n                0.0800(equivalent to HKD 0.1010)",
       "Type": "Cash",
       "Ex-Date": "2013/12/12",
       "Book Close Date": "2013/12/16-2013/12/18",
@@ -883,7 +795,7 @@
       "Announce Date": "2013/02/24",
       "Year Ended": "2013/06",
       "Event": "Interim",
-      "Particular": "D:RMB\n              0.0200(equivalent to HKD 0.02508)",
+      "Particular": "D:RMB\n                0.0200(equivalent to HKD 0.02508)",
       "Type": "Cash",
       "Ex-Date": "2013/05/15",
       "Book Close Date": "2013/05/20-2013/05/22",

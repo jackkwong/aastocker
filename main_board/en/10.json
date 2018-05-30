@@ -13,13 +13,13 @@
     "Issued Capital(share)": "1,361,618,242",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "61.0404",
     "EPS(HKD)": "3.9000",
-    "PE": "6.92",
+    "PE": "6.17",
     "DPS(HKD)": "0.8000",
-    "Yield": "2.96",
-    "Price/PNAV": "-",
-    "Index Constituent": "HSCI\n                Index_Properties & Construction\n                HSHKLI\n                HSGCI"
+    "Yield": "3.33",
+    "Price/PNAV": "0.3940",
+    "Index Constituent": "HSCI\n                    Index_Properties & Construction\n                    HSHKLI\n                    HSGCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "10,488",
-      "16,002",
-      "8,481",
-      "10,123",
-      "12,685"
-    ],
-    "Depreciation": [
-      "40",
-      "52",
-      "55",
-      "57",
-      "44"
-    ],
-    "Total Dividends": [
-      "1,079",
-      "1,097",
-      "1,084",
-      "1,089",
-      "1,089"
-    ],
-    "Profit After Taxation And Dividends": [
-      "3,478",
-      "5,728",
-      "2,127",
-      "2,624",
-      "4,225"
-    ],
-    "Interest Paid": [
-      "1,180",
-      "1,464",
-      "1,470",
-      "1,425",
-      "1,350"
-    ],
-    "Interest Capitalized": [
-      "716",
-      "766",
-      "444",
-      "223",
-      "56"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "2,651",
-      "1,712",
-      "676",
-      "-254",
-      "3,085"
-    ],
-    "Turnover Growth (%)": [
-      "21.89",
-      "80.87",
-      "-45.88",
-      "43.24",
-      "-13.73"
-    ],
-    "Net Profit Growth (%)": [
-      "-13.40",
-      "49.77",
-      "-52.95",
-      "15.63",
-      "43.12"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "balance_sheet": {
@@ -543,169 +473,141 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "45,024",
-      "40,095",
-      "37,330",
-      "31,119",
-      "28,377"
-    ],
-    "Net Assets": [
-      "70,572",
-      "76,026",
-      "75,470",
-      "75,658",
-      "83,137"
-    ],
-    "Intangible Assets": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "-"
     ]
   },
   "cashflow": {
     "Closing Date": [
-      "2012/12",
       "2013/12",
       "2014/12",
       "2015/12",
-      "2016/12"
+      "2016/12",
+      "2017/12"
     ],
     "Net Cash Flow from Operating Activities": [
-      "6,219",
       "6,147",
       "16,740",
       "8,215",
-      "8,092"
+      "8,092",
+      "10,694"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-2,191",
       "-2,988",
       "-3,158",
       "-3,928",
-      "-3,394"
+      "-3,394",
+      "-3,539"
     ],
     "Interest Received": [
-      "682",
       "984",
       "1,081",
       "1,099",
-      "855"
+      "855",
+      "533"
     ],
     "Interest Paid": [
-      "-971",
       "-1,221",
       "-1,302",
       "-1,543",
-      "-1,399"
+      "-1,399",
+      "-1,227"
     ],
     "Dividend Received": [
-      "43",
       "19",
       "34",
       "43",
-      "75"
+      "75",
+      "51"
     ],
     "Dividend Paid": [
-      "-1,945",
       "-2,770",
       "-2,971",
       "-3,527",
-      "-2,925"
+      "-2,925",
+      "-2,896"
     ],
     "Others": [
       "-",
       "-",
       "-",
       "-",
-      "-"
+      "-454"
     ],
     "Taxes (Paid) / Refunded": [
-      "-1,051",
       "-975",
       "-1,286",
       "-2,216",
-      "-1,064"
+      "-1,064",
+      "-1,857"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-2,729",
       "-1,299",
       "-4,827",
       "-10,283",
-      "748"
+      "748",
+      "-14,697"
     ],
     "Additions to Fixed Assets": [
-      "-5,360",
       "-9,896",
       "-5,305",
       "-6,188",
-      "-2,682"
+      "-2,682",
+      "-4,251"
     ],
     "Disposal of Fixed Assets": [
-      "5,171",
       "40",
       "5",
       "96",
-      "12"
+      "12",
+      "560"
     ],
     "Increase in Investments": [
       "-",
       "-",
       "-",
       "-",
-      "-"
+      "-391"
     ],
     "Decrease in Investments": [
-      "-",
       "1,254",
       "-",
       "119",
+      "-",
       "-"
     ],
     "Net Cash Flow with Related Parties": [
-      "30",
       "-2,145",
       "-677",
       "-826",
-      "-537"
+      "-537",
+      "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "248",
       "885",
       "7,469",
       "-8,212",
-      "4,382"
+      "4,382",
+      "-9,399"
     ],
     "Net Cash Flow from Financing Activities": [
-      "10,077",
       "5,037",
       "-5,562",
       "-3,084",
-      "-5,948"
+      "-5,948",
+      "-4,539"
     ],
     "New Loans": [
-      "16,054",
       "7,655",
       "10,588",
       "5,704",
-      "5,143"
+      "5,143",
+      "1,744"
     ],
     "Loans Repayment": [
-      "-6,024",
       "-475",
       "-15,521",
       "-7,962",
-      "-10,691"
+      "-10,691",
+      "-5,829"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -722,39 +624,39 @@
       "-"
     ],
     "Equity Financing": [
-      "17",
       "2",
       "48",
       "-",
-      "137"
+      "137",
+      "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "10,325",
       "5,922",
       "1,907",
       "-11,296",
-      "-1,566"
+      "-1,566",
+      "-13,938"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "21,303",
-      "32,072",
-      "39,109",
-      "40,219",
-      "27,019"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "444",
-      "1,115",
-      "-797",
-      "-1,904",
-      "-1,875"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "32,072",
       "39,109",
       "40,219",
       "27,019",
       "23,578"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "1,115",
+      "-797",
+      "-1,904",
+      "-1,875",
+      "850"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "39,109",
+      "40,219",
+      "27,019",
+      "23,578",
+      "10,490"
     ],
     "Unit": [
       "Million",

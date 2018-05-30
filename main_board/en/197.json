@@ -2,23 +2,23 @@
   "stock_code": "197",
   "basic_information": {
     "Name": "Heng Tai Consumables Group Ltd.",
-    "EPS Start Date": "2016/07/01",
-    "EPS End Date": "2017/06/30",
+    "EPS Start Date": "2017/07/01",
+    "EPS End Date": "2018/06/30",
     "Listing Date": "2001/12/03",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "10,000,000,000",
-    "Issued Capital(share)": "1,854,696,182",
+    "Issued Capital(share)": "1,872,696,182",
     "Issue Cap-H(share)": "-",
     "Board Lot": "5,000",
     "NAV(HKD)": "1.2598",
     "EPS(HKD)": "-0.3000",
-    "PE": "-1.87",
+    "PE": "-2.20",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.4445",
+    "Price/PNAV": "0.5239",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -275,76 +275,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "EBITDA": [
-      "-89,189",
-      "-564,674",
-      "-16,715",
-      "-176,727",
-      "-390,138"
-    ],
-    "Depreciation": [
-      "126,910",
-      "115,648",
-      "54,478",
-      "63,068",
-      "61,353"
-    ],
-    "Total Dividends": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Profit After Taxation And Dividends": [
-      "-179,185",
-      "-681,635",
-      "-73,241",
-      "-248,731",
-      "-405,546"
-    ],
-    "Interest Paid": [
-      "950",
-      "486",
-      "578",
-      "515",
-      "238"
-    ],
-    "Interest Capitalized": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Non-current Assets Revaluation / Disposal": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Turnover Growth (%)": [
-      "-6.20",
-      "-9.99",
-      "-4.13",
-      "-16.76",
-      "-10.42"
-    ],
-    "Net Profit Growth (%)": [
-      "497.04",
-      "280.41",
-      "-89.26",
-      "239.61",
-      "63.05"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "balance_sheet": {
@@ -543,34 +473,6 @@
       "HKD",
       "HKD",
       "HKD"
-    ],
-    "Total Debt": [
-      "88,107",
-      "65,698",
-      "64,543",
-      "61,391",
-      "33,359"
-    ],
-    "Net Assets": [
-      "3,430,414",
-      "2,722,939",
-      "2,877,548",
-      "2,522,623",
-      "2,268,523"
-    ],
-    "Intangible Assets": [
-      "341,185",
-      "289,460",
-      "303,060",
-      "167,111",
-      "321,727"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
     ]
   },
   "cashflow": {
@@ -780,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/02/27",
+      "Year Ended": "2018/06",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2017/09/22",
       "Year Ended": "2017/06",
       "Event": "Final",
@@ -803,7 +715,7 @@
       "Announce Date": "2016/10/20",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:1-for1-@HKD 0.2400",
+      "Particular": "R:1-for1-@HKD\n                0.2400",
       "Type": "-",
       "Ex-Date": "2016/12/06",
       "Book Close Date": "2016/12/08-2016/12/14",
@@ -863,7 +775,7 @@
       "Announce Date": "2014/10/24",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "O: 1-for-5@HKD 0.0700",
+      "Particular": "O: 1-for-5@HKD\n                0.0700",
       "Type": "-",
       "Ex-Date": "2014/11/11",
       "Book Close Date": "2014/11/13-2014/11/17",
@@ -933,7 +845,7 @@
       "Announce Date": "2012/01/30",
       "Year Ended": "2012/06",
       "Event": "Special",
-      "Particular": "O:1-for-2@HKD 0.2000",
+      "Particular": "O:1-for-2@HKD\n                0.2000",
       "Type": "-",
       "Ex-Date": "2012/03/06",
       "Book Close Date": "2012/03/08-2012/03/12",
@@ -1023,7 +935,7 @@
       "Announce Date": "2009/04/16",
       "Year Ended": "2009/06",
       "Event": "Special",
-      "Particular": "O: 1 -for- 2@HKD\n              0.1800",
+      "Particular": "O: 1 -for- 2@HKD\n                0.1800",
       "Type": "-",
       "Ex-Date": "2009/05/05",
       "Book Close Date": "2009/05/07-2009/05/15",
@@ -1103,7 +1015,7 @@
       "Announce Date": "2006/03/01",
       "Year Ended": "2006/06",
       "Event": "Special",
-      "Particular": "O: 2 - for - 5@HKD\n              0.7500",
+      "Particular": "O: 2 - for - 5@HKD\n                0.7500",
       "Type": "-",
       "Ex-Date": "2006/03/15",
       "Book Close Date": "2006/03/17-2006/03/24",
