@@ -45,19 +45,19 @@ filter="`cat <<-JQ_FILTER
 $library
 
 map(
-    select( .dividend_history | has_at_least_n_dividends(9; 2007; 2016) )
-        | select((.financial_ratio."流動比率(倍)" | last | tonumber?) >= 1)
-        | select((.financial_ratio."速動比率(倍)" | last | tonumber?) >= 1)
+    select( .dividend_history | has_at_least_n_dividends(9; 2008; 2017) )
         | select(
             .financial_ratio."股東權益回報率(%)"
             | map(. | tonumber?)?
             | (add / length)
             | . > 10
         )
-        | select((.basic_information."市盈率(倍)" | tonumber?) <= 10)
-        | select((.basic_information."股價/每股淨資產值(倍)" | tonumber?) <= 1.4)
+        | select((.basic_information."市盈率(倍)" | tonumber?) <= 20)
+        | select((.basic_information."市盈率(倍)" | tonumber?) > 0)
+        | select((.basic_information."股價/每股淨資產值(倍)" | tonumber?) <= 4)
+        | select((.basic_information."周息率(%)") >= 6)
 )
-| sort_by(.stock_code | tonumber) 
+| sort_by((.basic_information."周息率(%)") | tonumber | -1 * .)
 | map("\(.stock_code) - \(.basic_information."公司名稱")
 PE: \(.basic_information."市盈率(倍)")
 PB: \(.basic_information."股價/每股淨資產值(倍)")
