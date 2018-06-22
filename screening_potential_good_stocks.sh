@@ -38,6 +38,19 @@ def has_at_least_n_dividends(numberOfDividendYear; from; to):
     | length
     | . >= numberOfDividendYear
 ;
+
+def get_cash_dividend_history:
+    . as $dividend_history
+    | $dividend_history
+    | map(select(."方式" == "現金"))
+    | group_by(."年度/截至")
+    | sort_by(.[0]."年度/截至")
+    | reverse
+    | {
+        date: map( (.[0]."年度/截至") ),
+        dividend: map(. | map(."派息內容" | capture("港元[ \n]*(?<V>[0-9.]+)").V | tonumber) | add | if . == null then null else (.*100000 + 0.5 | floor | ./100000) end )
+    }
+;
 JQ_LIBRARY
 `"
 
@@ -62,6 +75,7 @@ map(
 PE: \(.basic_information."市盈率(倍)")
 PB: \(.basic_information."股價/每股淨資產值(倍)")
 Yield: \(.basic_information."周息率(%)")
+Dividend: \(.dividend_history | get_cash_dividend_history | .dividend | map(tostring?) | join(" , "))
 ROE: \( (.financial_ratio."股東權益回報率(%)" | join(" -> ")) )
 ") 
 | .[]
