@@ -10,7 +10,8 @@ file_profit_loss="`mktemp`"
 file_balance_sheet="`mktemp`"
 file_cashflow="`mktemp`"
 file_dividend_history="`mktemp`"
-trap "rm -f '$file_basic_info' '$file_financial_ratio' '$file_profit_loss' '$file_dividend_history';exit 0" EXIT
+file_earning_summary="`mktemp`"
+trap "rm -f '$file_basic_info' '$file_financial_ratio' '$file_profit_loss' '$file_dividend_history' '$file_earning_summary';exit 0" EXIT
 
 echo fetching basic information... >&2
 getBasicInformation "$symbol" "$language" > "$file_basic_info" &
@@ -30,8 +31,11 @@ pid_job5=$!
 echo fetching dividend history... >&2
 getDividendHistory "$symbol" "$language" > "$file_dividend_history" &
 pid_job6=$!
+echo fetching earning summary... >&2
+getEarningSummary "$symbol" "$language" > "$file_earning_summary" &
+pid_job7=$!
 echo waiting for completion... >&2
-wait $pid_job1 $pid_job2 $pid_job3 $pid_job4 $pid_job5 $pid_job6
+wait $pid_job1 $pid_job2 $pid_job3 $pid_job4 $pid_job5 $pid_job6 $pid_job7
 echo done >&2
 jq -n \
     --arg stock_code "$symbol" \
@@ -41,4 +45,5 @@ jq -n \
     --argfile balance_sheet "$file_balance_sheet" \
     --argfile cashflow "$file_cashflow" \
     --argfile dividend_history "$file_dividend_history" \
-    '{$stock_code, $basic_information, $financial_ratio, $profit_loss, $balance_sheet, $cashflow, $dividend_history}'
+    --argfile earning_summary "$file_earning_summary" \
+    '{$stock_code, $basic_information, $financial_ratio, $profit_loss, $balance_sheet, $cashflow, $dividend_history, $earning_summary}'

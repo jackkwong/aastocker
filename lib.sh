@@ -25,12 +25,27 @@ function getUrlBasicInformation {
     echo "$url"
 }
 
+function getUrlEarningSummary {
+    local symbol="$1"
+    local language="${2:-en}"
+    local url="http://www.aastocks.com/$language/stocks/analysis/company-fundamental/earnings-summary?symbol=$symbol"
+    echo "$url"
+}
+
 function getBasicInformation {
     local symbol="$1"
     local language="${2:-en}"
     local url="`getUrlBasicInformation "$1" "$2"`"
     local html="`getNormalizedHTML "$url"`"
     echo "$html" | node read_basic_info.js
+}
+
+function getEarningSummary {
+    local symbol="$1"
+    local language="${2:-en}"
+    local url="`getUrlEarningSummary "$1" "$2"`"
+    local html="`getNormalizedHTML "$url"`"
+    echo "$html" | node read_financial_ratio.js
 }
 
 function getUrlFinancialRatio {
