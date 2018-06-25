@@ -86,9 +86,22 @@ map(
     Dividend:              \(.dividend_history | get_cash_dividend_history | .dividend | map(tostring?) | .[0:6] | reverse | join(" -> "))
 
     Date:                  \( (.financial_ratio."截止日期" // [] | join(" -> ")) )
+    Current Ratio:         \( (.financial_ratio."流動比率(倍)" // [] | join(" -> ")) )
+    Quick Ratio:           \( (.financial_ratio."速動比率(倍)" // [] | join(" -> ")) )
+
+    Long-term Debit/Equity:\( (.financial_ratio."長期債項/股東權益(%)" // [] | join(" -> ")) )
+    Debt/Equity:           \( (.financial_ratio."總債項/股東權益(%)" // [] | join(" -> ")) )
+    Debt/Capital Employ:   \( (.financial_ratio."總債項/資本運用(%)" // [] | join(" -> ")) )
+
     ROE:                   \( (.financial_ratio."股東權益回報率(%)" // [] | join(" -> ")) )
     ROCE:                  \( (.financial_ratio."資本運用回報率(%)" // [] | join(" -> ")) )
     ROA:                   \( (.financial_ratio."總資產回報率(%)" // [] | join(" -> ")) )
+
+    經營利潤率(%):         \( (.financial_ratio."經營利潤率(%)" // [] | join(" -> ")) )
+    稅前利潤率(%):         \( (.financial_ratio."稅前利潤率(%)" // [] | join(" -> ")) )
+    邊際利潤率(%):         \( (.financial_ratio."邊際利潤率(%)" // [] | join(" -> ")) )
+
+    存貨周轉率(倍):        \( (.financial_ratio."存貨周轉率(倍)" // [] | join(" -> ")) )
 
     Unit Stock
     ________________________________________________________________________________
