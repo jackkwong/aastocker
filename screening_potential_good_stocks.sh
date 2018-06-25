@@ -72,11 +72,28 @@ map(
 )
 | sort_by((.basic_information."周息率(%)") | tonumber | -1 * .)
 | map("\(.stock_code) - \(.basic_information."公司名稱")
-PE: \(.basic_information."市盈率(倍)")
-PB: \(.basic_information."股價/每股淨資產值(倍)")
-Yield: \(.basic_information."周息率(%)")
-Dividend: \(.dividend_history | get_cash_dividend_history | .dividend | map(tostring?) | join(" , "))
-ROE: \( (.financial_ratio."股東權益回報率(%)" | join(" -> ")) )
+
+    Price-related
+    ________________________________________________________________________________
+    deduced P: \( (.basic_information."股價/每股淨資產值(倍)" | tonumber?) * (.basic_information."每股淨資產值(港元)" | tonumber?) | (.*100000 + 0.5 | floor | ./100000) )
+    PE: \(.basic_information."市盈率(倍)")
+    PB: \(.basic_information."股價/每股淨資產值(倍)")
+    Yield: \(.basic_information."周息率(%)")
+
+    Basic
+    ________________________________________________________________________________
+    Date:     \(.dividend_history | get_cash_dividend_history | .date | .[0:6] | reverse | join(" -> "))
+    Dividend: \(.dividend_history | get_cash_dividend_history | .dividend | map(tostring?) | .[0:6] | reverse | join(" -> "))
+
+    Date:     \( (.financial_ratio."截止日期" | join(" -> ")) )
+    ROE:      \( (.financial_ratio."股東權益回報率(%)" | join(" -> ")) )
+    ROCE:     \( (.financial_ratio."資本運用回報率(%)" // [] | join(" -> ")) )
+    ROA:      \( (.financial_ratio."總資產回報率(%)" | join(" -> ")) )
+
+    Details
+    ________________________________________________________________________________
+    Date:     \(.dividend_history | get_cash_dividend_history | .date | join(" <- "))
+    Dividend: \(.dividend_history | get_cash_dividend_history | .dividend | map(tostring?) | join(" <- "))
 ") 
 | .[]
 JQ_FILTER
