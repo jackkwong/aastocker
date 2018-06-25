@@ -10,15 +10,15 @@
     "Par Currency": "USD",
     "Par": "2.5E-05",
     "Authorized Capital(share)": "2,000,000,000",
-    "Issued Capital(share)": "1,223,706,381",
+    "Issued Capital(share)": "1,224,252,138",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
     "NAV(HKD)": "4.1484",
     "EPS(HKD)": "0.2877",
-    "PE": "302.36",
+    "PE": "301.67",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "20.9722",
+    "Price/PNAV": "20.9240",
     "Index Constituent": "HSHKMI\n                    HSCI\n                    HSGCI\n                    Index_Consumer Goods"
   },
   "financial_ratio": {
@@ -701,5 +701,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12",
+      ""
+    ],
+    "Net Profit (Mn)": [
+      "52",
+      "52",
+      "157",
+      "303",
+      ""
+    ],
+    "Net Profit Growth (%)": [
+      "-",
+      "-0.07",
+      "199.53",
+      "93.17",
+      ""
+    ],
+    "Earnings Per Share": [
+      "0.0499",
+      "0.0588",
+      "0.1667",
+      "0.2877",
+      ""
+    ],
+    "EPS Growth (%)": [
+      "-",
+      "17.81",
+      "183.46",
+      "72.62",
+      ""
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      ""
+    ],
+    "PE (X)": [
+      "0.20",
+      "0.17",
+      "419.95",
+      "301.67",
+      ""
+    ],
+    "Yield (%)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      ""
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      ""
+    ],
+    "NAV": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "4.1484",
+      ""
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      ""
+    ],
+    "Currency Conversion": [
+      "1.2479",
+      "1.1761",
+      "1.11125",
+      "1.1989",
+      ""
+    ]
+  }
 }

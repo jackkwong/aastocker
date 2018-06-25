@@ -682,6 +682,46 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/06/08",
+      "Year Ended": "2015/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/06/08",
+      "Year Ended": "2013/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/06/08",
+      "Year Ended": "2014/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/06/08",
+      "Year Ended": "2016/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/02/15",
       "Year Ended": "2016/12",
       "Event": "Final",
@@ -891,5 +931,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2012/12",
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12"
+    ],
+    "Net Profit (Mn)": [
+      "-107",
+      "-552",
+      "-394",
+      "-206",
+      "-101"
+    ],
+    "Net Profit Growth (%)": [
+      "2.56K",
+      "417.37",
+      "-28.77",
+      "-47.77",
+      "-51.04"
+    ],
+    "Earnings Per Share": [
+      "-0.0855",
+      "-0.4426",
+      "-0.3153",
+      "-0.1647",
+      "-0.0806"
+    ],
+    "EPS Growth (%)": [
+      "2.57K",
+      "417.66",
+      "-28.76",
+      "-47.76",
+      "-51.06"
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000"
+    ],
+    "PE (X)": [
+      "-16.84",
+      "-3.25",
+      "-4.57",
+      "-8.74",
+      "-17.87"
+    ],
+    "Yield (%)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    "NAV": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
 }

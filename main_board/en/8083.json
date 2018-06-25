@@ -1,7 +1,7 @@
 {
   "stock_code": "8083",
   "basic_information": {
-    "Name": "China Innovationpay Group Ltd.",
+    "Name": "China Youzan Limited",
     "EPS Start Date": "2018/01/01",
     "EPS End Date": "2018/12/31",
     "Listing Date": "2000/04/14",
@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.01",
     "Authorized Capital(share)": "20,000,000,000",
-    "Issued Capital(share)": "12,881,007,829",
+    "Issued Capital(share)": "12,891,007,829",
     "Issue Cap-H(share)": "-",
     "Board Lot": "4,000",
     "NAV(HKD)": "0.1777",
     "EPS(HKD)": "-0.0167",
-    "PE": "-58.08",
+    "PE": "-54.49",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "5.4586",
+    "Price/PNAV": "5.1209",
     "Index Constituent": "GEM_Index"
   },
   "financial_ratio": {
@@ -1441,5 +1441,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "-279",
+      "-123",
+      "-154",
+      "-214",
+      "-112"
+    ],
+    "Net Profit Growth (%)": [
+      "-405.76",
+      "-56.07",
+      "25.34",
+      "39.40",
+      "-47.68"
+    ],
+    "Earnings Per Share": [
+      "-0.0593",
+      "-0.0237",
+      "-0.0271",
+      "-0.0353",
+      "-0.0167"
+    ],
+    "EPS Growth (%)": [
+      "-386.47",
+      "-60.03",
+      "14.35",
+      "30.26",
+      "-52.69"
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000"
+    ],
+    "PE (X)": [
+      "-12.98",
+      "-18.57",
+      "-17.90",
+      "-14.16",
+      "-54.49"
+    ],
+    "Yield (%)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    "NAV": [
+      "0.1749",
+      "0.1823",
+      "0.1736",
+      "0.1382",
+      "0.1777"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
 }

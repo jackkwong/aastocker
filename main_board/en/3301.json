@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "1E-05",
     "Authorized Capital(share)": "38,000,000,000",
-    "Issued Capital(share)": "1,494,800,500",
+    "Issued Capital(share)": "1,598,300,500",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
     "NAV(HKD)": "8.2003",
     "EPS(HKD)": "1.4627",
-    "PE": "7.55",
+    "PE": "7.18",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.3463",
+    "Price/PNAV": "1.2804",
     "Index Constituent": "HSCI\n                    HSHKSI\n                    Index_Properties & Construction\n                    HSGCI"
   },
   "financial_ratio": {
@@ -731,5 +731,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "663",
+      "632",
+      "1,685",
+      "1,436",
+      "2,014"
+    ],
+    "Net Profit Growth (%)": [
+      "183.57",
+      "-4.61",
+      "166.61",
+      "-14.78",
+      "40.21"
+    ],
+    "Earnings Per Share": [
+      "6.6266",
+      "6.3206",
+      "1.6701",
+      "1.0668",
+      "1.4627"
+    ],
+    "EPS Growth (%)": [
+      "183.64",
+      "-4.62",
+      "-73.58",
+      "-36.12",
+      "37.11"
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000"
+    ],
+    "PE (X)": [
+      "0.00",
+      "0.00",
+      "3.59",
+      "10.40",
+      "7.18"
+    ],
+    "Yield (%)": [
+      "-",
+      "-",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    "NAV": [
+      "0.0000",
+      "0.0000",
+      "3.7418",
+      "6.1387",
+      "8.2003"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1.28",
+      "1.2479",
+      "1.1761",
+      "1.11125",
+      "1.1989"
+    ]
+  }
 }

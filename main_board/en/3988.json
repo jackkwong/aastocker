@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "6.0926",
     "EPS(HKD)": "0.6714",
-    "PE": "6.05",
+    "PE": "5.76",
     "DPS(HKD)": "0.2110",
-    "Yield": "5.20",
-    "Price/PNAV": "0.6664",
+    "Yield": "5.45",
+    "Price/PNAV": "0.6352",
     "Index Constituent": "HSI\n                    FS-index\n                    HSCEI\n                    Hang Seng China H-Financials\n                    HSCI\n                    HSML25\n                    Index_Financials\n                    FTSE Xinhua China25 Index\n                    HSHKLI\n                    HSML100\n                    HSGCI\n                    HS AH Premium"
   },
   "financial_ratio": {
@@ -1168,5 +1168,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "200,846",
+      "211,638",
+      "200,931",
+      "182,887",
+      "206,699"
+    ],
+    "Net Profit Growth (%)": [
+      "15.42",
+      "5.37",
+      "-5.06",
+      "-8.98",
+      "13.02"
+    ],
+    "Earnings Per Share": [
+      "0.7168",
+      "0.7612",
+      "0.6586",
+      "0.6001",
+      "0.6714"
+    ],
+    "EPS Growth (%)": [
+      "15.06",
+      "6.20",
+      "-13.48",
+      "-8.89",
+      "11.88"
+    ],
+    "Dividend Per Share": [
+      "0.2509",
+      "0.2371",
+      "0.2058",
+      "0.1867",
+      "0.2110"
+    ],
+    "PE (X)": [
+      "6.14",
+      "4.27",
+      "5.86",
+      "7.03",
+      "5.76"
+    ],
+    "Yield (%)": [
+      "5.70",
+      "7.30",
+      "5.33",
+      "4.42",
+      "5.45"
+    ],
+    "Dividend Payout (%)": [
+      "35.00",
+      "31.15",
+      "31.25",
+      "31.11",
+      "31.43"
+    ],
+    "NAV": [
+      "4.2332",
+      "4.9308",
+      "5.2134",
+      "5.3288",
+      "6.0926"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1.28",
+      "1.2479",
+      "1.1761",
+      "1.11125",
+      "1.1989"
+    ]
+  }
 }

@@ -10,15 +10,15 @@
     "Par Currency": "USD",
     "Par": "0.05",
     "Authorized Capital(share)": "400,000,000",
-    "Issued Capital(share)": "251,372,133",
+    "Issued Capital(share)": "251,572,133",
     "Issue Cap-H(share)": "-",
     "Board Lot": "100",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "20.1898",
     "EPS(HKD)": "6.4440",
-    "PE": "15.01",
+    "PE": "14.29",
     "DPS(HKD)": "6.2792",
-    "Yield": "6.49",
-    "Price/PNAV": "-",
+    "Yield": "6.82",
+    "Price/PNAV": "4.5617",
     "Index Constituent": "Index_Information Technology\n                    HSHKMI\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -677,7 +677,7 @@
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "-"
+      "Unqualified"
     ]
   },
   "dividend_history": [
@@ -1061,5 +1061,91 @@
       "Book Close Date": "2000/08/07-2000/08/11",
       "Payable Date": "2000/09/15"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2014/03",
+      "2015/03",
+      "2016/03",
+      "2017/03",
+      "2018/03"
+    ],
+    "Net Profit (Mn)": [
+      "1,581",
+      "1,536",
+      "1,406",
+      "1,391",
+      "1,619"
+    ],
+    "Net Profit Growth (%)": [
+      "1.07",
+      "-2.82",
+      "-8.48",
+      "-1.07",
+      "16.42"
+    ],
+    "Earnings Per Share": [
+      "6.3060",
+      "6.1183",
+      "5.5959",
+      "5.5400",
+      "6.4440"
+    ],
+    "EPS Growth (%)": [
+      "0.80",
+      "-2.98",
+      "-8.54",
+      "-1.00",
+      "16.32"
+    ],
+    "Dividend Per Share": [
+      "6.2052",
+      "6.0485",
+      "3.2552",
+      "5.4390",
+      "6.2792"
+    ],
+    "PE (X)": [
+      "16.25",
+      "12.99",
+      "19.84",
+      "17.74",
+      "14.29"
+    ],
+    "Yield (%)": [
+      "6.05",
+      "7.61",
+      "2.93",
+      "5.53",
+      "6.82"
+    ],
+    "Dividend Payout (%)": [
+      "98.40",
+      "98.86",
+      "58.17",
+      "98.18",
+      "97.44"
+    ],
+    "NAV": [
+      "17.3884",
+      "16.6956",
+      "16.1995",
+      "18.0870",
+      "20.1898"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "7.7565",
+      "7.7545",
+      "7.7505",
+      "7.77",
+      "7.849"
+    ]
+  }
 }

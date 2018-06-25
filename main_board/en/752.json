@@ -2,23 +2,23 @@
   "stock_code": "752",
   "basic_information": {
     "Name": "Pico Far East Holdings Ltd.",
-    "EPS Start Date": "2016/11/01",
-    "EPS End Date": "2017/10/31",
+    "EPS Start Date": "2017/11/01",
+    "EPS End Date": "2018/10/31",
     "Listing Date": "1992/09/28",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.05",
     "Authorized Capital(share)": "2,400,000,000",
-    "Issued Capital(share)": "1,234,970,104",
+    "Issued Capital(share)": "1,235,162,104",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "1.5576",
     "EPS(HKD)": "0.2292",
-    "PE": "14.75",
+    "PE": "14.57",
     "DPS(HKD)": "0.1850",
-    "Yield": "5.47",
-    "Price/PNAV": "2.1700",
+    "Yield": "5.54",
+    "Price/PNAV": "2.1443",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/06/22",
+      "Year Ended": "2018/10",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0450",
+      "Type": "Cash",
+      "Ex-Date": "2018/07/13",
+      "Book Close Date": "2018/07/17-2018/07/20",
+      "Payable Date": "2018/07/27"
+    },
+    {
       "Announce Date": "2018/01/24",
       "Year Ended": "2017/10",
       "Event": "Final",
@@ -1111,5 +1121,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/10",
+      "2014/10",
+      "2015/10",
+      "2016/10",
+      "2017/10"
+    ],
+    "Net Profit (Mn)": [
+      "211",
+      "240",
+      "275",
+      "301",
+      "281"
+    ],
+    "Net Profit Growth (%)": [
+      "-11.48",
+      "13.91",
+      "14.22",
+      "9.39",
+      "-6.34"
+    ],
+    "Earnings Per Share": [
+      "0.1737",
+      "0.1977",
+      "0.2254",
+      "0.2457",
+      "0.2292"
+    ],
+    "EPS Growth (%)": [
+      "-11.65",
+      "13.82",
+      "14.01",
+      "9.01",
+      "-6.72"
+    ],
+    "Dividend Per Share": [
+      "0.1000",
+      "0.1050",
+      "0.1400",
+      "0.1700",
+      "0.1850"
+    ],
+    "PE (X)": [
+      "11.17",
+      "9.05",
+      "11.45",
+      "13.15",
+      "14.57"
+    ],
+    "Yield (%)": [
+      "5.15",
+      "5.87",
+      "5.43",
+      "5.26",
+      "5.54"
+    ],
+    "Dividend Payout (%)": [
+      "57.57",
+      "53.11",
+      "62.11",
+      "69.19",
+      "80.72"
+    ],
+    "NAV": [
+      "1.2426",
+      "1.3253",
+      "1.3780",
+      "1.4534",
+      "1.5576"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
 }

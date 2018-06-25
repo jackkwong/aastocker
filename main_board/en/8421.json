@@ -480,203 +480,203 @@
       "2015/03",
       "2016/03",
       "2017/03",
-      "",
+      "2018/03",
       ""
     ],
     "Net Cash Flow from Operating Activities": [
       "19,571",
       "24,169",
       "22,430",
-      "",
+      "-652",
       ""
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
       "-2,480",
       "-2,332",
       "-2,389",
-      "",
+      "-1,032",
       ""
     ],
     "Interest Received": [
       "19",
       "-",
       "-",
-      "",
+      "3",
       ""
     ],
     "Interest Paid": [
       "-2,499",
       "-2,332",
       "-2,389",
-      "",
+      "-1,035",
       ""
     ],
     "Dividend Received": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Dividend Paid": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Others": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Taxes (Paid) / Refunded": [
       "-3,670",
       "-2,405",
       "-7,592",
-      "",
+      "-2,715",
       ""
     ],
     "Net Cash Flow from Investing Activities": [
       "-2,893",
       "-2,116",
       "-1,873",
-      "",
+      "-5,419",
       ""
     ],
     "Additions to Fixed Assets": [
       "-3,586",
       "-2,425",
       "-1,873",
-      "",
+      "-5,237",
       ""
     ],
     "Disposal of Fixed Assets": [
       "693",
       "309",
       "-",
-      "",
+      "110",
       ""
     ],
     "Increase in Investments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Decrease in Investments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Net Cash Flow with Related Parties": [
       "-26,348",
       "-416",
       "-",
-      "",
+      "-",
       ""
     ],
     "Net Cash Flow before Financing Activities": [
       "10,528",
       "17,316",
       "10,576",
-      "",
+      "-9,818",
       ""
     ],
     "Net Cash Flow from Financing Activities": [
       "-21,270",
       "-12,392",
       "38,430",
-      "",
+      "-22,110",
       ""
     ],
     "New Loans": [
       "209,493",
       "237,013",
       "260,019",
-      "",
+      "246,865",
       ""
     ],
     "Loans Repayment": [
       "-204,415",
       "-248,989",
       "-275,756",
-      "",
+      "-268,975",
       ""
     ],
     "Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Repayment of Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Equity Financing": [
       "-",
       "-",
       "54,167",
-      "",
+      "-",
       ""
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
       "-10,742",
       "4,924",
       "49,006",
-      "",
+      "-31,928",
       ""
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
       "28,228",
       "17,486",
       "22,410",
-      "",
+      "71,416",
       ""
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Cash & Cash Equivalents at End of Year": [
       "17,486",
       "22,410",
       "71,416",
-      "",
+      "39,488",
       ""
     ],
     "Unit": [
       "Thousand",
       "Thousand",
       "Thousand",
-      "",
+      "Thousand",
       ""
     ],
     "Currency": [
       "HKD",
       "HKD",
       "HKD",
-      "",
+      "HKD",
       ""
     ],
     "Auditor's Opinion": [
       "-",
       "-",
       "Unqualified",
-      "",
+      "Unqualified",
       ""
     ]
   },
@@ -731,5 +731,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2015/03",
+      "2016/03",
+      "2017/03",
+      "2018/03",
+      ""
+    ],
+    "Net Profit (Mn)": [
+      "14",
+      "19",
+      "9",
+      "22",
+      ""
+    ],
+    "Net Profit Growth (%)": [
+      "-",
+      "31.28",
+      "-53.87",
+      "151.23",
+      ""
+    ],
+    "Earnings Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0190",
+      "0.0363",
+      ""
+    ],
+    "EPS Growth (%)": [
+      "-",
+      "-",
+      "-",
+      "91.05",
+      ""
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0167",
+      ""
+    ],
+    "PE (X)": [
+      "-",
+      "-",
+      "0.00",
+      "0.00",
+      ""
+    ],
+    "Yield (%)": [
+      "-",
+      "-",
+      "-",
+      "-",
+      ""
+    ],
+    "Dividend Payout (%)": [
+      "-",
+      "-",
+      "0.00",
+      "46.01",
+      ""
+    ],
+    "NAV": [
+      "0.0000",
+      "0.0000",
+      "0.1527",
+      "0.1891",
+      ""
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      ""
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      ""
+    ]
+  }
 }

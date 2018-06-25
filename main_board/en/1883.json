@@ -10,15 +10,15 @@
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "3,563,255,250",
+    "Issued Capital(share)": "3,563,541,330",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "2.3691",
     "EPS(HKD)": "0.2490",
-    "PE": "8.92",
+    "PE": "8.59",
     "DPS(HKD)": "0.1600",
-    "Yield": "7.21",
-    "Price/PNAV": "0.9371",
+    "Yield": "7.48",
+    "Price/PNAV": "0.9033",
     "Index Constituent": "HSCI\n                    Index_Telecommunications\n                    HSHKSI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -921,5 +921,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "1,068",
+      "724",
+      "802",
+      "850",
+      "881"
+    ],
+    "Net Profit Growth (%)": [
+      "131.42",
+      "-32.20",
+      "10.84",
+      "5.97",
+      "3.68"
+    ],
+    "Earnings Per Share": [
+      "0.3650",
+      "0.2170",
+      "0.2380",
+      "0.2490",
+      "0.2490"
+    ],
+    "EPS Growth (%)": [
+      "89.12",
+      "-40.55",
+      "9.68",
+      "4.62",
+      "0.00"
+    ],
+    "Dividend Per Share": [
+      "0.1000",
+      "0.1130",
+      "0.1250",
+      "0.1320",
+      "0.1600"
+    ],
+    "PE (X)": [
+      "6.99",
+      "12.95",
+      "10.80",
+      "9.28",
+      "8.59"
+    ],
+    "Yield (%)": [
+      "3.92",
+      "4.02",
+      "4.86",
+      "5.71",
+      "7.48"
+    ],
+    "Dividend Payout (%)": [
+      "27.40",
+      "52.07",
+      "52.52",
+      "53.01",
+      "64.26"
+    ],
+    "NAV": [
+      "1.8546",
+      "1.9574",
+      "2.0783",
+      "2.2267",
+      "2.3691"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
 }

@@ -19,7 +19,7 @@
     "DPS(HKD)": "0.1000",
     "Yield": "-",
     "Price/PNAV": "-",
-    "Index Constituent": "-"
+    "Index Constituent": "Index_Properties &\n                    Construction\n                    HSHKMI\n                    HSCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -691,5 +691,91 @@
       "Book Close Date": "2018/06/05-2018/06/07",
       "Payable Date": "2018/07/19"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12",
+      ""
+    ],
+    "Net Profit (Mn)": [
+      "67",
+      "492",
+      "1,315",
+      "1,689",
+      ""
+    ],
+    "Net Profit Growth (%)": [
+      "-",
+      "639.57",
+      "167.01",
+      "28.46",
+      ""
+    ],
+    "Earnings Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.5635",
+      ""
+    ],
+    "EPS Growth (%)": [
+      "-",
+      "-",
+      "-",
+      "-",
+      ""
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.1000",
+      ""
+    ],
+    "PE (X)": [
+      "-",
+      "-",
+      "-",
+      "0.00",
+      ""
+    ],
+    "Yield (%)": [
+      "-",
+      "-",
+      "-",
+      "-",
+      ""
+    ],
+    "Dividend Payout (%)": [
+      "-",
+      "-",
+      "-",
+      "17.74",
+      ""
+    ],
+    "NAV": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "196.1109K",
+      ""
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      ""
+    ],
+    "Currency Conversion": [
+      "1.2479",
+      "1.17605",
+      "1.11125",
+      "1.1989",
+      ""
+    ]
+  }
 }

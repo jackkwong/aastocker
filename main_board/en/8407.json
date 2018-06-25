@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/06/11",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "Withdrawal of Listing:Will\n                be listed on the Main Board",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/05/03",
       "Year Ended": "2018/12",
       "Event": "Quarter 1",
@@ -751,5 +761,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12",
+      ""
+    ],
+    "Net Profit (Mn)": [
+      "19",
+      "51",
+      "101",
+      "153",
+      ""
+    ],
+    "Net Profit Growth (%)": [
+      "-",
+      "169.05",
+      "100.22",
+      "51.14",
+      ""
+    ],
+    "Earnings Per Share": [
+      "0.0399",
+      "0.0991",
+      "0.0400",
+      "0.0400",
+      ""
+    ],
+    "EPS Growth (%)": [
+      "-",
+      "148.37",
+      "-59.64",
+      "0.00",
+      ""
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0200",
+      "0.0300",
+      ""
+    ],
+    "PE (X)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      ""
+    ],
+    "Yield (%)": [
+      "-",
+      "-",
+      "-",
+      "-",
+      ""
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "0.00",
+      "50.00",
+      "75.00",
+      ""
+    ],
+    "NAV": [
+      "0.0000",
+      "0.0000",
+      "1.0736",
+      "1.0993",
+      ""
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      ""
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      ""
+    ]
+  }
 }

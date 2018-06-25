@@ -10,14 +10,14 @@
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "10,101,146,967",
+    "Issued Capital(share)": "10,215,744,517",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "0.0000",
     "EPS(HKD)": "0.8000",
-    "PE": "14.75",
+    "PE": "13.90",
     "DPS(HKD)": "0.4600",
-    "Yield": "3.90",
+    "Yield": "4.14",
     "Price/PNAV": "-",
     "Index Constituent": "HSI\n                    HSHK35\n                    HSCI\n                    HSHKLI\n                    HSGCI\n                    Index_Properties & Construction\n                    PB-index"
   },
@@ -1061,5 +1061,91 @@
       "Book Close Date": "2002/04/09-2002/04/15",
       "Payable Date": "2002/06/03"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/06",
+      "2014/06",
+      "2015/06",
+      "2016/06",
+      "2017/06"
+    ],
+    "Net Profit (Mn)": [
+      "14,149",
+      "9,725",
+      "19,112",
+      "8,666",
+      "7,676"
+    ],
+    "Net Profit Growth (%)": [
+      "39.55",
+      "-31.26",
+      "96.52",
+      "-54.66",
+      "-11.43"
+    ],
+    "Earnings Per Share": [
+      "2.1400",
+      "1.3700",
+      "2.1700",
+      "0.9500",
+      "0.8000"
+    ],
+    "EPS Growth (%)": [
+      "13.83",
+      "-35.98",
+      "58.39",
+      "-56.22",
+      "-15.79"
+    ],
+    "Dividend Per Share": [
+      "0.4200",
+      "0.4200",
+      "0.4200",
+      "0.4400",
+      "0.4600"
+    ],
+    "PE (X)": [
+      "4.39",
+      "5.72",
+      "4.75",
+      "12.04",
+      "13.90"
+    ],
+    "Yield (%)": [
+      "4.47",
+      "5.36",
+      "4.08",
+      "3.85",
+      "4.14"
+    ],
+    "Dividend Payout (%)": [
+      "19.63",
+      "30.66",
+      "19.35",
+      "46.32",
+      "57.50"
+    ],
+    "NAV": [
+      "22.0436",
+      "18.4451",
+      "19.8867",
+      "19.1272",
+      "0.0000"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
 }

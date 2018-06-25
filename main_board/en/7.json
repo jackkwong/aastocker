@@ -1,7 +1,7 @@
 {
   "stock_code": "7",
   "basic_information": {
-    "Name": "Hoifu Energy Group Ltd.",
+    "Name": "Hong Kong Finance Investment\n                    Holding Group Limited",
     "EPS Start Date": "2017/01/01",
     "EPS End Date": "2017/12/31",
     "Listing Date": "2000/09/08",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.3318",
     "EPS(HKD)": "0.0046",
-    "PE": "228.26",
+    "PE": "221.74",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "3.1648",
+    "Price/PNAV": "3.0744",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -1051,5 +1051,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "-21",
+      "-38",
+      "-36",
+      "-5",
+      "12"
+    ],
+    "Net Profit Growth (%)": [
+      "0.97",
+      "75.85",
+      "-3.38",
+      "-87.33",
+      "-352.41"
+    ],
+    "Earnings Per Share": [
+      "-0.0147",
+      "-0.0249",
+      "-0.0225",
+      "-0.0026",
+      "0.0046"
+    ],
+    "EPS Growth (%)": [
+      "-47.69",
+      "69.39",
+      "-9.64",
+      "-88.44",
+      "-276.92"
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.0000"
+    ],
+    "PE (X)": [
+      "-86.39",
+      "-26.91",
+      "-37.33",
+      "-426.92",
+      "221.74"
+    ],
+    "Yield (%)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    "NAV": [
+      "0.1955",
+      "0.2075",
+      "0.2303",
+      "0.3061",
+      "0.3318"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
 }

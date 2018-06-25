@@ -2,8 +2,8 @@
   "stock_code": "900",
   "basic_information": {
     "Name": "Aeon Credit Service (Asia) Co.\n                    Ltd.",
-    "EPS Start Date": "2017/03/01",
-    "EPS End Date": "2018/02/28",
+    "EPS Start Date": "2018/03/01",
+    "EPS End Date": "2019/02/28",
     "Listing Date": "1995/09/14",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "7.1759",
     "EPS(HKD)": "0.8863",
-    "PE": "7.37",
+    "PE": "7.25",
     "DPS(HKD)": "0.4200",
-    "Yield": "6.43",
-    "Price/PNAV": "0.9100",
+    "Yield": "6.53",
+    "Price/PNAV": "0.8960",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/06/21",
+      "Year Ended": "2019/02",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/04/25",
       "Year Ended": "2018/02",
       "Event": "Final",
@@ -1181,5 +1191,91 @@
       "Book Close Date": "1999/11/10-1999/11/16",
       "Payable Date": "1999/11/17"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2014/02",
+      "2015/02",
+      "2016/02",
+      "2017/02",
+      "2018/02"
+    ],
+    "Net Profit (Mn)": [
+      "222",
+      "282",
+      "250",
+      "299",
+      "371"
+    ],
+    "Net Profit Growth (%)": [
+      "-24.83",
+      "27.24",
+      "-11.49",
+      "19.53",
+      "24.21"
+    ],
+    "Earnings Per Share": [
+      "0.5300",
+      "0.6744",
+      "0.5969",
+      "0.7135",
+      "0.8863"
+    ],
+    "EPS Growth (%)": [
+      "-24.83",
+      "27.25",
+      "-11.49",
+      "19.53",
+      "24.22"
+    ],
+    "Dividend Per Share": [
+      "0.3500",
+      "0.3600",
+      "0.3600",
+      "0.3800",
+      "0.4200"
+    ],
+    "PE (X)": [
+      "12.13",
+      "7.71",
+      "9.38",
+      "8.86",
+      "7.25"
+    ],
+    "Yield (%)": [
+      "5.44",
+      "6.92",
+      "6.43",
+      "6.01",
+      "6.53"
+    ],
+    "Dividend Payout (%)": [
+      "66.04",
+      "53.38",
+      "60.31",
+      "53.26",
+      "47.39"
+    ],
+    "NAV": [
+      "5.6012",
+      "5.8442",
+      "6.0740",
+      "6.5480",
+      "7.1759"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
 }

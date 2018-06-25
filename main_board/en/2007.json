@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "5.2774",
     "EPS(HKD)": "1.4722",
-    "PE": "10.31",
+    "PE": "10.01",
     "DPS(HKD)": "0.4792",
-    "Yield": "3.16",
-    "Price/PNAV": "2.8764",
+    "Yield": "3.25",
+    "Price/PNAV": "2.7931",
     "Index Constituent": "HSCI\n                    Index_Properties & Construction\n                    HSHKLI\n                    FTSE Xinhua China25 Index\n                    PB-index\n                    HSI\n                    HSML100\n                    HSGCI\n                    HSML25"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/05/29",
+      "Year Ended": "2018/12",
+      "Event": "Special",
+      "Particular": "Distribution in\n                specie: 1 Country Garden Services Holdings Co. Ltd.\n                shares for 8.7",
+      "Type": "Scrip",
+      "Ex-Date": "2018/06/11",
+      "Book Close Date": "2018/06/13-2018/06/13",
+      "Payable Date": "2018/06/15"
+    },
+    {
       "Announce Date": "2018/03/20",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -931,5 +941,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "10,898",
+      "12,765",
+      "10,910",
+      "12,798",
+      "31,248"
+    ],
+    "Net Profit Growth (%)": [
+      "27.64",
+      "17.13",
+      "-14.53",
+      "17.30",
+      "144.16"
+    ],
+    "Earnings Per Share": [
+      "0.5884",
+      "0.6670",
+      "0.5003",
+      "0.5797",
+      "1.4722"
+    ],
+    "EPS Growth (%)": [
+      "24.08",
+      "13.36",
+      "-24.99",
+      "15.88",
+      "153.95"
+    ],
+    "Dividend Per Share": [
+      "0.2154",
+      "0.1841",
+      "0.1523",
+      "0.1902",
+      "0.4792"
+    ],
+    "PE (X)": [
+      "6.44",
+      "4.51",
+      "14.27",
+      "27.94",
+      "10.01"
+    ],
+    "Yield (%)": [
+      "5.68",
+      "6.12",
+      "2.13",
+      "1.17",
+      "3.25"
+    ],
+    "Dividend Payout (%)": [
+      "36.61",
+      "27.60",
+      "30.44",
+      "32.82",
+      "32.55"
+    ],
+    "NAV": [
+      "3.0481",
+      "3.4758",
+      "3.3995",
+      "3.6068",
+      "5.2774"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1.28",
+      "1.2479",
+      "1.1761",
+      "1.11125",
+      "1.1989"
+    ]
+  }
 }

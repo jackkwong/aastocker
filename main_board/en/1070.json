@@ -1,7 +1,7 @@
 {
   "stock_code": "1070",
   "basic_information": {
-    "Name": "TCL Multimedia Technology\n                    Holdings Ltd.",
+    "Name": "TCL Electronics Holdings Limited",
     "EPS Start Date": "2017/01/01",
     "EPS End Date": "2017/12/31",
     "Listing Date": "1999/11/26",
@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "1",
     "Authorized Capital(share)": "3,000,000,000",
-    "Issued Capital(share)": "2,332,262,307",
+    "Issued Capital(share)": "2,332,623,561",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "4.3652",
     "EPS(HKD)": "0.4743",
-    "PE": "7.82",
+    "PE": "7.80",
     "DPS(HKD)": "0.1897",
-    "Yield": "5.11",
-    "Price/PNAV": "0.8499",
+    "Yield": "5.13",
+    "Price/PNAV": "0.8476",
     "Index Constituent": "HSCI\n                    Index_Consumer Goods\n                    HSHKSI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -1411,5 +1411,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "-48",
+      "234",
+      "26",
+      "183",
+      "815"
+    ],
+    "Net Profit Growth (%)": [
+      "-105.28",
+      "-587.78",
+      "-88.99",
+      "608.09",
+      "345.73"
+    ],
+    "Earnings Per Share": [
+      "-0.0361",
+      "0.1776",
+      "0.0194",
+      "0.1140",
+      "0.4743"
+    ],
+    "EPS Growth (%)": [
+      "-105.18",
+      "-591.97",
+      "-89.08",
+      "487.63",
+      "316.05"
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0528",
+      "0.0000",
+      "0.0000",
+      "0.1897"
+    ],
+    "PE (X)": [
+      "-169.25",
+      "26.63",
+      "196.91",
+      "31.75",
+      "7.80"
+    ],
+    "Yield (%)": [
+      "0.00",
+      "1.12",
+      "0.00",
+      "0.00",
+      "5.13"
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "29.73",
+      "0.00",
+      "0.00",
+      "40.00"
+    ],
+    "NAV": [
+      "3.2681",
+      "3.3512",
+      "3.0992",
+      "3.7159",
+      "4.3652"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
 }

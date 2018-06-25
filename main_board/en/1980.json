@@ -2,15 +2,15 @@
   "stock_code": "1980",
   "basic_information": {
     "Name": "Tian Ge Interactive Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2014/07/09",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "USD",
     "Par": "0.0001",
     "Authorized Capital(share)": "3,000,000,000",
-    "Issued Capital(share)": "1,289,619,030",
+    "Issued Capital(share)": "1,290,961,962",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "2.5585",
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/05/31",
+      "Year Ended": "2018/12",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/04/02",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -831,5 +841,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "-119",
+      "-134",
+      "179",
+      "259",
+      "389"
+    ],
+    "Net Profit Growth (%)": [
+      "522.37",
+      "13.18",
+      "-233.07",
+      "45.17",
+      "49.93"
+    ],
+    "Earnings Per Share": [
+      "-1.8560",
+      "-0.1448",
+      "0.1435",
+      "0.2034",
+      "0.3009"
+    ],
+    "EPS Growth (%)": [
+      "246.41",
+      "-92.20",
+      "-199.12",
+      "41.73",
+      "47.98"
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0600",
+      "0.0600",
+      "0.0700",
+      "0.0700"
+    ],
+    "PE (X)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    "Yield (%)": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "-41.47",
+      "41.80",
+      "34.43",
+      "23.27"
+    ],
+    "NAV": [
+      "0.0000",
+      "2.0647",
+      "2.0920",
+      "2.2136",
+      "2.5585"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1.28",
+      "1.2479",
+      "1.1761",
+      "1.11125",
+      "1.1989"
+    ]
+  }
 }

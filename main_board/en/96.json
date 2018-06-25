@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.01",
     "Authorized Capital(share)": "1,500,000,000",
-    "Issued Capital(share)": "404,800,000",
+    "Issued Capital(share)": "485,760,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "1.5104",
     "EPS(HKD)": "0.2470",
-    "PE": "10.85",
+    "PE": "10.12",
     "DPS(HKD)": "0.0237",
-    "Yield": "0.89",
-    "Price/PNAV": "1.7743",
+    "Yield": "0.95",
+    "Price/PNAV": "1.6552",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -687,9 +687,9 @@
       "Event": "Final",
       "Particular": "D:RMB 0.0198",
       "Type": "Cash",
-      "Ex-Date": "2018/06/22",
-      "Book Close Date": "2018/06/26-2018/06/29",
-      "Payable Date": "2018/07/20"
+      "Ex-Date": "2018/06/26",
+      "Book Close Date": "2018/06/28-2018/07/04",
+      "Payable Date": "2018/07/25"
     },
     {
       "Announce Date": "2018/03/29",
@@ -697,9 +697,9 @@
       "Event": "Final",
       "Particular": "B:1-for-5",
       "Type": "Scrip",
-      "Ex-Date": "2018/06/22",
-      "Book Close Date": "2018/06/26-2018/06/29",
-      "Payable Date": "2018/07/20"
+      "Ex-Date": "2018/06/26",
+      "Book Close Date": "2018/06/28-2018/07/04",
+      "Payable Date": "2018/07/25"
     },
     {
       "Announce Date": "2017/08/31",
@@ -1081,5 +1081,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "7",
+      "63",
+      "73",
+      "71",
+      "100"
+    ],
+    "Net Profit Growth (%)": [
+      "-86.11",
+      "775.74",
+      "15.69",
+      "-1.72",
+      "40.16"
+    ],
+    "Earnings Per Share": [
+      "0.0410",
+      "0.3269",
+      "0.1799",
+      "0.1767",
+      "0.2470"
+    ],
+    "EPS Growth (%)": [
+      "-86.01",
+      "698.22",
+      "-44.96",
+      "-1.81",
+      "39.78"
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0493",
+      "0.0465",
+      "0.0220",
+      "0.0237"
+    ],
+    "PE (X)": [
+      "70.56",
+      "11.47",
+      "11.67",
+      "15.85",
+      "10.12"
+    ],
+    "Yield (%)": [
+      "0.00",
+      "1.31",
+      "2.21",
+      "0.79",
+      "0.95"
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "15.08",
+      "25.82",
+      "12.45",
+      "9.61"
+    ],
+    "NAV": [
+      "1.8958",
+      "2.0092",
+      "2.1974",
+      "1.1918",
+      "1.5104"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1.28",
+      "1.2479",
+      "1.1761",
+      "1.11125",
+      "1.1989"
+    ]
+  }
 }

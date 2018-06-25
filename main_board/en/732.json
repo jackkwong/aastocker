@@ -2,8 +2,8 @@
   "stock_code": "732",
   "basic_information": {
     "Name": "Truly International Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1991/07/29",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/05/30",
+      "Year Ended": "2018/12",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1341,5 +1351,91 @@
       "Book Close Date": "2006/11/06-2006/11/10",
       "Payable Date": "2006/11/22"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "1,620",
+      "1,118",
+      "845",
+      "582",
+      "63"
+    ],
+    "Net Profit Growth (%)": [
+      "128.08",
+      "-30.96",
+      "-24.41",
+      "-31.17",
+      "-89.18"
+    ],
+    "Earnings Per Share": [
+      "0.5743",
+      "0.3841",
+      "0.2908",
+      "0.2002",
+      "0.0213"
+    ],
+    "EPS Growth (%)": [
+      "123.72",
+      "-33.12",
+      "-24.29",
+      "-31.16",
+      "-89.36"
+    ],
+    "Dividend Per Share": [
+      "0.1900",
+      "0.1500",
+      "0.1000",
+      "0.0900",
+      "0.0100"
+    ],
+    "PE (X)": [
+      "6.58",
+      "8.57",
+      "10.28",
+      "10.49",
+      "76.06"
+    ],
+    "Yield (%)": [
+      "5.03",
+      "4.56",
+      "3.34",
+      "4.29",
+      "0.62"
+    ],
+    "Dividend Payout (%)": [
+      "33.08",
+      "39.05",
+      "34.39",
+      "44.96",
+      "46.95"
+    ],
+    "NAV": [
+      "2.3648",
+      "2.4344",
+      "2.4373",
+      "2.3086",
+      "2.5262"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
 }

@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "1",
     "Authorized Capital(share)": "240,000,000",
-    "Issued Capital(share)": "128,388,280",
+    "Issued Capital(share)": "128,408,280",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
     "NAV(HKD)": "5.6250",
     "EPS(HKD)": "1.6143",
-    "PE": "19.11",
+    "PE": "19.14",
     "DPS(HKD)": "1.4200",
     "Yield": "4.60",
-    "Price/PNAV": "5.4311",
+    "Price/PNAV": "5.4934",
     "Index Constituent": "Index_Services\n                    HSHKSI\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -1131,5 +1131,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/03",
+      "2014/03",
+      "2015/03",
+      "2016/03",
+      "2017/03"
+    ],
+    "Net Profit (Mn)": [
+      "139",
+      "108",
+      "144",
+      "201",
+      "205"
+    ],
+    "Net Profit Growth (%)": [
+      "6.97",
+      "-22.84",
+      "33.78",
+      "39.46",
+      "2.24"
+    ],
+    "Earnings Per Share": [
+      "1.1167",
+      "0.8571",
+      "1.1413",
+      "1.5862",
+      "1.6143"
+    ],
+    "EPS Growth (%)": [
+      "7.07",
+      "-23.25",
+      "33.16",
+      "38.98",
+      "1.77"
+    ],
+    "Dividend Per Share": [
+      "0.7200",
+      "0.6200",
+      "0.8000",
+      "1.4000",
+      "1.4200"
+    ],
+    "PE (X)": [
+      "14.87",
+      "27.48",
+      "26.24",
+      "21.84",
+      "19.14"
+    ],
+    "Yield (%)": [
+      "4.34",
+      "2.63",
+      "2.67",
+      "4.04",
+      "4.60"
+    ],
+    "Dividend Payout (%)": [
+      "64.48",
+      "72.34",
+      "70.10",
+      "88.26",
+      "87.96"
+    ],
+    "NAV": [
+      "4.1517",
+      "4.2662",
+      "4.7504",
+      "5.3362",
+      "5.6250"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
 }

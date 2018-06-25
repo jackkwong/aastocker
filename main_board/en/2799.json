@@ -19,7 +19,7 @@
     "DPS(HKD)": "0.2025",
     "Yield": "-",
     "Price/PNAV": "-",
-    "Index Constituent": "HSHKLI\n                    Index_Financials\n                    Hang Seng China H-Financials\n                    FTSE Xinhua China25 Index\n                    HSGCI\n                    HSCI"
+    "Index Constituent": "HSHKLI\n                    HSCEI\n                    Index_Financials\n                    Hang Seng China H-Financials\n                    FTSE Xinhua China25 Index\n                    HSGCI\n                    HSML100\n                    HSCI"
   },
   "financial_ratio": {
     "Closing Date": [
@@ -731,5 +731,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "11,084",
+      "13,298",
+      "17,032",
+      "21,795",
+      "26,367"
+    ],
+    "Net Profit Growth (%)": [
+      "50.98",
+      "19.97",
+      "28.08",
+      "27.97",
+      "20.97"
+    ],
+    "Earnings Per Share": [
+      "0.4352",
+      "0.4742",
+      "0.5057",
+      "0.5556",
+      "0.6714"
+    ],
+    "EPS Growth (%)": [
+      "51.86",
+      "8.96",
+      "6.65",
+      "9.87",
+      "20.83"
+    ],
+    "Dividend Per Share": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "0.1674",
+      "0.2025"
+    ],
+    "PE (X)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    "Yield (%)": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "Dividend Payout (%)": [
+      "0.00",
+      "0.00",
+      "0.00",
+      "30.12",
+      "30.16"
+    ],
+    "NAV": [
+      "0.0000",
+      "0.0000",
+      "2.9536",
+      "3.2778",
+      "3.9331"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1.28",
+      "1.2479",
+      "1.1761",
+      "1.11125",
+      "1.1989"
+    ]
+  }
 }

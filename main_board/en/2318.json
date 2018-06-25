@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "31.0449",
     "EPS(HKD)": "5.9825",
-    "PE": "12.77",
+    "PE": "12.45",
     "DPS(HKD)": "1.7984",
-    "Yield": "2.35",
-    "Price/PNAV": "2.4610",
+    "Yield": "2.41",
+    "Price/PNAV": "2.3998",
     "Index Constituent": "HSI\n                    HSCEI\n                    FS-index\n                    Hang Seng China H-Financials\n                    HSCI\n                    HSML25\n                    Index_Financials\n                    HSHKLI\n                    HKMI_S&P\n                    HSML100\n                    FTSE Xinhua China25 Index\n                    HSGCI\n                    HS AH Premium"
   },
   "financial_ratio": {
@@ -687,9 +687,9 @@
       "Event": "Quarter 1",
       "Particular": "SD:RMB 0.2000",
       "Type": "Cash",
-      "Ex-Date": "-",
-      "Book Close Date": "-",
-      "Payable Date": "-"
+      "Ex-Date": "2018/06/07",
+      "Book Close Date": "2018/06/09-2018/06/14",
+      "Payable Date": "2018/07/13"
     },
     {
       "Announce Date": "2018/03/20",
@@ -1191,5 +1191,91 @@
       "Book Close Date": "-",
       "Payable Date": "-"
     }
-  ]
+  ],
+  "earning_summary": {
+    "Closing Date": [
+      "2013/12",
+      "2014/12",
+      "2015/12",
+      "2016/12",
+      "2017/12"
+    ],
+    "Net Profit (Mn)": [
+      "36,037",
+      "49,016",
+      "63,748",
+      "69,335",
+      "106,808"
+    ],
+    "Net Profit Growth (%)": [
+      "44.25",
+      "36.02",
+      "30.06",
+      "8.76",
+      "54.04"
+    ],
+    "Earnings Per Share": [
+      "4.5568",
+      "3.0823",
+      "3.5048",
+      "3.8894",
+      "5.9825"
+    ],
+    "EPS Growth (%)": [
+      "44.55",
+      "-32.36",
+      "13.71",
+      "10.97",
+      "53.82"
+    ],
+    "Dividend Per Share": [
+      "0.8320",
+      "0.9359",
+      "0.6233",
+      "0.8334",
+      "1.7984"
+    ],
+    "PE (X)": [
+      "22.93",
+      "12.05",
+      "22.44",
+      "19.64",
+      "12.45"
+    ],
+    "Yield (%)": [
+      "0.80",
+      "2.52",
+      "0.79",
+      "1.09",
+      "2.41"
+    ],
+    "Dividend Payout (%)": [
+      "18.26",
+      "30.36",
+      "17.79",
+      "21.43",
+      "30.06"
+    ],
+    "NAV": [
+      "29.5436",
+      "40.6373",
+      "21.5049",
+      "23.3100",
+      "31.0449"
+    ],
+    "Currency": [
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD",
+      "HKD"
+    ],
+    "Currency Conversion": [
+      "1.28",
+      "1.2479",
+      "1.1761",
+      "1.11125",
+      "1.1989"
+    ]
+  }
 }
