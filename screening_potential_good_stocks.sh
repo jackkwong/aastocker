@@ -90,6 +90,16 @@ map(
     ROCE:     \( (.financial_ratio."資本運用回報率(%)" // [] | join(" -> ")) )
     ROA:      \( (.financial_ratio."總資產回報率(%)" | join(" -> ")) )
 
+    Unit Stock
+    ________________________________________________________________________________
+    Date:                  \( (.earning_summary."截止日期" | join(" -> ")) )
+    EPS:                   \( (.earning_summary."每股盈利" | join(" -> ")) )
+    EPS change (%):        \( (.earning_summary."每股盈利增長(%)" | join(" -> ")) )
+    Equity Per Share:      \( (.earning_summary."每股賬面資產淨值" | join(" -> ")) )
+    Dividend Rate (%):     \( (.earning_summary."派息比率(%)" | join(" -> ")) )
+    Currency:              \( (.earning_summary."基準貨幣" | join(" -> ")) )
+    Currency Exhange Rate: \( (.earning_summary."兌換比率" | join(" -> ")) )
+
     Details
     ________________________________________________________________________________
     Date:     \(.dividend_history | get_cash_dividend_history | .date | join(" <- "))
