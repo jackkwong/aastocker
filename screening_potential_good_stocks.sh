@@ -79,11 +79,14 @@ map(
 
     Quick-Check
     ________________________________________________________________________________
-    3-years min yield:     \($cash_dividend_history | .dividend | .[0:3] | min / $deduced_p * 100) %
-    5-years min yield:     \($cash_dividend_history | .dividend | .[0:5] | min / $deduced_p * 100) %
+    上市日期:                              \(."basic_information"."上市日期")
+    1st recorded dividend date (AAStock):  \($cash_dividend_history | .date | last)
 
-    3-years equity per share change: \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[(length-3):] | ((last - first) / first * 100)) %
-    5-years equity per share change: \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[(length-5):] | ((last - first) / first * 100)) %
+    3-years min yield:                     \($cash_dividend_history | .dividend | .[0:3] | min / $deduced_p * 100) %
+    5-years min yield:                     \($cash_dividend_history | .dividend | .[0:5] | min / $deduced_p * 100) %
+
+    3-years equity per share change:       \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[(length-3):] | ((last - first) / first * 100)) %
+    5-years equity per share change:       \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[(length-5):] | ((last - first) / first * 100)) %
 
 
     Price-related
