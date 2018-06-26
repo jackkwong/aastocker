@@ -54,9 +54,7 @@ def get_cash_dividend_history:
 JQ_LIBRARY
 `"
 
-filter="`cat <<-JQ_FILTER
-$library
-
+filter="`cat <<-'JQ_FILTER'
 map(
     select( .dividend_history | has_at_least_n_dividends(9; 2008; 2017) )
         | select(
@@ -71,19 +69,34 @@ map(
         | select((.basic_information."周息率(%)") >= 6)
 )
 | sort_by((.basic_information."周息率(%)") | tonumber | -1 * .)
-| map("\(.stock_code) - \(.basic_information."公司名稱")
+| map(
+. as $stock
+| ( (.basic_information."股價/每股淨資產值(倍)" | tonumber?) * (.basic_information."每股淨資產值(港元)" | tonumber?) | (.*100000 + 0.5 | floor | ./100000) ) as $deduced_p
+| (.dividend_history | get_cash_dividend_history) as $cash_dividend_history
+| "
+\(.stock_code) - \(.basic_information."公司名稱")
+========================================================================================================================================================================================================
+
+    Quick-Check
+    ________________________________________________________________________________
+    3-years min yield:     \($cash_dividend_history | .dividend | .[0:3] | min / $deduced_p * 100) %
+    5-years min yield:     \($cash_dividend_history | .dividend | .[0:5] | min / $deduced_p * 100) %
+
+    3-years equity per share change: \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[2:] | ((last - first) / first * 100)) %
+    5-years equity per share change: \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[0:5] | ((last - first) / first * 100)) %
+
 
     Price-related
     ________________________________________________________________________________
-    deduced P:             \( (.basic_information."股價/每股淨資產值(倍)" | tonumber?) * (.basic_information."每股淨資產值(港元)" | tonumber?) | (.*100000 + 0.5 | floor | ./100000) )
+    deduced P:             \($deduced_p)
     PE:                    \(.basic_information."市盈率(倍)")
     PB:                    \(.basic_information."股價/每股淨資產值(倍)")
     Yield:                 \(.basic_information."周息率(%)")
 
     Basic
     ________________________________________________________________________________
-    Date:                  \(.dividend_history | get_cash_dividend_history | .date | .[0:6] | reverse | join(" -> "))
-    Dividend:              \(.dividend_history | get_cash_dividend_history | .dividend | map(tostring?) | .[0:6] | reverse | join(" -> "))
+    Date:                  \($cash_dividend_history | .date | .[0:6] | reverse | join(" -> "))
+    Dividend:              \($cash_dividend_history | .dividend | map(tostring?) | .[0:6] | reverse | join(" -> "))
 
     Date:                  \( (.financial_ratio."截止日期" // [] | join(" -> ")) )
     Current Ratio:         \( (.financial_ratio."流動比率(倍)" // [] | join(" -> ")) )
@@ -116,27 +129,34 @@ map(
 
     Details
     ________________________________________________________________________________
-    Date:                  \(.dividend_history | get_cash_dividend_history | .date | join(" <- "))
-    Dividend:              \(.dividend_history | get_cash_dividend_history | .dividend | map(tostring?) | join(" <- "))
+    Date:                  \($cash_dividend_history | .date | join(" <- "))
+    Dividend:              \($cash_dividend_history | .dividend | map(tostring?) | join(" <- "))
 ") 
 | .[]
 JQ_FILTER
 `"
 
-filter2="`cat <<-JQ_FILTER
+jq_script="`cat <<-JQ_SCRIPT
 $library
-map(
-    select( .dividend_history | has_at_least_n_dividends(9; 2007; 2016) )
-        | select((.financial_ratio."流動比率(倍)" | last | tonumber?) >= 1)
-        | select((.financial_ratio."速動比率(倍)" | last | tonumber?) >= 1)
-    | .financial_ratio."股東權益回報率(%)"
-    | map(. | tonumber?)?
-    | (add / length)
-)
-| sort
-| {p10:percentile(10), p25: percentile(25), p50: percentile(50), p75:percentile(75), p90: percentile(90)}
-JQ_FILTER
+$filter
+JQ_SCRIPT
 `"
 
-cat main_board/tc/*.json | jq -s -r "$filter"
+#filter2="`cat <<-JQ_FILTER
+#$library
+#map(
+#    select( .dividend_history | has_at_least_n_dividends(9; 2007; 2016) )
+#        | select((.financial_ratio."流動比率(倍)" | last | tonumber?) >= 1)
+#        | select((.financial_ratio."速動比率(倍)" | last | tonumber?) >= 1)
+#    | .financial_ratio."股東權益回報率(%)"
+#    | map(. | tonumber?)?
+#    | (add / length)
+#)
+#| sort
+#| {p10:percentile(10), p25: percentile(25), p50: percentile(50), p75:percentile(75), p90: percentile(90)}
+#JQ_FILTER
+#`"
+
 #cat main_board/tc/*.json | jq -s -r "$filter2"
+
+cat main_board/tc/*.json | jq -s -r "$jq_script"
