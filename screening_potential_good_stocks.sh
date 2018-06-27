@@ -2,6 +2,19 @@
 
 library="`cat <<-'JQ_LIBRARY'
 
+def round:
+    .*100000 + 0.5 | floor | ./100000
+;
+
+def running_average(number_of_items_per_group):
+    . as $all
+    | [range(length - number_of_items_per_group + 1)]
+    | map(. as $i
+        | $all[$i:($i+number_of_items_per_group)]
+        | add / length
+    )
+;
+
 def percentile(n):
     . as $array
     | ((length - 1) * n / 100) as $middle_index
@@ -48,9 +61,10 @@ def get_cash_dividend_history:
     | reverse
     | {
         date: map( (.[0]."年度/截至") ),
-        dividend: map(. | map(."派息內容" | capture("港元[ \n]*(?<V>[0-9.]+)").V | tonumber) | add | if . == null then null else (.*100000 + 0.5 | floor | ./100000) end )
+        dividend: map(. | map(."派息內容" | capture("港元[ \n]*(?<V>[0-9.]+)").V | tonumber) | add | if . == null then null else round end )
     }
 ;
+
 JQ_LIBRARY
 `"
 
@@ -71,9 +85,10 @@ map(
 | sort_by((.basic_information."周息率(%)") | tonumber | -1 * .)
 | map(
 . as $stock
-| ( (.basic_information."股價/每股淨資產值(倍)" | tonumber?) * (.basic_information."每股淨資產值(港元)" | tonumber?) | (.*100000 + 0.5 | floor | ./100000) ) as $deduced_p
+| ( (.basic_information."股價/每股淨資產值(倍)" | tonumber?) * (.basic_information."每股淨資產值(港元)" | tonumber?) | round ) as $deduced_p
 | (.dividend_history | get_cash_dividend_history) as $cash_dividend_history
 | ($cash_dividend_history | .date | map(select( ( test("\\\\s*-\\\\s*"; "x") | not ) )) | last) as $first_recorded_dividend_date
+| (.earning_summary."每股盈利" | map(tonumber) | running_average(3) | map(round | tostring?) | join(" -> ")) as $running_three_years_average_eps
 | "
 \(.stock_code) - \(.basic_information."公司名稱")
 ========================================================================================================================================================================================================
@@ -85,10 +100,12 @@ map(
 
     3-years min yield:                     \($cash_dividend_history | .dividend | .[0:3] | min / $deduced_p * 100) %
     5-years min yield:                     \($cash_dividend_history | .dividend | .[0:5] | min / $deduced_p * 100) %
+    5-years average yield:                 \($cash_dividend_history | .dividend | .[0:5] | add / length / $deduced_p * 100) %
 
     3-years equity per share change:       \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[(length-3):] | ((last - first) / first * 100)) %
     5-years equity per share change:       \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[(length-5):] | ((last - first) / first * 100)) %
 
+    running 3-years EPS average:           \($running_three_years_average_eps)
 
     Price-related
     ________________________________________________________________________________
