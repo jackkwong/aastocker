@@ -20,7 +20,7 @@ def dividend_years_between(from; to):
     | map( 
         select(
             ."派息內容"
-            | test("股息[:：]", "x")
+            | test("股息[:：]"; "x")
         )
         | {
             "year": ( ."年度/截至" | strptime("%Y/%m")? | .[0] ), 
@@ -73,6 +73,7 @@ map(
 . as $stock
 | ( (.basic_information."股價/每股淨資產值(倍)" | tonumber?) * (.basic_information."每股淨資產值(港元)" | tonumber?) | (.*100000 + 0.5 | floor | ./100000) ) as $deduced_p
 | (.dividend_history | get_cash_dividend_history) as $cash_dividend_history
+| ($cash_dividend_history | .date | map(select( ( test("\\\\s*-\\\\s*"; "x") | not ) )) | last) as $first_recorded_dividend_date
 | "
 \(.stock_code) - \(.basic_information."公司名稱")
 ========================================================================================================================================================================================================
@@ -80,7 +81,7 @@ map(
     Quick-Check
     ________________________________________________________________________________
     上市日期:                              \(."basic_information"."上市日期")
-    1st recorded dividend date (AAStock):  \($cash_dividend_history | .date | last)
+    1st recorded dividend date (AAStock):  \($first_recorded_dividend_date)
 
     3-years min yield:                     \($cash_dividend_history | .dividend | .[0:3] | min / $deduced_p * 100) %
     5-years min yield:                     \($cash_dividend_history | .dividend | .[0:5] | min / $deduced_p * 100) %
