@@ -2,8 +2,8 @@
   "stock_code": "2788",
   "basic_information": {
     "Name": "Yorkey Optical International\n                    (Cayman) Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2006/02/10",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.0774",
     "EPS(HKD)": "0.0547",
-    "PE": "24.32",
+    "PE": "21.02",
     "DPS(HKD)": "0.1700",
-    "Yield": "12.78",
-    "Price/PNAV": "1.2345",
+    "Yield": "14.78",
+    "Price/PNAV": "1.0674",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/07",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.0350(equivalent to USD 0.00446)",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/29",
+      "Book Close Date": "2018/08/31-2018/09/04",
+      "Payable Date": "2018/10/03"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1080,14 +1090,14 @@
       "21.42",
       "31.86",
       "33.03",
-      "24.32"
+      "21.02"
     ],
     "Yield (%)": [
       "7.03",
       "10.16",
       "14.03",
       "11.63",
-      "12.78"
+      "14.78"
     ],
     "Dividend Payout (%)": [
       "312.90",

@@ -2,23 +2,23 @@
   "stock_code": "1308",
   "basic_information": {
     "Name": "SITC International Holdings Co.\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/10/06",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "5,000,000,000",
-    "Issued Capital(share)": "2,665,420,360",
+    "Issued Capital(share)": "2,665,971,360",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "2.8372",
     "EPS(HKD)": "0.5587",
-    "PE": "14.84",
+    "PE": "10.29",
     "DPS(HKD)": "0.4000",
-    "Yield": "4.83",
-    "Price/PNAV": "2.9219",
+    "Yield": "6.96",
+    "Price/PNAV": "2.0267",
     "Index Constituent": "HSCI\n                    HSHKMI\n                    HSGCI\n                    Index_Industrial Goods"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.1500(equivalent to USD 0.0191)",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/30",
+      "Book Close Date": "2018/09/03-2018/09/05",
+      "Payable Date": "2018/09/14"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1000,14 +1010,14 @@
       "10.24",
       "13.35",
       "22.45",
-      "14.84"
+      "10.29"
     ],
     "Yield (%)": [
       "5.94",
       "5.94",
       "4.58",
       "3.18",
-      "4.83"
+      "6.96"
     ],
     "Dividend Payout (%)": [
       "74.02",

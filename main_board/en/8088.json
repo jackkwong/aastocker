@@ -15,10 +15,10 @@
     "Board Lot": "8,000",
     "NAV(HKD)": "0.1065",
     "EPS(HKD)": "-0.0422",
-    "PE": "-0.47",
+    "PE": "-0.45",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.1879",
+    "Price/PNAV": "0.1785",
     "Index Constituent": "GEM_Index"
   },
   "financial_ratio": {
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/05/09",
       "Year Ended": "2018/12",
@@ -1520,7 +1530,7 @@
       "-9.33",
       "-2.08",
       "0.49",
-      "-0.47"
+      "-0.45"
     ],
     "Yield (%)": [
       "0.00",

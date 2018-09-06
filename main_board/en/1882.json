@@ -2,8 +2,8 @@
   "stock_code": "1882",
   "basic_information": {
     "Name": "Haitian International Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2006/12/22",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "7.9332",
     "EPS(HKD)": "1.5106",
-    "PE": "12.37",
+    "PE": "10.00",
     "DPS(HKD)": "0.5200",
-    "Yield": "2.78",
-    "Price/PNAV": "2.3547",
+    "Yield": "3.44",
+    "Price/PNAV": "1.9034",
     "Index Constituent": "HSCI\n                    Index_Industrial Goods\n                    HSHKMI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/20",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.2500(equivalent to RMB 0.2220)",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/31",
+      "Book Close Date": "2018/09/04-2018/09/06",
+      "Payable Date": "2018/09/24"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -960,14 +970,14 @@
       "10.46",
       "18.99",
       "22.40",
-      "12.37"
+      "10.00"
     ],
     "Yield (%)": [
       "1.62",
       "3.18",
       "1.84",
       "1.53",
-      "2.78"
+      "3.44"
     ],
     "Dividend Payout (%)": [
       "31.87",

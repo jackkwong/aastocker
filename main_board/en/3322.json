@@ -2,8 +2,8 @@
   "stock_code": "3322",
   "basic_information": {
     "Name": "Win Hanverky Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2006/09/06",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.7334",
     "EPS(HKD)": "0.0160",
-    "PE": "43.75",
+    "PE": "42.50",
     "DPS(HKD)": "0.0400",
-    "Yield": "5.71",
-    "Price/PNAV": "0.4038",
+    "Yield": "5.88",
+    "Price/PNAV": "0.3923",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0300",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/17",
+      "Book Close Date": "2018/09/19-2018/09/21",
+      "Payable Date": "2018/10/09"
+    },
+    {
       "Announce Date": "2018/03/22",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -990,14 +1000,14 @@
       "53.20",
       "6.09",
       "7.05",
-      "43.75"
+      "42.50"
     ],
     "Yield (%)": [
       "7.00",
       "5.26",
       "9.83",
       "8.86",
-      "5.71"
+      "5.88"
     ],
     "Dividend Payout (%)": [
       "58.82",

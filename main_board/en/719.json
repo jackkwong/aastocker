@@ -10,15 +10,15 @@
     "Par Currency": "RMB",
     "Par": "1",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "478,353,421",
-    "Issue Cap-H(share)": "150,000,000",
+    "Issued Capital(share)": "621,859,447",
+    "Issue Cap-H(share)": "195,000,000",
     "Board Lot": "2,000",
     "NAV(HKD)": "6.2157",
     "EPS(HKD)": "0.5395",
-    "PE": "13.36",
+    "PE": "7.69",
     "DPS(HKD)": "0.0959",
-    "Yield": "1.33",
-    "Price/PNAV": "1.1600",
+    "Yield": "2.31",
+    "Price/PNAV": "0.6677",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/16",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/04/19",
       "Year Ended": "2018/12",
       "Event": "Quarter 1",
@@ -695,7 +705,7 @@
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
-      "Particular": "D:RMB 0.0500",
+      "Particular": "D:RMB\n                0.0500(equivalent to HKD 0.0601)",
       "Type": "Cash",
       "Ex-Date": "2018/07/06",
       "Book Close Date": "2018/07/10-2018/07/16",
@@ -1210,14 +1220,14 @@
       "36.17",
       "30.80",
       "28.33",
-      "13.36"
+      "7.69"
     ],
     "Yield (%)": [
       "0.31",
       "0.51",
       "0.36",
       "0.00",
-      "1.33"
+      "2.31"
     ],
     "Dividend Payout (%)": [
       "24.10",

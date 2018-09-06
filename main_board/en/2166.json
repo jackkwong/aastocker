@@ -2,11 +2,11 @@
   "stock_code": "2166",
   "basic_information": {
     "Name": "Smart-Core Holdings Limited",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2016/10/07",
     "Trade Currency": "HKD",
-    "Report Currency": "USD",
+    "Report Currency": "HKD",
     "Par Currency": "USD",
     "Par": "1E-05",
     "Authorized Capital(share)": "5,000,000,000",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.0270",
     "EPS(HKD)": "0.1554",
-    "PE": "9.14",
+    "PE": "10.49",
     "DPS(HKD)": "0.0500",
-    "Yield": "3.52",
-    "Price/PNAV": "1.3826",
+    "Yield": "3.07",
+    "Price/PNAV": "1.5871",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0200",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/10",
+      "Book Close Date": "2018/09/12-2018/09/14",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -760,14 +770,14 @@
       "1.26",
       "13.79",
       "8.83",
-      "9.14"
+      "10.49"
     ],
     "Yield (%)": [
       "0.00",
       "0.00",
       "0.00",
       "0.00",
-      "3.52"
+      "3.07"
     ],
     "Dividend Payout (%)": [
       "0.00",

@@ -2,8 +2,8 @@
   "stock_code": "2678",
   "basic_information": {
     "Name": "Texhong Textile Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2004/12/09",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "7.7439",
     "EPS(HKD)": "1.5106",
-    "PE": "7.89",
+    "PE": "8.00",
     "DPS(HKD)": "0.4499",
-    "Yield": "3.77",
-    "Price/PNAV": "1.5393",
+    "Yield": "3.72",
+    "Price/PNAV": "1.5599",
     "Index Constituent": "HSCI\n                    HSHKSI\n                    Index_Consumer Goods\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/13",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2300",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/06",
+      "Book Close Date": "2018/09/08-2018/09/12",
+      "Payable Date": "2018/09/24"
+    },
+    {
       "Announce Date": "2018/03/09",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1000,14 +1010,14 @@
       "17.79",
       "14.34",
       "7.05",
-      "7.89"
+      "8.00"
     ],
     "Yield (%)": [
       "5.28",
       "1.67",
       "2.12",
       "4.22",
-      "3.77"
+      "3.72"
     ],
     "Dividend Payout (%)": [
       "28.91",

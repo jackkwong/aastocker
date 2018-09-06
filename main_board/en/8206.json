@@ -2,8 +2,8 @@
   "stock_code": "8206",
   "basic_information": {
     "Name": "Shentong Robot Education Group\n                    Company Limited",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2002/11/15",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "0.1446",
     "EPS(HKD)": "0.0151",
-    "PE": "26.16",
+    "PE": "24.83",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "2.7311",
+    "Price/PNAV": "2.5928",
     "Index Constituent": "GEM_Index"
   },
   "financial_ratio": {
@@ -477,32 +477,32 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "-3,211",
       "-5,113",
       "-3,666",
       "-24,122",
-      "84,902"
+      "84,902",
+      "54,015"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
       "35",
-      "35",
       "77",
       "51",
-      "89"
+      "89",
+      "338"
     ],
     "Interest Received": [
       "35",
-      "35",
       "77",
       "51",
-      "89"
+      "89",
+      "338"
     ],
     "Interest Paid": [
       "-",
@@ -533,44 +533,44 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-1,620",
       "-2,121",
       "-1,869",
       "-1,568",
-      "-5,766"
+      "-5,766",
+      "-3,191"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-557",
       "-470",
       "-765",
       "-200",
-      "-180,337"
+      "-180,337",
+      "-119,507"
     ],
     "Additions to Fixed Assets": [
-      "-557",
       "-918",
       "-816",
       "-200",
-      "-1,869"
+      "-1,869",
+      "-12,281"
     ],
     "Disposal of Fixed Assets": [
       "-",
       "-",
       "-",
-      "-",
-      "195"
+      "195",
+      "-"
     ],
     "Increase in Investments": [
-      "-",
       "-37,655",
       "-12,507",
       "-",
-      "-28,763"
+      "-28,763",
+      "-"
     ],
     "Decrease in Investments": [
-      "-",
       "38,103",
       "12,558",
+      "-",
       "-",
       "-"
     ],
@@ -582,18 +582,18 @@
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-5,353",
       "-7,669",
       "-6,223",
       "-25,839",
-      "-101,112"
+      "-101,112",
+      "-68,345"
     ],
     "Net Cash Flow from Financing Activities": [
-      "25,774",
       "-",
       "-",
       "-",
-      "180,450"
+      "180,450",
+      "107,849"
     ],
     "New Loans": [
       "-",
@@ -617,46 +617,46 @@
       "-"
     ],
     "Repayment of Fixed Income/Debt Instruments": [
-      "-4,996",
+      "-",
       "-",
       "-",
       "-",
       "-"
     ],
     "Equity Financing": [
-      "30,770",
       "-",
       "-",
       "-",
-      "180,450"
+      "180,450",
+      "107,849"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "20,421",
       "-7,669",
       "-6,223",
       "-25,839",
-      "79,338"
+      "79,338",
+      "39,504"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "38,425",
-      "59,248",
-      "51,680",
-      "45,167",
-      "17,961"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "402",
-      "101",
-      "-290",
-      "-1,367",
-      "-4,774"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "59,248",
       "51,680",
       "45,167",
       "17,961",
       "92,525"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "101",
+      "-290",
+      "-1,367",
+      "-4,774",
+      "14,560"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "51,680",
+      "45,167",
+      "17,961",
+      "92,525",
+      "146,589"
     ],
     "Unit": [
       "Thousand",
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/03",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/06/15",
       "Year Ended": "2018/03",
@@ -1360,7 +1370,7 @@
       "-65.79",
       "-27.07",
       "162.50",
-      "26.16"
+      "24.83"
     ],
     "Yield (%)": [
       "0.00",

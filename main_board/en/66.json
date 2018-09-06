@@ -2,23 +2,23 @@
   "stock_code": "66",
   "basic_information": {
     "Name": "MTR Corporation Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2000/10/05",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "6,009,460,302",
+    "Issued Capital(share)": "6,103,661,714",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
     "NAV(HKD)": "27.6815",
     "EPS(HKD)": "2.8300",
-    "PE": "15.28",
+    "PE": "14.03",
     "DPS(HKD)": "3.3200",
-    "Yield": "7.68",
-    "Price/PNAV": "1.5624",
+    "Yield": "8.36",
+    "Price/PNAV": "1.4342",
     "Index Constituent": "HSHKLI\n                    HSI\n                    C&I-S-index\n                    HSHK35\n                    Index_Services\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/09",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2500",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/08/22",
+      "Book Close Date": "2018/08/24-2018/08/29",
+      "Payable Date": "2018/10/12"
+    },
+    {
       "Announce Date": "2018/03/08",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1100,14 +1110,14 @@
       "13.33",
       "18.67",
       "23.56",
-      "15.28"
+      "14.03"
     ],
     "Yield (%)": [
       "2.39",
       "2.93",
       "2.56",
       "7.98",
-      "7.68"
+      "8.36"
     ],
     "Dividend Payout (%)": [
       "40.89",

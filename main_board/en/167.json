@@ -2,23 +2,23 @@
   "stock_code": "167",
   "basic_information": {
     "Name": "IDT International Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1988/10/21",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "20,000,000,000",
-    "Issued Capital(share)": "3,899,989,632",
+    "Issued Capital(share)": "2,599,993,088",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "0.0691",
     "EPS(HKD)": "-0.0330",
-    "PE": "-4.30",
+    "PE": "-2.97",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "2.0557",
+    "Price/PNAV": "1.4187",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,14 +682,24 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/06/08",
       "Year Ended": "-",
       "Event": "Special",
-      "Particular": "R:1-for-2@HKD\n                0.1540",
+      "Particular": "R:1-for-2@HKD\n                0.1540(not proceed as announced on 2018/07/20)",
       "Type": "-",
-      "Ex-Date": "2018/06/22",
-      "Book Close Date": "2018/06/26-2018/07/03",
-      "Payable Date": "2018/07/18"
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
     },
     {
       "Announce Date": "2018/03/23",
@@ -1180,7 +1190,7 @@
       "-9.65",
       "-7.83",
       "-7.72",
-      "-4.30"
+      "-2.97"
     ],
     "Yield (%)": [
       "0.00",

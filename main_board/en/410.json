@@ -2,8 +2,8 @@
   "stock_code": "410",
   "basic_information": {
     "Name": "SOHO China Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/10/08",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "7.5409",
     "EPS(HKD)": "1.0934",
-    "PE": "3.50",
+    "PE": "2.77",
     "DPS(HKD)": "1.1054",
-    "Yield": "28.86",
-    "Price/PNAV": "0.5079",
+    "Yield": "36.48",
+    "Price/PNAV": "0.4018",
     "Index Constituent": "Index_Properties &\n                    Construction\n                    HSCI\n                    HSHKMI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/20",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -960,14 +970,14 @@
       "4.02",
       "34.58",
       "24.89",
-      "3.50"
+      "2.77"
     ],
     "Yield (%)": [
       "5.78",
       "7.96",
       "19.35",
       "12.31",
-      "28.86"
+      "36.48"
     ],
     "Dividend Payout (%)": [
       "16.76",

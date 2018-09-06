@@ -2,8 +2,8 @@
   "stock_code": "373",
   "basic_information": {
     "Name": "Allied Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1973/01/12",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "142.6390",
     "EPS(HKD)": "18.3500",
-    "PE": "2.72",
+    "PE": "2.56",
     "DPS(HKD)": "2.5000",
-    "Yield": "5.00",
-    "Price/PNAV": "0.3505",
+    "Yield": "5.32",
+    "Price/PNAV": "0.3295",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/20",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1500",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/03",
+      "Book Close Date": "2018/09/05-2018/09/07",
+      "Payable Date": "2018/09/19"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Interim 2",
@@ -1100,14 +1110,14 @@
       "4.26",
       "3.10",
       "2.75",
-      "2.72"
+      "2.56"
     ],
     "Yield (%)": [
       "3.69",
       "4.30",
       "3.45",
       "3.97",
-      "5.00"
+      "5.32"
     ],
     "Dividend Payout (%)": [
       "21.25",

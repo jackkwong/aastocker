@@ -477,39 +477,39 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "8,733",
       "86,987",
       "46,457",
       "-32,156",
-      "116,321"
+      "116,321",
+      "50,510"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-82",
       "-556",
       "-36,949",
       "-11,824",
-      "2,586"
+      "2,586",
+      "-4,226"
     ],
     "Interest Received": [
-      "-",
       "1",
       "193",
       "974",
-      "2,586"
+      "2,586",
+      "592"
     ],
     "Interest Paid": [
-      "-82",
       "-557",
       "-1,142",
       "-798",
-      "-"
+      "-",
+      "-4,818"
     ],
     "Dividend Received": [
       "-",
@@ -520,9 +520,9 @@
     ],
     "Dividend Paid": [
       "-",
-      "-",
       "-36,000",
       "-12,000",
+      "-",
       "-"
     ],
     "Others": [
@@ -533,80 +533,80 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-4,557",
       "-12,058",
       "-17,826",
       "-6,345",
-      "-2,422"
+      "-2,422",
+      "-17,192"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-34,583",
       "-34,035",
       "-14,361",
       "8,811",
-      "-76,535"
+      "-76,535",
+      "-421,336"
     ],
     "Additions to Fixed Assets": [
-      "-35,052",
       "-31,055",
       "-4,867",
       "-10,151",
-      "-5,334"
+      "-5,334",
+      "-494,353"
     ],
     "Disposal of Fixed Assets": [
-      "23",
       "-",
       "-",
       "5,017",
-      "2"
+      "2",
+      "271"
     ],
     "Increase in Investments": [
       "-",
       "-",
       "-",
-      "-",
-      "-20,694"
+      "-20,694",
+      "-82,210"
     ],
     "Decrease in Investments": [
       "-",
       "-",
       "-",
       "-",
-      "-"
+      "155,300"
     ],
     "Net Cash Flow with Related Parties": [
       "-",
       "-",
       "-",
       "-",
-      "-"
+      "240,591"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-30,489",
       "40,338",
       "-22,679",
       "-41,514",
-      "39,950"
+      "39,950",
+      "-392,244"
     ],
     "Net Cash Flow from Financing Activities": [
-      "24,600",
       "33,233",
       "82,943",
       "-36,066",
-      "-"
+      "-",
+      "598,848"
     ],
     "New Loans": [
-      "25,000",
       "38,000",
       "-",
       "-",
-      "-"
+      "-",
+      "301,198"
     ],
     "Loans Repayment": [
-      "-400",
       "-4,767",
       "-21,767",
       "-36,066",
+      "-",
       "-"
     ],
     "Fixed Income/Debt Instruments": [
@@ -614,7 +614,7 @@
       "-",
       "-",
       "-",
-      "-"
+      "57,059"
     ],
     "Repayment of Fixed Income/Debt Instruments": [
       "-",
@@ -625,38 +625,38 @@
     ],
     "Equity Financing": [
       "-",
-      "-",
       "104,710",
+      "-",
       "-",
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-5,889",
       "73,571",
       "60,264",
       "-77,580",
-      "39,950"
+      "39,950",
+      "206,604"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "28,809",
-      "22,920",
-      "96,491",
-      "156,755",
-      "79,175"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-16"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "22,920",
       "96,491",
       "156,755",
       "79,175",
       "119,109"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "-",
+      "-",
+      "-",
+      "-16",
+      "1,409"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "96,491",
+      "156,755",
+      "79,175",
+      "119,109",
+      "327,122"
     ],
     "Unit": [
       "Thousand",
@@ -674,7 +674,7 @@
     ],
     "Auditor's Opinion": [
       "-",
-      "-",
+      "Unqualified",
       "Unqualified",
       "Unqualified",
       "Unqualified"

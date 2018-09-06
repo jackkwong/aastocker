@@ -2,8 +2,8 @@
   "stock_code": "8",
   "basic_information": {
     "Name": "PCCW Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1994/10/18",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "2.5832",
     "EPS(HKD)": "0.2915",
-    "PE": "15.33",
+    "PE": "14.44",
     "DPS(HKD)": "0.2975",
-    "Yield": "6.66",
-    "Price/PNAV": "1.7304",
+    "Yield": "7.07",
+    "Price/PNAV": "1.6298",
     "Index Constituent": "HSHKMI\n                    HSCI\n                    Index_Telecommunications\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/07",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0891",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/28",
+      "Book Close Date": "2018/08/30-2018/08/31",
+      "Payable Date": "2018/10/10"
+    },
+    {
       "Announce Date": "2018/02/07",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1140,14 @@
       "10.72",
       "14.98",
       "16.35",
-      "15.33"
+      "14.44"
     ],
     "Yield (%)": [
       "4.19",
       "4.17",
       "5.46",
       "6.47",
-      "6.66"
+      "7.07"
     ],
     "Dividend Payout (%)": [
       "77.75",

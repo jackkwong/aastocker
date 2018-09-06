@@ -2,8 +2,8 @@
   "stock_code": "8326",
   "basic_information": {
     "Name": "Tonking New Energy Group\n                    Holdings Ltd.",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2013/11/21",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -14,7 +14,7 @@
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "0.2410",
-    "EPS(HKD)": "0.0316",
+    "EPS(HKD)": "0.0257",
     "PE": "0.00",
     "DPS(HKD)": "0.0000",
     "Yield": "-",
@@ -69,42 +69,42 @@
       "0.67",
       "5.91",
       "17.09",
-      "13.13"
+      "10.65"
     ],
     "Return on Capital Employ (%)": [
       "-",
       "0.61",
       "3.84",
       "16.26",
-      "11.24"
+      "9.13"
     ],
     "Return on Total Assets (%)": [
       "-",
       "0.49",
       "1.17",
       "4.17",
-      "3.69"
+      "2.99"
     ],
     "Operating Profit Margin (%)": [
       "2.21",
       "0.99",
       "3.00",
       "5.10",
-      "4.15"
+      "3.43"
     ],
     "Pre-tax Profit Margin (%)": [
       "-",
       "0.99",
       "3.00",
       "5.10",
-      "4.15"
+      "3.43"
     ],
     "Net Profit Margin (%)": [
       "-",
       "0.21",
       "1.26",
       "3.11",
-      "2.85"
+      "2.31"
     ],
     "Inventory Turnover (X)": [
       "86.91",
@@ -211,14 +211,14 @@
       "2,534",
       "12,093",
       "42,597",
-      "37,630"
+      "31,132"
     ],
     "Operating Profit": [
       "5,282",
       "2,534",
       "12,093",
       "42,597",
-      "37,630"
+      "31,132"
     ],
     "Exceptional Items": [
       "-",
@@ -246,7 +246,7 @@
       "1,833",
       "7,243",
       "16,673",
-      "10,787"
+      "9,163"
     ],
     "Minority Interests": [
       "2,718",
@@ -260,7 +260,7 @@
       "539",
       "5,078",
       "25,992",
-      "25,880"
+      "21,006"
     ],
     "Unit": [
       "Thousand",
@@ -477,39 +477,39 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "25,780",
       "13,825",
       "16,579",
       "-41,486",
-      "124,170"
+      "124,170",
+      "-102,196"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-12,604",
       "-2,000",
       "-770",
       "110",
-      "-393"
+      "-393",
+      "-503"
     ],
     "Interest Received": [
       "-",
       "-",
-      "-",
       "110",
-      "392"
+      "392",
+      "681"
     ],
     "Interest Paid": [
-      "-4",
       "-",
       "-",
       "-",
-      "-785"
+      "-785",
+      "-1,184"
     ],
     "Dividend Received": [
       "-",
@@ -519,9 +519,9 @@
       "-"
     ],
     "Dividend Paid": [
-      "-12,600",
       "-2,000",
       "-770",
+      "-",
       "-",
       "-"
     ],
@@ -533,36 +533,36 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-4,968",
       "-3,771",
       "-2,929",
       "-1,971",
-      "-25,001"
+      "-25,001",
+      "-8,792"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-4,025",
       "-16,933",
       "-9,872",
       "-21,033",
-      "-55,944"
+      "-55,944",
+      "-9,831"
     ],
     "Additions to Fixed Assets": [
-      "-4,025",
       "-16,438",
       "-9,183",
       "-9,270",
-      "-64,730"
+      "-64,730",
+      "-32,366"
     ],
     "Disposal of Fixed Assets": [
-      "-",
       "22",
       "-",
       "-",
-      "820"
+      "820",
+      "1,844"
     ],
     "Increase in Investments": [
-      "-",
       "-11",
+      "-",
       "-",
       "-",
       "-"
@@ -570,37 +570,37 @@
     "Decrease in Investments": [
       "-",
       "-",
-      "-",
       "679",
-      "-"
+      "-",
+      "28,772"
     ],
     "Net Cash Flow with Related Parties": [
-      "10",
       "7,524",
       "1,000",
       "-",
-      "-"
+      "-",
+      "2,191"
     ],
     "Net Cash Flow before Financing Activities": [
-      "4,183",
       "-8,879",
       "3,008",
       "-64,380",
-      "42,832"
+      "42,832",
+      "-121,322"
     ],
     "Net Cash Flow from Financing Activities": [
-      "10",
       "39,371",
       "1,000",
       "36,000",
-      "48,058"
+      "48,058",
+      "64,590"
     ],
     "New Loans": [
       "-",
       "-",
       "-",
       "-",
-      "-"
+      "62,399"
     ],
     "Loans Repayment": [
       "-",
@@ -612,8 +612,8 @@
     "Fixed Income/Debt Instruments": [
       "-",
       "-",
-      "-",
       "36,000",
+      "-",
       "-"
     ],
     "Repayment of Fixed Income/Debt Instruments": [
@@ -624,39 +624,39 @@
       "-"
     ],
     "Equity Financing": [
-      "-",
       "31,847",
       "-",
       "-",
-      "48,058"
+      "48,058",
+      "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "4,193",
       "30,492",
       "4,008",
       "-28,380",
-      "90,890"
+      "90,890",
+      "-56,732"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "11,159",
-      "15,352",
-      "45,844",
-      "49,852",
-      "21,991"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "-",
-      "-",
-      "-",
-      "519",
-      "-6,141"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "15,352",
       "45,844",
       "49,852",
       "21,991",
       "106,740"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "-",
+      "-",
+      "519",
+      "-6,141",
+      "19,823"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "45,844",
+      "49,852",
+      "21,991",
+      "106,740",
+      "69,831"
     ],
     "Unit": [
       "Thousand",
@@ -673,7 +673,7 @@
       "HKD"
     ],
     "Auditor's Opinion": [
-      "-",
+      "Unqualified",
       "Unqualified",
       "Unqualified",
       "Unqualified",
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/10",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/06/21",
       "Year Ended": "2018/03",
@@ -885,28 +895,28 @@
       "1",
       "5",
       "26",
-      "26"
+      "21"
     ],
     "Net Profit Growth (%)": [
       "-159.93",
       "-109.02",
       "842.12",
       "411.86",
-      "-0.43"
+      "-19.18"
     ],
     "Earnings Per Share": [
       "-0.0168",
       "0.0013",
       "0.0127",
       "0.0320",
-      "0.0316"
+      "0.0257"
     ],
     "EPS Growth (%)": [
       "-",
       "-107.74",
       "876.92",
       "151.97",
-      "-1.25"
+      "-19.69"
     ],
     "Dividend Per Share": [
       "0.0000",

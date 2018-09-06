@@ -2,23 +2,23 @@
   "stock_code": "27",
   "basic_information": {
     "Name": "Galaxy Entertainment Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1991/10/07",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "4,318,458,821",
+    "Issued Capital(share)": "4,319,834,422",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "12.8783",
     "EPS(HKD)": "2.4510",
-    "PE": "25.01",
+    "PE": "23.15",
     "DPS(HKD)": "0.7400",
-    "Yield": "1.21",
-    "Price/PNAV": "4.7599",
+    "Yield": "1.30",
+    "Price/PNAV": "4.4066",
     "Index Constituent": "Index_Services\n                    HSCI\n                    HSHKLI\n                    HSGCI\n                    HKMI_S&P\n                    HSHK35\n                    HSI\n                    C&I-S-index"
   },
   "financial_ratio": {
@@ -682,6 +682,26 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2018/12",
+      "Event": "Special",
+      "Particular": "SD:HKD 0.5000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/21",
+      "Book Close Date": "2018/09/26-2018/09/28",
+      "Payable Date": "2018/10/26"
+    },
+    {
       "Announce Date": "2018/02/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1150,14 @@
       "10.68",
       "38.04",
       "47.08",
-      "25.01"
+      "23.15"
     ],
     "Yield (%)": [
       "0.00",
       "5.49",
       "0.78",
       "0.63",
-      "1.21"
+      "1.30"
     ],
     "Dividend Payout (%)": [
       "0.00",

@@ -2,8 +2,8 @@
   "stock_code": "50",
   "basic_information": {
     "Name": "Hong Kong Ferry (Holdings) Co.\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "16.8712",
     "EPS(HKD)": "0.9700",
-    "PE": "9.08",
+    "PE": "8.98",
     "DPS(HKD)": "0.3800",
-    "Yield": "4.31",
-    "Price/PNAV": "0.5222",
+    "Yield": "4.36",
+    "Price/PNAV": "0.5163",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/13",
+      "Book Close Date": "2018/09/17-2018/09/18",
+      "Payable Date": "2018/09/27"
+    },
+    {
       "Announce Date": "2018/03/20",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1110,14 +1120,14 @@
       "3.00",
       "16.46",
       "13.64",
-      "9.08"
+      "8.98"
     ],
     "Yield (%)": [
       "3.44",
       "17.97",
       "4.05",
       "4.00",
-      "4.31"
+      "4.36"
     ],
     "Dividend Payout (%)": [
       "43.90",

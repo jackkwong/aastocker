@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "31.0449",
     "EPS(HKD)": "5.9825",
-    "PE": "12.45",
+    "PE": "12.70",
     "DPS(HKD)": "1.7984",
-    "Yield": "2.41",
-    "Price/PNAV": "2.3998",
+    "Yield": "2.37",
+    "Price/PNAV": "2.4481",
     "Index Constituent": "HSI\n                    HSCEI\n                    FS-index\n                    Hang Seng China H-Financials\n                    HSCI\n                    HSML25\n                    Index_Financials\n                    HSHKLI\n                    HKMI_S&P\n                    HSML100\n                    FTSE Xinhua China25 Index\n                    HSGCI\n                    HS AH Premium"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/21",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:RMB\n                0.6200(equivalent to HKD 0.707157)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/06",
+      "Book Close Date": "2018/09/10-2018/09/14",
+      "Payable Date": "2018/10/11"
+    },
+    {
       "Announce Date": "2018/04/26",
       "Year Ended": "2018/12",
       "Event": "Quarter 1",
@@ -1240,14 +1250,14 @@
       "12.05",
       "22.44",
       "19.64",
-      "12.45"
+      "12.70"
     ],
     "Yield (%)": [
       "0.80",
       "2.52",
       "0.79",
       "1.09",
-      "2.41"
+      "2.37"
     ],
     "Dividend Payout (%)": [
       "18.26",

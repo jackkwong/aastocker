@@ -2,8 +2,8 @@
   "stock_code": "2323",
   "basic_information": {
     "Name": "China HKBridge Holdings Limited",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2002/06/21",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.5123",
     "EPS(HKD)": "0.2992",
-    "PE": "4.85",
-    "DPS(HKD)": "0.1000",
-    "Yield": "6.90",
-    "Price/PNAV": "0.9588",
+    "PE": "3.44",
+    "DPS(HKD)": "0.0000",
+    "Yield": "0.00",
+    "Price/PNAV": "0.6811",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -118,7 +118,7 @@
       "0.00",
       "0.00",
       "0.00",
-      "33.42"
+      "0.00"
     ],
     "Fiscal Year High": [
       "0.350",
@@ -153,14 +153,14 @@
       "0.00",
       "0.00",
       "0.00",
-      "5.46"
+      "0.00"
     ],
     "Fiscal Year Yield Range Low (%)": [
       "0.00",
       "0.00",
       "0.00",
       "0.00",
-      "3.22"
+      "0.00"
     ]
   },
   "profit_loss": {
@@ -544,7 +544,7 @@
       "-7,113",
       "178,801",
       "-992,959",
-      "-1,428,831"
+      "-1,397,174"
     ],
     "Additions to Fixed Assets": [
       "-14,598",
@@ -565,14 +565,14 @@
       "-1,304",
       "-",
       "-371,335",
-      "-"
+      "-981,939"
     ],
     "Decrease in Investments": [
       "305,017",
       "-",
       "185,194",
       "184,343",
-      "-981,939"
+      "-"
     ],
     "Net Cash Flow with Related Parties": [
       "-2,672",
@@ -586,7 +586,7 @@
       "-57,207",
       "40,800",
       "-1,380,495",
-      "-1,835,716"
+      "-1,804,059"
     ],
     "Net Cash Flow from Financing Activities": [
       "-292,880",
@@ -635,7 +635,7 @@
       "9,448",
       "1,823",
       "354,137",
-      "-65,434"
+      "-33,777"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
       "63,934",
@@ -656,7 +656,7 @@
       "94,722",
       "96,985",
       "434,125",
-      "381,203"
+      "412,860"
     ],
     "Unit": [
       "Thousand",
@@ -682,14 +682,24 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
-      "Particular": "D:HKD 0.1000",
+      "Particular": "D:HKD 0.1000 (not\n                approved as announced on 2018/06/29)",
       "Type": "Cash",
-      "Ex-Date": "2018/07/06",
-      "Book Close Date": "2018/07/10-2018/07/11",
-      "Payable Date": "2018/08/02"
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
     },
     {
       "Announce Date": "2017/08/31",
@@ -1063,28 +1073,28 @@
       "0.0000",
       "0.0000",
       "0.0000",
-      "0.1000"
+      "0.0000"
     ],
     "PE (X)": [
       "-4.54",
       "-11.06",
       "153.63",
       "17.98",
-      "4.85"
+      "3.44"
     ],
     "Yield (%)": [
       "0.00",
       "0.00",
       "0.00",
       "0.00",
-      "6.90"
+      "0.00"
     ],
     "Dividend Payout (%)": [
       "0.00",
       "0.00",
       "0.00",
       "0.00",
-      "33.42"
+      "0.00"
     ],
     "NAV": [
       "0.5565",

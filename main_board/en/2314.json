@@ -2,23 +2,23 @@
   "stock_code": "2314",
   "basic_information": {
     "Name": "Lee & Man Paper Manufacturing\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2003/09/26",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.025",
     "Authorized Capital(share)": "8,000,000,000",
-    "Issued Capital(share)": "4,460,764,000",
+    "Issued Capital(share)": "4,419,757,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "4.8644",
     "EPS(HKD)": "1.1147",
-    "PE": "7.18",
+    "PE": "6.54",
     "DPS(HKD)": "0.3700",
-    "Yield": "4.63",
-    "Price/PNAV": "1.6446",
+    "Yield": "5.08",
+    "Price/PNAV": "1.4986",
     "Index Constituent": "HSCI\n                    Index_Materials\n                    HSHKMI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/07/31",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2000",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/14",
+      "Book Close Date": "2018/08/16-2018/08/20",
+      "Payable Date": "2018/08/30"
+    },
+    {
       "Announce Date": "2018/02/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1040,14 +1050,14 @@
       "11.13",
       "13.56",
       "14.72",
-      "7.18"
+      "6.54"
     ],
     "Yield (%)": [
       "3.82",
       "3.16",
       "2.63",
       "2.39",
-      "4.63"
+      "5.08"
     ],
     "Dividend Payout (%)": [
       "35.17",

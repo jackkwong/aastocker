@@ -2,8 +2,8 @@
   "stock_code": "355",
   "basic_information": {
     "Name": "Century City International\n                    Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1981/09/07",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "4,000",
     "NAV(HKD)": "2.8139",
     "EPS(HKD)": "0.1190",
-    "PE": "6.30",
+    "PE": "5.88",
     "DPS(HKD)": "0.0235",
-    "Yield": "3.13",
-    "Price/PNAV": "0.2665",
+    "Yield": "3.36",
+    "Price/PNAV": "0.2488",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0070",
+      "Type": "Cash",
+      "Ex-Date": "2018/10/05",
+      "Book Close Date": "2018/10/09-2018/10/11",
+      "Payable Date": "2018/10/25"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1140,14 @@
       "7.75",
       "428.57",
       "17.65",
-      "6.30"
+      "5.88"
     ],
     "Yield (%)": [
       "3.56",
       "5.54",
       "3.33",
       "2.67",
-      "3.13"
+      "3.36"
     ],
     "Dividend Payout (%)": [
       "41.34",

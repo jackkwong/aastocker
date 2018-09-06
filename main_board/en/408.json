@@ -2,8 +2,8 @@
   "stock_code": "408",
   "basic_information": {
     "Name": "Yip's Chemical Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1991/08/22",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "5.2828",
     "EPS(HKD)": "0.3020",
-    "PE": "9.50",
+    "PE": "8.81",
     "DPS(HKD)": "0.1500",
-    "Yield": "5.23",
-    "Price/PNAV": "0.5433",
+    "Yield": "5.64",
+    "Price/PNAV": "0.5035",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/14",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0600",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/03",
+      "Book Close Date": "2018/09/05-2018/09/07",
+      "Payable Date": "2018/10/10"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1110,14 +1120,14 @@
       "6.73",
       "39.65",
       "9.83",
-      "9.50"
+      "8.81"
     ],
     "Yield (%)": [
       "5.49",
       "9.36",
       "4.30",
       "5.08",
-      "5.23"
+      "5.64"
     ],
     "Dividend Payout (%)": [
       "56.05",

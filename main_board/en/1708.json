@@ -2,23 +2,23 @@
   "stock_code": "1708",
   "basic_information": {
     "Name": "Nanjing Sample Technology Co.\n                    Ltd. - H Shares",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2004/06/09",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "RMB",
     "Par": "1",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "316,823,400",
-    "Issue Cap-H(share)": "91,800,000",
-    "Board Lot": "1,000",
+    "Issued Capital(share)": "792,058,500",
+    "Issue Cap-H(share)": "229,500,000",
+    "Board Lot": "500",
     "NAV(HKD)": "7.3845",
     "EPS(HKD)": "0.7901",
-    "PE": "29.24",
+    "PE": "11.53",
     "DPS(HKD)": "0.2997",
-    "Yield": "1.30",
-    "Price/PNAV": "3.1282",
+    "Yield": "3.29",
+    "Price/PNAV": "1.2337",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,14 +682,24 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/26",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/29",
       "Year Ended": "2017/12",
       "Event": "Final",
-      "Particular": "D:RMB 0.2500",
+      "Particular": "D:RMB\n                0.2500(equivalent to HKD 0.3005)",
       "Type": "Cash",
       "Ex-Date": "2018/07/05",
       "Book Close Date": "2018/07/08-2018/07/13",
-      "Payable Date": "2018/08/31"
+      "Payable Date": "2018/09/18"
     },
     {
       "Announce Date": "2018/03/29",
@@ -1170,14 +1180,14 @@
       "20.48",
       "21.99",
       "36.11",
-      "29.24"
+      "11.53"
     ],
     "Yield (%)": [
       "1.63",
       "1.59",
       "2.56",
       "0.69",
-      "1.30"
+      "3.29"
     ],
     "Dividend Payout (%)": [
       "17.73",

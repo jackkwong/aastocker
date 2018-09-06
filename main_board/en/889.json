@@ -2,8 +2,8 @@
   "stock_code": "889",
   "basic_information": {
     "Name": "Datronix Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2001/06/22",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "2.4442",
     "EPS(HKD)": "0.1350",
-    "PE": "10.07",
+    "PE": "9.56",
     "DPS(HKD)": "0.0420",
-    "Yield": "3.09",
-    "Price/PNAV": "0.5564",
+    "Yield": "3.26",
+    "Price/PNAV": "0.5278",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/15",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0100",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/10",
+      "Book Close Date": "2018/09/12-2018/09/14",
+      "Payable Date": "2018/09/24"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1070,14 +1080,14 @@
       "13.43",
       "151.11",
       "19.28",
-      "10.07"
+      "9.56"
     ],
     "Yield (%)": [
       "1.92",
       "3.28",
       "2.94",
       "3.01",
-      "3.09"
+      "3.26"
     ],
     "Dividend Payout (%)": [
       "33.65",

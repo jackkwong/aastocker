@@ -2,8 +2,8 @@
   "stock_code": "3828",
   "basic_information": {
     "Name": "Ming Fai International Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/11/02",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "1.4986",
     "EPS(HKD)": "0.1510",
-    "PE": "7.28",
+    "PE": "6.89",
     "DPS(HKD)": "0.0700",
-    "Yield": "6.36",
-    "Price/PNAV": "0.7340",
+    "Yield": "6.73",
+    "Price/PNAV": "0.6940",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0200",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/19",
+      "Book Close Date": "2018/09/21-2018/09/24",
+      "Payable Date": "2018/10/05"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -950,14 +960,14 @@
       "9.78",
       "-3.70",
       "5.50",
-      "7.28"
+      "6.89"
     ],
     "Yield (%)": [
       "4.32",
       "5.06",
       "4.27",
       "21.31",
-      "6.36"
+      "6.73"
     ],
     "Dividend Payout (%)": [
       "61.40",

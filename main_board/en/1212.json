@@ -2,23 +2,23 @@
   "stock_code": "1212",
   "basic_information": {
     "Name": "Lifestyle International Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2004/04/15",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.005",
     "Authorized Capital(share)": "4,000,000,000",
-    "Issued Capital(share)": "1,602,586,500",
+    "Issued Capital(share)": "1,579,455,500",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
     "NAV(HKD)": "2.5237",
     "EPS(HKD)": "2.0600",
-    "PE": "7.76",
+    "PE": "7.23",
     "DPS(HKD)": "0.6320",
-    "Yield": "3.95",
-    "Price/PNAV": "6.3319",
+    "Yield": "4.24",
+    "Price/PNAV": "5.9040",
     "Index Constituent": "HSHKMI\n                    Index_Services\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/13",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2950",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/06",
+      "Book Close Date": "2018/09/10-2018/09/10",
+      "Payable Date": "2018/09/21"
+    },
+    {
       "Announce Date": "2018/03/05",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1070,14 +1080,14 @@
       "7.19",
       "8.38",
       "12.14",
-      "7.76"
+      "7.23"
     ],
     "Yield (%)": [
       "4.38",
       "6.27",
       "6.34",
       "5.26",
-      "3.95"
+      "4.24"
     ],
     "Dividend Payout (%)": [
       "39.98",

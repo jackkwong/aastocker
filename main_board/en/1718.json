@@ -477,39 +477,39 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "36,430",
       "92,677",
       "47,825",
       "79,229",
-      "26,861"
+      "26,861",
+      "-38,330"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-244",
       "-5,242",
       "-610",
       "-60,414",
-      "379"
+      "379",
+      "1,529"
     ],
     "Interest Received": [
-      "1",
       "0",
       "32",
       "6",
-      "630"
+      "630",
+      "2,065"
     ],
     "Interest Paid": [
-      "-245",
       "-742",
       "-642",
       "-420",
-      "-252"
+      "-252",
+      "-536"
     ],
     "Dividend Received": [
       "-",
@@ -519,51 +519,51 @@
       "-"
     ],
     "Dividend Paid": [
-      "-",
       "-4,500",
       "-",
       "-60,000",
+      "-",
       "-"
     ],
     "Others": [
       "-",
-      "-",
       "-2,858",
       "-",
-      "15,528"
+      "15,528",
+      "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-5,139",
       "-7,157",
       "-24,469",
       "-3,955",
-      "-2,805"
+      "-2,805",
+      "2,311"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-15,275",
       "-14,121",
       "2,425",
       "-16,743",
-      "-17,807"
+      "-17,807",
+      "7,482"
     ],
     "Additions to Fixed Assets": [
-      "-27,116",
       "-28,074",
       "-6,834",
       "-17,519",
-      "-17,888"
+      "-17,888",
+      "-4,342"
     ],
     "Disposal of Fixed Assets": [
-      "600",
       "515",
       "800",
       "776",
-      "81"
+      "81",
+      "11,824"
     ],
     "Increase in Investments": [
       "-",
-      "-",
       "6,824",
+      "-",
       "-",
       "-"
     ],
@@ -575,25 +575,25 @@
       "-"
     ],
     "Net Cash Flow with Related Parties": [
-      "-21",
       "-1,414",
       "-",
       "9,669",
-      "108,000"
+      "108,000",
+      "35,000"
     ],
     "Net Cash Flow before Financing Activities": [
-      "15,771",
       "66,157",
       "25,171",
       "-1,883",
-      "6,628"
+      "6,628",
+      "-27,008"
     ],
     "Net Cash Flow from Financing Activities": [
-      "-12,481",
       "-16,259",
       "-16,265",
       "77,219",
-      "255,428"
+      "255,428",
+      "29,798"
     ],
     "New Loans": [
       "-",
@@ -603,11 +603,11 @@
       "-"
     ],
     "Loans Repayment": [
-      "-12,460",
       "-14,845",
       "-13,407",
       "-12,398",
-      "-2,110"
+      "-2,110",
+      "-5,202"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -626,23 +626,23 @@
     "Equity Financing": [
       "-",
       "-",
-      "-",
       "79,948",
-      "134,010"
+      "134,010",
+      "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "3,290",
       "49,898",
       "8,906",
       "75,336",
-      "262,055"
+      "262,055",
+      "2,790"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "12,861",
       "16,151",
       "66,049",
       "74,956",
-      "150,292"
+      "150,292",
+      "412,347"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
@@ -652,11 +652,11 @@
       "-"
     ],
     "Cash & Cash Equivalents at End of Year": [
-      "16,151",
       "66,049",
       "74,956",
       "150,292",
-      "412,347"
+      "412,347",
+      "415,137"
     ],
     "Unit": [
       "Thousand",
@@ -675,7 +675,7 @@
     "Auditor's Opinion": [
       "-",
       "-",
-      "-",
+      "Unqualified",
       "Unqualified",
       "Unqualified"
     ]

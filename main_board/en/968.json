@@ -2,23 +2,23 @@
   "stock_code": "968",
   "basic_information": {
     "Name": "Xinyi Solar Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2013/12/12",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "80,000,000,000",
-    "Issued Capital(share)": "7,427,109,631",
+    "Issued Capital(share)": "7,427,564,933",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "1.3633",
     "EPS(HKD)": "0.3261",
-    "PE": "7.70",
+    "PE": "7.45",
     "DPS(HKD)": "0.1500",
-    "Yield": "5.98",
-    "Price/PNAV": "1.8411",
+    "Yield": "6.17",
+    "Price/PNAV": "1.7824",
     "Index Constituent": "HSCI\n                    HSGCI\n                    Index_Industrial Goods\n                    HSHKMI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/07/30",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0800",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/08/13",
+      "Book Close Date": "2018/08/15-2018/08/17",
+      "Payable Date": "2018/09/19"
+    },
+    {
       "Announce Date": "2018/02/26",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -830,14 +840,14 @@
       "30.88",
       "15.11",
       "11.33",
-      "7.70"
+      "7.45"
     ],
     "Yield (%)": [
       "0.63",
       "1.54",
       "3.11",
       "4.23",
-      "5.98"
+      "6.17"
     ],
     "Dividend Payout (%)": [
       "24.56",

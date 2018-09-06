@@ -13,12 +13,12 @@
     "Issued Capital(share)": "287,930,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "2.3364",
     "EPS(HKD)": "0.0100",
-    "PE": "108.00",
+    "PE": "95.00",
     "DPS(HKD)": "0.0500",
-    "Yield": "4.63",
-    "Price/PNAV": "-",
+    "Yield": "5.26",
+    "Price/PNAV": "0.4066",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -477,39 +477,39 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "33,682",
       "72,678",
       "23,123",
       "-22,817",
-      "-35,025"
+      "-35,025",
+      "-10,631"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-39,617",
       "-27,795",
       "-31,457",
       "-12,090",
-      "-7,720"
+      "-7,720",
+      "-8,384"
     ],
     "Interest Received": [
-      "3,575",
       "3,877",
       "3,096",
       "2,464",
-      "1,103"
+      "1,103",
+      "443"
     ],
     "Interest Paid": [
-      "-3",
       "-",
       "-1",
       "-158",
-      "-8,823"
+      "-8,823",
+      "-189"
     ],
     "Dividend Received": [
       "-",
@@ -519,11 +519,11 @@
       "-"
     ],
     "Dividend Paid": [
-      "-43,189",
       "-31,672",
       "-34,552",
       "-14,396",
-      "-"
+      "-",
+      "-8,638"
     ],
     "Others": [
       "-",
@@ -533,32 +533,32 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-11,827",
       "-10,006",
       "-10,687",
       "109",
-      "-681"
+      "-681",
+      "-562"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-22,213",
       "-14,953",
       "-43,712",
       "-12,216",
-      "-8,556"
+      "-8,556",
+      "-5,499"
     ],
     "Additions to Fixed Assets": [
-      "-22,643",
       "-15,176",
       "-46,223",
       "-12,467",
-      "-9,206"
+      "-9,206",
+      "-6,209"
     ],
     "Disposal of Fixed Assets": [
-      "430",
       "223",
       "8",
       "251",
-      "-"
+      "-",
+      "710"
     ],
     "Increase in Investments": [
       "-",
@@ -571,43 +571,43 @@
       "-",
       "-",
       "-",
-      "-",
-      "650"
+      "650",
+      "-"
     ],
     "Net Cash Flow with Related Parties": [
       "-",
       "-",
       "-",
-      "-",
-      "600"
+      "600",
+      "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-39,975",
       "19,924",
       "-62,733",
       "-47,014",
-      "-51,982"
+      "-51,982",
+      "-25,076"
     ],
     "Net Cash Flow from Financing Activities": [
       "-",
       "-",
-      "-",
       "8,236",
-      "18"
+      "18",
+      "-581"
     ],
     "New Loans": [
       "-",
       "-",
-      "-",
       "8,720",
+      "-",
       "-"
     ],
     "Loans Repayment": [
       "-",
       "-",
-      "-",
       "-484",
-      "-582"
+      "-582",
+      "-581"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -631,32 +631,32 @@
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-39,975",
       "19,924",
       "-62,733",
       "-38,778",
-      "-51,964"
+      "-51,964",
+      "-25,657"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "265,205",
-      "225,259",
-      "247,438",
-      "183,892",
-      "138,983"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "29",
-      "2,255",
-      "-813",
-      "-6,131",
-      "-3,701"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "225,259",
       "247,438",
       "183,892",
       "138,983",
       "83,318"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "2,255",
+      "-813",
+      "-6,131",
+      "-3,701",
+      "4,512"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "247,438",
+      "183,892",
+      "138,983",
+      "83,318",
+      "62,173"
     ],
     "Unit": [
       "Thousand",
@@ -1070,14 +1070,14 @@
       "32.25",
       "-6.25",
       "-6.00",
-      "108.00"
+      "95.00"
     ],
     "Yield (%)": [
       "9.23",
       "6.20",
       "2.40",
       "2.78",
-      "4.63"
+      "5.26"
     ],
     "Dividend Payout (%)": [
       "120.00",
@@ -1091,7 +1091,7 @@
       "2.5321",
       "2.2880",
       "2.1060",
-      "0.0000"
+      "2.3364"
     ],
     "Currency": [
       "HKD",

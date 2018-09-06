@@ -8,17 +8,17 @@
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "HKD",
-    "Par": "0.05",
-    "Authorized Capital(share)": "10,000,000,000",
-    "Issued Capital(share)": "4,433,685,375",
+    "Par": "0.005",
+    "Authorized Capital(share)": "100,000,000,000",
+    "Issued Capital(share)": "221,684,268",
     "Issue Cap-H(share)": "-",
     "Board Lot": "15,000",
     "NAV(HKD)": "0.0168",
     "EPS(HKD)": "-0.0756",
-    "PE": "-0.17",
+    "PE": "-1.79",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.7753",
+    "Price/PNAV": "8.0516",
     "Index Constituent": "GEM_Index"
   },
   "financial_ratio": {
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/06/26",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "C:1-for-20",
+      "Type": "-",
+      "Ex-Date": "2018/08/08",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/05/14",
       "Year Ended": "2018/06",
@@ -1450,7 +1460,7 @@
       "-1.95",
       "-1.97",
       "-0.21",
-      "-0.17"
+      "-1.79"
     ],
     "Yield (%)": [
       "0.00",

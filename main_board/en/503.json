@@ -2,8 +2,8 @@
   "stock_code": "503",
   "basic_information": {
     "Name": "Lansen Pharmaceutical Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/05/07",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "1.9209",
     "EPS(HKD)": "0.2969",
-    "PE": "4.24",
+    "PE": "3.87",
     "DPS(HKD)": "0.2269",
-    "Yield": "18.01",
-    "Price/PNAV": "0.6559",
+    "Yield": "19.73",
+    "Price/PNAV": "0.5987",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.0290(equivalent to USD 0.0037)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/27",
+      "Book Close Date": "2018/10/02-2018/10/04",
+      "Payable Date": "2018/10/19"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -900,14 +910,14 @@
       "7.21",
       "48.51",
       "18.34",
-      "4.24"
+      "3.87"
     ],
     "Yield (%)": [
       "4.45",
       "9.63",
       "5.02",
       "6.00",
-      "18.01"
+      "19.73"
     ],
     "Dividend Payout (%)": [
       "70.36",

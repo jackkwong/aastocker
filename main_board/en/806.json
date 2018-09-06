@@ -2,8 +2,8 @@
   "stock_code": "806",
   "basic_information": {
     "Name": "Value Partners Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/11/22",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "3.0458",
     "EPS(HKD)": "1.1060",
-    "PE": "5.71",
+    "PE": "4.95",
     "DPS(HKD)": "1.0400",
-    "Yield": "16.46",
-    "Price/PNAV": "2.0750",
+    "Yield": "18.98",
+    "Price/PNAV": "1.7992",
     "Index Constituent": "Index_Financials\n                    HSHKMI\n                    HSCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/14",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/12",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1000,14 +1010,14 @@
       "16.10",
       "52.97",
       "103.65",
-      "5.71"
+      "4.95"
     ],
     "Yield (%)": [
       "1.54",
       "3.01",
       "2.04",
       "1.56",
-      "16.46"
+      "18.98"
     ],
     "Dividend Payout (%)": [
       "48.86",

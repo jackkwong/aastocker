@@ -1,7 +1,7 @@
 {
   "stock_code": "650",
   "basic_information": {
-    "Name": "IDG Energy Investment Group\n                    Limited",
+    "Name": "IDG Energy Investment Limited",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1992/10/07",
@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.01",
     "Authorized Capital(share)": "11,000,000,000",
-    "Issued Capital(share)": "6,094,403,851",
+    "Issued Capital(share)": "6,047,803,851",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "0.5890",
     "EPS(HKD)": "0.0040",
-    "PE": "275.43",
+    "PE": "285.36",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.8846",
+    "Price/PNAV": "1.9525",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -477,44 +477,44 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "63,561",
       "57,512",
       "-147,921",
       "-8,345",
-      "-9,085"
+      "-9,085",
+      "47,000"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-19,426",
       "-16,603",
       "-16,590",
       "-1,620",
-      "-4,572"
+      "-4,572",
+      "-1,886"
     ],
     "Interest Received": [
-      "439",
       "50",
       "71",
+      "-",
       "-",
       "-"
     ],
     "Interest Paid": [
-      "-20,055",
       "-16,839",
       "-16,856",
       "-1,620",
-      "-4,572"
+      "-4,572",
+      "-1,886"
     ],
     "Dividend Received": [
-      "190",
       "186",
       "195",
+      "-",
       "-",
       "-"
     ],
@@ -526,8 +526,8 @@
       "-"
     ],
     "Others": [
-      "723",
       "418",
+      "-",
       "-",
       "-",
       "-"
@@ -535,27 +535,27 @@
     "Taxes (Paid) / Refunded": [
       "-",
       "-",
-      "-",
       "-26,685",
+      "-",
       "-"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-12,841",
       "-29,198",
       "-5,008",
       "-45,328",
-      "-966,835"
+      "-966,835",
+      "-1,556,862"
     ],
     "Additions to Fixed Assets": [
-      "-12,657",
       "-29,013",
       "-4,843",
       "-45,328",
-      "-54,160"
+      "-54,160",
+      "-103,350"
     ],
     "Disposal of Fixed Assets": [
-      "6",
       "1",
+      "-",
       "-",
       "-",
       "-"
@@ -564,57 +564,57 @@
       "-",
       "-",
       "-",
-      "-",
-      "-194,729"
+      "-194,729",
+      "-334,986"
     ],
     "Decrease in Investments": [
       "-",
       "-",
       "-",
       "-",
-      "-"
+      "92,616"
     ],
     "Net Cash Flow with Related Parties": [
-      "-19,805",
       "-83",
       "181,550",
+      "-",
       "-",
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "31,294",
       "11,711",
       "-169,519",
       "-81,978",
-      "-980,492"
+      "-980,492",
+      "-1,511,748"
     ],
     "Net Cash Flow from Financing Activities": [
-      "-60,032",
       "-1,459",
       "141,718",
       "60,012",
-      "2,090,551"
+      "2,090,551",
+      "2,172,313"
     ],
     "New Loans": [
-      "-",
       "37,590",
       "37,935",
       "230,185",
-      "109,299"
+      "109,299",
+      "79,789"
     ],
     "Loans Repayment": [
-      "-40,950",
       "-39,384",
       "-77,767",
       "-170,173",
-      "-105,401"
+      "-105,401",
+      "-182,211"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
-      "-",
-      "1,236,653"
+      "1,236,653",
+      "789,735"
     ],
     "Repayment of Fixed Income/Debt Instruments": [
       "-",
@@ -627,36 +627,36 @@
       "-",
       "-",
       "-",
-      "-",
-      "850,000"
+      "850,000",
+      "1,485,000"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-28,738",
       "10,252",
       "-27,801",
       "-21,966",
-      "1,110,059"
+      "1,110,059",
+      "660,565"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "63,972",
       "32,739",
       "42,793",
       "7,601",
-      "15,266"
+      "15,266",
+      "1,134,521"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "-2,495",
       "-198",
       "196",
       "29,631",
-      "9,196"
+      "9,196",
+      "-8,683"
     ],
     "Cash & Cash Equivalents at End of Year": [
-      "32,739",
       "42,793",
       "15,188",
       "15,266",
-      "1,134,521"
+      "1,134,521",
+      "1,786,403"
     ],
     "Unit": [
       "Thousand",
@@ -673,10 +673,10 @@
       "HKD"
     ],
     "Auditor's Opinion": [
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
+      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
       "Unqualified",
-      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
-      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
-      "Unqualified ( not qualified in respect of\n                    fundamental uncertainly because of proper\n                    disclosure)",
       "Unqualified"
     ]
   },
@@ -1120,7 +1120,7 @@
       "-2.37",
       "-44.50",
       "-3.48",
-      "275.43"
+      "285.36"
     ],
     "Yield (%)": [
       "0.00",

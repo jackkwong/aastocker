@@ -2,8 +2,8 @@
   "stock_code": "934",
   "basic_information": {
     "Name": "Sinopec Kantons Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1999/06/25",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "4.5583",
     "EPS(HKD)": "0.4859",
-    "PE": "7.53",
+    "PE": "7.22",
     "DPS(HKD)": "0.1200",
-    "Yield": "3.28",
-    "Price/PNAV": "0.8029",
+    "Yield": "3.42",
+    "Price/PNAV": "0.7700",
     "Index Constituent": "HSCI\n                    Index_Energy\n                    HSGCI\n                    HSHKMI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/30",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0500",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/13",
+      "Book Close Date": "2018/09/17-2018/09/21",
+      "Payable Date": "2018/10/18"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1100,14 +1110,14 @@
       "8.74",
       "10.39",
       "11.77",
-      "7.53"
+      "7.22"
     ],
     "Yield (%)": [
       "0.57",
       "1.40",
       "1.17",
       "1.47",
-      "3.28"
+      "3.42"
     ],
     "Dividend Payout (%)": [
       "16.67",

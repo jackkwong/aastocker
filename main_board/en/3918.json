@@ -2,8 +2,8 @@
   "stock_code": "3918",
   "basic_information": {
     "Name": "NagaCorp Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2006/10/19",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "2.4886",
     "EPS(HKD)": "0.6204",
-    "PE": "12.09",
+    "PE": "12.89",
     "DPS(HKD)": "0.2758",
-    "Yield": "3.68",
-    "Price/PNAV": "3.0137",
+    "Yield": "3.45",
+    "Price/PNAV": "3.2146",
     "Index Constituent": "HSFCCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/07/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:USD\n                0.0249(equivalent to HKD 0.1930)",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/21",
+      "Book Close Date": "2018/08/23-2018/08/23",
+      "Payable Date": "2018/09/10"
+    },
+    {
       "Announce Date": "2018/02/06",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -960,14 +970,14 @@
       "10.38",
       "8.03",
       "10.67",
-      "12.09"
+      "12.89"
     ],
     "Yield (%)": [
       "6.98",
       "6.75",
       "7.49",
       "4.26",
-      "3.68"
+      "3.45"
     ],
     "Dividend Payout (%)": [
       "68.63",

@@ -2,8 +2,8 @@
   "stock_code": "51",
   "basic_information": {
     "Name": "Harbour Centre Development Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "24.7588",
     "EPS(HKD)": "1.8600",
-    "PE": "8.34",
+    "PE": "8.17",
     "DPS(HKD)": "0.7000",
-    "Yield": "4.51",
-    "Price/PNAV": "0.6268",
+    "Yield": "4.61",
+    "Price/PNAV": "0.6139",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/03",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0700",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/17",
+      "Book Close Date": "2018/08/20",
+      "Payable Date": "2018/09/07"
+    },
+    {
       "Announce Date": "2018/03/01",
       "Year Ended": "2017/12",
       "Event": "Interim 2",
@@ -1120,14 +1130,14 @@
       "8.38",
       "8.70",
       "15.31",
-      "8.34"
+      "8.17"
     ],
     "Yield (%)": [
       "5.58",
       "4.68",
       "4.62",
       "3.33",
-      "4.51"
+      "4.61"
     ],
     "Dividend Payout (%)": [
       "43.33",

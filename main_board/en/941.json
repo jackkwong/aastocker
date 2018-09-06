@@ -2,8 +2,8 @@
   "stock_code": "941",
   "basic_information": {
     "Name": "China Mobile Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1997/10/23",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "57.7119",
     "EPS(HKD)": "6.6899",
-    "PE": "10.26",
+    "PE": "11.06",
     "DPS(HKD)": "6.4050",
-    "Yield": "9.33",
-    "Price/PNAV": "1.1895",
+    "Yield": "8.66",
+    "Price/PNAV": "1.2822",
     "Index Constituent": "HSI\n                    C&I-S-index\n                    HSCCI\n                    HKMI_S&P\n                    HSML25\n                    Index_Telecommunications\n                    FTSE Xinhua China25 Index\n                    HSHKLI\n                    HSCEI\n                    HSML100\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/09",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                1.8260(equivalent to RMB 1.540)",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/30",
+      "Book Close Date": "2018/09/03-2018/09/05",
+      "Payable Date": "2018/09/27"
+    },
+    {
       "Announce Date": "2018/03/22",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1140,14 +1150,14 @@
       "12.59",
       "14.00",
       "12.25",
-      "10.26"
+      "11.06"
     ],
     "Yield (%)": [
       "3.02",
       "3.45",
       "3.12",
       "3.78",
-      "9.33"
+      "8.66"
     ],
     "Dividend Payout (%)": [
       "42.76",

@@ -2,8 +2,8 @@
   "stock_code": "363",
   "basic_information": {
     "Name": "Shanghai Industrial Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1996/05/30",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "38.2445",
     "EPS(HKD)": "2.8980",
-    "PE": "6.49",
+    "PE": "6.32",
     "DPS(HKD)": "0.9400",
-    "Yield": "4.99",
-    "Price/PNAV": "0.4921",
+    "Yield": "5.13",
+    "Price/PNAV": "0.4790",
     "Index Constituent": "HSCCI\n                    HSGCI\n                    Index_Conglomerates\n                    HSHKMI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.4800",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/17",
+      "Book Close Date": "2018/09/19-2018/09/19",
+      "Payable Date": "2018/10/05"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1100,14 +1110,14 @@
       "6.29",
       "9.14",
       "7.69",
-      "6.49"
+      "6.32"
     ],
     "Yield (%)": [
       "2.96",
       "5.00",
       "3.40",
       "4.48",
-      "4.99"
+      "5.13"
     ],
     "Dividend Payout (%)": [
       "34.80",

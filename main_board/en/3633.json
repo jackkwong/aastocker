@@ -2,8 +2,8 @@
   "stock_code": "3633",
   "basic_information": {
     "Name": "Zhongyu Gas Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2001/06/05",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.2570",
     "EPS(HKD)": "0.2210",
-    "PE": "29.28",
+    "PE": "36.38",
     "DPS(HKD)": "0.0500",
-    "Yield": "0.77",
-    "Price/PNAV": "5.1471",
+    "Yield": "0.62",
+    "Price/PNAV": "6.3961",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,14 +682,24 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/22",
       "Year Ended": "2017/12",
       "Event": "Final",
       "Particular": "D:HKD 0.0500",
-      "Type": "Cash",
+      "Type": "Cash/Scrip",
       "Ex-Date": "2018/06/12",
       "Book Close Date": "2018/06/14-2018/06/15",
-      "Payable Date": "2018/07/10"
+      "Payable Date": "2018/08/01"
     },
     {
       "Announce Date": "2017/08/25",
@@ -1250,14 +1260,14 @@
       "14.32",
       "56.49",
       "102.21",
-      "29.28"
+      "36.38"
     ],
     "Yield (%)": [
       "0.00",
       "0.00",
       "0.00",
       "0.00",
-      "0.77"
+      "0.62"
     ],
     "Dividend Payout (%)": [
       "0.00",

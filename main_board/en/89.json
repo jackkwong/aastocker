@@ -2,8 +2,8 @@
   "stock_code": "89",
   "basic_information": {
     "Name": "Tai Sang Land Development Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1973/02/21",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "24.9066",
     "EPS(HKD)": "1.7500",
-    "PE": "3.02",
+    "PE": "2.98",
     "DPS(HKD)": "0.1600",
-    "Yield": "3.03",
-    "Price/PNAV": "0.2120",
+    "Yield": "3.07",
+    "Price/PNAV": "0.2092",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/06",
+      "Book Close Date": "2018/09/07",
+      "Payable Date": "2018/09/24"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1140,14 @@
       "1.91",
       "5.33",
       "3.92",
-      "3.02"
+      "2.98"
     ],
     "Yield (%)": [
       "2.70",
       "3.16",
       "3.27",
       "3.14",
-      "3.03"
+      "3.07"
     ],
     "Dividend Payout (%)": [
       "7.64",

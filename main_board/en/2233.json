@@ -2,8 +2,8 @@
   "stock_code": "2233",
   "basic_information": {
     "Name": "West China Cement Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/08/23",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.4545",
     "EPS(HKD)": "0.1571",
-    "PE": "8.47",
+    "PE": "8.72",
     "DPS(HKD)": "0.0312",
-    "Yield": "2.34",
-    "Price/PNAV": "0.9144",
+    "Yield": "2.28",
+    "Price/PNAV": "0.9419",
     "Index Constituent": "HSCI\n                    Index_Properties & Construction\n                    HSHKSI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,10 +682,20 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/13",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:RMB\n                0.0120(equivalent to HKD 0.0137)",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/28",
+      "Book Close Date": "2018/08/30-2018/09/03",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/19",
       "Year Ended": "2017/12",
       "Event": "Final",
-      "Particular": "D:RMB 0.0260",
+      "Particular": "D:RMB\n                0.0260(equivalent to HKD 0.0319)",
       "Type": "Cash",
       "Ex-Date": "2018/05/23",
       "Book Close Date": "2018/05/25-2018/05/28",
@@ -890,14 +900,14 @@
       "155.26",
       "-14.67",
       "643.42",
-      "8.47"
+      "8.72"
     ],
     "Yield (%)": [
       "1.97",
       "0.16",
       "0.00",
       "0.00",
-      "2.34"
+      "2.28"
     ],
     "Dividend Payout (%)": [
       "24.10",

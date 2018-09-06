@@ -2,8 +2,8 @@
   "stock_code": "533",
   "basic_information": {
     "Name": "Goldlion Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1992/09/18",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "4.0190",
     "EPS(HKD)": "0.3281",
-    "PE": "9.60",
+    "PE": "9.81",
     "DPS(HKD)": "0.1850",
-    "Yield": "5.87",
-    "Price/PNAV": "0.7838",
+    "Yield": "5.75",
+    "Price/PNAV": "0.8012",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/16",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0650",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/04",
+      "Book Close Date": "2018/09/06-2018/09/07",
+      "Payable Date": "2018/09/18"
+    },
+    {
       "Announce Date": "2018/03/16",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1090,14 +1100,14 @@
       "7.07",
       "7.99",
       "8.18",
-      "9.60"
+      "9.81"
     ],
     "Yield (%)": [
       "7.46",
       "7.92",
       "6.42",
       "6.02",
-      "5.87"
+      "5.75"
     ],
     "Dividend Payout (%)": [
       "63.97",

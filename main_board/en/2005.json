@@ -2,8 +2,8 @@
   "stock_code": "2005",
   "basic_information": {
     "Name": "SSY Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2005/12/20",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.2102",
     "EPS(HKD)": "0.2337",
-    "PE": "38.34",
+    "PE": "30.30",
     "DPS(HKD)": "0.0700",
-    "Yield": "0.78",
-    "Price/PNAV": "7.4036",
+    "Yield": "0.99",
+    "Price/PNAV": "5.8501",
     "Index Constituent": "HSCI\n                    Index_Consumer Goods\n                    HSHKSI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0400",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/07",
+      "Book Close Date": "2018/09/11-2018/09/13",
+      "Payable Date": "2018/09/21"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1010,14 +1020,14 @@
       "12.99",
       "22.18",
       "39.83",
-      "38.34"
+      "30.30"
     ],
     "Yield (%)": [
       "1.11",
       "8.72",
       "0.81",
       "0.80",
-      "0.78"
+      "0.99"
     ],
     "Dividend Payout (%)": [
       "28.45",

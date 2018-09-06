@@ -2,8 +2,8 @@
   "stock_code": "368",
   "basic_information": {
     "Name": "Sinotrans Shipping Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/11/23",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "3.5566",
     "EPS(HKD)": "0.0633",
-    "PE": "34.92",
+    "PE": "27.81",
     "DPS(HKD)": "0.0300",
-    "Yield": "1.36",
-    "Price/PNAV": "0.6214",
+    "Yield": "1.70",
+    "Price/PNAV": "0.4949",
     "Index Constituent": "HSCI\n                    HSGCI\n                    Index_Industrial Goods\n                    HSHKSI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/09",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/08",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -940,14 +950,14 @@
       "319.77",
       "-13.68",
       "-5.38",
-      "34.92"
+      "27.81"
     ],
     "Yield (%)": [
       "0.00",
       "6.44",
       "0.00",
       "1.68",
-      "1.36"
+      "1.70"
     ],
     "Dividend Payout (%)": [
       "0.00",

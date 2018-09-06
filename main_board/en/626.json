@@ -2,8 +2,8 @@
   "stock_code": "626",
   "basic_information": {
     "Name": "Public Financial Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1991/10/03",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "6.9416",
     "EPS(HKD)": "0.4590",
-    "PE": "7.30",
+    "PE": "7.06",
     "DPS(HKD)": "0.2100",
-    "Yield": "6.27",
-    "Price/PNAV": "0.4826",
+    "Yield": "6.48",
+    "Price/PNAV": "0.4668",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -689,6 +689,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/06/26",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0500",
+      "Type": "Cash",
+      "Ex-Date": "2018/07/19",
+      "Book Close Date": "2018/07/23-2018/07/25",
+      "Payable Date": "2018/08/08"
+    },
+    {
       "Announce Date": "2018/01/22",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1247,14 +1257,14 @@
       "9.37",
       "9.09",
       "9.65",
-      "7.30"
+      "7.06"
     ],
     "Yield (%)": [
       "4.41",
       "4.88",
       "5.14",
       "5.04",
-      "6.27"
+      "6.48"
     ],
     "Dividend Payout (%)": [
       "47.76",

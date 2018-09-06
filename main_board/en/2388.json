@@ -2,8 +2,8 @@
   "stock_code": "2388",
   "basic_information": {
     "Name": "BOC Hong Kong (Holdings) Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2002/07/25",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "22.9589",
     "EPS(HKD)": "2.9387",
-    "PE": "13.05",
+    "PE": "12.62",
     "DPS(HKD)": "1.3980",
-    "Yield": "3.65",
-    "Price/PNAV": "1.6704",
+    "Yield": "3.77",
+    "Price/PNAV": "1.6159",
     "Index Constituent": "HSHKLI\n                    HSI\n                    FS-index\n                    HKMI_S&P\n                    HSHK35\n                    Index_Financials\n                    HSCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -689,6 +689,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.5450",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/17",
+      "Book Close Date": "2018/09/19-2018/09/24",
+      "Payable Date": "2018/10/03"
+    },
+    {
       "Announce Date": "2018/04/27",
       "Year Ended": "2018/12",
       "Event": "Quarter 1",
@@ -1097,14 +1107,14 @@
       "9.72",
       "12.44",
       "7.23",
-      "13.05"
+      "12.62"
     ],
     "Yield (%)": [
       "3.49",
       "4.96",
       "3.86",
       "4.92",
-      "3.65"
+      "3.77"
     ],
     "Dividend Payout (%)": [
       "47.99",

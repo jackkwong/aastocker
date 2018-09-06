@@ -2,8 +2,8 @@
   "stock_code": "255",
   "basic_information": {
     "Name": "Lung Kee (Bermuda) Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1993/03/05",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "3.7078",
     "EPS(HKD)": "0.4405",
-    "PE": "8.90",
+    "PE": "8.24",
     "DPS(HKD)": "0.4800",
-    "Yield": "12.24",
-    "Price/PNAV": "1.0572",
+    "Yield": "13.22",
+    "Price/PNAV": "0.9790",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1200",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/31",
+      "Book Close Date": "2018/09/04-2018/09/05",
+      "Payable Date": "2018/09/18"
+    },
+    {
       "Announce Date": "2018/03/16",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1200,14 +1210,14 @@
       "10.08",
       "17.04",
       "12.82",
-      "8.90"
+      "8.24"
     ],
     "Yield (%)": [
       "12.61",
       "5.91",
       "5.90",
       "9.25",
-      "12.24"
+      "13.22"
     ],
     "Dividend Payout (%)": [
       "121.79",

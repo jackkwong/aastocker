@@ -2,8 +2,8 @@
   "stock_code": "45",
   "basic_information": {
     "Name": "Hongkong and Shanghai Hotels,\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "24.0245",
     "EPS(HKD)": "0.7300",
-    "PE": "15.84",
+    "PE": "15.26",
     "DPS(HKD)": "0.2000",
-    "Yield": "1.73",
-    "Price/PNAV": "0.4812",
+    "Yield": "1.80",
+    "Price/PNAV": "0.4637",
     "Index Constituent": "HSHKMI\n                    Index_Services\n                    HSCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/03",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0500",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/08/31",
+      "Book Close Date": "2018/09/04-2018/09/06",
+      "Payable Date": "2018/10/12"
+    },
+    {
       "Announce Date": "2018/03/16",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1090,14 +1100,14 @@
       "11.50",
       "13.94",
       "28.56",
-      "15.84"
+      "15.26"
     ],
     "Yield (%)": [
       "1.45",
       "2.63",
       "2.21",
       "1.55",
-      "1.73"
+      "1.80"
     ],
     "Dividend Payout (%)": [
       "14.04",

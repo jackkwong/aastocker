@@ -2,23 +2,23 @@
   "stock_code": "2348",
   "basic_information": {
     "Name": "Dawnrays Pharmaceutical\n                    (Holdings) Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2003/07/11",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "HKD",
-    "Par": "0.1",
-    "Authorized Capital(share)": "10,000,000,000",
-    "Issued Capital(share)": "793,191,000",
+    "Par": "0.05",
+    "Authorized Capital(share)": "20,000,000,000",
+    "Issued Capital(share)": "1,586,382,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "2.7300",
     "EPS(HKD)": "0.4405",
-    "PE": "11.06",
+    "PE": "4.74",
     "DPS(HKD)": "0.1500",
-    "Yield": "3.08",
-    "Price/PNAV": "1.7839",
+    "Yield": "7.18",
+    "Price/PNAV": "0.7656",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,36 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.0300(equivalent to HKD 0.0150 per Sub-divided Share)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/24",
+      "Book Close Date": "2018/09/27-2018/09/28",
+      "Payable Date": "2018/10/11"
+    },
+    {
+      "Announce Date": "2018/07/11",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "SD:HKD 0.1500\n                (equivalent to HK$0.075 per Sub-divided Share upon the\n                Share Sub-division becoming effective)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/24",
+      "Book Close Date": "2018/09/27-2018/09/28",
+      "Payable Date": "2018/10/11"
+    },
+    {
+      "Announce Date": "2018/07/11",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "S:2-for-1",
+      "Type": "-",
+      "Ex-Date": "2018/08/06",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/22",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1030,14 +1060,14 @@
       "20.39",
       "10.41",
       "12.08",
-      "11.06"
+      "4.74"
     ],
     "Yield (%)": [
       "1.23",
       "1.70",
       "3.26",
       "2.92",
-      "3.08"
+      "7.18"
     ],
     "Dividend Payout (%)": [
       "36.02",

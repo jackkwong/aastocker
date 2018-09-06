@@ -2,8 +2,8 @@
   "stock_code": "165",
   "basic_information": {
     "Name": "China Everbright Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1973/02/26",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "24.1331",
     "EPS(HKD)": "2.4610",
-    "PE": "6.07",
+    "PE": "5.45",
     "DPS(HKD)": "0.8500",
-    "Yield": "5.69",
-    "Price/PNAV": "0.6191",
+    "Yield": "6.33",
+    "Price/PNAV": "0.5561",
     "Index Constituent": "HSHKMI\n                    Index_Financials\n                    HSGCI\n                    HSML100\n                    HSCCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/30",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2600",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/21",
+      "Book Close Date": "2018/09/26-2018/09/28",
+      "Payable Date": "2018/10/12"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1060,14 +1070,14 @@
       "10.75",
       "5.50",
       "6.89",
-      "6.07"
+      "5.45"
     ],
     "Yield (%)": [
       "1.22",
       "2.95",
       "4.46",
       "4.50",
-      "5.69"
+      "6.33"
     ],
     "Dividend Payout (%)": [
       "39.59",

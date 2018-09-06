@@ -1,24 +1,24 @@
 {
   "stock_code": "1813",
   "basic_information": {
-    "Name": "KWG Property Holding Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "Name": "KWG Group Holdings Limited",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/07/03",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "8,000,000,000",
-    "Issued Capital(share)": "3,155,155,055",
+    "Issued Capital(share)": "3,172,651,756",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
     "NAV(HKD)": "10.4903",
     "EPS(HKD)": "1.4027",
-    "PE": "7.56",
+    "PE": "5.74",
     "DPS(HKD)": "0.4915",
-    "Yield": "4.64",
-    "Price/PNAV": "1.0105",
+    "Yield": "6.11",
+    "Price/PNAV": "0.7674",
     "Index Constituent": "Index_Properties &\n                    Construction\n                    HSCI\n                    HSHKMI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:RMB 0.2500",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/13",
+      "Book Close Date": "2018/09/17-2018/09/21",
+      "Payable Date": "2019/01/16"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -960,14 +970,14 @@
       "3.75",
       "4.23",
       "9.12",
-      "7.56"
+      "5.74"
     ],
     "Yield (%)": [
       "4.81",
       "7.86",
       "5.96",
       "4.86",
-      "4.64"
+      "6.11"
     ],
     "Dividend Payout (%)": [
       "30.53",

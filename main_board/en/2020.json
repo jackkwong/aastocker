@@ -2,23 +2,23 @@
   "stock_code": "2020",
   "basic_information": {
     "Name": "ANTA Sports Products Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/07/10",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "5,000,000,000",
-    "Issued Capital(share)": "2,684,783,100",
+    "Issued Capital(share)": "2,684,891,100",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "6.1211",
     "EPS(HKD)": "1.4028",
-    "PE": "29.80",
+    "PE": "28.73",
     "DPS(HKD)": "0.9800",
-    "Yield": "2.34",
-    "Price/PNAV": "6.8288",
+    "Yield": "2.43",
+    "Price/PNAV": "6.5837",
     "Index Constituent": "HSCI\n                    HSHKLI\n                    Index_Consumer Goods\n                    HSML100\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/14",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.5000",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/28",
+      "Book Close Date": "2018/08/29",
+      "Payable Date": "2018/09/10"
+    },
+    {
       "Announce Date": "2018/02/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1030,14 +1040,14 @@
       "23.32",
       "25.30",
       "38.27",
-      "29.80"
+      "28.73"
     ],
     "Yield (%)": [
       "3.23",
       "3.08",
       "2.80",
       "1.87",
-      "2.34"
+      "2.43"
     ],
     "Dividend Payout (%)": [
       "71.14",

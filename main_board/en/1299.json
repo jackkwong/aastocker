@@ -2,8 +2,8 @@
   "stock_code": "1299",
   "basic_information": {
     "Name": "AIA Group Ltd.",
-    "EPS Start Date": "2016/12/01",
-    "EPS End Date": "2017/11/30",
+    "EPS Start Date": "2017/12/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/10/29",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "200",
     "NAV(HKD)": "27.1601",
     "EPS(HKD)": "3.9826",
-    "PE": "16.87",
+    "PE": "16.52",
     "DPS(HKD)": "1.0000",
-    "Yield": "1.49",
-    "Price/PNAV": "2.4742",
+    "Yield": "1.52",
+    "Price/PNAV": "2.4227",
     "Index Constituent": "HSHK35\n                    Index_Financials\n                    HSHKLI\n                    HSI\n                    FS-index\n                    HSGCI\n                    HKMI_S&P\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/11",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2920",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/10",
+      "Book Close Date": "2018/09/11",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/02/27",
       "Year Ended": "2017/11",
       "Event": "Final",
@@ -880,14 +890,14 @@
       "18.79",
       "27.52",
       "23.29",
-      "16.87"
+      "16.52"
     ],
     "Yield (%)": [
       "0.87",
       "1.18",
       "1.42",
       "1.36",
-      "1.49"
+      "1.52"
     ],
     "Dividend Payout (%)": [
       "22.88",

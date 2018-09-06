@@ -2,8 +2,8 @@
   "stock_code": "538",
   "basic_information": {
     "Name": "Ajisen (China) Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/03/30",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "3.0007",
     "EPS(HKD)": "-0.5395",
-    "PE": "-5.88",
+    "PE": "-6.25",
     "DPS(HKD)": "0.0750",
-    "Yield": "2.37",
-    "Price/PNAV": "1.0564",
+    "Yield": "2.23",
+    "Price/PNAV": "1.1231",
     "Index Constituent": "Index_Services\n                    HSHKSI\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:RMB\n                0.0200(equivalent to HKD 0.0280)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/10",
+      "Book Close Date": "2018/09/12-2018/09/14",
+      "Payable Date": "2018/11/30"
+    },
+    {
       "Announce Date": "2018/03/20",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1020,14 +1030,14 @@
       "12.63",
       "14.91",
       "5.61",
-      "-5.88"
+      "-6.25"
     ],
     "Yield (%)": [
       "3.47",
       "5.55",
       "5.39",
       "3.51",
-      "2.37"
+      "2.23"
     ],
     "Dividend Payout (%)": [
       "64.72",

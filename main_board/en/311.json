@@ -2,8 +2,8 @@
   "stock_code": "311",
   "basic_information": {
     "Name": "Luen Thai Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2004/07/15",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "1.4381",
     "EPS(HKD)": "0.1641",
-    "PE": "6.40",
+    "PE": "5.97",
     "DPS(HKD)": "0.0993",
-    "Yield": "9.46",
-    "Price/PNAV": "0.7301",
+    "Yield": "10.13",
+    "Price/PNAV": "0.6815",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:USD\n                0.00262(equivalent to HKD 0.0204)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/28",
+      "Book Close Date": "2018/10/03-2018/10/05",
+      "Payable Date": "2018/10/26"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1030,14 +1040,14 @@
       "7.80",
       "19.03",
       "7.95",
-      "6.40"
+      "5.97"
     ],
     "Yield (%)": [
       "6.82",
       "6.77",
       "1.62",
       "146.59",
-      "9.46"
+      "10.13"
     ],
     "Dividend Payout (%)": [
       "29.77",

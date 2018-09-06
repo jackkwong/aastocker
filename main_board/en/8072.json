@@ -2,23 +2,23 @@
   "stock_code": "8072",
   "basic_information": {
     "Name": "Roma Group Ltd.",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2013/02/25",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.064",
     "Authorized Capital(share)": "9,000,000,000",
-    "Issued Capital(share)": "3,124,908,311",
+    "Issued Capital(share)": "3,000,408,311",
     "Issue Cap-H(share)": "-",
     "Board Lot": "20,000",
     "NAV(HKD)": "0.2268",
     "EPS(HKD)": "-0.0128",
-    "PE": "-6.48",
+    "PE": "-5.70",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.3660",
+    "Price/PNAV": "0.3219",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -332,7 +332,7 @@
       "17,666",
       "23,647",
       "25,351",
-      "215,014"
+      "14,659"
     ],
     "Inventory": [
       "592",
@@ -346,7 +346,7 @@
       "109,541",
       "316,848",
       "369,582",
-      "234,380"
+      "434,735"
     ],
     "Total Assets": [
       "114,260",
@@ -477,39 +477,39 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "10,915",
       "2,724",
       "-59,370",
       "-151,822",
-      "-20,337"
+      "-20,337",
+      "-39,679"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-7,000",
       "-90",
       "139",
       "851",
-      "-486"
+      "-486",
+      "162"
     ],
     "Interest Received": [
-      "-",
       "14",
       "1,064",
       "2,077",
-      "1,114"
+      "1,114",
+      "1,167"
     ],
     "Interest Paid": [
-      "-",
       "-104",
       "-925",
       "-1,226",
-      "-1,600"
+      "-1,600",
+      "-1,005"
     ],
     "Dividend Received": [
       "-",
@@ -519,7 +519,7 @@
       "-"
     ],
     "Dividend Paid": [
-      "-7,000",
+      "-",
       "-",
       "-",
       "-",
@@ -533,42 +533,42 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-5,909",
       "-6,667",
       "-3,209",
       "-10,827",
-      "-9,510"
+      "-9,510",
+      "-1,761"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-283",
       "-41,594",
       "-38,185",
       "-56,461",
-      "7,521"
+      "7,521",
+      "-75,832"
     ],
     "Additions to Fixed Assets": [
-      "-16",
       "-1,794",
       "-140",
       "-214",
-      "-125"
+      "-125",
+      "-3,370"
     ],
     "Disposal of Fixed Assets": [
       "-",
       "-",
-      "-",
       "3",
+      "-",
       "-"
     ],
     "Increase in Investments": [
       "-",
-      "-",
       "-41,983",
       "-25,000",
+      "-",
       "-"
     ],
     "Decrease in Investments": [
-      "-86",
+      "-",
       "-",
       "-",
       "-",
@@ -582,32 +582,32 @@
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-2,277",
       "-45,627",
       "-100,625",
       "-218,259",
-      "-22,812"
+      "-22,812",
+      "-117,110"
     ],
     "Net Cash Flow from Financing Activities": [
-      "33,320",
       "31,456",
       "292,863",
       "42,491",
-      "-209"
+      "-209",
+      "304,312"
     ],
     "New Loans": [
-      "-",
       "31,140",
       "-",
       "20,000",
-      "9,800"
+      "9,800",
+      "50,000"
     ],
     "Loans Repayment": [
-      "-",
       "-379",
       "-1,190",
       "-1,737",
-      "-10,009"
+      "-10,009",
+      "-3,445"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -624,25 +624,25 @@
       "-"
     ],
     "Equity Financing": [
-      "33,320",
       "695",
       "294,053",
       "24,228",
-      "-"
+      "-",
+      "257,757"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "31,043",
       "-14,171",
       "192,238",
       "-175,768",
-      "-23,021"
+      "-23,021",
+      "187,202"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "6,970",
       "38,013",
       "23,842",
       "216,080",
-      "40,312"
+      "40,312",
+      "17,291"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
@@ -652,11 +652,11 @@
       "-"
     ],
     "Cash & Cash Equivalents at End of Year": [
-      "38,013",
       "23,842",
       "216,080",
       "40,312",
-      "17,291"
+      "17,291",
+      "204,493"
     ],
     "Unit": [
       "Thousand",
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/14",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/05/31",
       "Year Ended": "2018/03",
@@ -1010,7 +1020,7 @@
       "3.94",
       "7.62",
       "4.35",
-      "-6.48"
+      "-5.70"
     ],
     "Yield (%)": [
       "0.00",

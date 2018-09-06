@@ -2,8 +2,8 @@
   "stock_code": "371",
   "basic_information": {
     "Name": "Beijing Enterprises Water Group\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1993/04/19",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "2.3636",
     "EPS(HKD)": "0.4242",
-    "PE": "10.35",
+    "PE": "10.02",
     "DPS(HKD)": "0.1550",
-    "Yield": "3.53",
-    "Price/PNAV": "1.8574",
+    "Yield": "3.65",
+    "Price/PNAV": "1.7981",
     "Index Constituent": "HSHKLI\n                    HSCI\n                    Index_Utilities\n                    HSGCI\n                    HSCCI\n                    HSML100"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0950",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/26",
+      "Book Close Date": "2018/09/28-2018/10/03",
+      "Payable Date": "2018/10/19"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1140,14 +1150,14 @@
       "24.08",
       "22.29",
       "13.28",
-      "10.35"
+      "10.02"
     ],
     "Yield (%)": [
       "0.74",
       "1.56",
       "1.51",
       "2.42",
-      "3.53"
+      "3.65"
     ],
     "Dividend Payout (%)": [
       "37.20",

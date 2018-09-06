@@ -2,22 +2,22 @@
   "stock_code": "5",
   "basic_information": {
     "Name": "HSBC Holdings plc",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
     "Par Currency": "USD",
     "Par": "0.5",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "20,338,918,739",
+    "Issued Capital(share)": "20,231,983,423",
     "Issue Cap-H(share)": "-",
     "Board Lot": "400",
     "NAV(HKD)": "0.0000",
     "EPS(HKD)": "3.7507",
-    "PE": "19.66",
+    "PE": "18.08",
     "DPS(HKD)": "3.9851",
-    "Yield": "5.40",
+    "Yield": "5.88",
     "Price/PNAV": "-",
     "Index Constituent": "HSI\n                    HSHKLI\n                    FS-index\n                    HKMI_S&P\n                    HSHK35\n                    Index_Financials\n                    HSCI\n                    HSGCI"
   },
@@ -688,6 +688,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/06",
+      "Year Ended": "2018/12",
+      "Event": "Interim 2",
+      "Particular": "D:USD 0.1000",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/08/16",
+      "Book Close Date": "2018/08/17",
+      "Payable Date": "2018/09/27"
+    },
     {
       "Announce Date": "2018/05/04",
       "Year Ended": "2018/12",
@@ -1407,14 +1417,14 @@
       "9.43",
       "13.70",
       "150.34",
-      "19.66"
+      "18.08"
     ],
     "Yield (%)": [
       "5.70",
       "7.69",
       "5.73",
       "4.75",
-      "5.40"
+      "5.88"
     ],
     "Dividend Payout (%)": [
       "58.33",

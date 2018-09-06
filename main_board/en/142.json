@@ -2,8 +2,8 @@
   "stock_code": "142",
   "basic_information": {
     "Name": "First Pacific Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1988/09/12",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "5.8076",
     "EPS(HKD)": "0.2188",
-    "PE": "17.64",
+    "PE": "17.28",
     "DPS(HKD)": "0.1360",
-    "Yield": "3.52",
-    "Price/PNAV": "0.6646",
+    "Yield": "3.60",
+    "Price/PNAV": "0.6509",
     "Index Constituent": "Index_Consumer Goods\n                    HSHKMI\n                    HSCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.0800(equivalent to USD 0.0103)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/11",
+      "Book Close Date": "2018/09/13-2018/09/17",
+      "Payable Date": "2018/09/27"
+    },
+    {
       "Announce Date": "2018/03/20",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1140,14 @@
       "33.29",
       "41.09",
       "24.09",
-      "17.64"
+      "17.28"
     ],
     "Yield (%)": [
       "2.81",
       "4.29",
       "2.24",
       "2.98",
-      "3.52"
+      "3.60"
     ],
     "Dividend Payout (%)": [
       "47.70",

@@ -2,23 +2,23 @@
   "stock_code": "3333",
   "basic_information": {
     "Name": "China Evergrande Group",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2009/11/05",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "USD",
     "Par": "0.01",
     "Authorized Capital(share)": "100,000,000,000",
-    "Issued Capital(share)": "13,178,378,900",
+    "Issued Capital(share)": "13,037,031,900",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "10.4494",
     "EPS(HKD)": "2.1976",
-    "PE": "9.33",
-    "DPS(HKD)": "0.0000",
-    "Yield": "0.00",
-    "Price/PNAV": "1.9618",
+    "PE": "11.90",
+    "DPS(HKD)": "0.6435",
+    "Yield": "2.46",
+    "Price/PNAV": "2.5025",
     "Index Constituent": "FTSE Xinhua China25 Index\n                    Index_Properties & Construction\n                    HSHKLI\n                    HSML100\n                    HSGCI\n                    HSCI\n                    HSML25"
   },
   "financial_ratio": {
@@ -117,8 +117,8 @@
       "54.50",
       "50.35",
       "53.30",
-      "0.00",
-      "0.00"
+      "155.67",
+      "29.28"
     ],
     "Fiscal Year High": [
       "4.750",
@@ -152,15 +152,15 @@
       "20.69",
       "19.66",
       "14.70",
-      "0.00",
-      "0.00"
+      "13.93",
+      "13.00"
     ],
     "Fiscal Year Yield Range Low (%)": [
       "11.59",
       "13.15",
       "5.32",
-      "0.00",
-      "0.00"
+      "9.58",
+      "1.98"
     ]
   },
   "profit_loss": {
@@ -682,6 +682,36 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/08/20",
+      "Year Ended": "2016/12",
+      "Event": "Final",
+      "Particular": "D:RMB\n                0.5650(equivalent to HKD 0.6435)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/28",
+      "Book Close Date": "2018/10/03-2018/10/05",
+      "Payable Date": "2018/10/19"
+    },
+    {
+      "Announce Date": "2018/08/20",
+      "Year Ended": "2017/12",
+      "Event": "Final",
+      "Particular": "D:RMB\n                0.5650(equivalent to HKD 0.6435)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/28",
+      "Book Close Date": "2018/10/03-2018/10/05",
+      "Payable Date": "2018/10/19"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -902,29 +932,29 @@
       "0.5504",
       "0.5366",
       "0.4469",
-      "0.0000",
-      "0.0000"
+      "0.6435",
+      "0.6435"
     ],
     "PE (X)": [
       "6.12",
       "5.39",
       "9.12",
-      "60.96",
-      "9.33"
+      "67.73",
+      "11.90"
     ],
     "Yield (%)": [
       "8.91",
       "9.35",
       "5.84",
-      "0.00",
-      "0.00"
+      "2.30",
+      "2.46"
     ],
     "Dividend Payout (%)": [
       "54.50",
       "50.35",
       "53.30",
-      "0.00",
-      "0.00"
+      "155.67",
+      "29.28"
     ],
     "NAV": [
       "3.8759",

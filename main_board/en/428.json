@@ -1,7 +1,7 @@
 {
   "stock_code": "428",
   "basic_information": {
-    "Name": "Huge China Holdings Ltd.",
+    "Name": "Cocoon Holdings Limited",
     "EPS Start Date": "2017/01/01",
     "EPS End Date": "2017/12/31",
     "Listing Date": "1993/12/14",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "2.0335",
     "EPS(HKD)": "-2.3900",
-    "PE": "-0.32",
+    "PE": "-0.23",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.3787",
+    "Price/PNAV": "0.2754",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -163,120 +163,7 @@
       "0.00"
     ]
   },
-  "profit_loss": {
-    "Closing Date": [
-      "2013/12",
-      "2014/12",
-      "2015/12",
-      "2016/12",
-      "2017/12"
-    ],
-    "Total Turnover": [
-      "7,675",
-      "3,625",
-      "6,157",
-      "9,361",
-      "15,679"
-    ],
-    "Turnover": [
-      "7,637",
-      "3,478",
-      "6,017",
-      "9,331",
-      "10,570"
-    ],
-    "Other Turnover": [
-      "37",
-      "147",
-      "140",
-      "30",
-      "5,109"
-    ],
-    "Cost of Sales": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Gross Profit": [
-      "7,675",
-      "3,625",
-      "6,157",
-      "9,361",
-      "15,679"
-    ],
-    "Profit Before Taxation": [
-      "-38,962",
-      "-36,569",
-      "316,257",
-      "-194,959",
-      "-205,508"
-    ],
-    "Operating Profit": [
-      "-38,962",
-      "-36,569",
-      "316,257",
-      "-194,959",
-      "-205,508"
-    ],
-    "Exceptional Items": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Associates": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Other Non-Operating Gains": [
-      "0",
-      "0",
-      "0",
-      "0",
-      "0"
-    ],
-    "Taxation": [
-      "-",
-      "-",
-      "-29",
-      "-",
-      "-"
-    ],
-    "Minority Interests": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Profit": [
-      "-38,962",
-      "-36,569",
-      "316,286",
-      "-194,959",
-      "-205,508"
-    ],
-    "Unit": [
-      "Thousand",
-      "Thousand",
-      "Thousand",
-      "Thousand",
-      "Thousand"
-    ],
-    "Currency": [
-      "HKD",
-      "HKD",
-      "HKD",
-      "HKD",
-      "HKD"
-    ]
-  },
+  "profit_loss": {},
   "balance_sheet": {
     "Closing Date": [
       "2013/12",
@@ -681,6 +568,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/30",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
@@ -1250,7 +1147,7 @@
       "-2.32",
       "0.17",
       "-0.29",
-      "-0.32"
+      "-0.23"
     ],
     "Yield (%)": [
       "0.00",

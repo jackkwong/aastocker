@@ -2,8 +2,8 @@
   "stock_code": "935",
   "basic_information": {
     "Name": "Dragon Crown Group Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2011/06/10",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.8912",
     "EPS(HKD)": "0.0412",
-    "PE": "22.09",
+    "PE": "20.87",
     "DPS(HKD)": "0.0300",
-    "Yield": "3.30",
-    "Price/PNAV": "1.0211",
+    "Yield": "3.49",
+    "Price/PNAV": "0.9650",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/20",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0200",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/04",
+      "Book Close Date": "2018/09/06-2018/09/07",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/20",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -870,14 +880,14 @@
       "17.15",
       "21.58",
       "16.93",
-      "22.09"
+      "20.87"
     ],
     "Yield (%)": [
       "6.52",
       "4.64",
       "2.87",
       "4.06",
-      "3.30"
+      "3.49"
     ],
     "Dividend Payout (%)": [
       "61.77",

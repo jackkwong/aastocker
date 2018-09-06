@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.05",
     "Authorized Capital(share)": "20,000,000,000",
-    "Issued Capital(share)": "8,827,900,726",
+    "Issued Capital(share)": "8,846,900,726",
     "Issue Cap-H(share)": "-",
     "Board Lot": "8,000",
     "NAV(HKD)": "0.3251",
     "EPS(HKD)": "-0.0098",
-    "PE": "-86.73",
+    "PE": "-90.82",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "2.6142",
+    "Price/PNAV": "2.7373",
     "Index Constituent": "GEM_Index"
   },
   "financial_ratio": {
@@ -682,6 +682,26 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/13",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/07/20",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "Withdrawal of Listing:Will\n                be listed on the Main Board",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/05/11",
       "Year Ended": "2018/12",
       "Event": "Quarter 1",
@@ -696,16 +716,6 @@
       "Year Ended": "2017/12",
       "Event": "Final",
       "Particular": "No Dividend",
-      "Type": "-",
-      "Ex-Date": "-",
-      "Book Close Date": "-",
-      "Payable Date": "-"
-    },
-    {
-      "Announce Date": "2018/01/15",
-      "Year Ended": "-",
-      "Event": "Special",
-      "Particular": "Withdrawal of Listing:Will\n                be listed on the Main Board",
       "Type": "-",
       "Ex-Date": "-",
       "Book Close Date": "-",
@@ -1380,7 +1390,7 @@
       "-11.45",
       "-43.27",
       "95.70",
-      "-86.73"
+      "-90.82"
     ],
     "Yield (%)": [
       "0.00",

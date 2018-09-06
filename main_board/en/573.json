@@ -2,8 +2,8 @@
   "stock_code": "573",
   "basic_information": {
     "Name": "Tao Heung Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/06/29",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "1.7154",
     "EPS(HKD)": "0.0876",
-    "PE": "15.18",
+    "PE": "15.98",
     "DPS(HKD)": "0.1150",
-    "Yield": "8.65",
-    "Price/PNAV": "0.7753",
+    "Yield": "8.21",
+    "Price/PNAV": "0.8161",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0550",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/27",
+      "Book Close Date": "2018/10/02-2018/10/02",
+      "Payable Date": "2018/10/10"
+    },
+    {
       "Announce Date": "2018/03/22",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -990,14 +1000,14 @@
       "10.54",
       "12.76",
       "8.59",
-      "15.18"
+      "15.98"
     ],
     "Yield (%)": [
       "3.45",
       "5.61",
       "5.61",
       "10.67",
-      "8.65"
+      "8.21"
     ],
     "Dividend Payout (%)": [
       "46.57",

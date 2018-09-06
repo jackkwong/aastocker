@@ -2,8 +2,8 @@
   "stock_code": "688",
   "basic_information": {
     "Name": "China Overseas Land & Investment\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1992/08/20",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "24.2506",
     "EPS(HKD)": "3.7200",
-    "PE": "6.98",
+    "PE": "6.49",
     "DPS(HKD)": "0.8000",
-    "Yield": "3.08",
-    "Price/PNAV": "1.0701",
+    "Yield": "3.31",
+    "Price/PNAV": "0.9959",
     "Index Constituent": "HSI\n                    HSCCI\n                    PB-index\n                    HSML25\n                    Index_Properties & Construction\n                    HSCI\n                    HSHKLI\n                    HSML100\n                    HSGCI\n                    FTSE Xinhua China25 Index"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.4000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/18",
+      "Book Close Date": "2018/09/20-2018/09/20",
+      "Payable Date": "2018/10/05"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1120,14 +1130,14 @@
       "6.68",
       "6.49",
       "7.45",
-      "6.98"
+      "6.49"
     ],
     "Yield (%)": [
       "1.63",
       "2.47",
       "2.51",
       "2.84",
-      "3.08"
+      "3.31"
     ],
     "Dividend Payout (%)": [
       "16.67",

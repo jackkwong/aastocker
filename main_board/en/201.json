@@ -2,8 +2,8 @@
   "stock_code": "201",
   "basic_information": {
     "Name": "Magnificent Hotel Investments\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1972/11/17",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.4427",
     "EPS(HKD)": "0.0170",
-    "PE": "13.12",
+    "PE": "11.59",
     "DPS(HKD)": "0.0070",
-    "Yield": "3.16",
-    "Price/PNAV": "0.5037",
+    "Yield": "3.57",
+    "Price/PNAV": "0.4450",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0008",
+      "Type": "Cash",
+      "Ex-Date": "2019/06/10",
+      "Book Close Date": "2019/06/12-2019/06/14",
+      "Payable Date": "2019/06/27"
+    },
+    {
       "Announce Date": "2018/03/13",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1140,14 @@
       "1.73",
       "11.49",
       "15.23",
-      "13.12"
+      "11.59"
     ],
     "Yield (%)": [
       "2.01",
       "4.43",
       "20.00",
       "2.82",
-      "3.16"
+      "3.57"
     ],
     "Dividend Payout (%)": [
       "11.14",

@@ -2,8 +2,8 @@
   "stock_code": "393",
   "basic_information": {
     "Name": "Glorious Sun Enterprises Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1996/09/17",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "4,000",
     "NAV(HKD)": "1.6566",
     "EPS(HKD)": "0.0577",
-    "PE": "14.56",
+    "PE": "15.42",
     "DPS(HKD)": "0.0570",
-    "Yield": "6.79",
-    "Price/PNAV": "0.5071",
+    "Yield": "6.40",
+    "Price/PNAV": "0.5372",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0250",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/12",
+      "Book Close Date": "2018/09/14-2018/09/17",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/22",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1140,14 @@
       "9.12",
       "12.28",
       "15.10",
-      "14.56"
+      "15.42"
     ],
     "Yield (%)": [
       "6.90",
       "9.97",
       "7.48",
       "6.00",
-      "6.79"
+      "6.40"
     ],
     "Dividend Payout (%)": [
       "92.96",

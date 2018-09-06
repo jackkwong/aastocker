@@ -2,8 +2,8 @@
   "stock_code": "8359",
   "basic_information": {
     "Name": "Hypebeast Ltd.",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2016/04/11",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -13,7 +13,7 @@
     "Issued Capital(share)": "2,000,000,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "20,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "0.0706",
     "EPS(HKD)": "0.0226",
     "PE": "0.00",
     "DPS(HKD)": "0.0000",
@@ -481,206 +481,226 @@
       "2015/03",
       "2016/03",
       "2017/03",
-      ""
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
       "6,862",
       "16,137",
       "6,705",
       "31,599",
-      ""
+      "1,786"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
       "-41",
       "-7,832",
       "-293",
       "-322",
-      ""
+      "-288"
     ],
     "Interest Received": [
       "-",
       "-",
       "-",
       "1",
-      ""
+      "-"
     ],
     "Interest Paid": [
       "-41",
       "-87",
       "-293",
       "-323",
-      ""
+      "-288"
     ],
     "Dividend Received": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-"
     ],
     "Dividend Paid": [
       "-",
       "-7,745",
       "-",
       "-",
-      ""
+      "-"
     ],
     "Others": [
       "-371",
       "-1,462",
       "-4,101",
       "-13,204",
-      ""
+      "-"
     ],
     "Taxes (Paid) / Refunded": [
       "-1,315",
       "-3,281",
       "-2,099",
       "-5,326",
-      ""
+      "-5,482"
     ],
     "Net Cash Flow from Investing Activities": [
       "-2,234",
       "-1,178",
       "-7,395",
       "284",
-      ""
+      "-4,819"
     ],
     "Additions to Fixed Assets": [
       "-2,234",
       "-824",
       "-997",
       "-3,508",
-      ""
+      "-2,515"
     ],
     "Disposal of Fixed Assets": [
       "-",
       "-",
       "359",
       "-",
-      ""
+      "596"
     ],
     "Increase in Investments": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-5,887"
     ],
     "Decrease in Investments": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-"
     ],
     "Net Cash Flow with Related Parties": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-"
     ],
     "Net Cash Flow before Financing Activities": [
       "3,272",
       "3,846",
       "-3,082",
       "26,235",
-      ""
+      "-8,803"
     ],
     "Net Cash Flow from Financing Activities": [
       "1,158",
       "-1,228",
       "5,058",
       "32,517",
-      ""
+      "-546"
     ],
     "New Loans": [
       "2,000",
       "2,139",
       "15,732",
       "1,200",
-      ""
+      "20,319"
     ],
     "Loans Repayment": [
       "-471",
       "-1,905",
       "-6,573",
       "-7,479",
-      ""
+      "-20,865"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-"
     ],
     "Repayment of Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-"
     ],
     "Equity Financing": [
       "-",
       "-",
       "-",
       "52,000",
-      ""
+      "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
       "4,430",
       "2,618",
       "1,976",
       "58,752",
-      ""
+      "-9,349"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
       "155",
       "4,585",
       "7,203",
       "9,179",
-      ""
+      "67,931"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
       "-",
       "-",
       "-",
-      ""
+      "-1"
     ],
     "Cash & Cash Equivalents at End of Year": [
       "4,585",
       "7,203",
       "9,179",
       "67,931",
-      ""
+      "58,581"
     ],
     "Unit": [
       "Thousand",
       "Thousand",
       "Thousand",
       "Thousand",
-      ""
+      "Thousand"
     ],
     "Currency": [
       "HKD",
       "HKD",
       "HKD",
       "HKD",
-      ""
+      "HKD"
     ],
     "Auditor's Opinion": [
       "-",
       "-",
       "Unqualified",
       "Unqualified",
-      ""
+      "Unqualified"
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/07/30",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "Withdrawal of Listing:Will\n                be listed on the Main Board",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/06/20",
       "Year Ended": "2018/03",
@@ -841,7 +861,7 @@
       "0.0000",
       "257.5100",
       "0.0472",
-      "0.0000"
+      "0.0706"
     ],
     "Currency": [
       "HKD",

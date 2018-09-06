@@ -2,8 +2,8 @@
   "stock_code": "135",
   "basic_information": {
     "Name": "Kunlun Energy Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1973/03/13",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "5.9447",
     "EPS(HKD)": "0.7070",
-    "PE": "9.79",
+    "PE": "11.90",
     "DPS(HKD)": "0.2518",
-    "Yield": "3.64",
-    "Price/PNAV": "1.1641",
+    "Yield": "2.99",
+    "Price/PNAV": "1.4147",
     "Index Constituent": "HSCCI\n                    Index_Energy\n                    HSCI\n                    HSHKLI\n                    HSML100\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -689,7 +699,7 @@
       "Type": "Cash",
       "Ex-Date": "2018/05/30",
       "Book Close Date": "2018/06/01-2018/06/04",
-      "Payable Date": "2018/06/30"
+      "Payable Date": "2018/06/26"
     },
     {
       "Announce Date": "2017/08/23",
@@ -1090,14 +1100,14 @@
       "8.98",
       "38.43",
       "90.20",
-      "9.79"
+      "11.90"
     ],
     "Yield (%)": [
       "3.00",
       "3.21",
       "0.84",
       "1.01",
-      "3.64"
+      "2.99"
     ],
     "Dividend Payout (%)": [
       "27.06",

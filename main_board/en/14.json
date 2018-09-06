@@ -2,23 +2,23 @@
   "stock_code": "14",
   "basic_information": {
     "Name": "Hysan Development Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1981/09/18",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "1,046,114,225",
+    "Issued Capital(share)": "1,046,297,558",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "66.8879",
     "EPS(HKD)": "3.4778",
-    "PE": "12.94",
+    "PE": "11.20",
     "DPS(HKD)": "1.3700",
-    "Yield": "3.04",
-    "Price/PNAV": "0.6728",
+    "Yield": "3.52",
+    "Price/PNAV": "0.5823",
     "Index Constituent": "HSHKMI\n                    Index_Properties & Construction\n                    HSHK35\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/07",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2700",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/20",
+      "Book Close Date": "2018/08/22-2018/08/22",
+      "Payable Date": "2018/08/31"
+    },
+    {
       "Announce Date": "2018/02/28",
       "Year Ended": "2017/12",
       "Event": "Interim 2",
@@ -1090,14 +1100,14 @@
       "7.31",
       "12.81",
       "38.29",
-      "12.94"
+      "11.20"
     ],
     "Yield (%)": [
       "3.37",
       "3.65",
       "3.77",
       "3.03",
-      "3.04"
+      "3.52"
     ],
     "Dividend Payout (%)": [
       "20.21",

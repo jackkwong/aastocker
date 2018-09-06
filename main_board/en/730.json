@@ -2,8 +2,8 @@
   "stock_code": "730",
   "basic_information": {
     "Name": "Shougang Concord Grand (Group)\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1991/08/08",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "0.4797",
     "EPS(HKD)": "-0.0042",
-    "PE": "-41.67",
+    "PE": "-34.52",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.3648",
+    "Price/PNAV": "0.3023",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,14 +682,24 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/06/13",
       "Year Ended": "-",
       "Event": "Special",
       "Particular": "R:1-for-2@HKD\n                0.1870",
       "Type": "-",
-      "Ex-Date": "2018/07/19",
-      "Book Close Date": "2018/07/23-2018/07/27",
-      "Payable Date": "2018/08/13"
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
     },
     {
       "Announce Date": "2018/03/22",
@@ -1110,7 +1120,7 @@
       "32.95",
       "-8.89",
       "-6.36",
-      "-41.67"
+      "-34.52"
     ],
     "Yield (%)": [
       "0.00",

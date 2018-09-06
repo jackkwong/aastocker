@@ -2,8 +2,8 @@
   "stock_code": "1",
   "basic_information": {
     "Name": "CK Hutchison Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2015/03/18",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "111.4805",
     "EPS(HKD)": "9.1000",
-    "PE": "9.23",
+    "PE": "9.91",
     "DPS(HKD)": "2.8500",
-    "Yield": "3.39",
-    "Price/PNAV": "0.7530",
+    "Yield": "3.16",
+    "Price/PNAV": "0.8091",
     "Index Constituent": "HSI\n                    HSHKLI\n                    HKMI_S&P\n                    HSCI\n                    HSHK35\n                    HSGCI\n                    C&I-S-index\n                    Index_Conglomerates"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/02",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.8700",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/03",
+      "Book Close Date": "2018/09/04",
+      "Payable Date": "2018/09/13"
+    },
+    {
       "Announce Date": "2018/03/16",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1160,14 +1170,14 @@
       "3.79",
       "2.61",
       "11.57",
-      "9.23"
+      "9.91"
     ],
     "Yield (%)": [
       "2.06",
       "12.09",
       "2.64",
       "2.71",
-      "3.39"
+      "3.16"
     ],
     "Dividend Payout (%)": [
       "22.86",

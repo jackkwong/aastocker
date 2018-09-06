@@ -2,8 +2,8 @@
   "stock_code": "327",
   "basic_information": {
     "Name": "PAX Global Technology Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/12/20",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "3.5655",
     "EPS(HKD)": "0.3670",
-    "PE": "10.57",
+    "PE": "10.49",
     "DPS(HKD)": "0.0800",
-    "Yield": "2.06",
-    "Price/PNAV": "1.0882",
+    "Yield": "2.08",
+    "Price/PNAV": "1.0798",
     "Index Constituent": "Index_Information Technology\n                    HSHKSI\n                    HSCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0400",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/22",
+      "Book Close Date": "2018/08/24-2018/08/28",
+      "Payable Date": "2018/09/11"
+    },
+    {
       "Announce Date": "2018/03/07",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -880,14 +890,14 @@
       "23.91",
       "9.66",
       "7.12",
-      "10.57"
+      "10.49"
     ],
     "Yield (%)": [
       "0.00",
       "0.00",
       "0.74",
       "2.08",
-      "2.06"
+      "2.08"
     ],
     "Dividend Payout (%)": [
       "0.00",

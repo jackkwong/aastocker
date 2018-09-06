@@ -2,8 +2,8 @@
   "stock_code": "272",
   "basic_information": {
     "Name": "Shui On Land Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2006/10/04",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "5.6934",
     "EPS(HKD)": "0.2494",
-    "PE": "8.14",
+    "PE": "7.30",
     "DPS(HKD)": "0.1000",
-    "Yield": "4.93",
-    "Price/PNAV": "0.3566",
+    "Yield": "5.49",
+    "Price/PNAV": "0.3197",
     "Index Constituent": "Index_Properties &\n                    Construction\n                    HSCI\n                    HSHKMI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.0360(equivalent to RMB 0.0314)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/11",
+      "Book Close Date": "2018/09/12",
+      "Payable Date": "2018/09/27"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -980,14 +990,14 @@
       "7.14",
       "14.71",
       "14.49",
-      "8.14"
+      "7.30"
     ],
     "Yield (%)": [
       "2.72",
       "3.16",
       "2.89",
       "2.28",
-      "4.93"
+      "5.49"
     ],
     "Dividend Payout (%)": [
       "17.29",

@@ -2,8 +2,8 @@
   "stock_code": "44",
   "basic_information": {
     "Name": "Hong Kong Aircraft Engineering\n                    Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "400",
     "NAV(HKD)": "33.4767",
     "EPS(HKD)": "-3.2500",
-    "PE": "-21.12",
+    "PE": "-21.20",
     "DPS(HKD)": "1.0300",
-    "Yield": "1.50",
-    "Price/PNAV": "2.0507",
+    "Yield": "1.49",
+    "Price/PNAV": "2.0582",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/07",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.7200",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/29",
+      "Book Close Date": "2018/08/31-2018/08/31",
+      "Payable Date": "2018/09/18"
+    },
+    {
       "Announce Date": "2018/06/10",
       "Year Ended": "-",
       "Event": "Special",
@@ -1150,14 +1160,14 @@
       "15.35",
       "19.75",
       "7.58",
-      "-21.12"
+      "-21.20"
     ],
     "Yield (%)": [
       "2.36",
       "3.97",
       "3.09",
       "8.78",
-      "1.50"
+      "1.49"
     ],
     "Dividend Payout (%)": [
       "55.85",

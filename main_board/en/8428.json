@@ -2,8 +2,8 @@
   "stock_code": "8428",
   "basic_information": {
     "Name": "CBK Holdings Limited",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2017/02/15",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -13,7 +13,7 @@
     "Issued Capital(share)": "1,200,000,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "12,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "0.0675",
     "EPS(HKD)": "-0.0081",
     "PE": "0.00",
     "DPS(HKD)": "0.0000",
@@ -480,207 +480,217 @@
       "2015/03",
       "2016/03",
       "2017/03",
-      "",
+      "2018/03",
       ""
     ],
     "Net Cash Flow from Operating Activities": [
       "10,561",
       "11,185",
       "-81",
-      "",
+      "-12,588",
       ""
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
       "3",
       "2",
       "-11,998",
-      "",
+      "2",
       ""
     ],
     "Interest Received": [
       "3",
       "2",
       "2",
-      "",
+      "2",
       ""
     ],
     "Interest Paid": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Dividend Received": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Dividend Paid": [
       "-",
       "-",
       "-12,000",
-      "",
+      "-",
       ""
     ],
     "Others": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Taxes (Paid) / Refunded": [
       "-2,112",
       "-883",
       "-2,607",
-      "",
+      "-2,263",
       ""
     ],
     "Net Cash Flow from Investing Activities": [
       "-5,693",
       "-3,872",
       "-3,121",
-      "",
+      "-7,228",
       ""
     ],
     "Additions to Fixed Assets": [
       "-5,693",
       "-2,518",
       "-3,121",
-      "",
+      "-7,102",
       ""
     ],
     "Disposal of Fixed Assets": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Increase in Investments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Decrease in Investments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Net Cash Flow with Related Parties": [
       "1,587",
       "-5,564",
       "8,474",
-      "",
+      "-",
       ""
     ],
     "Net Cash Flow before Financing Activities": [
       "2,759",
       "6,432",
       "-17,807",
-      "",
+      "-22,077",
       ""
     ],
     "Net Cash Flow from Financing Activities": [
       "1,587",
       "-5,564",
       "76,543",
-      "",
+      "-",
       ""
     ],
     "New Loans": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Loans Repayment": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Repayment of Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Equity Financing": [
       "-",
       "-",
       "68,069",
-      "",
+      "-",
       ""
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
       "4,346",
       "868",
       "58,736",
-      "",
+      "-22,077",
       ""
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
       "20,472",
       "24,818",
       "25,686",
-      "",
+      "84,422",
       ""
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Cash & Cash Equivalents at End of Year": [
       "24,818",
       "25,686",
       "84,422",
-      "",
+      "62,345",
       ""
     ],
     "Unit": [
       "Thousand",
       "Thousand",
       "Thousand",
-      "",
+      "Thousand",
       ""
     ],
     "Currency": [
       "HKD",
       "HKD",
       "HKD",
-      "",
+      "HKD",
       ""
     ],
     "Auditor's Opinion": [
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "",
+      "Unqualified",
       ""
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/10",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/06/22",
       "Year Ended": "2018/03",
@@ -800,7 +810,7 @@
       "0.0000",
       "0.0000",
       "0.0756",
-      "0.0000",
+      "0.0675",
       ""
     ],
     "Currency": [

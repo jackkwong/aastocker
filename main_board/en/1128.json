@@ -2,8 +2,8 @@
   "stock_code": "1128",
   "basic_information": {
     "Name": "Wynn Macau, Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2009/10/09",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "400",
     "NAV(HKD)": "0.5775",
     "EPS(HKD)": "0.7100",
-    "PE": "35.92",
+    "PE": "29.23",
     "DPS(HKD)": "0.9600",
-    "Yield": "3.76",
-    "Price/PNAV": "44.1550",
+    "Yield": "4.63",
+    "Price/PNAV": "35.9300",
     "Index Constituent": "HSHK35\n                    HSCI\n                    Index_Services\n                    HSHKLI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,26 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.3200",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/18",
+      "Book Close Date": "2018/09/20-2018/09/24",
+      "Payable Date": "2018/10/05"
+    },
+    {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "SD:HKD 0.4300",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/18",
+      "Book Close Date": "2018/09/20-2018/09/24",
+      "Payable Date": "2018/10/05"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -980,14 +1000,14 @@
       "9.89",
       "37.65",
       "98.93",
-      "35.92"
+      "29.23"
     ],
     "Yield (%)": [
       "8.38",
       "14.27",
       "3.46",
       "1.52",
-      "3.76"
+      "4.63"
     ],
     "Dividend Payout (%)": [
       "100.00",

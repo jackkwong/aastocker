@@ -2,8 +2,8 @@
   "stock_code": "11",
   "basic_information": {
     "Name": "Hang Seng Bank Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1972/06/20",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "100",
     "NAV(HKD)": "79.5201",
     "EPS(HKD)": "10.3000",
-    "PE": "18.88",
+    "PE": "19.90",
     "DPS(HKD)": "6.7000",
-    "Yield": "3.44",
-    "Price/PNAV": "2.4459",
+    "Yield": "3.27",
+    "Price/PNAV": "2.5780",
     "Index Constituent": "HSI\n                    HSHKLI\n                    FS-index\n                    HKMI_S&P\n                    Index_Financials\n                    HSHK35\n                    HSCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -688,6 +688,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/06",
+      "Year Ended": "2018/12",
+      "Event": "Interim 2",
+      "Particular": "D:HKD 1.3000",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/17",
+      "Book Close Date": "2018/08/21-2018/08/21",
+      "Payable Date": "2018/09/06"
+    },
     {
       "Announce Date": "2018/05/04",
       "Year Ended": "2018/12",
@@ -1417,14 +1427,14 @@
       "16.55",
       "12.85",
       "23.19",
-      "18.88"
+      "19.90"
     ],
     "Yield (%)": [
       "3.90",
       "4.28",
       "4.76",
       "3.17",
-      "3.44"
+      "3.27"
     ],
     "Dividend Payout (%)": [
       "39.43",

@@ -10,15 +10,15 @@
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "2,000,000,000",
-    "Issued Capital(share)": "1,124,269,277",
+    "Issued Capital(share)": "1,121,317,277",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
     "NAV(HKD)": "4.1540",
     "EPS(HKD)": "0.6170",
-    "PE": "13.32",
+    "PE": "12.77",
     "DPS(HKD)": "0.6000",
-    "Yield": "7.30",
-    "Price/PNAV": "1.9788",
+    "Yield": "7.61",
+    "Price/PNAV": "1.8970",
     "Index Constituent": "Index_Telecommunications\n                    HSGCI\n                    HSHKMI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/09/05",
+      "Year Ended": "2018/06",
+      "Event": "Final",
+      "Particular": "D:HKD 0.2300",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/11/05",
+      "Book Close Date": "2018/11/07-2018/11/07",
+      "Payable Date": "2018/12/14"
+    },
+    {
       "Announce Date": "2018/02/13",
       "Year Ended": "2018/06",
       "Event": "Interim",
@@ -1130,14 +1140,14 @@
       "28.09",
       "14.64",
       "12.46",
-      "13.32"
+      "12.77"
     ],
     "Yield (%)": [
       "6.25",
       "2.13",
       "4.59",
       "6.43",
-      "7.30"
+      "7.61"
     ],
     "Dividend Payout (%)": [
       "81.18",

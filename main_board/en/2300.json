@@ -2,8 +2,8 @@
   "stock_code": "2300",
   "basic_information": {
     "Name": "AMVIG Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2004/03/26",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "4.0278",
     "EPS(HKD)": "0.3720",
-    "PE": "5.40",
+    "PE": "5.46",
     "DPS(HKD)": "0.1490",
-    "Yield": "7.41",
-    "Price/PNAV": "0.4990",
+    "Yield": "7.34",
+    "Price/PNAV": "0.5040",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0800",
+      "Type": "Cash",
+      "Ex-Date": "2018/12/03",
+      "Book Close Date": "2018/12/05-2018/12/07",
+      "Payable Date": "2018/12/14"
+    },
+    {
       "Announce Date": "2018/03/22",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1120,14 +1130,14 @@
       "8.21",
       "9.28",
       "10.63",
-      "5.40"
+      "5.46"
     ],
     "Yield (%)": [
       "3.89",
       "17.55",
       "8.91",
       "5.67",
-      "7.41"
+      "7.34"
     ],
     "Dividend Payout (%)": [
       "40.00",

@@ -2,8 +2,8 @@
   "stock_code": "1203",
   "basic_information": {
     "Name": "Guangnan (Holdings) Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1994/12/09",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "2.7026",
     "EPS(HKD)": "0.0720",
-    "PE": "12.92",
+    "PE": "12.50",
     "DPS(HKD)": "0.0400",
-    "Yield": "4.30",
-    "Price/PNAV": "0.3441",
+    "Yield": "4.44",
+    "Price/PNAV": "0.3330",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0100",
+      "Type": "Cash",
+      "Ex-Date": "2018/10/02",
+      "Book Close Date": "2018/10/04-2018/10/05",
+      "Payable Date": "2018/10/25"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1120,14 +1130,14 @@
       "5.69",
       "15.34",
       "7.75",
-      "12.92"
+      "12.50"
     ],
     "Yield (%)": [
       "2.56",
       "4.95",
       "2.68",
       "4.30",
-      "4.30"
+      "4.44"
     ],
     "Dividend Payout (%)": [
       "20.83",

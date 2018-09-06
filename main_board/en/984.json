@@ -2,8 +2,8 @@
   "stock_code": "984",
   "basic_information": {
     "Name": "AEON Stores (Hong Kong) Co.,\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1994/02/04",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "6.1758",
     "EPS(HKD)": "-0.2106",
-    "PE": "-22.22",
+    "PE": "-20.51",
     "DPS(HKD)": "0.4200",
-    "Yield": "8.97",
-    "Price/PNAV": "0.7578",
+    "Yield": "9.72",
+    "Price/PNAV": "0.6995",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2200",
+      "Type": "Cash",
+      "Ex-Date": "2018/10/09",
+      "Book Close Date": "2018/10/11-2018/10/12",
+      "Payable Date": "2018/10/30"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1120,14 +1130,14 @@
       "6.01",
       "20.51",
       "-52.07",
-      "-22.22"
+      "-20.51"
     ],
     "Yield (%)": [
       "1.19",
       "9.13",
       "2.44",
       "12.90",
-      "8.97"
+      "9.72"
     ],
     "Dividend Payout (%)": [
       "31.33",

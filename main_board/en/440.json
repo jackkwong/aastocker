@@ -2,8 +2,8 @@
   "stock_code": "440",
   "basic_information": {
     "Name": "Dah Sing Financial Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1987/11/05",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "400",
     "NAV(HKD)": "74.7954",
     "EPS(HKD)": "16.1300",
-    "PE": "2.97",
+    "PE": "3.03",
     "DPS(HKD)": "7.9500",
-    "Yield": "16.61",
-    "Price/PNAV": "0.6397",
+    "Yield": "16.27",
+    "Price/PNAV": "0.6531",
     "Index Constituent": "HSHKMI\n                    Index_Financials\n                    HSCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -689,6 +689,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.3800",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/11",
+      "Book Close Date": "2018/09/13-2018/09/17",
+      "Payable Date": "2018/09/21"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1117,14 +1127,14 @@
       "9.89",
       "8.92",
       "8.79",
-      "2.97"
+      "3.03"
     ],
     "Yield (%)": [
       "2.44",
       "2.39",
       "2.55",
       "2.66",
-      "16.61"
+      "16.27"
     ],
     "Dividend Payout (%)": [
       "25.21",

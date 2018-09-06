@@ -2,8 +2,8 @@
   "stock_code": "951",
   "basic_information": {
     "Name": "Chaowei Power Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/07/07",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "3.9742",
     "EPS(HKD)": "0.4915",
-    "PE": "8.50",
+    "PE": "7.32",
     "DPS(HKD)": "0.0743",
-    "Yield": "1.78",
-    "Price/PNAV": "1.0518",
+    "Yield": "2.06",
+    "Price/PNAV": "0.9058",
     "Index Constituent": "HSGCI\n                    Index_Industrial Goods\n                    HSCI\n                    HSHKSI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/26",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/25",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -890,14 +900,14 @@
       "-128.22",
       "12.68",
       "7.89",
-      "8.50"
+      "7.32"
     ],
     "Yield (%)": [
       "2.08",
       "0.00",
       "2.32",
       "1.79",
-      "1.78"
+      "2.06"
     ],
     "Dividend Payout (%)": [
       "30.00",

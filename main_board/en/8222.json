@@ -2,8 +2,8 @@
   "stock_code": "8222",
   "basic_information": {
     "Name": "E Lighting Group Holdings Ltd.",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2014/09/29",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "4,000",
     "NAV(HKD)": "0.1015",
     "EPS(HKD)": "-0.0608",
-    "PE": "-3.21",
+    "PE": "-2.34",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "1.9211",
+    "Price/PNAV": "1.3989",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -388,7 +388,7 @@
       "2,750",
       "4,545",
       "5,690",
-      "7,069"
+      "4,029"
     ],
     "Taxation": [
       "681",
@@ -409,7 +409,7 @@
       "5,273",
       "5,637",
       "4,490",
-      "-"
+      "3,040"
     ],
     "Total Liabilities": [
       "11,431",
@@ -477,32 +477,32 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "5,041",
       "6,920",
       "-20,639",
       "-5,248",
-      "-2,014"
+      "-2,014",
+      "-6,752"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
       "-",
-      "-",
       "53",
       "46",
-      "33"
+      "33",
+      "6"
     ],
     "Interest Received": [
       "-",
-      "-",
       "53",
       "46",
-      "33"
+      "33",
+      "6"
     ],
     "Interest Paid": [
       "-",
@@ -526,32 +526,32 @@
       "-"
     ],
     "Others": [
-      "-",
       "-3,206",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-1,962",
       "-2,280",
       "-1,337",
       "924",
-      "-748"
+      "-748",
+      "-227"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-2,242",
       "-992",
       "-3,910",
       "358",
-      "-220"
+      "-220",
+      "-1,133"
     ],
     "Additions to Fixed Assets": [
-      "-2,242",
       "-992",
       "-2,910",
       "-970",
-      "-220"
+      "-220",
+      "-1,133"
     ],
     "Disposal of Fixed Assets": [
       "-",
@@ -563,8 +563,8 @@
     "Increase in Investments": [
       "-",
       "-",
-      "-",
       "328",
+      "-",
       "-"
     ],
     "Decrease in Investments": [
@@ -575,24 +575,24 @@
       "-"
     ],
     "Net Cash Flow with Related Parties": [
-      "-517",
       "111",
       "-1,883",
       "-1,242",
+      "-",
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "837",
       "3,648",
       "-25,833",
       "-3,920",
-      "-2,949"
+      "-2,949",
+      "-8,106"
     ],
     "Net Cash Flow from Financing Activities": [
-      "-517",
       "-3,095",
       "42,899",
       "-1,242",
+      "-",
       "-"
     ],
     "New Loans": [
@@ -625,24 +625,24 @@
     ],
     "Equity Financing": [
       "-",
-      "-",
       "44,782",
+      "-",
       "-",
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "320",
       "553",
       "17,066",
       "-5,162",
-      "-2,949"
+      "-2,949",
+      "-8,106"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "3,214",
       "3,534",
       "4,087",
       "21,153",
-      "15,991"
+      "15,991",
+      "13,042"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
@@ -652,11 +652,11 @@
       "-"
     ],
     "Cash & Cash Equivalents at End of Year": [
-      "3,534",
       "4,087",
       "21,153",
       "15,991",
-      "13,042"
+      "13,042",
+      "4,936"
     ],
     "Unit": [
       "Thousand",
@@ -674,13 +674,23 @@
     ],
     "Auditor's Opinion": [
       "-",
-      "-",
+      "Unqualified",
       "Unqualified",
       "Unqualified",
       "Unqualified"
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/10",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/06/20",
       "Year Ended": "2018/03",
@@ -880,7 +890,7 @@
       "-8.73",
       "21.38",
       "-6.88",
-      "-3.21"
+      "-2.34"
     ],
     "Yield (%)": [
       "0.00",

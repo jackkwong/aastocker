@@ -2,8 +2,8 @@
   "stock_code": "703",
   "basic_information": {
     "Name": "Future Bright Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2002/08/15",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "6,000",
     "NAV(HKD)": "1.5755",
     "EPS(HKD)": "0.0159",
-    "PE": "69.81",
+    "PE": "61.64",
     "DPS(HKD)": "0.0200",
-    "Yield": "1.80",
-    "Price/PNAV": "0.7045",
+    "Yield": "2.04",
+    "Price/PNAV": "0.6220",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "SD:HKD 0.0100",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/06",
+      "Book Close Date": "2018/09/10-2018/09/12",
+      "Payable Date": "2018/10/12"
+    },
+    {
       "Announce Date": "2018/03/19",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1050,14 +1060,14 @@
       "3.23",
       "-11.65",
       "-354.55",
-      "69.81"
+      "61.64"
     ],
     "Yield (%)": [
       "5.88",
       "7.50",
       "2.60",
       "2.56",
-      "1.80"
+      "2.04"
     ],
     "Dividend Payout (%)": [
       "19.28",

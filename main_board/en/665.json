@@ -2,8 +2,8 @@
   "stock_code": "665",
   "basic_information": {
     "Name": "Haitong International Securities\n                    Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1996/08/06",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "4.6116",
     "EPS(HKD)": "0.5653",
-    "PE": "6.51",
+    "PE": "5.04",
     "DPS(HKD)": "0.2800",
-    "Yield": "7.61",
-    "Price/PNAV": "0.7980",
+    "Yield": "9.82",
+    "Price/PNAV": "0.6180",
     "Index Constituent": "Index_Financials\n                    HSCI\n                    HSGCI\n                    HSHKMI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0760",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/09/06",
+      "Book Close Date": "2018/09/10-2018/09/12",
+      "Payable Date": "2018/10/24"
+    },
+    {
       "Announce Date": "2018/03/14",
       "Year Ended": "2017/12",
       "Event": "Interim 2",
@@ -1080,14 +1090,14 @@
       "6.89",
       "7.36",
       "16.25",
-      "6.51"
+      "5.04"
     ],
     "Yield (%)": [
       "3.53",
       "6.07",
       "5.24",
       "3.00",
-      "7.61"
+      "9.82"
     ],
     "Dividend Payout (%)": [
       "46.26",

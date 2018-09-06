@@ -2,8 +2,8 @@
   "stock_code": "99",
   "basic_information": {
     "Name": "Wong's International Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1983/12/15",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "7.3492",
     "EPS(HKD)": "1.0000",
-    "PE": "3.01",
+    "PE": "2.96",
     "DPS(HKD)": "0.0750",
-    "Yield": "2.49",
-    "Price/PNAV": "0.4096",
+    "Yield": "2.53",
+    "Price/PNAV": "0.4028",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0400",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/07",
+      "Book Close Date": "2018/09/11-2018/09/13",
+      "Payable Date": "2018/09/27"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1140,14 @@
       "2.11",
       "2.47",
       "3.18",
-      "3.01"
+      "2.96"
     ],
     "Yield (%)": [
       "1.75",
       "3.31",
       "2.43",
       "2.56",
-      "2.49"
+      "2.53"
     ],
     "Dividend Payout (%)": [
       "31.25",

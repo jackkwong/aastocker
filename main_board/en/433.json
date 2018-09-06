@@ -2,8 +2,8 @@
   "stock_code": "433",
   "basic_information": {
     "Name": "North Mining Shares Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "0.1452",
     "EPS(HKD)": "-0.0068",
-    "PE": "-15.88",
+    "PE": "-7.35",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "0.7439",
+    "Price/PNAV": "0.3444",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -163,120 +163,7 @@
       "0.00"
     ]
   },
-  "profit_loss": {
-    "Closing Date": [
-      "2013/12",
-      "2014/12",
-      "2015/12",
-      "2016/12",
-      "2017/12"
-    ],
-    "Total Turnover": [
-      "158,524",
-      "454,948",
-      "245,969",
-      "256,004",
-      "468,601"
-    ],
-    "Turnover": [
-      "158,524",
-      "454,948",
-      "245,969",
-      "256,004",
-      "468,601"
-    ],
-    "Other Turnover": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Cost of Sales": [
-      "136,345",
-      "399,130",
-      "225,774",
-      "219,986",
-      "362,506"
-    ],
-    "Gross Profit": [
-      "22,179",
-      "55,818",
-      "20,195",
-      "36,018",
-      "106,095"
-    ],
-    "Profit Before Taxation": [
-      "127,354",
-      "-252,322",
-      "-835,652",
-      "-369,917",
-      "-194,523"
-    ],
-    "Operating Profit": [
-      "150,200",
-      "-232,703",
-      "-818,703",
-      "-330,193",
-      "-73,157"
-    ],
-    "Exceptional Items": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Associates": [
-      "-138",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Other Non-Operating Gains": [
-      "-22,708",
-      "-19,619",
-      "-16,949",
-      "-39,724",
-      "-121,366"
-    ],
-    "Taxation": [
-      "-19,758",
-      "-36,392",
-      "-125,690",
-      "-9,521",
-      "-13,317"
-    ],
-    "Minority Interests": [
-      "-46,900",
-      "-50,741",
-      "-273,742",
-      "-35,971",
-      "-35,432"
-    ],
-    "Net Profit": [
-      "194,012",
-      "-165,189",
-      "-436,220",
-      "-324,425",
-      "-145,774"
-    ],
-    "Unit": [
-      "Thousand",
-      "Thousand",
-      "Thousand",
-      "Thousand",
-      "Thousand"
-    ],
-    "Currency": [
-      "HKD",
-      "HKD",
-      "HKD",
-      "HKD",
-      "HKD"
-    ]
-  },
+  "profit_loss": {},
   "balance_sheet": {
     "Closing Date": [
       "2013/12",
@@ -681,6 +568,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/03/29",
       "Year Ended": "2017/12",
@@ -1120,7 +1017,7 @@
       "-8.17",
       "-6.43",
       "-8.53",
-      "-15.88"
+      "-7.35"
     ],
     "Yield (%)": [
       "0.00",

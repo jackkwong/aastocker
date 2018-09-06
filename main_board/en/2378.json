@@ -2,23 +2,23 @@
   "stock_code": "2378",
   "basic_information": {
     "Name": "Prudential plc",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/05/25",
     "Trade Currency": "HKD",
     "Report Currency": "GBP",
     "Par Currency": "GBP",
     "Par": "0.05",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "2,591,866,041",
+    "Issued Capital(share)": "2,591,888,963",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
     "NAV(HKD)": "65.5934",
     "EPS(HKD)": "9.8211",
-    "PE": "19.00",
+    "PE": "17.70",
     "DPS(HKD)": "4.9580",
-    "Yield": "2.66",
-    "Price/PNAV": "2.8448",
+    "Yield": "2.85",
+    "Price/PNAV": "2.6497",
     "Index Constituent": "HSFCCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:GBP 0.1567",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/23",
+      "Book Close Date": "2018/08/24",
+      "Payable Date": "2018/09/27"
+    },
+    {
       "Announce Date": "2018/03/14",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -900,14 +910,14 @@
       "13.83",
       "16.53",
       "27.87",
-      "19.00"
+      "17.70"
     ],
     "Yield (%)": [
       "2.17",
       "3.07",
       "2.92",
       "2.08",
-      "2.66"
+      "2.85"
     ],
     "Dividend Payout (%)": [
       "63.58",

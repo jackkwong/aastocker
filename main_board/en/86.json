@@ -2,8 +2,8 @@
   "stock_code": "86",
   "basic_information": {
     "Name": "Sun Hung Kai & Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1983/10/03",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "9.0231",
     "EPS(HKD)": "0.8400",
-    "PE": "5.24",
+    "PE": "5.14",
     "DPS(HKD)": "0.2600",
-    "Yield": "5.91",
-    "Price/PNAV": "0.4876",
+    "Yield": "6.02",
+    "Price/PNAV": "0.4788",
     "Index Constituent": "Index_Financials\n                    HSGCI\n                    HSHKSI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/15",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1200",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/30",
+      "Book Close Date": "2018/09/03-2018/09/05",
+      "Payable Date": "2018/09/12"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Interim 2",
@@ -1140,14 +1150,14 @@
       "7.36",
       "2.92",
       "10.08",
-      "5.24"
+      "5.14"
     ],
     "Yield (%)": [
       "2.82",
       "5.73",
       "5.13",
       "5.13",
-      "5.91"
+      "6.02"
     ],
     "Dividend Payout (%)": [
       "44.53",

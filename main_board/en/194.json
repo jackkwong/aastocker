@@ -2,8 +2,8 @@
   "stock_code": "194",
   "basic_information": {
     "Name": "Liu Chong Hing Investment Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1972/11/13",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "31.1680",
     "EPS(HKD)": "1.9700",
-    "PE": "6.35",
+    "PE": "5.96",
     "DPS(HKD)": "0.6000",
-    "Yield": "4.80",
-    "Price/PNAV": "0.4011",
+    "Yield": "5.11",
+    "Price/PNAV": "0.3767",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2200",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/31",
+      "Book Close Date": "2018/09/04-2018/09/06",
+      "Payable Date": "2018/09/14"
+    },
+    {
       "Announce Date": "2018/03/07",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1110,14 +1120,14 @@
       "1.41",
       "10.28",
       "10.51",
-      "6.35"
+      "5.96"
     ],
     "Yield (%)": [
       "31.79",
       "4.55",
       "3.78",
       "3.69",
-      "4.80"
+      "5.11"
     ],
     "Dividend Payout (%)": [
       "213.89",

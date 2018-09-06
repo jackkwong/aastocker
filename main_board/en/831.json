@@ -2,8 +2,8 @@
   "stock_code": "831",
   "basic_information": {
     "Name": "Convenience Retail Asia Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2001/01/18",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.8534",
     "EPS(HKD)": "0.1975",
-    "PE": "17.01",
+    "PE": "18.03",
     "DPS(HKD)": "0.1800",
-    "Yield": "5.36",
-    "Price/PNAV": "3.9373",
+    "Yield": "5.06",
+    "Price/PNAV": "4.1716",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/16",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0500",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/30",
+      "Book Close Date": "2018/09/03-2018/09/04",
+      "Payable Date": "2018/09/13"
+    },
     {
       "Announce Date": "2018/03/07",
       "Year Ended": "2017/12",
@@ -1350,14 +1360,14 @@
       "18.29",
       "19.65",
       "21.08",
-      "17.01"
+      "18.03"
     ],
     "Yield (%)": [
       "12.22",
       "5.44",
       "5.33",
       "11.15",
-      "5.36"
+      "5.06"
     ],
     "Dividend Payout (%)": [
       "280.22",

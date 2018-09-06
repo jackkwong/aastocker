@@ -13,12 +13,12 @@
     "Issued Capital(share)": "1,946,314,108",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "0.0474",
     "EPS(HKD)": "-0.0046",
-    "PE": "-34.78",
+    "PE": "-19.13",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "-",
+    "Price/PNAV": "1.8559",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -477,32 +477,32 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "-7,628",
       "-9,462",
       "-5,805",
       "-12,532",
-      "-9,033"
+      "-9,033",
+      "-9,385"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "3,058",
       "3,636",
       "3,733",
       "3,360",
-      "1,353"
+      "1,353",
+      "1,230"
     ],
     "Interest Received": [
-      "3,058",
       "3,636",
       "3,733",
       "3,360",
-      "1,353"
+      "1,353",
+      "1,230"
     ],
     "Interest Paid": [
       "-",
@@ -540,39 +540,39 @@
       "-"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-32,414",
       "-4,471",
       "17,589",
       "19,502",
-      "5,872"
+      "5,872",
+      "-21,189"
     ],
     "Additions to Fixed Assets": [
-      "-4",
       "-9",
       "-",
       "-98",
-      "-58"
+      "-58",
+      "-40"
     ],
     "Disposal of Fixed Assets": [
-      "45",
+      "-",
       "-",
       "-",
       "-",
       "-"
     ],
     "Increase in Investments": [
-      "-4,280",
       "-36,099",
       "-12,648",
       "-13,706",
+      "-",
       "-"
     ],
     "Decrease in Investments": [
-      "5,213",
       "16,453",
       "30,352",
       "11,439",
-      "7,042"
+      "7,042",
+      "2,273"
     ],
     "Net Cash Flow with Related Parties": [
       "-",
@@ -582,17 +582,17 @@
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-36,984",
       "-10,297",
       "15,517",
       "10,330",
-      "-1,808"
+      "-1,808",
+      "-29,344"
     ],
     "Net Cash Flow from Financing Activities": [
       "-",
       "-",
-      "-",
       "1,277",
+      "-",
       "-"
     ],
     "New Loans": [
@@ -626,23 +626,23 @@
     "Equity Financing": [
       "-",
       "-",
-      "-",
       "1,277",
+      "-",
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-36,984",
       "-10,297",
       "15,517",
       "11,607",
-      "-1,808"
+      "-1,808",
+      "-29,344"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "69,090",
       "32,106",
       "21,809",
       "37,326",
-      "48,933"
+      "48,933",
+      "47,125"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
@@ -652,11 +652,11 @@
       "-"
     ],
     "Cash & Cash Equivalents at End of Year": [
-      "32,106",
       "21,809",
       "37,326",
       "48,933",
-      "47,125"
+      "47,125",
+      "17,781"
     ],
     "Unit": [
       "Thousand",
@@ -1120,7 +1120,7 @@
       "-152.08",
       "-51.46",
       "-34.78",
-      "-34.78"
+      "-19.13"
     ],
     "Yield (%)": [
       "0.00",
@@ -1141,7 +1141,7 @@
       "0.0599",
       "0.0554",
       "0.0511",
-      "0.0000"
+      "0.0474"
     ],
     "Currency": [
       "HKD",

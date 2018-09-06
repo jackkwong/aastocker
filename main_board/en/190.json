@@ -2,8 +2,8 @@
   "stock_code": "190",
   "basic_information": {
     "Name": "HKC (Holdings) Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1987/05/29",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "25.0963",
     "EPS(HKD)": "1.7000",
-    "PE": "4.18",
+    "PE": "3.90",
     "DPS(HKD)": "0.1700",
-    "Yield": "2.39",
-    "Price/PNAV": "0.2829",
+    "Yield": "2.56",
+    "Price/PNAV": "0.2642",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1300",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/04",
+      "Book Close Date": "2018/09/06-2018/09/07",
+      "Payable Date": "2018/09/19"
+    },
+    {
       "Announce Date": "2018/03/19",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1240,14 +1250,14 @@
       "-17.13",
       "-4.64",
       "8.22",
-      "4.18"
+      "3.90"
     ],
     "Yield (%)": [
       "0.00",
       "0.00",
       "0.00",
       "1.33",
-      "2.39"
+      "2.56"
     ],
     "Dividend Payout (%)": [
       "0.00",

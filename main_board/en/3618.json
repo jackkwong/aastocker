@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "7.6356",
     "EPS(HKD)": "1.1270",
-    "PE": "4.39",
+    "PE": "3.75",
     "DPS(HKD)": "0.2398",
-    "Yield": "4.84",
-    "Price/PNAV": "0.6483",
+    "Yield": "5.67",
+    "Price/PNAV": "0.5540",
     "Index Constituent": "Hang Seng China H-Financials\n                    Index_Financials\n                    HSHKMI\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -352,7 +352,7 @@
       "21,818,482",
       "16,989,948",
       "4,156,312",
-      "-",
+      "4,521,339",
       "519,234"
     ],
     "Financial Asset": [
@@ -688,6 +688,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/30",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/04/27",
       "Year Ended": "2018/12",
@@ -1027,14 +1037,14 @@
       "4.36",
       "6.10",
       "6.36",
-      "4.39"
+      "3.75"
     ],
     "Yield (%)": [
       "4.24",
       "6.29",
       "4.20",
       "3.70",
-      "4.84"
+      "5.67"
     ],
     "Dividend Payout (%)": [
       "29.69",

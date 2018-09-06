@@ -2,8 +2,8 @@
   "stock_code": "289",
   "basic_information": {
     "Name": "Wing On Company International\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "60.6720",
     "EPS(HKD)": "9.0310",
-    "PE": "3.23",
+    "PE": "3.16",
     "DPS(HKD)": "2.1600",
-    "Yield": "7.40",
-    "Price/PNAV": "0.4813",
+    "Yield": "7.58",
+    "Price/PNAV": "0.4697",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2800",
+      "Type": "Cash",
+      "Ex-Date": "2018/10/04",
+      "Book Close Date": "2018/10/08-2018/10/12",
+      "Payable Date": "2018/10/23"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1100,14 +1110,14 @@
       "5.22",
       "7.13",
       "8.69",
-      "3.23"
+      "3.16"
     ],
     "Yield (%)": [
       "3.52",
       "7.85",
       "3.26",
       "2.78",
-      "7.40"
+      "7.58"
     ],
     "Dividend Payout (%)": [
       "22.49",

@@ -2,8 +2,8 @@
   "stock_code": "546",
   "basic_information": {
     "Name": "Fufeng Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/02/08",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "4.4534",
     "EPS(HKD)": "0.6839",
-    "PE": "5.57",
+    "PE": "5.38",
     "DPS(HKD)": "0.1980",
-    "Yield": "5.20",
-    "Price/PNAV": "0.8555",
+    "Yield": "5.38",
+    "Price/PNAV": "0.8263",
     "Index Constituent": "HSCI\n                    Index_Consumer Goods\n                    HSHKSI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/10",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.0420(equivalent to RMB 0.0367)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/13",
+      "Book Close Date": "2018/09/17-2018/09/20",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -980,14 +990,14 @@
       "7.19",
       "17.63",
       "8.15",
-      "5.57"
+      "5.38"
     ],
     "Yield (%)": [
       "1.05",
       "2.75",
       "1.15",
       "2.49",
-      "5.20"
+      "5.38"
     ],
     "Dividend Payout (%)": [
       "18.66",

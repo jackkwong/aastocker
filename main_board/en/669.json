@@ -2,23 +2,23 @@
   "stock_code": "669",
   "basic_information": {
     "Name": "Techtronic Industries Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1990/12/17",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "1,833,796,941",
+    "Issued Capital(share)": "1,831,996,941",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
     "NAV(HKD)": "11.6728",
     "EPS(HKD)": "2.0051",
-    "PE": "21.57",
+    "PE": "23.79",
     "DPS(HKD)": "0.6751",
-    "Yield": "1.56",
-    "Price/PNAV": "3.7052",
+    "Yield": "1.42",
+    "Price/PNAV": "4.0864",
     "Index Constituent": "HSCI\n                    Index_Consumer Goods\n                    HSHKLI\n                    HSGCI\n                    HSHK35"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/15",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.3800(equivalent to USD 0.0489)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/04",
+      "Book Close Date": "2018/09/06-2018/09/07",
+      "Payable Date": "2018/09/21"
+    },
+    {
       "Announce Date": "2018/03/13",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1100,14 +1110,14 @@
       "23.53",
       "19.65",
       "28.02",
-      "21.57"
+      "23.79"
     ],
     "Yield (%)": [
       "0.90",
       "1.05",
       "1.33",
       "1.03",
-      "1.56"
+      "1.42"
     ],
     "Dividend Payout (%)": [
       "22.37",

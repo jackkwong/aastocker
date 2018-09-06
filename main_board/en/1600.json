@@ -2,8 +2,8 @@
   "stock_code": "1600",
   "basic_information": {
     "Name": "China Tian Lun Gas Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/11/10",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,500",
     "NAV(HKD)": "3.3659",
     "EPS(HKD)": "0.4915",
-    "PE": "14.93",
+    "PE": "16.40",
     "DPS(HKD)": "0.1220",
-    "Yield": "1.66",
-    "Price/PNAV": "2.1807",
+    "Yield": "1.51",
+    "Price/PNAV": "2.3946",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,10 +682,20 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:RMB 0.0536",
+      "Type": "Cash",
+      "Ex-Date": "2018/10/19",
+      "Book Close Date": "2018/10/23-2018/10/31",
+      "Payable Date": "2018/11/30"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Final",
-      "Particular": "D:RMB 0.0230",
+      "Particular": "D:RMB\n                0.0230(equivalent to HKD 0.0272)",
       "Type": "Cash",
       "Ex-Date": "2018/06/07",
       "Book Close Date": "2018/06/11-2018/06/15",
@@ -880,14 +890,14 @@
       "16.47",
       "14.99",
       "16.29",
-      "14.93"
+      "16.40"
     ],
     "Yield (%)": [
       "0.00",
       "0.00",
       "0.00",
       "1.48",
-      "1.66"
+      "1.51"
     ],
     "Dividend Payout (%)": [
       "0.00",

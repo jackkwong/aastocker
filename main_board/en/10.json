@@ -2,8 +2,8 @@
   "stock_code": "10",
   "basic_information": {
     "Name": "Hang Lung Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1972/10/12",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "61.0404",
     "EPS(HKD)": "3.9000",
-    "PE": "5.83",
+    "PE": "5.44",
     "DPS(HKD)": "0.8000",
-    "Yield": "3.52",
-    "Price/PNAV": "0.3727",
+    "Yield": "3.77",
+    "Price/PNAV": "0.3473",
     "Index Constituent": "HSCI\n                    Index_Properties & Construction\n                    HSHKLI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/07/30",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1900",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/10",
+      "Book Close Date": "2018/09/12-2018/09/13",
+      "Payable Date": "2018/09/27"
+    },
+    {
       "Announce Date": "2018/01/30",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1100,14 +1110,14 @@
       "4.16",
       "12.83",
       "11.10",
-      "5.83"
+      "5.44"
     ],
     "Yield (%)": [
       "2.22",
       "3.87",
       "2.63",
       "2.64",
-      "3.52"
+      "3.77"
     ],
     "Dividend Payout (%)": [
       "23.67",

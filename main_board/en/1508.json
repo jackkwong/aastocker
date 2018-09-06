@@ -2,8 +2,8 @@
   "stock_code": "1508",
   "basic_information": {
     "Name": "China Reinsurance (Group)\n                    Corporation - H Shares",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2015/10/26",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -682,10 +682,20 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
-      "Particular": "D:RMB 0.0480",
+      "Particular": "D:RMB\n                0.0480(equivalent to HKD 0.057698)",
       "Type": "Cash",
       "Ex-Date": "2018/07/03",
       "Book Close Date": "2018/07/05-2018/07/10",

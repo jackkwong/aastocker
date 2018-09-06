@@ -2,8 +2,8 @@
   "stock_code": "662",
   "basic_information": {
     "Name": "Asia Financial Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1990/12/18",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "8.1519",
     "EPS(HKD)": "0.4780",
-    "PE": "11.19",
+    "PE": "10.04",
     "DPS(HKD)": "0.1150",
-    "Yield": "2.15",
-    "Price/PNAV": "0.6563",
+    "Yield": "2.40",
+    "Price/PNAV": "0.5888",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0200",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/14",
+      "Book Close Date": "2018/09/18-2018/09/20",
+      "Payable Date": "2018/10/02"
+    },
+    {
       "Announce Date": "2018/03/22",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1050,14 +1060,14 @@
       "11.56",
       "23.22",
       "12.77",
-      "11.19"
+      "10.04"
     ],
     "Yield (%)": [
       "1.44",
       "1.93",
       "1.08",
       "1.70",
-      "2.15"
+      "2.40"
     ],
     "Dividend Payout (%)": [
       "22.56",

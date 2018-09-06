@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "0.0671",
     "EPS(HKD)": "-0.0054",
-    "PE": "-25.37",
+    "PE": "-32.41",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "2.0411",
+    "Price/PNAV": "2.6073",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,26 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/31",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/07/30",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "Distribution in\n                specie:961 Global Link Communications Holdings Limited\n                share for shares 10,000",
+      "Type": "Scrip",
+      "Ex-Date": "2018/09/28",
+      "Book Close Date": "2018/10/03-2018/10/05",
+      "Payable Date": "2018/10/15"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1010,7 +1030,7 @@
       "55.10",
       "54.19",
       "-43.24",
-      "-25.37"
+      "-32.41"
     ],
     "Yield (%)": [
       "0.00",

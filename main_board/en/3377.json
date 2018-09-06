@@ -2,23 +2,23 @@
   "stock_code": "3377",
   "basic_information": {
     "Name": "Sino-Ocean Group Holding Limited",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/09/28",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "7,613,044,157",
+    "Issued Capital(share)": "7,615,285,657",
     "Issue Cap-H(share)": "-",
     "Board Lot": "500",
     "NAV(HKD)": "7.7347",
     "EPS(HKD)": "0.8153",
-    "PE": "5.89",
+    "PE": "4.56",
     "DPS(HKD)": "0.3220",
-    "Yield": "6.71",
-    "Price/PNAV": "0.6206",
+    "Yield": "8.66",
+    "Price/PNAV": "0.4810",
     "Index Constituent": "Index_Properties &\n                    Construction\n                    HSCI\n                    HSML100\n                    HSGCI\n                    HSHKMI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.1400(equivalent to RMB 0.1230)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/04",
+      "Book Close Date": "2018/09/06-2018/09/10",
+      "Payable Date": "2018/10/05"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -940,14 +950,14 @@
       "4.37",
       "11.59",
       "10.79",
-      "5.89"
+      "4.56"
     ],
     "Yield (%)": [
       "4.52",
       "7.45",
       "3.23",
       "3.37",
-      "6.71"
+      "8.66"
     ],
     "Dividend Payout (%)": [
       "30.35",

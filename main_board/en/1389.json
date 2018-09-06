@@ -15,10 +15,10 @@
     "Board Lot": "4,000",
     "NAV(HKD)": "0.0435",
     "EPS(HKD)": "0.0028",
-    "PE": "43.57",
+    "PE": "34.64",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "2.8058",
+    "Price/PNAV": "2.2309",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -477,39 +477,39 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "34,740",
       "24,185",
       "30,201",
       "218",
-      "13,774"
+      "13,774",
+      "5,996"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-1,359",
       "-1,574",
       "-31,422",
       "-22,354",
-      "-783"
+      "-783",
+      "-1,034"
     ],
     "Interest Received": [
-      "3",
       "1",
       "110",
       "1",
-      "6"
+      "6",
+      "12"
     ],
     "Interest Paid": [
-      "-1,362",
       "-1,575",
       "-332",
       "-275",
-      "-789"
+      "-789",
+      "-1,046"
     ],
     "Dividend Received": [
       "-",
@@ -520,9 +520,9 @@
     ],
     "Dividend Paid": [
       "-",
-      "-",
       "-31,200",
       "-22,080",
+      "-",
       "-"
     ],
     "Others": [
@@ -533,39 +533,39 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-12,264",
       "-5,606",
       "-6,372",
       "-4,852",
-      "-391"
+      "-391",
+      "-"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-9,111",
       "-17,466",
       "-207",
       "4,927",
-      "-10,451"
+      "-10,451",
+      "2,572"
     ],
     "Additions to Fixed Assets": [
-      "-233",
       "-39",
       "-809",
       "-74",
-      "-4,559"
+      "-4,559",
+      "-916"
     ],
     "Disposal of Fixed Assets": [
-      "-",
       "1,937",
       "10",
       "-",
-      "600"
+      "600",
+      "-"
     ],
     "Increase in Investments": [
       "-",
       "-",
       "-",
-      "-",
-      "14"
+      "14",
+      "-"
     ],
     "Decrease in Investments": [
       "-",
@@ -575,39 +575,39 @@
       "-"
     ],
     "Net Cash Flow with Related Parties": [
-      "-1,850",
       "-410",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "12,006",
       "-461",
       "-7,800",
       "-22,061",
-      "2,149"
+      "2,149",
+      "7,534"
     ],
     "Net Cash Flow from Financing Activities": [
-      "13,483",
       "2,789",
       "5,648",
       "3,435",
-      "113"
+      "113",
+      "237"
     ],
     "New Loans": [
-      "74,745",
       "82,226",
       "37,083",
       "31,846",
-      "63,679"
+      "63,679",
+      "65,354"
     ],
     "Loans Repayment": [
-      "-59,412",
       "-106,849",
       "-31,435",
       "-28,411",
-      "-63,566"
+      "-63,566",
+      "-65,117"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -624,25 +624,25 @@
       "-"
     ],
     "Equity Financing": [
-      "-",
       "27,822",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "25,489",
       "2,328",
       "-2,152",
       "-18,626",
-      "2,262"
+      "2,262",
+      "7,771"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "2,283",
       "27,772",
       "30,100",
       "27,948",
-      "9,322"
+      "9,322",
+      "11,584"
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
@@ -652,11 +652,11 @@
       "-"
     ],
     "Cash & Cash Equivalents at End of Year": [
-      "27,772",
       "30,100",
       "27,948",
       "9,322",
-      "11,584"
+      "11,584",
+      "19,355"
     ],
     "Unit": [
       "Thousand",
@@ -673,7 +673,7 @@
       "HKD"
     ],
     "Auditor's Opinion": [
-      "-",
+      "Unqualified",
       "Unqualified",
       "Unqualified",
       "Unqualified",
@@ -890,7 +890,7 @@
       "252.99",
       "54.84",
       "-112.73",
-      "43.57"
+      "34.64"
     ],
     "Yield (%)": [
       "3.48",

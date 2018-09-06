@@ -1,7 +1,7 @@
 {
   "stock_code": "1172",
   "basic_information": {
-    "Name": "Midas International Holdings\n                    Ltd.",
+    "Name": "Magnus Concordia Group Limited",
     "EPS Start Date": "2017/04/01",
     "EPS End Date": "2018/03/31",
     "Listing Date": "1996/06/12",
@@ -13,12 +13,12 @@
     "Issued Capital(share)": "3,310,812,417",
     "Issue Cap-H(share)": "-",
     "Board Lot": "20,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "0.1927",
     "EPS(HKD)": "0.0044",
-    "PE": "59.09",
+    "PE": "49.55",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "-",
+    "Price/PNAV": "1.1315",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -477,39 +477,39 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "-26,015",
       "-4,994",
       "-31,976",
       "-103,729",
-      "5,540"
+      "5,540",
+      "44,555"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-4,205",
       "-5,288",
       "-4,713",
       "-2,461",
-      "-1,086"
+      "-1,086",
+      "-33,000"
     ],
     "Interest Received": [
-      "555",
       "242",
       "560",
       "434",
-      "33"
+      "33",
+      "2,443"
     ],
     "Interest Paid": [
-      "-4,760",
       "-5,530",
       "-5,273",
       "-2,895",
-      "-1,119"
+      "-1,119",
+      "-2,335"
     ],
     "Dividend Received": [
       "-",
@@ -523,7 +523,7 @@
       "-",
       "-",
       "-",
-      "-"
+      "-33,108"
     ],
     "Others": [
       "-",
@@ -533,45 +533,45 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-35",
       "-346",
       "-357",
       "-",
-      "-"
+      "-",
+      "-318"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-4,500",
       "-35,236",
       "86,084",
       "93,882",
-      "182,292"
+      "182,292",
+      "-147,378"
     ],
     "Additions to Fixed Assets": [
-      "-8,687",
       "-10,236",
       "-5,462",
       "-8,760",
-      "-12,371"
+      "-12,371",
+      "-59,099"
     ],
     "Disposal of Fixed Assets": [
-      "4,187",
       "-",
       "12,242",
       "4,643",
-      "5,403"
+      "5,403",
+      "6,525"
     ],
     "Increase in Investments": [
       "-",
       "-",
-      "-",
       "-37,900",
-      "-"
+      "-",
+      "-94,804"
     ],
     "Decrease in Investments": [
       "-",
-      "-",
       "69,304",
       "120,899",
+      "-",
       "-"
     ],
     "Net Cash Flow with Related Parties": [
@@ -582,32 +582,32 @@
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-34,755",
       "-45,864",
       "49,038",
       "-12,308",
-      "186,746"
+      "186,746",
+      "-136,141"
     ],
     "Net Cash Flow from Financing Activities": [
-      "20,816",
       "-2,419",
       "-18,515",
       "-43,993",
-      "49,994"
+      "49,994",
+      "-15,893"
     ],
     "New Loans": [
-      "145,047",
       "154,792",
       "157,903",
       "146,473",
-      "140,811"
+      "140,811",
+      "31,675"
     ],
     "Loans Repayment": [
-      "-124,231",
       "-157,211",
       "-170,868",
       "-190,466",
-      "-90,817"
+      "-90,817",
+      "-47,568"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -618,45 +618,45 @@
     ],
     "Repayment of Fixed Income/Debt Instruments": [
       "-",
-      "-",
       "-113,000",
+      "-",
       "-",
       "-"
     ],
     "Equity Financing": [
       "-",
-      "-",
       "107,450",
+      "-",
       "-",
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-13,939",
       "-48,283",
       "30,523",
       "-56,301",
-      "236,740"
+      "236,740",
+      "-152,034"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "131,128",
-      "117,252",
-      "68,917",
-      "99,442",
-      "43,078"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "63",
-      "-52",
-      "2",
-      "-63",
-      "-64"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "117,252",
       "68,917",
       "99,442",
       "43,078",
       "279,754"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "-52",
+      "2",
+      "-63",
+      "-64",
+      "318"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "68,917",
+      "99,442",
+      "43,078",
+      "279,754",
+      "128,038"
     ],
     "Unit": [
       "Thousand",
@@ -1160,7 +1160,7 @@
       "-32.67",
       "9.04",
       "17.76",
-      "59.09"
+      "49.55"
     ],
     "Yield (%)": [
       "0.00",
@@ -1181,7 +1181,7 @@
       "0.1679",
       "0.1916",
       "0.1940",
-      "0.0000"
+      "0.1927"
     ],
     "Currency": [
       "HKD",

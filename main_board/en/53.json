@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "188.2419",
     "EPS(HKD)": "18.8149",
-    "PE": "6.21",
+    "PE": "6.93",
     "DPS(HKD)": "4.0000",
-    "Yield": "3.42",
-    "Price/PNAV": "0.6205",
+    "Yield": "3.07",
+    "Price/PNAV": "0.6922",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,36 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/09/03",
+      "Year Ended": "2018/06",
+      "Event": "Final",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/07/02",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "Distribution in\n                specie:0.8847 Hong Leong Financial Group Berhad for\n                shares 1",
+      "Type": "Scrip",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/07/02",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "Withdrawal of Listing",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/02/28",
       "Year Ended": "2018/06",
       "Event": "Interim",
@@ -1110,14 +1140,14 @@
       "4.78",
       "6.10",
       "13.87",
-      "6.21"
+      "6.93"
     ],
     "Yield (%)": [
       "1.55",
       "4.73",
       "4.60",
       "3.05",
-      "3.42"
+      "3.07"
     ],
     "Dividend Payout (%)": [
       "7.74",

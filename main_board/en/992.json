@@ -2,8 +2,8 @@
   "stock_code": "992",
   "basic_information": {
     "Name": "Lenovo Group Ltd.",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "1994/02/14",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "2.2986",
     "EPS(HKD)": "-0.1311",
-    "PE": "-32.12",
+    "PE": "-40.43",
     "DPS(HKD)": "0.2653",
-    "Yield": "6.30",
-    "Price/PNAV": "1.8315",
+    "Yield": "5.01",
+    "Price/PNAV": "2.3057",
     "Index Constituent": "Index_Information Technology\n                    HSCI\n                    HSHKLI\n                    HSML100\n                    HSGCI"
   },
   "financial_ratio": {
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/16",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/05/24",
       "Year Ended": "2018/03",
@@ -1490,14 +1500,14 @@
       "8.27",
       "-54.14",
       "10.35",
-      "-32.12"
+      "-40.43"
     ],
     "Yield (%)": [
       "1.88",
       "5.33",
       "5.45",
       "6.78",
-      "6.30"
+      "5.01"
     ],
     "Dividend Payout (%)": [
       "39.21",

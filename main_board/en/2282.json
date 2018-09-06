@@ -2,23 +2,23 @@
   "stock_code": "2282",
   "basic_information": {
     "Name": "MGM China Holdings Limited",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2011/06/03",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "1",
     "Authorized Capital(share)": "10,000,000,000",
-    "Issued Capital(share)": "3,800,000,001",
+    "Issued Capital(share)": "3,800,026,901",
     "Issue Cap-H(share)": "-",
     "Board Lot": "400",
     "NAV(HKD)": "2.2401",
     "EPS(HKD)": "0.6110",
-    "PE": "33.14",
+    "PE": "23.60",
     "DPS(HKD)": "0.2130",
-    "Yield": "1.05",
-    "Price/PNAV": "9.0398",
+    "Yield": "1.48",
+    "Price/PNAV": "6.4372",
     "Index Constituent": "HSHKLI\n                    Index_Services\n                    HSGCI\n                    HSHK35\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0640",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/21",
+      "Book Close Date": "2018/08/23-2018/08/27",
+      "Payable Date": "2018/09/10"
+    },
+    {
       "Announce Date": "2018/02/20",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -910,14 +920,14 @@
       "6.33",
       "17.85",
       "29.69",
-      "33.14"
+      "23.60"
     ],
     "Yield (%)": [
       "8.95",
       "14.12",
       "1.70",
       "1.17",
-      "1.05"
+      "1.48"
     ],
     "Dividend Payout (%)": [
       "107.86",

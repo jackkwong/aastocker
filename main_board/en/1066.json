@@ -11,14 +11,14 @@
     "Par": "0.1",
     "Authorized Capital(share)": "-",
     "Issued Capital(share)": "4,522,332,324",
-    "Issue Cap-H(share)": "1,883,732,324",
+    "Issue Cap-H(share)": "4,522,332,324",
     "Board Lot": "4,000",
     "NAV(HKD)": "6.0605",
     "EPS(HKD)": "0.4676",
-    "PE": "12.30",
+    "PE": "16.49",
     "DPS(HKD)": "0.1067",
-    "Yield": "1.86",
-    "Price/PNAV": "0.9488",
+    "Yield": "1.38",
+    "Price/PNAV": "1.2722",
     "Index Constituent": "HSCI\n                    Index_Consumer Goods\n                    HSHKMI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:RMB 0.0490",
+      "Type": "Cash",
+      "Ex-Date": "2018/11/09",
+      "Book Close Date": "2018/11/13-2018/11/18",
+      "Payable Date": "2018/12/21"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1280,14 +1290,14 @@
       "16.26",
       "18.81",
       "18.83",
-      "12.30"
+      "16.49"
     ],
     "Yield (%)": [
       "1.09",
       "1.69",
       "1.60",
       "1.85",
-      "1.86"
+      "1.38"
     ],
     "Dividend Payout (%)": [
       "66.67",

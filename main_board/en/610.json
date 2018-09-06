@@ -2,8 +2,8 @@
   "stock_code": "610",
   "basic_information": {
     "Name": "Wai Kee Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1992/08/28",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "8.9049",
     "EPS(HKD)": "1.1505",
-    "PE": "3.64",
+    "PE": "3.63",
     "DPS(HKD)": "0.2630",
-    "Yield": "6.28",
-    "Price/PNAV": "0.4705",
+    "Yield": "6.29",
+    "Price/PNAV": "0.4694",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/19",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0760",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/31",
+      "Book Close Date": "2018/09/04-2018/09/05",
+      "Payable Date": "2018/10/05"
+    },
+    {
       "Announce Date": "2018/03/08",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1120,14 +1130,14 @@
       "3.60",
       "5.73",
       "5.49",
-      "3.64"
+      "3.63"
     ],
     "Yield (%)": [
       "5.31",
       "6.71",
       "4.21",
       "4.28",
-      "6.28"
+      "6.29"
     ],
     "Dividend Payout (%)": [
       "26.13",

@@ -1,9 +1,9 @@
 {
   "stock_code": "1966",
   "basic_information": {
-    "Name": "China SCE Property Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "Name": "China SCE Group Holdings Limited",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/02/05",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "3.9060",
     "EPS(HKD)": "0.9579",
-    "PE": "4.00",
+    "PE": "3.46",
     "DPS(HKD)": "0.1900",
-    "Yield": "4.96",
-    "Price/PNAV": "0.9805",
+    "Yield": "5.74",
+    "Price/PNAV": "0.8474",
     "Index Constituent": "Index_Properties &\n                    Construction\n                    HSHKSI\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0700",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/09/19",
+      "Book Close Date": "2018/09/21-2018/09/21",
+      "Payable Date": "2018/11/28"
+    },
+    {
       "Announce Date": "2018/03/14",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -910,14 +920,14 @@
       "4.97",
       "8.92",
       "6.22",
-      "4.00"
+      "3.46"
     ],
     "Yield (%)": [
       "4.32",
       "0.00",
       "3.56",
       "3.35",
-      "4.96"
+      "5.74"
     ],
     "Dividend Payout (%)": [
       "18.11",

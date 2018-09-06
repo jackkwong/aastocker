@@ -2,8 +2,8 @@
   "stock_code": "3311",
   "basic_information": {
     "Name": "China State Construction\n                    International Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2005/07/08",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "7.5434",
     "EPS(HKD)": "1.1885",
-    "PE": "7.11",
+    "PE": "6.62",
     "DPS(HKD)": "0.3500",
-    "Yield": "4.14",
-    "Price/PNAV": "1.1202",
+    "Yield": "4.45",
+    "Price/PNAV": "1.0433",
     "Index Constituent": "Index_Properties &\n                    Construction\n                    HSHK35\n                    HSGCI\n                    HSHKLI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/21",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1500",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/18",
+      "Book Close Date": "2018/09/20-2018/09/20",
+      "Payable Date": "2018/10/04"
+    },
+    {
       "Announce Date": "2018/03/16",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1060,14 +1070,14 @@
       "12.75",
       "12.35",
       "8.98",
-      "7.11"
+      "6.62"
     ],
     "Yield (%)": [
       "1.41",
       "2.30",
       "2.38",
       "3.07",
-      "4.14"
+      "4.45"
     ],
     "Dividend Payout (%)": [
       "29.70",

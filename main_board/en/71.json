@@ -2,8 +2,8 @@
   "stock_code": "71",
   "basic_information": {
     "Name": "Miramar Hotel & Investment Co.\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "27.0913",
     "EPS(HKD)": "2.5200",
-    "PE": "5.95",
+    "PE": "5.93",
     "DPS(HKD)": "0.5900",
-    "Yield": "3.93",
-    "Price/PNAV": "0.5537",
+    "Yield": "3.95",
+    "Price/PNAV": "0.5515",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/19",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2400",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/26",
+      "Book Close Date": "2018/09/28-2018/09/28",
+      "Payable Date": "2018/10/16"
+    },
+    {
       "Announce Date": "2018/03/19",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1110,14 +1120,14 @@
       "6.33",
       "6.96",
       "7.34",
-      "5.95"
+      "5.93"
     ],
     "Yield (%)": [
       "3.89",
       "3.44",
       "3.30",
       "3.33",
-      "3.93"
+      "3.95"
     ],
     "Dividend Payout (%)": [
       "19.91",

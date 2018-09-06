@@ -2,8 +2,8 @@
   "stock_code": "1184",
   "basic_information": {
     "Name": "S.A.S. Dragon Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1994/10/17",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "2.1037",
     "EPS(HKD)": "0.4850",
-    "PE": "5.36",
+    "PE": "5.18",
     "DPS(HKD)": "0.2000",
-    "Yield": "7.69",
-    "Price/PNAV": "1.2359",
+    "Yield": "7.97",
+    "Price/PNAV": "1.1931",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0500",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/27",
+      "Book Close Date": "2018/10/02-2018/10/04",
+      "Payable Date": "2018/10/12"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1140,14 +1150,14 @@
       "5.42",
       "14.96",
       "8.29",
-      "5.36"
+      "5.18"
     ],
     "Yield (%)": [
       "6.98",
       "9.09",
       "3.63",
       "5.60",
-      "7.69"
+      "7.97"
     ],
     "Dividend Payout (%)": [
       "46.13",

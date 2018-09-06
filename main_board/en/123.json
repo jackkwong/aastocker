@@ -2,8 +2,8 @@
   "stock_code": "123",
   "basic_information": {
     "Name": "Yuexiu Property Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1992/12/15",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "3.1309",
     "EPS(HKD)": "0.2186",
-    "PE": "6.95",
+    "PE": "6.31",
     "DPS(HKD)": "0.0920",
-    "Yield": "6.05",
-    "Price/PNAV": "0.4855",
+    "Yield": "6.66",
+    "Price/PNAV": "0.4408",
     "Index Constituent": "Index_Properties &\n                    Construction\n                    HSCI\n                    HSHKMI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/13",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.0420(equivalent to RMB 0.0360)",
+      "Type": "Cash",
+      "Ex-Date": "2018/10/18",
+      "Book Close Date": "2018/10/22-2018/10/24",
+      "Payable Date": "2018/11/16"
+    },
+    {
       "Announce Date": "2018/02/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1100,14 +1110,14 @@
       "3.82",
       "12.70",
       "11.23",
-      "6.95"
+      "6.31"
     ],
     "Yield (%)": [
       "4.77",
       "6.86",
       "3.86",
       "4.19",
-      "6.05"
+      "6.66"
     ],
     "Dividend Payout (%)": [
       "22.61",

@@ -2,8 +2,8 @@
   "stock_code": "293",
   "basic_information": {
     "Name": "Cathay Pacific Airways Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1986/05/15",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "15.5321",
     "EPS(HKD)": "-0.3200",
-    "PE": "-40.63",
+    "PE": "-36.00",
     "DPS(HKD)": "0.0500",
-    "Yield": "0.38",
-    "Price/PNAV": "0.8370",
+    "Yield": "0.43",
+    "Price/PNAV": "0.7417",
     "Index Constituent": "Index_Services\n                    HSCI\n                    HSHKLI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/05",
+      "Book Close Date": "2018/09/07-2018/09/07",
+      "Payable Date": "2018/10/03"
+    },
+    {
       "Announce Date": "2018/03/14",
       "Year Ended": "2017/12",
       "Event": "Interim 2",
@@ -1110,14 +1120,14 @@
       "16.70",
       "7.61",
       "-94.38",
-      "-40.63"
+      "-36.00"
     ],
     "Yield (%)": [
       "1.17",
       "2.69",
       "4.57",
       "0.36",
-      "0.38"
+      "0.43"
     ],
     "Dividend Payout (%)": [
       "33.03",

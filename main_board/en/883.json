@@ -2,8 +2,8 @@
   "stock_code": "883",
   "basic_information": {
     "Name": "CNOOC Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2001/02/28",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "10.2033",
     "EPS(HKD)": "0.6594",
-    "PE": "19.17",
+    "PE": "20.35",
     "DPS(HKD)": "0.5000",
-    "Yield": "3.96",
-    "Price/PNAV": "1.2388",
+    "Yield": "3.73",
+    "Price/PNAV": "1.3153",
     "Index Constituent": "HSI\n                    C&I-S-index\n                    HSCCI\n                    HKMI_S&P\n                    HSML25\n                    Index_Energy\n                    FTSE Xinhua China25 Index\n                    HSCI\n                    HSHKLI\n                    HSML100\n                    HSGCI\n                    HSCEI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.3000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/06",
+      "Book Close Date": "2018/09/10-2018/09/14",
+      "Payable Date": "2018/10/16"
+    },
+    {
       "Announce Date": "2018/03/29",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1140,14 @@
       "5.10",
       "16.87",
       "1.04K",
-      "19.17"
+      "20.35"
     ],
     "Yield (%)": [
       "4.83",
       "6.64",
       "5.60",
       "3.03",
-      "3.96"
+      "3.73"
     ],
     "Dividend Payout (%)": [
       "35.34",

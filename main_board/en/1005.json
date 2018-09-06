@@ -2,8 +2,8 @@
   "stock_code": "1005",
   "basic_information": {
     "Name": "Matrix Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1994/02/18",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.3493",
     "EPS(HKD)": "0.1500",
-    "PE": "20.00",
+    "PE": "17.87",
     "DPS(HKD)": "0.0950",
-    "Yield": "3.17",
-    "Price/PNAV": "2.2234",
+    "Yield": "3.54",
+    "Price/PNAV": "1.9862",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0500",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/07",
+      "Book Close Date": "2018/09/10",
+      "Payable Date": "2018/09/18"
+    },
+    {
       "Announce Date": "2018/03/08",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1140,14 @@
       "17.94",
       "6.37",
       "18.75",
-      "20.00"
+      "17.87"
     ],
     "Yield (%)": [
       "3.13",
       "3.14",
       "5.23",
       "3.83",
-      "3.17"
+      "3.54"
     ],
     "Dividend Payout (%)": [
       "53.85",

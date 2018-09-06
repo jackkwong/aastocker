@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "17.2192",
     "EPS(HKD)": "5.2152",
-    "PE": "21.78",
+    "PE": "16.45",
     "DPS(HKD)": "2.1000",
-    "Yield": "1.85",
-    "Price/PNAV": "6.5973",
+    "Yield": "2.45",
+    "Price/PNAV": "4.9828",
     "Index Constituent": "HSHKLI\n                    HSI\n                    HSCI\n                    Index_Information Technology\n                    HSML100\n                    HSGCI\n                    C&I-S-index\n                    HSML25"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.4000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/07",
+      "Book Close Date": "2018/09/11-2018/09/14",
+      "Payable Date": "2018/09/27"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1250,14 +1260,14 @@
       "23.81",
       "29.07",
       "39.75",
-      "21.78"
+      "16.45"
     ],
     "Yield (%)": [
       "2.19",
       "1.71",
       "1.39",
       "1.01",
-      "1.85"
+      "2.45"
     ],
     "Dividend Payout (%)": [
       "40.18",

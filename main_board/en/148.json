@@ -1,9 +1,9 @@
 {
   "stock_code": "148",
   "basic_information": {
-    "Name": "Kingboard Chemical Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "Name": "Kingboard Holdings Limited",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1993/10/08",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "43.1707",
     "EPS(HKD)": "5.3630",
-    "PE": "5.43",
+    "PE": "4.85",
     "DPS(HKD)": "1.6000",
-    "Yield": "5.50",
-    "Price/PNAV": "0.6741",
+    "Yield": "6.15",
+    "Price/PNAV": "0.6023",
     "Index Constituent": "Index_Industrial Goods\n                    HSCI\n                    HSHKMI\n                    HSGCI\n                    HSML100"
   },
   "financial_ratio": {
@@ -682,6 +682,26 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.6000",
+      "Type": "Cash",
+      "Ex-Date": "2018/10/26",
+      "Book Close Date": "2018/10/30-2018/10/31",
+      "Payable Date": "2018/12/07"
+    },
+    {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "SD:HKD 0.5000",
+      "Type": "Cash",
+      "Ex-Date": "2018/10/26",
+      "Book Close Date": "2018/10/30-2018/10/31",
+      "Payable Date": "2018/12/07"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1180,14 +1200,14 @@
       "5.27",
       "17.71",
       "8.46",
-      "5.43"
+      "4.85"
     ],
     "Yield (%)": [
       "3.34",
       "3.83",
       "1.75",
       "3.14",
-      "5.50"
+      "6.15"
     ],
     "Dividend Payout (%)": [
       "17.32",

@@ -2,8 +2,8 @@
   "stock_code": "1300",
   "basic_information": {
     "Name": "Trigiant Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2012/03/19",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.9559",
     "EPS(HKD)": "0.1964",
-    "PE": "5.81",
+    "PE": "5.96",
     "DPS(HKD)": "0.0380",
-    "Yield": "3.33",
-    "Price/PNAV": "0.5829",
+    "Yield": "3.25",
+    "Price/PNAV": "0.5982",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0220",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/07",
+      "Book Close Date": "2018/09/11-2018/09/14",
+      "Payable Date": "2018/11/23"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -860,14 +870,14 @@
       "3.61",
       "5.20",
       "8.62",
-      "5.81"
+      "5.96"
     ],
     "Yield (%)": [
       "6.61",
       "9.40",
       "8.83",
       "2.37",
-      "3.33"
+      "3.25"
     ],
     "Dividend Payout (%)": [
       "35.73",

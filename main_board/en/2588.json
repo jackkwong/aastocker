@@ -2,8 +2,8 @@
   "stock_code": "2588",
   "basic_information": {
     "Name": "BOC Aviation Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2016/06/01",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "100",
     "NAV(HKD)": "42.9962",
     "EPS(HKD)": "6.6419",
-    "PE": "7.42",
+    "PE": "8.67",
     "DPS(HKD)": "2.3114",
-    "Yield": "4.69",
-    "Price/PNAV": "1.1466",
+    "Yield": "4.01",
+    "Price/PNAV": "1.3397",
     "Index Constituent": "HSCI\n                    Index_Services\n                    HSHKMI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/15",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:USD 0.1284",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/28",
+      "Book Close Date": "2018/10/03-2018/10/05",
+      "Payable Date": "2018/10/12"
+    },
+    {
       "Announce Date": "2018/03/14",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -770,14 +780,14 @@
       "24.77",
       "9.26",
       "8.78",
-      "7.42"
+      "8.67"
     ],
     "Yield (%)": [
       "0.00",
       "0.00",
       "0.00",
       "3.20",
-      "4.69"
+      "4.01"
     ],
     "Dividend Payout (%)": [
       "0.00",

@@ -2,8 +2,8 @@
   "stock_code": "3818",
   "basic_information": {
     "Name": "China Dongxiang (Group) Co.,\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2007/10/10",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "2.0251",
     "EPS(HKD)": "0.1740",
-    "PE": "8.16",
+    "PE": "7.42",
     "DPS(HKD)": "0.3283",
-    "Yield": "23.12",
-    "Price/PNAV": "0.7012",
+    "Yield": "25.45",
+    "Price/PNAV": "0.6370",
     "Index Constituent": "Index_Consumer Goods\n                    HSGCI\n                    HSHKSI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,26 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/15",
+      "Year Ended": "2019/03",
+      "Event": "Interim",
+      "Particular": "D:RMB\n                0.0245(equivalent to HKD 0.027996)",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/28",
+      "Book Close Date": "2018/08/30-2018/09/03",
+      "Payable Date": "2018/09/10"
+    },
+    {
+      "Announce Date": "2018/08/15",
+      "Year Ended": "2019/03",
+      "Event": "Interim",
+      "Particular": "SD:RMB\n                0.0245(equivalent to HKD 0.027996)",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/28",
+      "Book Close Date": "2018/08/30-2018/09/03",
+      "Payable Date": "2018/09/10"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1130,14 +1150,14 @@
       "7.09",
       "8.76",
       "8.15",
-      "8.16"
+      "7.42"
     ],
     "Yield (%)": [
       "2.35",
       "9.82",
       "6.82",
       "7.34",
-      "23.12"
+      "25.45"
     ],
     "Dividend Payout (%)": [
       "69.63",

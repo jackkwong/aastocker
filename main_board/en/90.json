@@ -2,8 +2,8 @@
   "stock_code": "90",
   "basic_information": {
     "Name": "Amber Energy Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2009/07/10",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.3629",
     "EPS(HKD)": "0.0899",
-    "PE": "9.79",
+    "PE": "8.79",
     "DPS(HKD)": "0.0300",
-    "Yield": "3.41",
-    "Price/PNAV": "0.6457",
+    "Yield": "3.80",
+    "Price/PNAV": "0.5796",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -910,14 +920,14 @@
       "-2.67",
       "10.15",
       "9.00",
-      "9.79"
+      "8.79"
     ],
     "Yield (%)": [
       "0.59",
       "0.00",
       "2.44",
       "3.30",
-      "3.41"
+      "3.80"
     ],
     "Dividend Payout (%)": [
       "15.75",

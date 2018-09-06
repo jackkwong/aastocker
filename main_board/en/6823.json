@@ -2,8 +2,8 @@
   "stock_code": "6823",
   "basic_information": {
     "Name": "HKT Trust and HKT Ltd. - SS",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2011/11/29",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "5.1532",
     "EPS(HKD)": "0.6734",
-    "PE": "15.21",
+    "PE": "15.00",
     "DPS(HKD)": "0.6487",
-    "Yield": "6.33",
-    "Price/PNAV": "1.9871",
+    "Yield": "6.42",
+    "Price/PNAV": "1.9599",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/06",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2912",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/28",
+      "Book Close Date": "2018/08/30-2018/08/31",
+      "Payable Date": "2018/09/27"
+    },
+    {
       "Announce Date": "2018/02/06",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -870,14 +880,14 @@
       "24.74",
       "18.20",
       "14.56",
-      "15.21"
+      "15.00"
     ],
     "Yield (%)": [
       "4.60",
       "4.24",
       "5.69",
       "6.57",
-      "6.33"
+      "6.42"
     ],
     "Dividend Payout (%)": [
       "122.79",

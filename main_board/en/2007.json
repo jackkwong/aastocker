@@ -2,23 +2,23 @@
   "stock_code": "2007",
   "basic_information": {
     "Name": "Country Garden Holdings Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/04/20",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "100,000,000,000",
-    "Issued Capital(share)": "21,740,933,140",
+    "Issued Capital(share)": "21,687,933,140",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "5.2774",
     "EPS(HKD)": "1.4722",
-    "PE": "10.01",
+    "PE": "7.54",
     "DPS(HKD)": "0.4792",
-    "Yield": "3.25",
-    "Price/PNAV": "2.7931",
+    "Yield": "4.32",
+    "Price/PNAV": "2.1033",
     "Index Constituent": "HSCI\n                    Index_Properties & Construction\n                    HSHKLI\n                    FTSE Xinhua China25 Index\n                    PB-index\n                    HSI\n                    HSML100\n                    HSGCI\n                    HSML25"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/21",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:RMB 0.1852",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/09/12",
+      "Book Close Date": "2018/09/14-2018/09/18",
+      "Payable Date": "2018/11/23"
+    },
+    {
       "Announce Date": "2018/05/29",
       "Year Ended": "2018/12",
       "Event": "Special",
@@ -990,14 +1000,14 @@
       "4.51",
       "14.27",
       "27.94",
-      "10.01"
+      "7.54"
     ],
     "Yield (%)": [
       "5.68",
       "6.12",
       "2.13",
       "1.17",
-      "3.25"
+      "4.32"
     ],
     "Dividend Payout (%)": [
       "36.61",

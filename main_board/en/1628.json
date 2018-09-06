@@ -2,23 +2,23 @@
   "stock_code": "1628",
   "basic_information": {
     "Name": "Yuzhou Properties Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2009/11/02",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "100,000,000,000",
-    "Issued Capital(share)": "4,186,345,359",
+    "Issued Capital(share)": "4,190,920,559",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "4.6929",
     "EPS(HKD)": "0.8392",
-    "PE": "5.73",
+    "PE": "4.34",
     "DPS(HKD)": "0.3000",
-    "Yield": "6.24",
-    "Price/PNAV": "1.0250",
+    "Yield": "8.24",
+    "Price/PNAV": "0.7756",
     "Index Constituent": "Index_Properties &\n                    Construction\n                    HSHKMI\n                    HSCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1100",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/10/12",
+      "Book Close Date": "2018/10/16-2018/10/19",
+      "Payable Date": "2018/12/14"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -940,14 +950,14 @@
       "4.79",
       "6.25",
       "10.24",
-      "5.73"
+      "4.34"
     ],
     "Yield (%)": [
       "6.15",
       "7.44",
       "5.44",
       "4.11",
-      "6.24"
+      "8.24"
     ],
     "Dividend Payout (%)": [
       "27.26",

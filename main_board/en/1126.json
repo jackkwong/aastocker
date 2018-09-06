@@ -2,8 +2,8 @@
   "stock_code": "1126",
   "basic_information": {
     "Name": "Dream International Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2002/02/07",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "2.5208",
     "EPS(HKD)": "0.6003",
-    "PE": "8.16",
+    "PE": "6.76",
     "DPS(HKD)": "0.0400",
-    "Yield": "0.82",
-    "Price/PNAV": "1.9438",
+    "Yield": "0.99",
+    "Price/PNAV": "1.6106",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0100",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/11",
+      "Book Close Date": "2018/09/13-2018/09/13",
+      "Payable Date": "2018/09/24"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1060,14 +1070,14 @@
       "9.03",
       "12.79",
       "9.00",
-      "8.16"
+      "6.76"
     ],
     "Yield (%)": [
       "6.56",
       "4.88",
       "1.05",
       "1.02",
-      "0.82"
+      "0.99"
     ],
     "Dividend Payout (%)": [
       "43.38",

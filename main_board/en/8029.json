@@ -2,8 +2,8 @@
   "stock_code": "8029",
   "basic_information": {
     "Name": "Sun International Group Limited",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2000/12/14",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -13,12 +13,12 @@
     "Issued Capital(share)": "1,391,400,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "5,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "-0.0526",
     "EPS(HKD)": "-0.0437",
-    "PE": "-16.70",
+    "PE": "-14.65",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "-",
+    "Price/PNAV": "-12.1571",
     "Index Constituent": "GEM_Index"
   },
   "financial_ratio": {
@@ -332,7 +332,7 @@
       "75,355",
       "28,112",
       "48,937",
-      "236,512"
+      "10,294"
     ],
     "Inventory": [
       "22,485",
@@ -346,7 +346,7 @@
       "154,956",
       "354,042",
       "299,478",
-      "314,915"
+      "541,133"
     ],
     "Total Assets": [
       "974,207",
@@ -477,39 +477,39 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "203,783",
       "-25,374",
       "-160,866",
       "-40,252",
-      "-64,646"
+      "-62,072",
+      "238,589"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-3,184",
       "-9,690",
       "-19,401",
       "-18,935",
-      "-22,164"
+      "-22,164",
+      "-248,025"
     ],
     "Interest Received": [
-      "18",
       "1,257",
       "426",
       "550",
-      "537"
+      "537",
+      "290"
     ],
     "Interest Paid": [
-      "-3,202",
       "-10,947",
       "-19,827",
       "-19,485",
-      "-22,701"
+      "-22,701",
+      "-248,316"
     ],
     "Dividend Received": [
       "-",
@@ -533,46 +533,46 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-9,601",
       "-13,743",
       "2,165",
       "6,947",
-      "-"
+      "-",
+      "-60"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-30,865",
       "-168,278",
       "10,717",
       "35,621",
-      "-1,142"
+      "-1,142",
+      "33,455"
     ],
     "Additions to Fixed Assets": [
-      "-31,260",
       "-8,858",
       "-3,814",
       "-16,365",
-      "-3,408"
+      "-3,408",
+      "-242"
     ],
     "Disposal of Fixed Assets": [
-      "195",
       "213",
       "94",
       "639",
-      "129"
+      "129",
+      "62"
     ],
     "Increase in Investments": [
-      "-",
       "-95,558",
       "-",
       "-",
-      "-"
+      "-",
+      "-339,543"
     ],
     "Decrease in Investments": [
-      "200",
       "-",
       "67,225",
       "0",
-      "5,000"
+      "5,000",
+      "378,823"
     ],
     "Net Cash Flow with Related Parties": [
       "-",
@@ -582,81 +582,81 @@
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "160,133",
       "-217,086",
       "-167,385",
       "-16,619",
-      "-87,952"
+      "-85,378",
+      "23,959"
     ],
     "Net Cash Flow from Financing Activities": [
-      "-43,578",
       "95,540",
       "115,525",
       "27,000",
-      "45,000"
+      "42,426",
+      "-5,000"
     ],
     "New Loans": [
-      "-",
       "108,000",
       "30,000",
       "-",
-      "45,000"
+      "45,000",
+      "-"
     ],
     "Loans Repayment": [
-      "-22",
       "-10,000",
       "-135,475",
       "-",
-      "-"
+      "-",
+      "-5,000"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
-      "-",
       "221,000",
       "27,000",
+      "-",
       "-"
     ],
     "Repayment of Fixed Income/Debt Instruments": [
-      "-43,556",
       "-48,840",
       "-",
       "-",
+      "-2,574",
       "-"
     ],
     "Equity Financing": [
-      "-",
       "46,380",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "116,555",
       "-121,546",
       "-51,860",
       "10,381",
-      "-42,952"
+      "-42,952",
+      "18,959"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "57,502",
-      "172,902",
-      "65,106",
-      "50,439",
-      "105,526"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "-1,155",
-      "13,750",
-      "37,193",
-      "44,706",
-      "-720"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "172,902",
       "65,106",
       "50,439",
       "105,526",
       "61,854"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "13,750",
+      "37,193",
+      "44,706",
+      "-720",
+      "5,355"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "65,106",
+      "50,439",
+      "105,526",
+      "61,854",
+      "86,168"
     ],
     "Unit": [
       "Thousand",
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/09",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/06/25",
       "Year Ended": "2018/03",
@@ -1400,7 +1410,7 @@
       "-4.68",
       "-14.18",
       "-11.91",
-      "-16.70"
+      "-14.65"
     ],
     "Yield (%)": [
       "0.00",
@@ -1421,7 +1431,7 @@
       "0.2366",
       "0.0569",
       "-0.0058",
-      "0.0000"
+      "-0.0526"
     ],
     "Currency": [
       "HKD",

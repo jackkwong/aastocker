@@ -2,8 +2,8 @@
   "stock_code": "12",
   "basic_information": {
     "Name": "Henderson Land Development Co.\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1981/07/23",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "73.2629",
     "EPS(HKD)": "7.6100",
-    "PE": "5.56",
+    "PE": "5.22",
     "DPS(HKD)": "1.7100",
-    "Yield": "4.04",
-    "Price/PNAV": "0.5774",
+    "Yield": "4.30",
+    "Price/PNAV": "0.5426",
     "Index Constituent": "HSI\n                    HSHKLI\n                    PB-index\n                    HSHK35\n                    Index_Properties & Construction\n                    HSCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.5000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/05",
+      "Book Close Date": "2018/09/07-2018/09/10",
+      "Payable Date": "2018/09/18"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1180,14 +1190,14 @@
       "9.04",
       "8.09",
       "9.62",
-      "5.56"
+      "5.22"
     ],
     "Yield (%)": [
       "1.75",
       "2.38",
       "3.05",
       "2.94",
-      "4.04"
+      "4.30"
     ],
     "Dividend Payout (%)": [
       "19.52",

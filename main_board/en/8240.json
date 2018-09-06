@@ -2,8 +2,8 @@
   "stock_code": "8240",
   "basic_information": {
     "Name": "Goal Forward Holdings Limited",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2016/10/13",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "0.0742",
     "EPS(HKD)": "0.0179",
-    "PE": "14.80",
+    "PE": "16.76",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "3.5692",
+    "Price/PNAV": "4.0406",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -480,207 +480,227 @@
       "2015/03",
       "2016/03",
       "2017/03",
-      "",
+      "2018/03",
       ""
     ],
     "Net Cash Flow from Operating Activities": [
       "12,129",
       "7,331",
       "4,854",
-      "",
+      "7,948",
       ""
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
       "-386",
       "-586",
       "-1,866",
-      "",
+      "-299",
       ""
     ],
     "Interest Received": [
       "1",
       "1",
       "2",
-      "",
+      "131",
       ""
     ],
     "Interest Paid": [
       "-387",
       "-587",
       "-833",
-      "",
+      "-430",
       ""
     ],
     "Dividend Received": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Dividend Paid": [
       "-",
       "-",
       "-1,035",
-      "",
+      "-",
       ""
     ],
     "Others": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Taxes (Paid) / Refunded": [
       "-740",
       "-3,258",
       "-4,153",
-      "",
+      "-3,342",
       ""
     ],
     "Net Cash Flow from Investing Activities": [
       "-7,674",
       "-8,147",
       "-3,489",
-      "",
+      "-56,232",
       ""
     ],
     "Additions to Fixed Assets": [
       "-477",
       "-43",
       "-105",
-      "",
+      "-43,770",
       ""
     ],
     "Disposal of Fixed Assets": [
       "29",
       "-",
       "-",
-      "",
+      "100",
       ""
     ],
     "Increase in Investments": [
       "-",
       "-",
       "-1,000",
-      "",
+      "-8,800",
       ""
     ],
     "Decrease in Investments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Net Cash Flow with Related Parties": [
       "-",
       "-661",
       "-",
-      "",
+      "-",
       ""
     ],
     "Net Cash Flow before Financing Activities": [
       "3,329",
       "-4,660",
       "-4,654",
-      "",
+      "-51,925",
       ""
     ],
     "Net Cash Flow from Financing Activities": [
       "8,055",
       "-2,915",
       "64,099",
-      "",
+      "-866",
       ""
     ],
     "New Loans": [
       "21,400",
       "-",
       "19,200",
-      "",
+      "-",
       ""
     ],
     "Loans Repayment": [
       "-13,345",
       "-2,354",
       "-19,472",
-      "",
+      "-866",
       ""
     ],
     "Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Repayment of Fixed Income/Debt Instruments": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Equity Financing": [
       "-",
       "100",
       "64,371",
-      "",
+      "-",
       ""
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
       "11,384",
       "-7,575",
       "59,445",
-      "",
+      "-52,791",
       ""
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
       "5,670",
       "17,054",
       "9,479",
-      "",
+      "68,924",
       ""
     ],
     "Net Cash Flow due to Change in Exchange Rate/Others": [
       "-",
       "-",
       "-",
-      "",
+      "-",
       ""
     ],
     "Cash & Cash Equivalents at End of Year": [
       "17,054",
       "9,479",
       "68,924",
-      "",
+      "16,133",
       ""
     ],
     "Unit": [
       "Thousand",
       "Thousand",
       "Thousand",
-      "",
+      "Thousand",
       ""
     ],
     "Currency": [
       "HKD",
       "HKD",
       "HKD",
-      "",
+      "HKD",
       ""
     ],
     "Auditor's Opinion": [
       "Unqualified",
       "Unqualified",
       "Unqualified",
-      "",
+      "Unqualified",
       ""
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/15",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "Withdrawal of Listing:Will\n                be listed on the Main Board",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
+      "Announce Date": "2018/08/07",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/06/20",
       "Year Ended": "2018/03",
@@ -819,7 +839,7 @@
       "-",
       "21.65",
       "87.10",
-      "14.80",
+      "16.76",
       ""
     ],
     "Yield (%)": [

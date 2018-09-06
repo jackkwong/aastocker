@@ -2,8 +2,8 @@
   "stock_code": "8101",
   "basic_information": {
     "Name": "EJE (Hong Kong) Holdings Limited",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2013/10/15",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -13,12 +13,12 @@
     "Issued Capital(share)": "2,892,000,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "4,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "0.1156",
     "EPS(HKD)": "-0.1280",
-    "PE": "-1.90",
+    "PE": "-1.66",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "-",
+    "Price/PNAV": "1.8432",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -477,39 +477,39 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "33,017",
       "-15,128",
       "7,107",
       "-53,169",
-      "-20,948"
+      "-20,948",
+      "13,780"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "91",
       "57",
       "96",
       "-1,232",
-      "-2,937"
+      "-2,937",
+      "181"
     ],
     "Interest Received": [
-      "109",
       "62",
       "96",
       "751",
-      "33"
+      "33",
+      "660"
     ],
     "Interest Paid": [
-      "-18",
       "-5",
       "-",
       "-1,983",
-      "-2,970"
+      "-2,970",
+      "-479"
     ],
     "Dividend Received": [
       "-",
@@ -533,81 +533,81 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-5,866",
       "-6,486",
       "-3,204",
       "-15",
-      "-523"
+      "-523",
+      "-3,046"
     ],
     "Net Cash Flow from Investing Activities": [
-      "-672",
       "-3,570",
       "-5,406",
       "-7,565",
-      "-181,135"
+      "-181,135",
+      "-1,436"
     ],
     "Additions to Fixed Assets": [
-      "-672",
       "-1,516",
       "-184",
       "-20,483",
-      "-17,311"
+      "-17,311",
+      "-26,068"
     ],
     "Disposal of Fixed Assets": [
-      "-",
       "214",
       "512",
+      "-",
       "-",
       "-"
     ],
     "Increase in Investments": [
       "-",
-      "-",
       "-492",
       "-23,378",
-      "-162,524"
+      "-162,524",
+      "1,322"
     ],
     "Decrease in Investments": [
       "-",
       "-",
-      "-",
       "31,046",
-      "-"
+      "-",
+      "23,310"
     ],
     "Net Cash Flow with Related Parties": [
-      "-15,717",
       "365",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Net Cash Flow before Financing Activities": [
-      "26,570",
       "-25,127",
       "-1,407",
       "-61,981",
-      "-205,543"
+      "-205,543",
+      "9,479"
     ],
     "Net Cash Flow from Financing Activities": [
-      "-20,216",
       "23,587",
       "17,226",
       "183,897",
-      "53,636"
+      "53,636",
+      "-9,274"
     ],
     "New Loans": [
-      "177",
       "1,261",
       "-",
       "35,439",
-      "59,000"
+      "59,000",
+      "-"
     ],
     "Loans Repayment": [
-      "-4,676",
       "-1,261",
       "-",
       "-36",
-      "-51,636"
+      "-51,636",
+      "-9,274"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -624,39 +624,39 @@
       "-"
     ],
     "Equity Financing": [
-      "-",
       "23,222",
       "17,226",
       "148,494",
-      "46,272"
+      "46,272",
+      "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "6,354",
       "-1,540",
       "15,819",
       "121,916",
-      "-151,907"
+      "-151,907",
+      "205"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "32,069",
-      "38,291",
-      "37,455",
-      "53,373",
-      "174,467"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "-132",
-      "704",
-      "99",
-      "-822",
-      "-2,379"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "38,291",
       "37,455",
       "53,373",
       "174,467",
       "20,181"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "704",
+      "99",
+      "-822",
+      "-2,379",
+      "998"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "37,455",
+      "53,373",
+      "174,467",
+      "20,181",
+      "21,384"
     ],
     "Unit": [
       "Thousand",
@@ -673,7 +673,7 @@
       "HKD"
     ],
     "Auditor's Opinion": [
-      "-",
+      "Unqualified",
       "Unqualified",
       "Unqualified",
       "Unqualified",
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/06/22",
       "Year Ended": "2018/03",
@@ -940,7 +950,7 @@
       "-4.36",
       "-22.89",
       "5.54",
-      "-1.90"
+      "-1.66"
     ],
     "Yield (%)": [
       "0.00",
@@ -961,7 +971,7 @@
       "0.2100",
       "0.1047",
       "0.1435",
-      "0.0000"
+      "0.1156"
     ],
     "Currency": [
       "HKD",

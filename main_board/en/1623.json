@@ -2,8 +2,8 @@
   "stock_code": "1623",
   "basic_information": {
     "Name": "Hilong Holding Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2011/04/21",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "2.2838",
     "EPS(HKD)": "0.0842",
-    "PE": "14.14",
+    "PE": "10.34",
     "DPS(HKD)": "0.0100",
-    "Yield": "0.84",
-    "Price/PNAV": "0.5211",
+    "Yield": "1.15",
+    "Price/PNAV": "0.3810",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -880,14 +890,14 @@
       "3.04",
       "15.41",
       "14.45",
-      "14.14"
+      "10.34"
     ],
     "Yield (%)": [
       "2.73",
       "5.62",
       "1.16",
       "0.85",
-      "0.84"
+      "1.15"
     ],
     "Dividend Payout (%)": [
       "29.04",

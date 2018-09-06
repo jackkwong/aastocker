@@ -2,8 +2,8 @@
   "stock_code": "1788",
   "basic_information": {
     "Name": "Guotai Junan International\n                    Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/07/08",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "1.5637",
     "EPS(HKD)": "0.1770",
-    "PE": "9.72",
+    "PE": "7.63",
     "DPS(HKD)": "0.0900",
-    "Yield": "5.23",
-    "Price/PNAV": "1.0999",
+    "Yield": "6.67",
+    "Price/PNAV": "0.8633",
     "Index Constituent": "HSHKMI\n                    Index_Financials\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0330",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/04",
+      "Book Close Date": "2018/09/06-2018/09/07",
+      "Payable Date": "2018/09/26"
+    },
+    {
       "Announce Date": "2018/03/16",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -910,14 +920,14 @@
       "19.35",
       "18.59",
       "17.73",
-      "9.72"
+      "7.63"
     ],
     "Yield (%)": [
       "1.47",
       "2.60",
       "2.71",
       "3.00",
-      "5.23"
+      "6.67"
     ],
     "Dividend Payout (%)": [
       "51.45",

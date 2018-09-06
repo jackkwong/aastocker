@@ -2,8 +2,8 @@
   "stock_code": "387",
   "basic_information": {
     "Name": "Leeport (Holdings) Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2003/07/10",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "4,000",
     "NAV(HKD)": "2.2558",
     "EPS(HKD)": "0.1225",
-    "PE": "14.53",
+    "PE": "11.92",
     "DPS(HKD)": "0.0800",
-    "Yield": "4.49",
-    "Price/PNAV": "0.7891",
+    "Yield": "5.48",
+    "Price/PNAV": "0.6472",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0300",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/28",
+      "Book Close Date": "2018/10/03-2018/10/05",
+      "Payable Date": "2018/10/19"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1040,14 +1050,14 @@
       "12.59",
       "15.47",
       "14.66",
-      "14.53"
+      "11.92"
     ],
     "Yield (%)": [
       "0.91",
       "2.73",
       "3.36",
       "4.19",
-      "4.49"
+      "5.48"
     ],
     "Dividend Payout (%)": [
       "51.19",

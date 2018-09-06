@@ -2,8 +2,8 @@
   "stock_code": "81",
   "basic_information": {
     "Name": "China Overseas Grand Oceans\n                    Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1984/04/26",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "5.9929",
     "EPS(HKD)": "0.5570",
-    "PE": "5.62",
+    "PE": "4.63",
     "DPS(HKD)": "0.0400",
-    "Yield": "1.28",
-    "Price/PNAV": "0.5223",
+    "Yield": "1.55",
+    "Price/PNAV": "0.4305",
     "Index Constituent": "HSHKSI\n                    Index_Properties & Construction\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0300",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/05",
+      "Book Close Date": "2018/09/07-2018/09/07",
+      "Payable Date": "2018/10/11"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1140,14 +1150,14 @@
       "4.45",
       "10.80",
       "8.83",
-      "5.62"
+      "4.63"
     ],
     "Yield (%)": [
       "2.48",
       "2.02",
       "0.00",
       "0.57",
-      "1.28"
+      "1.55"
     ],
     "Dividend Payout (%)": [
       "8.01",

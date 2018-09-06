@@ -2,8 +2,8 @@
   "stock_code": "23",
   "basic_information": {
     "Name": "Bank of East Asia, Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "200",
     "NAV(HKD)": "18.8098",
     "EPS(HKD)": "3.2100",
-    "PE": "9.75",
+    "PE": "8.77",
     "DPS(HKD)": "1.2800",
-    "Yield": "4.09",
-    "Price/PNAV": "1.6640",
+    "Yield": "4.55",
+    "Price/PNAV": "1.4966",
     "Index Constituent": "HSI\n                    FS-index\n                    Index_Financials\n                    HSCI\n                    HSHKLI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -689,6 +689,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.5100",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/09/13",
+      "Book Close Date": "2018/09/17-2018/09/18",
+      "Payable Date": "2018/10/12"
+    },
+    {
       "Announce Date": "2018/02/22",
       "Year Ended": "2017/12",
       "Event": "Interim 2",
@@ -1107,14 +1117,14 @@
       "9.91",
       "17.18",
       "27.81",
-      "9.75"
+      "8.77"
     ],
     "Yield (%)": [
       "3.70",
       "4.12",
       "2.63",
       "1.66",
-      "4.09"
+      "4.55"
     ],
     "Dividend Payout (%)": [
       "39.93",

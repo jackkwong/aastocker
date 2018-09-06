@@ -2,8 +2,8 @@
   "stock_code": "1098",
   "basic_information": {
     "Name": "Road King Infrastructure Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1996/07/04",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "20.8987",
     "EPS(HKD)": "2.6100",
-    "PE": "5.48",
+    "PE": "5.07",
     "DPS(HKD)": "0.9300",
-    "Yield": "6.50",
-    "Price/PNAV": "0.6843",
+    "Yield": "7.02",
+    "Price/PNAV": "0.6335",
     "Index Constituent": "HSCI\n                    HSHKSI\n                    HSGCI\n                    Index_Properties & Construction"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.3000",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/31",
+      "Book Close Date": "2018/09/04-2018/09/05",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/08",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1110,14 +1120,14 @@
       "4.73",
       "7.12",
       "9.67",
-      "5.48"
+      "5.07"
     ],
     "Yield (%)": [
       "8.17",
       "8.95",
       "6.08",
       "4.16",
-      "6.50"
+      "7.02"
     ],
     "Dividend Payout (%)": [
       "42.65",

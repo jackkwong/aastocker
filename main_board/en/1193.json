@@ -2,8 +2,8 @@
   "stock_code": "1193",
   "basic_information": {
     "Name": "China Resources Gas Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1994/11/07",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "9.8887",
     "EPS(HKD)": "1.6800",
-    "PE": "19.52",
+    "PE": "21.88",
     "DPS(HKD)": "0.5500",
-    "Yield": "1.68",
-    "Price/PNAV": "3.3169",
+    "Yield": "1.50",
+    "Price/PNAV": "3.7164",
     "Index Constituent": "HSHKLI\n                    HSCI\n                    Index_Utilities\n                    HSGCI\n                    HSCCI\n                    HSML100"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1500",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/10",
+      "Book Close Date": "2018/09/12-2018/09/19",
+      "Payable Date": "2018/10/29"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1140,14 +1150,14 @@
       "19.39",
       "21.92",
       "18.11",
-      "19.52"
+      "21.88"
     ],
     "Yield (%)": [
       "0.80",
       "1.13",
       "1.16",
       "1.65",
-      "1.68"
+      "1.50"
     ],
     "Dividend Payout (%)": [
       "22.00",

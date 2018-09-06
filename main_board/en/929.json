@@ -2,8 +2,8 @@
   "stock_code": "929",
   "basic_information": {
     "Name": "IPE Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2004/11/01",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "5,000",
     "NAV(HKD)": "1.6155",
     "EPS(HKD)": "0.1091",
-    "PE": "13.20",
+    "PE": "9.62",
     "DPS(HKD)": "0.0380",
-    "Yield": "2.64",
-    "Price/PNAV": "0.8914",
+    "Yield": "3.62",
+    "Price/PNAV": "0.6500",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0090",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/07",
+      "Book Close Date": "2018/09/11-2018/09/12",
+      "Payable Date": "2018/09/21"
+    },
+    {
       "Announce Date": "2018/03/19",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1020,14 +1030,14 @@
       "16.44",
       "22.35",
       "14.73",
-      "13.20"
+      "9.62"
     ],
     "Yield (%)": [
       "0.00",
       "2.98",
       "1.69",
       "2.87",
-      "2.64"
+      "3.62"
     ],
     "Dividend Payout (%)": [
       "0.00",

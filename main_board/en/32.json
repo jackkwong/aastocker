@@ -2,8 +2,8 @@
   "stock_code": "32",
   "basic_information": {
     "Name": "Cross-Harbour (Holdings) Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1974/07/30",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "16.9724",
     "EPS(HKD)": "3.1700",
-    "PE": "4.20",
+    "PE": "4.13",
     "DPS(HKD)": "0.3800",
-    "Yield": "2.86",
-    "Price/PNAV": "0.7836",
+    "Yield": "2.90",
+    "Price/PNAV": "0.7718",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim 2",
+      "Particular": "D:HKD 0.0600",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/06",
+      "Book Close Date": "2018/09/10-2018/09/11",
+      "Payable Date": "2018/09/17"
+    },
     {
       "Announce Date": "2018/06/06",
       "Year Ended": "2018/12",
@@ -1450,14 +1460,14 @@
       "8.11",
       "6.98",
       "11.73",
-      "4.20"
+      "4.13"
     ],
     "Yield (%)": [
       "3.61",
       "3.20",
       "3.02",
       "2.71",
-      "2.86"
+      "2.90"
     ],
     "Dividend Payout (%)": [
       "25.42",

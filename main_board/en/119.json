@@ -2,8 +2,8 @@
   "stock_code": "119",
   "basic_information": {
     "Name": "Poly Property Group Co., Limited",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1973/08/30",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "7.7280",
     "EPS(HKD)": "0.6724",
-    "PE": "5.12",
+    "PE": "4.16",
     "DPS(HKD)": "0.1350",
-    "Yield": "3.92",
-    "Price/PNAV": "0.4451",
+    "Yield": "4.82",
+    "Price/PNAV": "0.3623",
     "Index Constituent": "HSCI\n                    Index_Properties & Construction\n                    HSHKMI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -45,21 +45,21 @@
     ],
     "Long Term Debt/Equity (%)": [
       "89.70",
-      "95.53",
+      "109.91",
       "138.65",
       "138.58",
       "95.74"
     ],
     "Total Debt/Equity (%)": [
       "149.25",
-      "163.57",
+      "186.59",
       "208.31",
       "192.84",
       "161.87"
     ],
     "Total Debt/Capital Employed (%)": [
       "73.08",
-      "71.18",
+      "81.20",
       "79.97",
       "75.87",
       "76.80"
@@ -364,14 +364,14 @@
     ],
     "Long Term Debt": [
       "26,565,146",
-      "28,433,069",
+      "32,712,816",
       "35,438,386",
       "34,225,635",
       "27,089,799"
     ],
     "Other Long Term Liabilities": [
       "1,321,725",
-      "5,858,919",
+      "1,579,172",
       "1,711,902",
       "1,563,147",
       "1,734,125"
@@ -399,14 +399,14 @@
     ],
     "Short Term Debt": [
       "17,639,417",
-      "20,250,526",
+      "22,820,376",
       "17,805,446",
       "13,398,644",
       "18,713,091"
     ],
     "Other Current Liabilities": [
       "24,073,356",
-      "27,109,866",
+      "24,540,016",
       "33,260,638",
       "33,867,010",
       "37,863,339"
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
@@ -1030,14 +1040,14 @@
       "8.28",
       "-4.15",
       "194.12",
-      "5.12"
+      "4.16"
     ],
     "Yield (%)": [
       "4.94",
       "3.60",
       "0.00",
       "0.00",
-      "3.92"
+      "4.82"
     ],
     "Dividend Payout (%)": [
       "29.84",

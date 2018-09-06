@@ -2,8 +2,8 @@
   "stock_code": "127",
   "basic_information": {
     "Name": "Chinese Estates Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "19.0740",
     "EPS(HKD)": "1.9440",
-    "PE": "5.65",
+    "PE": "5.21",
     "DPS(HKD)": "3.2100",
-    "Yield": "29.23",
-    "Price/PNAV": "0.5757",
+    "Yield": "31.72",
+    "Price/PNAV": "0.5306",
     "Index Constituent": "HSGCI\n                    HSCI\n                    HSHKMI\n                    Index_Properties & Construction"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0100",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/04",
+      "Book Close Date": "2018/09/06-2018/09/06",
+      "Payable Date": "2018/09/17"
+    },
+    {
       "Announce Date": "2018/02/22",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1250,14 +1260,14 @@
       "4.10",
       "2.91",
       "4.02",
-      "5.65"
+      "5.21"
     ],
     "Yield (%)": [
       "8.28",
       "36.49",
       "51.87",
       "54.85",
-      "29.23"
+      "31.72"
     ],
     "Dividend Payout (%)": [
       "60.39",

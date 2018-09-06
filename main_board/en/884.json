@@ -2,23 +2,23 @@
   "stock_code": "884",
   "basic_information": {
     "Name": "CIFI Holdings (Group) Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2012/11/23",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "10,000,000,000",
-    "Issued Capital(share)": "7,712,416,224",
+    "Issued Capital(share)": "7,765,631,786",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "3.3114",
     "EPS(HKD)": "0.8153",
-    "PE": "6.98",
+    "PE": "5.09",
     "DPS(HKD)": "0.2265",
-    "Yield": "3.98",
-    "Price/PNAV": "1.7183",
+    "Yield": "5.46",
+    "Price/PNAV": "1.2532",
     "Index Constituent": "HSCI\n                    Index_Properties & Construction\n                    HSGCI\n                    HSHKMI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/15",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:RMB\n                0.0609(equivalent to HKD 0.0700)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/21",
+      "Book Close Date": "2018/09/26-2018/09/28",
+      "Payable Date": "2018/10/22"
+    },
+    {
       "Announce Date": "2018/03/14",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -840,14 +850,14 @@
       "4.76",
       "7.23",
       "14.42",
-      "6.98"
+      "5.09"
     ],
     "Yield (%)": [
       "4.14",
       "5.97",
       "5.15",
       "2.46",
-      "3.98"
+      "5.46"
     ],
     "Dividend Payout (%)": [
       "16.58",

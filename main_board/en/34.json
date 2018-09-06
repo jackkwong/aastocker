@@ -2,8 +2,8 @@
   "stock_code": "34",
   "basic_information": {
     "Name": "Kowloon Development Co. Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1995/07/04",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "21.1669",
     "EPS(HKD)": "1.4100",
-    "PE": "6.03",
+    "PE": "6.15",
     "DPS(HKD)": "0.6500",
-    "Yield": "7.65",
-    "Price/PNAV": "0.4016",
+    "Yield": "7.50",
+    "Price/PNAV": "0.4096",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,26 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.2200",
+      "Type": "Cash",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "2018/12/12"
+    },
+    {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "Distribution in\n                specie:1 Polytec Asset Holdings Limited Shares for\n                shares 10",
+      "Type": "Scrip",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "2018/12/12"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1070,14 +1090,14 @@
       "7.92",
       "8.27",
       "10.85",
-      "6.03"
+      "6.15"
     ],
     "Yield (%)": [
       "5.85",
       "7.99",
       "6.74",
       "6.74",
-      "7.65"
+      "7.50"
     ],
     "Dividend Payout (%)": [
       "50.89",

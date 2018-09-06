@@ -1,9 +1,9 @@
 {
   "stock_code": "2280",
   "basic_information": {
-    "Name": "HC International Inc.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "Name": "HC Group Inc.",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2003/12/17",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "4.0365",
     "EPS(HKD)": "0.3178",
-    "PE": "14.41",
+    "PE": "18.00",
     "DPS(HKD)": "0.0200",
-    "Yield": "0.44",
-    "Price/PNAV": "1.1346",
+    "Yield": "0.35",
+    "Price/PNAV": "1.4171",
     "Index Constituent": "HSCI\n                    HSHKSI\n                    Index_Information Technology\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1180,14 +1190,14 @@
       "14.57",
       "85.52",
       "27.21",
-      "14.41"
+      "18.00"
     ],
     "Yield (%)": [
       "0.00",
       "0.00",
       "0.00",
       "0.88",
-      "0.44"
+      "0.35"
     ],
     "Dividend Payout (%)": [
       "0.00",

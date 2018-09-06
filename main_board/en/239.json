@@ -2,8 +2,8 @@
   "stock_code": "239",
   "basic_information": {
     "Name": "Pak Fah Yeow International Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1991/12/18",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,500",
     "NAV(HKD)": "2.4018",
     "EPS(HKD)": "0.3290",
-    "PE": "10.33",
+    "PE": "9.76",
     "DPS(HKD)": "0.1485",
-    "Yield": "4.37",
-    "Price/PNAV": "1.4156",
+    "Yield": "4.63",
+    "Price/PNAV": "1.3365",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim 2",
+      "Particular": "D:HKD 0.0175",
+      "Type": "Cash",
+      "Ex-Date": "2018/10/08",
+      "Book Close Date": "2018/10/10-2018/10/12",
+      "Payable Date": "2018/12/07"
+    },
     {
       "Announce Date": "2018/06/20",
       "Year Ended": "2018/12",
@@ -1450,14 +1460,14 @@
       "6.84",
       "18.01",
       "17.96",
-      "10.33"
+      "9.76"
     ],
     "Yield (%)": [
       "4.16",
       "5.57",
       "3.54",
       "3.55",
-      "4.37"
+      "4.63"
     ],
     "Dividend Payout (%)": [
       "67.77",

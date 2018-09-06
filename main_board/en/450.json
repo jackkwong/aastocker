@@ -2,8 +2,8 @@
   "stock_code": "450",
   "basic_information": {
     "Name": "Hung Hing Printing Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1992/03/16",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "4.0278",
     "EPS(HKD)": "1.1670",
-    "PE": "1.54",
+    "PE": "1.11",
     "DPS(HKD)": "0.3200",
-    "Yield": "17.78",
-    "Price/PNAV": "0.4469",
+    "Yield": "24.81",
+    "Price/PNAV": "0.3203",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0300",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/21",
+      "Book Close Date": "2018/09/26-2018/10/02",
+      "Payable Date": "2018/10/24"
+    },
+    {
       "Announce Date": "2018/03/20",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1140,14 +1150,14 @@
       "103.33",
       "37.14",
       "45.24",
-      "1.54"
+      "1.11"
     ],
     "Yield (%)": [
       "5.79",
       "3.23",
       "2.56",
       "2.11",
-      "17.78"
+      "24.81"
     ],
     "Dividend Payout (%)": [
       "82.35",

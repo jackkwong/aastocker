@@ -2,8 +2,8 @@
   "stock_code": "511",
   "basic_information": {
     "Name": "Television Broadcasts Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1988/11/23",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "100",
     "NAV(HKD)": "15.9699",
     "EPS(HKD)": "0.5600",
-    "PE": "45.89",
+    "PE": "41.16",
     "DPS(HKD)": "1.9000",
-    "Yield": "7.39",
-    "Price/PNAV": "1.6093",
+    "Yield": "8.24",
+    "Price/PNAV": "1.4433",
     "Index Constituent": "HSHKMI\n                    Index_Services\n                    HSCI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.3000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/17",
+      "Book Close Date": "2018/09/19-2018/09/21",
+      "Payable Date": "2018/10/04"
+    },
+    {
       "Announce Date": "2018/03/21",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1110,14 +1120,14 @@
       "8.63",
       "9.77",
       "22.72",
-      "45.89"
+      "41.16"
     ],
     "Yield (%)": [
       "5.07",
       "17.63",
       "8.75",
       "2.32",
-      "7.39"
+      "8.24"
     ],
     "Dividend Payout (%)": [
       "65.49",

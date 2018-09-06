@@ -2,8 +2,8 @@
   "stock_code": "8392",
   "basic_information": {
     "Name": "Satu Holdings Limited",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "2017/10/16",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "10,000",
     "NAV(HKD)": "0.0579",
     "EPS(HKD)": "-0.0057",
-    "PE": "-275.44",
+    "PE": "-60.53",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "27.1167",
+    "Price/PNAV": "5.9588",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -475,8 +475,222 @@
       ""
     ]
   },
-  "cashflow": {},
+  "cashflow": {
+    "Closing Date": [
+      "2018/03",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow from Operating Activities": [
+      "-4,225",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow from Return on Investments & Servicing of Finance": [
+      "-6,989",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Interest Received": [
+      "85",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Interest Paid": [
+      "-74",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Dividend Received": [
+      "-",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Dividend Paid": [
+      "-7,000",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Others": [
+      "-",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Taxes (Paid) / Refunded": [
+      "-2,742",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow from Investing Activities": [
+      "-11",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Additions to Fixed Assets": [
+      "-58",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Disposal of Fixed Assets": [
+      "47",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Increase in Investments": [
+      "-",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Decrease in Investments": [
+      "-",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow with Related Parties": [
+      "587",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow before Financing Activities": [
+      "-13,967",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow from Financing Activities": [
+      "46,396",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "New Loans": [
+      "-",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Loans Repayment": [
+      "-604",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Fixed Income/Debt Instruments": [
+      "-",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Repayment of Fixed Income/Debt Instruments": [
+      "-",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Equity Financing": [
+      "46,413",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Increase(Decrease) in Cash & Cash Equivalents": [
+      "32,429",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Cash & Cash Equivalents at Beginning of Year": [
+      "9,170",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "27",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "41,626",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Unit": [
+      "Thousand",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Currency": [
+      "HKD",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "Auditor's Opinion": [
+      "Unqualified",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/13",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/06/08",
       "Year Ended": "2018/03",
@@ -554,7 +768,7 @@
     "PE (X)": [
       "-",
       "-",
-      "-275.44",
+      "-60.53",
       "",
       ""
     ],

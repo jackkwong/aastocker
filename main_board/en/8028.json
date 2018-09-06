@@ -2,8 +2,8 @@
   "stock_code": "8028",
   "basic_information": {
     "Name": "Timeless Software Ltd.",
-    "EPS Start Date": "2017/04/01",
-    "EPS End Date": "2018/03/31",
+    "EPS Start Date": "2018/04/01",
+    "EPS End Date": "2019/03/31",
     "Listing Date": "1999/11/25",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -13,12 +13,12 @@
     "Issued Capital(share)": "2,812,881,803",
     "Issue Cap-H(share)": "-",
     "Board Lot": "20,000",
-    "NAV(HKD)": "0.0000",
+    "NAV(HKD)": "0.0493",
     "EPS(HKD)": "0.0007",
-    "PE": "105.71",
+    "PE": "94.29",
     "DPS(HKD)": "0.0000",
     "Yield": "0.00",
-    "Price/PNAV": "-",
+    "Price/PNAV": "1.3382",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -90,7 +90,7 @@
       "-",
       "4.67",
       "-",
-      "8.65"
+      "8.31"
     ],
     "Pre-tax Profit Margin (%)": [
       "-",
@@ -218,7 +218,7 @@
       "-5,824",
       "7,268",
       "-18,725",
-      "15,072"
+      "14,477"
     ],
     "Exceptional Items": [
       "-",
@@ -232,14 +232,14 @@
       "-610",
       "-142",
       "2,775",
-      "3,057"
+      "-2,177"
     ],
     "Other Non-Operating Gains": [
       "-67,039",
       "-55,470",
       "-8,538",
       "1",
-      "0"
+      "5,829"
     ],
     "Taxation": [
       "-2,471",
@@ -477,53 +477,53 @@
   },
   "cashflow": {
     "Closing Date": [
-      "2013/03",
       "2014/03",
       "2015/03",
       "2016/03",
-      "2017/03"
+      "2017/03",
+      "2018/03"
     ],
     "Net Cash Flow from Operating Activities": [
-      "13,186",
       "25,557",
       "20,920",
       "46,582",
-      "-11,503"
+      "-11,503",
+      "70,281"
     ],
     "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-28,465",
       "-11,348",
       "-3,723",
       "-21,607",
-      "-13,540"
+      "-13,540",
+      "-25,898"
     ],
     "Interest Received": [
-      "502",
       "215",
       "943",
       "351",
-      "655"
+      "655",
+      "2,139"
     ],
     "Interest Paid": [
-      "-472",
       "-191",
       "-4,750",
       "-1,408",
-      "-1,013"
+      "-1,013",
+      "-634"
     ],
     "Dividend Received": [
-      "1,004",
       "328",
       "84",
       "7",
-      "16"
+      "16",
+      "-"
     ],
     "Dividend Paid": [
-      "-29,499",
       "-11,700",
       "-",
       "-20,557",
-      "-13,198"
+      "-13,198",
+      "-27,403"
     ],
     "Others": [
       "-",
@@ -533,81 +533,81 @@
       "-"
     ],
     "Taxes (Paid) / Refunded": [
-      "-26,455",
       "-8,383",
       "-4,183",
       "-12,994",
-      "-1,115"
+      "-1,115",
+      "-7,074"
     ],
     "Net Cash Flow from Investing Activities": [
-      "35,109",
       "-44,314",
       "-6,270",
       "-8,783",
-      "8,710"
+      "8,710",
+      "-1,946"
     ],
     "Additions to Fixed Assets": [
-      "-17,210",
       "-28,267",
       "-7,801",
       "-6,397",
-      "-561"
+      "-561",
+      "-863"
     ],
     "Disposal of Fixed Assets": [
-      "8,877",
       "28",
       "-",
       "-",
-      "10,765"
+      "10,765",
+      "-"
     ],
     "Increase in Investments": [
-      "45,988",
       "664",
       "-",
       "-",
-      "-1,200"
+      "-1,200",
+      "-7,800"
     ],
     "Decrease in Investments": [
       "-",
-      "-",
       "1,616",
       "5,883",
-      "-294"
+      "-294",
+      "6,717"
     ],
     "Net Cash Flow with Related Parties": [
-      "1,250",
       "-",
       "-",
       "1,249",
-      "-"
+      "-",
+      "891"
     ],
     "Net Cash Flow before Financing Activities": [
-      "-6,625",
       "-38,488",
       "6,744",
       "3,198",
-      "-17,448"
+      "-17,448",
+      "35,363"
     ],
     "Net Cash Flow from Financing Activities": [
-      "-1,641",
       "17,127",
       "10,502",
       "49,657",
-      "20,925"
+      "20,925",
+      "-9,349"
     ],
     "New Loans": [
-      "-",
       "10,270",
+      "-",
       "-",
       "-",
       "-"
     ],
     "Loans Repayment": [
-      "-24",
       "-484",
       "-594",
       "-607",
-      "-8,585"
+      "-8,585",
+      "-240"
     ],
     "Fixed Income/Debt Instruments": [
       "-",
@@ -617,46 +617,46 @@
       "-"
     ],
     "Repayment of Fixed Income/Debt Instruments": [
-      "-3,000",
       "-",
       "-20,000",
+      "-10,000",
       "-10,000",
       "-10,000"
     ],
     "Equity Financing": [
-      "133",
       "7,341",
       "31,096",
       "59,015",
-      "39,510"
+      "39,510",
+      "-"
     ],
     "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-8,266",
       "-21,361",
       "17,246",
       "52,855",
-      "3,477"
+      "3,477",
+      "26,014"
     ],
     "Cash & Cash Equivalents at Beginning of Year": [
-      "62,921",
-      "55,118",
-      "33,583",
-      "50,913",
-      "101,802"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "463",
-      "-174",
-      "84",
-      "-1,966",
-      "-3,193"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
       "55,118",
       "33,583",
       "50,913",
       "101,802",
       "102,086"
+    ],
+    "Net Cash Flow due to Change in Exchange Rate/Others": [
+      "-174",
+      "84",
+      "-1,966",
+      "-3,193",
+      "5,485"
+    ],
+    "Cash & Cash Equivalents at End of Year": [
+      "33,583",
+      "50,913",
+      "101,802",
+      "102,086",
+      "133,585"
     ],
     "Unit": [
       "Thousand",
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/09",
+      "Year Ended": "2019/03",
+      "Event": "Quarter 1",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/06/20",
       "Year Ended": "2018/03",
@@ -1360,7 +1370,7 @@
       "-5.95",
       "-8.96",
       "-11.21",
-      "105.71"
+      "94.29"
     ],
     "Yield (%)": [
       "0.00",
@@ -1381,7 +1391,7 @@
       "0.0466",
       "0.0467",
       "0.0470",
-      "0.0000"
+      "0.0493"
     ],
     "Currency": [
       "HKD",

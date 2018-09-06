@@ -2,8 +2,8 @@
   "stock_code": "733",
   "basic_information": {
     "Name": "Hopefluent Group Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2004/07/15",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "4.2392",
     "EPS(HKD)": "0.5040",
-    "PE": "6.83",
+    "PE": "5.95",
     "DPS(HKD)": "0.1400",
-    "Yield": "4.07",
-    "Price/PNAV": "0.8115",
+    "Yield": "4.67",
+    "Price/PNAV": "0.7077",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0450",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/24",
+      "Book Close Date": "2018/09/27-2018/09/28",
+      "Payable Date": "2018/10/23"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1030,14 +1040,14 @@
       "6.91",
       "7.09",
       "8.08",
-      "6.83"
+      "5.95"
     ],
     "Yield (%)": [
       "2.30",
       "2.11",
       "3.35",
       "3.29",
-      "4.07"
+      "4.67"
     ],
     "Dividend Payout (%)": [
       "14.61",

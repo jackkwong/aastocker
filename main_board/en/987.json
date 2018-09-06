@@ -2,8 +2,8 @@
   "stock_code": "987",
   "basic_information": {
     "Name": "China Renewable Energy\n                    Investment Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1994/01/27",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "0.7381",
     "EPS(HKD)": "0.0256",
-    "PE": "8.36",
+    "PE": "8.87",
     "DPS(HKD)": "0.0070",
-    "Yield": "3.27",
-    "Price/PNAV": "0.2899",
+    "Yield": "3.08",
+    "Price/PNAV": "0.3075",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/23",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0040",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/04",
+      "Book Close Date": "2018/09/06-2018/09/07",
+      "Payable Date": "2018/09/19"
+    },
+    {
       "Announce Date": "2018/03/19",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1120,14 +1130,14 @@
       "33.93",
       "15.70",
       "8.84",
-      "8.36"
+      "8.87"
     ],
     "Yield (%)": [
       "0.00",
       "0.00",
       "0.74",
       "0.87",
-      "3.27"
+      "3.08"
     ],
     "Dividend Payout (%)": [
       "0.00",

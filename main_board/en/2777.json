@@ -15,10 +15,10 @@
     "Board Lot": "400",
     "NAV(HKD)": "22.8935",
     "EPS(HKD)": "7.8825",
-    "PE": "2.08",
+    "PE": "1.89",
     "DPS(HKD)": "1.3188",
-    "Yield": "8.04",
-    "Price/PNAV": "0.7164",
+    "Yield": "8.85",
+    "Price/PNAV": "0.6508",
     "Index Constituent": "Index_Properties &\n                    Construction\n                    HSCI\n                    HSHKMI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/24",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:RMB\n                0.4000(equivalent to HKD 0.458223)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/13",
+      "Book Close Date": "2018/09/17-2018/09/21",
+      "Payable Date": "2018/10/26"
+    },
+    {
       "Announce Date": "2018/04/29",
       "Year Ended": "2018/12",
       "Event": "Quarter 1",
@@ -1040,14 +1050,14 @@
       "4.85",
       "5.88",
       "8.55",
-      "2.08"
+      "1.89"
     ],
     "Yield (%)": [
       "8.14",
       "0.00",
       "11.64",
       "5.57",
-      "8.04"
+      "8.85"
     ],
     "Dividend Payout (%)": [
       "25.94",

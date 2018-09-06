@@ -2,8 +2,8 @@
   "stock_code": "2128",
   "basic_information": {
     "Name": "China Lesso Group Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/06/23",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "5.2130",
     "EPS(HKD)": "0.8872",
-    "PE": "5.66",
+    "PE": "5.02",
     "DPS(HKD)": "0.1800",
-    "Yield": "3.59",
-    "Price/PNAV": "0.9630",
+    "Yield": "4.04",
+    "Price/PNAV": "0.8536",
     "Index Constituent": "Index_Properties &\n                    Construction\n                    HSHKMI\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/12",
+      "Book Close Date": "2018/09/14-2018/09/18",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/19",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -890,14 +900,14 @@
       "6.67",
       "9.58",
       "7.90",
-      "5.66"
+      "5.02"
     ],
     "Yield (%)": [
       "2.26",
       "3.13",
       "2.22",
       "2.76",
-      "3.59"
+      "4.04"
     ],
     "Dividend Payout (%)": [
       "19.54",

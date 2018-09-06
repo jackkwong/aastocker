@@ -2,8 +2,8 @@
   "stock_code": "460",
   "basic_information": {
     "Name": "Sihuan Pharmaceutical Holdings\n                    Group Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2010/10/28",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "1.3997",
     "EPS(HKD)": "0.1834",
-    "PE": "9.81",
+    "PE": "9.00",
     "DPS(HKD)": "0.0372",
-    "Yield": "2.06",
-    "Price/PNAV": "1.2860",
+    "Yield": "2.25",
+    "Price/PNAV": "1.1789",
     "Index Constituent": "HSCI\n                    HSGCI\n                    HSHKMI\n                    Index_Consumer Goods"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/27",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:RMB\n                0.0040(equivalent to HKD 0.0050)",
+      "Type": "Cash",
+      "Ex-Date": "2018/10/18",
+      "Book Close Date": "2018/10/22-2018/10/24",
+      "Payable Date": "2018/10/31"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -920,14 +930,14 @@
       "8.89",
       "14.31",
       "12.43",
-      "9.81"
+      "9.00"
     ],
     "Yield (%)": [
       "0.61",
       "1.81",
       "2.07",
       "5.13",
-      "2.06"
+      "2.25"
     ],
     "Dividend Payout (%)": [
       "16.92",

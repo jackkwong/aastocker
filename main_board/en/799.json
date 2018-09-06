@@ -2,23 +2,23 @@
   "stock_code": "799",
   "basic_information": {
     "Name": "IGG Inc",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2013/10/18",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
     "Par Currency": "USD",
     "Par": "2.5E-06",
     "Authorized Capital(share)": "2,000,000,000",
-    "Issued Capital(share)": "1,322,493,683",
+    "Issued Capital(share)": "1,299,128,683",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "1.3480",
     "EPS(HKD)": "0.9158",
-    "PE": "11.01",
+    "PE": "10.37",
     "DPS(HKD)": "0.4900",
-    "Yield": "4.86",
-    "Price/PNAV": "7.4777",
+    "Yield": "5.16",
+    "Price/PNAV": "7.0475",
     "Index Constituent": "HSGCI\n                    Index_Information Technology\n                    HSCI\n                    HSHKSI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/08",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.1770(equivalent to USD 0.0230)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/07",
+      "Book Close Date": "2018/09/11-2018/09/14",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/11",
       "Year Ended": "2017/12",
       "Event": "Interim 2",
@@ -900,14 +910,14 @@
       "8.88",
       "44.64",
       "25.84",
-      "11.01"
+      "10.37"
     ],
     "Yield (%)": [
       "0.45",
       "6.72",
       "2.02",
       "1.64",
-      "4.86"
+      "5.16"
     ],
     "Dividend Payout (%)": [
       "26.92",

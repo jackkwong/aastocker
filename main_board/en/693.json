@@ -2,8 +2,8 @@
   "stock_code": "693",
   "basic_information": {
     "Name": "Tan Chong International Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1998/07/07",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "3,000",
     "NAV(HKD)": "5.8020",
     "EPS(HKD)": "0.2500",
-    "PE": "12.00",
+    "PE": "10.36",
     "DPS(HKD)": "0.1100",
-    "Yield": "3.67",
-    "Price/PNAV": "0.5171",
+    "Yield": "4.25",
+    "Price/PNAV": "0.4464",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0250",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/12",
+      "Book Close Date": "2018/09/14-2018/09/17",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1090,14 +1100,14 @@
       "14.88",
       "15.53",
       "30.00",
-      "12.00"
+      "10.36"
     ],
     "Yield (%)": [
       "3.67",
       "4.15",
       "4.51",
       "3.33",
-      "3.67"
+      "4.25"
     ],
     "Dividend Payout (%)": [
       "10.29",

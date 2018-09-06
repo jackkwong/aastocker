@@ -2,8 +2,8 @@
   "stock_code": "2317",
   "basic_information": {
     "Name": "Vedan International (Holdings)\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2003/06/27",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "4,000",
     "NAV(HKD)": "1.4646",
     "EPS(HKD)": "0.0977",
-    "PE": "7.99",
+    "PE": "7.78",
     "DPS(HKD)": "0.0586",
-    "Yield": "7.51",
-    "Price/PNAV": "0.5326",
+    "Yield": "7.71",
+    "Price/PNAV": "0.5189",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:USD\n                0.00298(equivalent to HKD 0.0233036)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/10",
+      "Book Close Date": "2018/09/12-2018/09/14",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/27",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1030,14 +1040,14 @@
       "-49.16",
       "15.68",
       "6.97",
-      "7.99"
+      "7.78"
     ],
     "Yield (%)": [
       "1.82",
       "0.00",
       "3.84",
       "14.33",
-      "7.51"
+      "7.71"
     ],
     "Dividend Payout (%)": [
       "101.00",

@@ -2,8 +2,8 @@
   "stock_code": "882",
   "basic_information": {
     "Name": "Tianjin Development Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1997/12/10",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "10.2319",
     "EPS(HKD)": "0.4557",
-    "PE": "7.59",
+    "PE": "6.36",
     "DPS(HKD)": "0.0863",
-    "Yield": "2.49",
-    "Price/PNAV": "0.3382",
+    "Yield": "2.98",
+    "Price/PNAV": "0.2834",
     "Index Constituent": "Index_Conglomerates\n                    HSCI\n                    HSHKSI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/30",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0326",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/21",
+      "Book Close Date": "2018/09/26-2018/09/28",
+      "Payable Date": "2018/10/29"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1100,14 +1110,14 @@
       "5.72",
       "8.95",
       "7.29",
-      "7.59"
+      "6.36"
     ],
     "Yield (%)": [
       "0.92",
       "2.49",
       "2.17",
       "2.75",
-      "2.49"
+      "2.98"
     ],
     "Dividend Payout (%)": [
       "10.05",

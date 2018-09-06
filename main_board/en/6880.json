@@ -2,8 +2,8 @@
   "stock_code": "6880",
   "basic_information": {
     "Name": "Tempus Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2011/12/13",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.2336",
     "EPS(HKD)": "0.0700",
-    "PE": "24.43",
+    "PE": "20.00",
     "DPS(HKD)": "0.0230",
-    "Yield": "1.35",
-    "Price/PNAV": "1.3861",
+    "Yield": "1.64",
+    "Price/PNAV": "1.1349",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/28",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/07",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -900,14 +910,14 @@
       "65.00",
       "45.50",
       "-106.50",
-      "24.43"
+      "20.00"
     ],
     "Yield (%)": [
       "0.17",
       "0.70",
       "0.57",
       "0.00",
-      "1.35"
+      "1.64"
     ],
     "Dividend Payout (%)": [
       "27.13",

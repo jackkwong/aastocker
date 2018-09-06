@@ -15,10 +15,10 @@
     "Board Lot": "200",
     "NAV(HKD)": "9.0495",
     "EPS(HKD)": "1.3068",
-    "PE": "8.94",
-    "DPS(HKD)": "0.3956",
-    "Yield": "3.39",
-    "Price/PNAV": "1.2907",
+    "PE": "10.85",
+    "DPS(HKD)": "0.0000",
+    "Yield": "0.00",
+    "Price/PNAV": "1.5669",
     "Index Constituent": "HSHKMI\n                    HSCI\n                    Index_Information Technology\n                    HSGCI\n                    HS AH Premium\n                    FTSE Xinhua China25 Index"
   },
   "financial_ratio": {
@@ -118,7 +118,7 @@
       "31.25",
       "32.05",
       "0.00",
-      "30.28"
+      "0.00"
     ],
     "Fiscal Year High": [
       "18.340",
@@ -153,14 +153,14 @@
       "1.81",
       "2.37",
       "0.00",
-      "3.38"
+      "0.00"
     ],
     "Fiscal Year Yield Range Low (%)": [
       "0.21",
       "1.32",
       "1.18",
       "0.00",
-      "1.19"
+      "0.00"
     ]
   },
   "profit_loss": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/30",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/04/27",
       "Year Ended": "2018/12",
       "Event": "Quarter 1",
@@ -695,11 +705,11 @@
       "Announce Date": "2018/03/15",
       "Year Ended": "2017/12",
       "Event": "Final",
-      "Particular": "D:RMB 0.3300",
+      "Particular": "D:RMB 0.3300(not\n                approved as announced on 2018/06/29)",
       "Type": "Cash",
-      "Ex-Date": "2018/07/04",
-      "Book Close Date": "2018/07/06-2018/07/11",
-      "Payable Date": "2018/08/20"
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
     },
     {
       "Announce Date": "2017/10/26",
@@ -1153,28 +1163,28 @@
       "0.2496",
       "0.2940",
       "0.0000",
-      "0.3956"
+      "0.0000"
     ],
     "PE (X)": [
       "43.47",
       "12.46",
       "16.35",
       "-45.86",
-      "8.94"
+      "10.85"
     ],
     "Yield (%)": [
       "0.18",
       "2.51",
       "1.96",
       "0.00",
-      "3.39"
+      "0.00"
     ],
     "Dividend Payout (%)": [
       "7.69",
       "31.25",
       "32.05",
       "0.00",
-      "30.28"
+      "0.00"
     ],
     "NAV": [
       "8.3902",

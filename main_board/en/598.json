@@ -2,8 +2,8 @@
   "stock_code": "598",
   "basic_information": {
     "Name": "Sinotrans Ltd. - H Shares",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2003/02/13",
     "Trade Currency": "HKD",
     "Report Currency": "RMB",
@@ -15,10 +15,10 @@
     "Board Lot": "1,000",
     "NAV(HKD)": "4.1953",
     "EPS(HKD)": "0.4556",
-    "PE": "9.13",
+    "PE": "7.09",
     "DPS(HKD)": "0.1439",
-    "Yield": "3.46",
-    "Price/PNAV": "0.9916",
+    "Yield": "4.45",
+    "Price/PNAV": "0.7699",
     "Index Constituent": "HSHKSI\n                    Index_Industrial Goods\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/21",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
+    {
       "Announce Date": "2018/03/26",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1100,14 +1110,14 @@
       "9.47",
       "10.44",
       "11.21",
-      "9.13"
+      "7.09"
     ],
     "Yield (%)": [
       "1.03",
       "3.20",
       "2.99",
       "2.65",
-      "3.46"
+      "4.45"
     ],
     "Dividend Payout (%)": [
       "23.81",

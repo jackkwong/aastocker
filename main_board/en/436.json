@@ -2,8 +2,8 @@
   "stock_code": "436",
   "basic_information": {
     "Name": "New Universe Environmental Group\n                    Limited",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2000/05/18",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "20,000",
     "NAV(HKD)": "0.2923",
     "EPS(HKD)": "0.0278",
-    "PE": "20.86",
+    "PE": "16.91",
     "DPS(HKD)": "0.0065",
-    "Yield": "1.12",
-    "Price/PNAV": "1.9840",
+    "Yield": "1.38",
+    "Price/PNAV": "1.6077",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -475,212 +475,18 @@
       "HKD"
     ]
   },
-  "cashflow": {
-    "Closing Date": [
-      "2013/12",
-      "2014/12",
-      "2015/12",
-      "2016/12",
-      "2017/12"
-    ],
-    "Net Cash Flow from Operating Activities": [
-      "63,786",
-      "100,872",
-      "124,579",
-      "115,931",
-      "231,627"
-    ],
-    "Net Cash Flow from Return on Investments & Servicing of Finance": [
-      "-13,646",
-      "-14,481",
-      "-17,944",
-      "-21,095",
-      "-27,084"
-    ],
-    "Interest Received": [
-      "1,349",
-      "1,626",
-      "1,142",
-      "864",
-      "1,244"
-    ],
-    "Interest Paid": [
-      "-3,266",
-      "-3,062",
-      "-2,799",
-      "-3,962",
-      "-9,129"
-    ],
-    "Dividend Received": [
-      "4,485",
-      "4,352",
-      "11,408",
-      "4,199",
-      "7,274"
-    ],
-    "Dividend Paid": [
-      "-16,214",
-      "-17,397",
-      "-27,695",
-      "-22,196",
-      "-26,473"
-    ],
-    "Others": [
-      "-",
-      "-10,313",
-      "4,995",
-      "-4,288",
-      "9,606"
-    ],
-    "Taxes (Paid) / Refunded": [
-      "-16,581",
-      "-7,318",
-      "-13,048",
-      "-10,349",
-      "-14,972"
-    ],
-    "Net Cash Flow from Investing Activities": [
-      "33,116",
-      "-88,754",
-      "-97,818",
-      "-105,196",
-      "-244,348"
-    ],
-    "Additions to Fixed Assets": [
-      "-31,730",
-      "-113,896",
-      "-84,084",
-      "-98,395",
-      "-216,548"
-    ],
-    "Disposal of Fixed Assets": [
-      "1",
-      "304",
-      "62",
-      "550",
-      "109"
-    ],
-    "Increase in Investments": [
-      "-8,585",
-      "-641",
-      "-4,408",
-      "-",
-      "-26,185"
-    ],
-    "Decrease in Investments": [
-      "13,143",
-      "990",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Cash Flow with Related Parties": [
-      "-59,636",
-      "6,566",
-      "-",
-      "-",
-      "-"
-    ],
-    "Net Cash Flow before Financing Activities": [
-      "66,675",
-      "-9,681",
-      "-4,231",
-      "-20,709",
-      "-54,777"
-    ],
-    "Net Cash Flow from Financing Activities": [
-      "-70,855",
-      "21,984",
-      "61,310",
-      "21,382",
-      "111,501"
-    ],
-    "New Loans": [
-      "50,000",
-      "23,660",
-      "34,498",
-      "80,691",
-      "190,994"
-    ],
-    "Loans Repayment": [
-      "-61,219",
-      "-27,619",
-      "-46,874",
-      "-55,021",
-      "-89,099"
-    ],
-    "Fixed Income/Debt Instruments": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Repayment of Fixed Income/Debt Instruments": [
-      "-",
-      "-",
-      "-",
-      "-",
-      "-"
-    ],
-    "Equity Financing": [
-      "-",
-      "29,690",
-      "68,691",
-      "-",
-      "-"
-    ],
-    "Increase(Decrease) in Cash & Cash Equivalents": [
-      "-4,180",
-      "12,303",
-      "57,079",
-      "673",
-      "56,724"
-    ],
-    "Cash & Cash Equivalents at Beginning of Year": [
-      "111,212",
-      "109,827",
-      "121,780",
-      "175,805",
-      "171,589"
-    ],
-    "Net Cash Flow due to Change in Exchange Rate/Others": [
-      "2,795",
-      "-350",
-      "-3,054",
-      "-4,889",
-      "9,571"
-    ],
-    "Cash & Cash Equivalents at End of Year": [
-      "109,827",
-      "121,780",
-      "175,805",
-      "171,589",
-      "237,884"
-    ],
-    "Unit": [
-      "Thousand",
-      "Thousand",
-      "Thousand",
-      "Thousand",
-      "Thousand"
-    ],
-    "Currency": [
-      "HKD",
-      "HKD",
-      "HKD",
-      "HKD",
-      "HKD"
-    ],
-    "Auditor's Opinion": [
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified",
-      "Unqualified"
-    ]
-  },
+  "cashflow": {},
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/17",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "No Dividend",
+      "Type": "-",
+      "Ex-Date": "-",
+      "Book Close Date": "-",
+      "Payable Date": "-"
+    },
     {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
@@ -1470,14 +1276,14 @@
       "26.98",
       "46.41",
       "34.76",
-      "20.86"
+      "16.91"
     ],
     "Yield (%)": [
       "1.18",
       "0.83",
       "0.70",
       "0.82",
-      "1.12"
+      "1.38"
     ],
     "Dividend Payout (%)": [
       "22.12",

@@ -2,8 +2,8 @@
   "stock_code": "1045",
   "basic_information": {
     "Name": "APT Satellite Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1996/12/18",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "5.6947",
     "EPS(HKD)": "0.5420",
-    "PE": "6.13",
+    "PE": "5.74",
     "DPS(HKD)": "0.1400",
-    "Yield": "4.22",
-    "Price/PNAV": "0.5830",
+    "Yield": "4.50",
+    "Price/PNAV": "0.5461",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/20",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0400",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/27",
+      "Book Close Date": "2018/10/02-2018/10/03",
+      "Payable Date": "2018/10/19"
+    },
+    {
       "Announce Date": "2018/03/23",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1110,14 +1120,14 @@
       "7.43",
       "7.51",
       "6.82",
-      "6.13"
+      "5.74"
     ],
     "Yield (%)": [
       "0.97",
       "1.98",
       "2.05",
       "2.35",
-      "4.22"
+      "4.50"
     ],
     "Dividend Payout (%)": [
       "13.68",

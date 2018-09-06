@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.3018",
     "EPS(HKD)": "0.2330",
-    "PE": "9.91",
+    "PE": "10.30",
     "DPS(HKD)": "0.1100",
-    "Yield": "4.76",
-    "Price/PNAV": "1.7745",
+    "Yield": "4.58",
+    "Price/PNAV": "1.8436",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/29",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0600",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/12",
+      "Book Close Date": "2018/09/14-2018/09/14",
+      "Payable Date": "2018/09/28"
+    },
+    {
       "Announce Date": "2018/03/28",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -890,14 +900,14 @@
       "12.20",
       "6.15",
       "18.04",
-      "9.91"
+      "10.30"
     ],
     "Yield (%)": [
       "5.05",
       "3.60",
       "7.07",
       "4.34",
-      "4.76"
+      "4.58"
     ],
     "Dividend Payout (%)": [
       "53.76",

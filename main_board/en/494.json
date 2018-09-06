@@ -2,23 +2,23 @@
   "stock_code": "494",
   "basic_information": {
     "Name": "Li & Fung Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1992/07/01",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
     "Par Currency": "HKD",
     "Par": "0.0125",
     "Authorized Capital(share)": "12,000,000,000",
-    "Issued Capital(share)": "8,469,956,406",
+    "Issued Capital(share)": "8,506,586,006",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "1.6124",
     "EPS(HKD)": "-0.3477",
-    "PE": "-8.46",
+    "PE": "-6.13",
     "DPS(HKD)": "0.6064",
-    "Yield": "20.62",
-    "Price/PNAV": "1.8234",
+    "Yield": "28.47",
+    "Price/PNAV": "1.3210",
     "Index Constituent": "Index_Consumer Goods\n                    HSHK35\n                    HSCI\n                    HSGCI\n                    HSHKMI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD\n                0.0300(equivalent to USD 0.0040)",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/04",
+      "Book Close Date": "2018/09/06-2018/09/07",
+      "Payable Date": "2018/09/18"
+    },
+    {
       "Announce Date": "2018/03/22",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1150,14 +1160,14 @@
       "9.97",
       "8.35",
       "20.90",
-      "-8.46"
+      "-6.13"
     ],
     "Yield (%)": [
       "6.46",
       "10.03",
       "8.58",
       "5.34",
-      "20.62"
+      "28.47"
     ],
     "Dividend Payout (%)": [
       "72.81",

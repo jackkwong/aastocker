@@ -2,8 +2,8 @@
   "stock_code": "1836",
   "basic_information": {
     "Name": "Stella International Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2007/07/06",
     "Trade Currency": "HKD",
     "Report Currency": "USD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "9.5571",
     "EPS(HKD)": "0.6095",
-    "PE": "15.96",
+    "PE": "13.11",
     "DPS(HKD)": "0.6001",
-    "Yield": "6.17",
-    "Price/PNAV": "1.0181",
+    "Yield": "7.51",
+    "Price/PNAV": "0.8360",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/16",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.3000",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/13",
+      "Book Close Date": "2018/09/14",
+      "Payable Date": "2018/10/18"
+    },
+    {
       "Announce Date": "2018/03/15",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1010,14 +1020,14 @@
       "16.56",
       "9.36",
       "14.27",
-      "15.96"
+      "13.11"
     ],
     "Yield (%)": [
       "5.13",
       "4.35",
       "7.66",
       "6.14",
-      "6.17"
+      "7.51"
     ],
     "Dividend Payout (%)": [
       "79.03",

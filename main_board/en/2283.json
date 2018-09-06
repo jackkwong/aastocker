@@ -2,8 +2,8 @@
   "stock_code": "2283",
   "basic_information": {
     "Name": "TK Group (Holdings) Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "2013/12/20",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "2,000",
     "NAV(HKD)": "1.0939",
     "EPS(HKD)": "0.3600",
-    "PE": "18.58",
+    "PE": "16.50",
     "DPS(HKD)": "0.1700",
-    "Yield": "2.54",
-    "Price/PNAV": "6.1156",
+    "Yield": "2.86",
+    "Price/PNAV": "5.4300",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/14",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0600",
+      "Type": "Cash",
+      "Ex-Date": "2018/08/29",
+      "Book Close Date": "2018/08/31-2018/09/04",
+      "Payable Date": "2018/09/13"
+    },
+    {
       "Announce Date": "2018/03/12",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -820,14 +830,14 @@
       "10.63",
       "10.43",
       "24.44",
-      "18.58"
+      "16.50"
     ],
     "Yield (%)": [
       "0.80",
       "3.47",
       "4.17",
       "2.29",
-      "2.54"
+      "2.86"
     ],
     "Dividend Payout (%)": [
       "8.18",

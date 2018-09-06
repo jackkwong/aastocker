@@ -2,23 +2,23 @@
   "stock_code": "1111",
   "basic_information": {
     "Name": "Chong Hing Bank Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1994/07/11",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "-",
     "Par": "-",
     "Authorized Capital(share)": "-",
-    "Issued Capital(share)": "652,500,000",
+    "Issued Capital(share)": "1,083,939,000",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "26.7185",
     "EPS(HKD)": "2.1700",
-    "PE": "6.91",
+    "PE": "6.60",
     "DPS(HKD)": "0.5400",
-    "Yield": "3.60",
-    "Price/PNAV": "0.5614",
+    "Yield": "3.77",
+    "Price/PNAV": "0.5360",
     "Index Constituent": "-"
   },
   "financial_ratio": {
@@ -689,6 +689,26 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/14",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1700",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/24",
+      "Book Close Date": "2018/09/27-2018/09/27",
+      "Payable Date": "2018/10/09"
+    },
+    {
+      "Announce Date": "2018/08/14",
+      "Year Ended": "-",
+      "Event": "Special",
+      "Particular": "R:1-for-2@HKD\n                14.2600",
+      "Type": "-",
+      "Ex-Date": "2018/08/23",
+      "Book Close Date": "2018/08/27-2018/08/30",
+      "Payable Date": "2018/09/14"
+    },
+    {
       "Announce Date": "2018/03/29",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1127,14 +1147,14 @@
       "2.42",
       "7.73",
       "8.06",
-      "6.91"
+      "6.60"
     ],
     "Yield (%)": [
       "27.63",
       "4.08",
       "3.64",
       "3.45",
-      "3.60"
+      "3.77"
     ],
     "Dividend Payout (%)": [
       "389.80",

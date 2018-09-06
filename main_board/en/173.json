@@ -2,23 +2,23 @@
   "stock_code": "173",
   "basic_information": {
     "Name": "K. Wah International Holdings\n                    Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1987/02/06",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.1",
     "Authorized Capital(share)": "5,000,000,000",
-    "Issued Capital(share)": "3,060,409,052",
+    "Issued Capital(share)": "3,117,225,855",
     "Issue Cap-H(share)": "-",
     "Board Lot": "1,000",
     "NAV(HKD)": "11.4558",
     "EPS(HKD)": "1.2818",
-    "PE": "3.64",
+    "PE": "3.22",
     "DPS(HKD)": "0.1800",
-    "Yield": "3.85",
-    "Price/PNAV": "0.4077",
+    "Yield": "4.36",
+    "Price/PNAV": "0.3605",
     "Index Constituent": "HSHKMI\n                    HSCI\n                    Index_Properties & Construction\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/22",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.0600",
+      "Type": "Cash/Scrip",
+      "Ex-Date": "2018/09/11",
+      "Book Close Date": "2018/09/13-2018/09/18",
+      "Payable Date": "2018/10/22"
+    },
+    {
       "Announce Date": "2018/03/20",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1080,14 +1090,14 @@
       "5.57",
       "10.43",
       "5.02",
-      "3.64"
+      "3.22"
     ],
     "Yield (%)": [
       "3.18",
       "4.10",
       "3.39",
       "3.33",
-      "3.85"
+      "4.36"
     ],
     "Dividend Payout (%)": [
       "24.61",

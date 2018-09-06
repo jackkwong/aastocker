@@ -2,23 +2,23 @@
   "stock_code": "709",
   "basic_information": {
     "Name": "Giordano International Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "1991/06/19",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
     "Par Currency": "HKD",
     "Par": "0.05",
     "Authorized Capital(share)": "2,000,000,000",
-    "Issued Capital(share)": "1,575,526,518",
+    "Issued Capital(share)": "1,577,932,518",
     "Issue Cap-H(share)": "-",
     "Board Lot": "2,000",
     "NAV(HKD)": "1.8598",
     "EPS(HKD)": "0.3180",
-    "PE": "15.47",
+    "PE": "13.90",
     "DPS(HKD)": "0.3500",
-    "Yield": "7.11",
-    "Price/PNAV": "2.6455",
+    "Yield": "7.92",
+    "Price/PNAV": "2.3766",
     "Index Constituent": "HSCI\n                    Index_Consumer Goods\n                    HSHKSI\n                    HSGCI"
   },
   "financial_ratio": {
@@ -682,6 +682,16 @@
   },
   "dividend_history": [
     {
+      "Announce Date": "2018/08/09",
+      "Year Ended": "2018/12",
+      "Event": "Interim",
+      "Particular": "D:HKD 0.1700",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/07",
+      "Book Close Date": "2018/09/11-2018/09/13",
+      "Payable Date": "2018/09/21"
+    },
+    {
       "Announce Date": "2018/03/08",
       "Year Ended": "2017/12",
       "Event": "Final",
@@ -1260,14 +1270,14 @@
       "11.54",
       "15.09",
       "14.26",
-      "15.47"
+      "13.90"
     ],
     "Yield (%)": [
       "10.81",
       "8.33",
       "6.60",
       "6.96",
-      "7.11"
+      "7.92"
     ],
     "Dividend Payout (%)": [
       "93.90",

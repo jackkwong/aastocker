@@ -2,8 +2,8 @@
   "stock_code": "2",
   "basic_information": {
     "Name": "CLP Holdings Ltd.",
-    "EPS Start Date": "2017/01/01",
-    "EPS End Date": "2017/12/31",
+    "EPS Start Date": "2018/01/01",
+    "EPS End Date": "2018/12/31",
     "Listing Date": "-",
     "Trade Currency": "HKD",
     "Report Currency": "HKD",
@@ -15,10 +15,10 @@
     "Board Lot": "500",
     "NAV(HKD)": "43.0236",
     "EPS(HKD)": "5.6400",
-    "PE": "14.22",
+    "PE": "16.00",
     "DPS(HKD)": "2.9100",
-    "Yield": "3.63",
-    "Price/PNAV": "1.8641",
+    "Yield": "3.22",
+    "Price/PNAV": "2.0977",
     "Index Constituent": "HSI\n                    HSHKLI\n                    UB-index\n                    HKMI_S&P\n                    HSHK35\n                    Index_Utilities\n                    HSGCI\n                    HSCI"
   },
   "financial_ratio": {
@@ -681,6 +681,16 @@
     ]
   },
   "dividend_history": [
+    {
+      "Announce Date": "2018/08/06",
+      "Year Ended": "2018/12",
+      "Event": "Interim 2",
+      "Particular": "D:HKD 0.6100",
+      "Type": "Cash",
+      "Ex-Date": "2018/09/03",
+      "Book Close Date": "2018/09/05-2018/09/05",
+      "Payable Date": "2018/09/14"
+    },
     {
       "Announce Date": "2018/05/14",
       "Year Ended": "2018/12",
@@ -1450,14 +1460,14 @@
       "15.42",
       "12.56",
       "15.40",
-      "14.22"
+      "16.00"
     ],
     "Yield (%)": [
       "3.92",
       "3.83",
       "3.47",
       "3.62",
-      "3.63"
+      "3.22"
     ],
     "Dividend Payout (%)": [
       "107.08",
