@@ -65,94 +65,84 @@ def get_cash_dividend_history:
     }
 ;
 
+def get_stock_analysis:
+    . as $stock
+    | ( (.basic_information."股價/每股淨資產值(倍)" | tonumber?) * (.basic_information."每股淨資產值(港元)" | tonumber?) | round ) as $deduced_p
+    | (.dividend_history | get_cash_dividend_history) as $cash_dividend_history
+    | ($cash_dividend_history | .date | map(select( ( test("\\\\s*-\\\\s*"; "x") | not ) )) | last) as $first_recorded_dividend_date
+    | (.earning_summary."每股盈利" | map(tonumber) | running_average(3) | map(round | tostring?) | join(" -> ")) as $running_three_years_average_eps
+    | "
+    \(.stock_code) - \(.basic_information."公司名稱")
+    ========================================================================================================================================================================================================
+
+        Quick-Check
+        ________________________________________________________________________________
+        上市日期:                              \(."basic_information"."上市日期")
+        1st recorded dividend date (AAStock):  \($first_recorded_dividend_date)
+
+        3-years min yield:                     \($cash_dividend_history | .dividend | .[0:3] | min / $deduced_p * 100) %
+        5-years min yield:                     \($cash_dividend_history | .dividend | .[0:5] | min / $deduced_p * 100) %
+        5-years average yield:                 \($cash_dividend_history | .dividend | .[0:5] | add / length / $deduced_p * 100) %
+
+        3-years equity per share change:       \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[(length-3):] | ((last - first) / first * 100)) %
+        5-years equity per share change:       \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[(length-5):] | ((last - first) / first * 100)) %
+
+        running 3-years EPS average:           \($running_three_years_average_eps)
+
+        Price-related
+        ________________________________________________________________________________
+        deduced P:             \($deduced_p)
+        PE:                    \(.basic_information."市盈率(倍)")
+        PB:                    \(.basic_information."股價/每股淨資產值(倍)")
+        Yield:                 \(.basic_information."周息率(%)")
+
+        Basic
+        ________________________________________________________________________________
+        Date:                  \($cash_dividend_history | .date | .[0:6] | reverse | join(" -> "))
+        Dividend:              \($cash_dividend_history | .dividend | map(tostring?) | .[0:6] | reverse | join(" -> "))
+
+        Date:                  \( (.financial_ratio."截止日期" // [] | join(" -> ")) )
+        Current Ratio:         \( (.financial_ratio."流動比率(倍)" // [] | join(" -> ")) )
+        Quick Ratio:           \( (.financial_ratio."速動比率(倍)" // [] | join(" -> ")) )
+
+        Long-term Debit/Equity:\( (.financial_ratio."長期債項/股東權益(%)" // [] | join(" -> ")) )
+        Debt/Equity:           \( (.financial_ratio."總債項/股東權益(%)" // [] | join(" -> ")) )
+        Debt/Capital Employ:   \( (.financial_ratio."總債項/資本運用(%)" // [] | join(" -> ")) )
+
+        ROE:                   \( (.financial_ratio."股東權益回報率(%)" // [] | join(" -> ")) )
+        ROCE:                  \( (.financial_ratio."資本運用回報率(%)" // [] | join(" -> ")) )
+        ROA:                   \( (.financial_ratio."總資產回報率(%)" // [] | join(" -> ")) )
+
+        經營利潤率(%):         \( (.financial_ratio."經營利潤率(%)" // [] | join(" -> ")) )
+        稅前利潤率(%):         \( (.financial_ratio."稅前利潤率(%)" // [] | join(" -> ")) )
+        邊際利潤率(%):         \( (.financial_ratio."邊際利潤率(%)" // [] | join(" -> ")) )
+
+        存貨周轉率(倍):        \( (.financial_ratio."存貨周轉率(倍)" // [] | join(" -> ")) )
+
+        Unit Stock
+        ________________________________________________________________________________
+        Date:                  \( (.earning_summary."截止日期" // [] | join(" -> ")) )
+        EPS:                   \( (.earning_summary."每股盈利" // [] | join(" -> ")) )
+        EPS change (%):        \( (.earning_summary."每股盈利增長(%)" // [] | join(" -> ")) )
+        Equity Per Share:      \( (.earning_summary."每股賬面資產淨值" // [] | join(" -> ")) )
+        Dividend Per Share:    \( (.earning_summary."每股派息" // [] | join(" -> ")) )
+        Dividend Rate (%):     \( (.earning_summary."派息比率(%)" // [] | join(" -> ")) )
+        Currency:              \( (.earning_summary."基準貨幣" // [] | join(" -> ")) )
+        Currency Exhange Rate: \( (.earning_summary."兌換比率" // [] | join(" -> ")) )
+
+        Details
+        ________________________________________________________________________________
+        Date:                  \($cash_dividend_history | .date | join(" <- "))
+        Dividend:              \($cash_dividend_history | .dividend | map(tostring?) | join(" <- "))
+    "
+;
+
 JQ_LIBRARY
 `"
 
 filter="`cat <<-'JQ_FILTER'
-map(
-    select( .dividend_history | has_at_least_n_dividends(9; 2008; 2017) )
-        | select(
-            .financial_ratio."股東權益回報率(%)"
-            | map(. | tonumber?)?
-            | (add / length)
-            | . > 10
-        )
-        | select((.basic_information."市盈率(倍)" | tonumber?) <= 20)
-        | select((.basic_information."市盈率(倍)" | tonumber?) > 0)
-        | select((.basic_information."股價/每股淨資產值(倍)" | tonumber?) <= 4)
-        | select((.basic_information."周息率(%)") >= 6)
-)
-| sort_by((.basic_information."周息率(%)") | tonumber | -1 * .)
-| map(
-. as $stock
-| ( (.basic_information."股價/每股淨資產值(倍)" | tonumber?) * (.basic_information."每股淨資產值(港元)" | tonumber?) | round ) as $deduced_p
-| (.dividend_history | get_cash_dividend_history) as $cash_dividend_history
-| ($cash_dividend_history | .date | map(select( ( test("\\\\s*-\\\\s*"; "x") | not ) )) | last) as $first_recorded_dividend_date
-| (.earning_summary."每股盈利" | map(tonumber) | running_average(3) | map(round | tostring?) | join(" -> ")) as $running_three_years_average_eps
-| "
-\(.stock_code) - \(.basic_information."公司名稱")
-========================================================================================================================================================================================================
-
-    Quick-Check
-    ________________________________________________________________________________
-    上市日期:                              \(."basic_information"."上市日期")
-    1st recorded dividend date (AAStock):  \($first_recorded_dividend_date)
-
-    3-years min yield:                     \($cash_dividend_history | .dividend | .[0:3] | min / $deduced_p * 100) %
-    5-years min yield:                     \($cash_dividend_history | .dividend | .[0:5] | min / $deduced_p * 100) %
-    5-years average yield:                 \($cash_dividend_history | .dividend | .[0:5] | add / length / $deduced_p * 100) %
-
-    3-years equity per share change:       \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[(length-3):] | ((last - first) / first * 100)) %
-    5-years equity per share change:       \(.earning_summary."每股賬面資產淨值" | map(tonumber) | .[(length-5):] | ((last - first) / first * 100)) %
-
-    running 3-years EPS average:           \($running_three_years_average_eps)
-
-    Price-related
-    ________________________________________________________________________________
-    deduced P:             \($deduced_p)
-    PE:                    \(.basic_information."市盈率(倍)")
-    PB:                    \(.basic_information."股價/每股淨資產值(倍)")
-    Yield:                 \(.basic_information."周息率(%)")
-
-    Basic
-    ________________________________________________________________________________
-    Date:                  \($cash_dividend_history | .date | .[0:6] | reverse | join(" -> "))
-    Dividend:              \($cash_dividend_history | .dividend | map(tostring?) | .[0:6] | reverse | join(" -> "))
-
-    Date:                  \( (.financial_ratio."截止日期" // [] | join(" -> ")) )
-    Current Ratio:         \( (.financial_ratio."流動比率(倍)" // [] | join(" -> ")) )
-    Quick Ratio:           \( (.financial_ratio."速動比率(倍)" // [] | join(" -> ")) )
-
-    Long-term Debit/Equity:\( (.financial_ratio."長期債項/股東權益(%)" // [] | join(" -> ")) )
-    Debt/Equity:           \( (.financial_ratio."總債項/股東權益(%)" // [] | join(" -> ")) )
-    Debt/Capital Employ:   \( (.financial_ratio."總債項/資本運用(%)" // [] | join(" -> ")) )
-
-    ROE:                   \( (.financial_ratio."股東權益回報率(%)" // [] | join(" -> ")) )
-    ROCE:                  \( (.financial_ratio."資本運用回報率(%)" // [] | join(" -> ")) )
-    ROA:                   \( (.financial_ratio."總資產回報率(%)" // [] | join(" -> ")) )
-
-    經營利潤率(%):         \( (.financial_ratio."經營利潤率(%)" // [] | join(" -> ")) )
-    稅前利潤率(%):         \( (.financial_ratio."稅前利潤率(%)" // [] | join(" -> ")) )
-    邊際利潤率(%):         \( (.financial_ratio."邊際利潤率(%)" // [] | join(" -> ")) )
-
-    存貨周轉率(倍):        \( (.financial_ratio."存貨周轉率(倍)" // [] | join(" -> ")) )
-
-    Unit Stock
-    ________________________________________________________________________________
-    Date:                  \( (.earning_summary."截止日期" // [] | join(" -> ")) )
-    EPS:                   \( (.earning_summary."每股盈利" // [] | join(" -> ")) )
-    EPS change (%):        \( (.earning_summary."每股盈利增長(%)" // [] | join(" -> ")) )
-    Equity Per Share:      \( (.earning_summary."每股賬面資產淨值" // [] | join(" -> ")) )
-    Dividend Per Share:    \( (.earning_summary."每股派息" // [] | join(" -> ")) )
-    Dividend Rate (%):     \( (.earning_summary."派息比率(%)" // [] | join(" -> ")) )
-    Currency:              \( (.earning_summary."基準貨幣" // [] | join(" -> ")) )
-    Currency Exhange Rate: \( (.earning_summary."兌換比率" // [] | join(" -> ")) )
-
-    Details
-    ________________________________________________________________________________
-    Date:                  \($cash_dividend_history | .date | join(" <- "))
-    Dividend:              \($cash_dividend_history | .dividend | map(tostring?) | join(" <- "))
-") 
+.
+| map(get_stock_analysis) 
 | .[]
 JQ_FILTER
 `"
@@ -180,4 +170,5 @@ JQ_SCRIPT
 
 #cat main_board/tc/*.json | jq -s -r "$filter2"
 
-cat main_board/tc/*.json | jq -s -r "$jq_script"
+#cat main_board/tc/*.json | jq -s -r "$jq_script"
+cat main_board/tc/1234.json | jq -s -r "$jq_script"
